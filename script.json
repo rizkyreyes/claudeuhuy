@@ -1,0 +1,21 @@
+{
+  "slug": "tape-measure-hook",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_multilingual_v2",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That hook wiggling on the end of your tape measure looks broken. It's not. It's actually the smartest part of the entire tool, and almost nobody knows why. Manufacturers could easily rivet it down tight. They don't, on purpose. The hook itself has real thickness, only a millimeter or two, but enough to throw off every reading if it stayed fixed. Hook it onto the outside edge of a board, and it slides outward, adding back that missing thickness. Press it into an inside corner instead, like a doorway, and the same hook slides inward, subtracting that same thickness. Two different situations, one loose rivet solving both, automatically, every time. That's not wear. That's not a defect to glue in place. If that tape measure were rigid, every cut on a job would be off by that same tiny amount, and on a full house, those errors stack into real problems. So next time that hook wobbles, that's precision, hiding in plain sight. Follow for more everyday tools engineered smarter than you thought."
+    }
+  ]
+}
