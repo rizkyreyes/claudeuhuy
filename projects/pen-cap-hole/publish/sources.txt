@@ -1,0 +1,42 @@
+Sources — pen-cap-hole (fact-checked 2026-09-25)
+
+1. Snopes, "Are the Holes in Ballpoint Pen Caps to Prevent Choking?" — rates the claim TRUE.
+   https://www.snopes.com/fact-check/holes-pen-caps-prevent-choking/
+2. Snopes, "Perforated Ballpoint Pen Caps Prevent Choking?" — corroborating fact check, same verdict.
+   https://www.snopes.com/fact-check/perforated-ballpoint-caps-choking/
+3. UK safety standard BS 7272 (1990) for writing instrument caps; later superseded by international
+   standard ISO 11540. Cited in the Snopes/AP reporting above (9 UK child deaths 1970-1984 from
+   choking on pen caps; BIC began perforating Bic Cristal caps in 1990 and applied the design worldwide,
+   quote from BIC spokeswoman Astrid Canevet).
+4. Barrel vent hole (separate feature, for contrast in the script): air-pressure equalization so ink can
+   flow as it's consumed — general pen-engineering explanation, corroborated across multiple patent
+   filings and explainer sources (e.g. Now I Know, "The Hole Truth About Ballpoint Pens",
+   https://nowiknow.com/the-hole-truth-about-ballpoint-pens/).
+
+No AI-generated imagery depicts a real, identifiable person or a child in distress.
+
+Stock assets (Pexels, free for commercial use, no attribution required — logged for provenance):
+- t02 hands writing notebook (photo 34862446) — Jakub Zerdzicki — https://www.pexels.com/photo/hands-writing-in-notebook-on-modern-office-desk-34862446/
+- t04 hand holding pen (photo 7964510) — author unrecorded (Pexels search result changed on re-query) — https://images.pexels.com/photos/7964510/pexels-photo-7964510.jpeg
+- t05 stationery flatlay (photo 6193144) — Katrin Bolovtsova — https://www.pexels.com/photo/stationery-and-office-supplies-on-a-white-surface-6193144/
+- t08 calligraphy pens on desk (photo 29619105) — seymasungr — https://www.pexels.com/photo/elegant-calligraphy-pens-on-writing-desk-29619105/
+- t09 feather quill on vintage desk (photo 35039743) — Raymond Petrik — https://www.pexels.com/photo/elegant-feather-quill-on-vintage-wooden-desk-35039743/
+- t11b pens in steel container (photo 6187592) — Antoni Shkraba — https://www.pexels.com/photo/pens-in-container-6187592/
+- t12 writing materials flatlay (photo 7123021) — Tara Winstead — https://www.pexels.com/photo/a-set-of-writing-materials-in-different-shades-of-purple-and-blue-7123021/
+- t15 white art supplies flatlay (photo 6192327) — Katrin Bolovtsova — https://www.pexels.com/photo/white-art-supplies-and-blank-sketchbook-6192327/
+- t15b pen and notebook (photo 35687502) — Tuğba Dönmez — https://www.pexels.com/photo/cozy-evening-with-smartphone-and-notebook-35687502/
+- t17 notebook and pen in sunlight (photo 7582013) — Sevde Şen — https://www.pexels.com/photo/workplace-with-opened-notebook-and-pen-placed-on-table-7582013/
+- t06 hand writing (video 6186809) — Katrin Bolovtsova — https://www.pexels.com/video/person-writing-on-the-plain-background-6186809/
+- t07 hand writing on document (video 8557551) — Timur Weber — https://www.pexels.com/video/a-person-writing-on-a-document-paper-8557551/
+- t11 white plastic parts closeup (video 7222345) — cottonbro studio — https://www.pexels.com/video/a-person-pulling-out-slumped-glass-from-a-kiln-7222345/
+- t13 globe closeup (video 8828763) — Lara Jameson — https://www.pexels.com/video/close-up-of-a-ball-shaped-globe-8828763/
+- t14 hands taping a box (video 7205557) — SHVETS Production — https://www.pexels.com/video/a-person-packing-a-box-7205557/
+
+AI-generated assets (fal.ai openai/gpt-image-2 stills; minimax h3-max image-to-video for clips) —
+AI-generated illustrative, not a real person/event, no visible faces, no on-screen text:
+- t01 (HIGH quality still + clip, hook): macro of a pen cap's tiny hole, backlit
+- t03 (MEDIUM quality still): macro of pen barrel vent hole
+- t10 (MEDIUM quality still + clip): gloved hand drilling a hole into a pen cap, factory workbench
+- t16 (HIGH quality still + clip, payoff shot): macro of the hole with a light beam ("airway") passing through
+Cost note: 2 high stills, 2 medium stills, 3 AI video clips (6s each, minimax h3-max 768P, $0.04/s
+pre-30 Sep 2026 rate) ≈ within the $1.1-1.3/video target.
