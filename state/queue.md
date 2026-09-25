@@ -8,7 +8,7 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | b1-1 | tape-measure-hook | Loose hook on a tape measure | scheduled | 73.23 | Thu 24 Sep 2026 7 PM | batch 1 |
 | b1-2 | pot-handle-hole | Hole at the end of a pan handle | scheduled | 74.20 | Fri 25 Sep 2026 7 PM | batch 1 |
 | b1-3 | jeans-watch-pocket | Tiny pocket in jeans | scheduled | 74.57 | Sat 26 Sep 2026 7 PM | batch 1 |
-| b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | todo | | | see docs/topics.md |
+| b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | rendered | 74.77 | | batch 2; captions in projects/pen-cap-hole/publish/captions.md |
 | b2-2 | fj-key-bumps | Bumps on the F and J keys | todo | | | |
 | b2-3 | foil-box-tabs | Locking tabs on a foil box | todo | | | |
 | b2-4 | padlock-hole | Hole in the bottom of a padlock | todo | | | |
