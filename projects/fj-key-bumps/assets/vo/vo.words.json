@@ -1,0 +1,1184 @@
+[
+ {
+  "id": "w0",
+  "text": "There",
+  "start": 0.058,
+  "end": 0.197
+ },
+ {
+  "id": "w1",
+  "text": "are",
+  "start": 0.221,
+  "end": 0.302
+ },
+ {
+  "id": "w2",
+  "text": "two",
+  "start": 0.325,
+  "end": 0.43
+ },
+ {
+  "id": "w3",
+  "text": "tiny",
+  "start": 0.488,
+  "end": 0.755
+ },
+ {
+  "id": "w4",
+  "text": "ridges",
+  "start": 0.813,
+  "end": 1.126
+ },
+ {
+  "id": "w5",
+  "text": "hiding",
+  "start": 1.335,
+  "end": 1.602
+ },
+ {
+  "id": "w6",
+  "text": "on",
+  "start": 1.637,
+  "end": 1.683
+ },
+ {
+  "id": "w7",
+  "text": "your",
+  "start": 1.718,
+  "end": 1.811
+ },
+ {
+  "id": "w8",
+  "text": "keyboard,",
+  "start": 1.858,
+  "end": 2.345
+ },
+ {
+  "id": "w9",
+  "text": "on",
+  "start": 2.461,
+  "end": 2.624
+ },
+ {
+  "id": "w10",
+  "text": "the",
+  "start": 2.659,
+  "end": 2.74
+ },
+ {
+  "id": "w11",
+  "text": "F",
+  "start": 2.833,
+  "end": 2.949
+ },
+ {
+  "id": "w12",
+  "text": "key",
+  "start": 3.042,
+  "end": 3.274
+ },
+ {
+  "id": "w13",
+  "text": "and",
+  "start": 3.355,
+  "end": 3.529
+ },
+ {
+  "id": "w14",
+  "text": "the",
+  "start": 3.576,
+  "end": 3.646
+ },
+ {
+  "id": "w15",
+  "text": "J",
+  "start": 3.692,
+  "end": 3.843
+ },
+ {
+  "id": "w16",
+  "text": "key,",
+  "start": 3.936,
+  "end": 4.331
+ },
+ {
+  "id": "w17",
+  "text": "and",
+  "start": 4.656,
+  "end": 4.934
+ },
+ {
+  "id": "w18",
+  "text": "they're",
+  "start": 4.992,
+  "end": 5.178
+ },
+ {
+  "id": "w19",
+  "text": "not",
+  "start": 5.213,
+  "end": 5.341
+ },
+ {
+  "id": "w20",
+  "text": "a",
+  "start": 5.387,
+  "end": 5.41
+ },
+ {
+  "id": "w21",
+  "text": "manufacturing",
+  "start": 5.457,
+  "end": 6.2
+ },
+ {
+  "id": "w22",
+  "text": "defect.",
+  "start": 6.258,
+  "end": 6.85
+ },
+ {
+  "id": "w23",
+  "text": "Rest",
+  "start": 7.546,
+  "end": 7.721
+ },
+ {
+  "id": "w24",
+  "text": "your",
+  "start": 7.755,
+  "end": 7.848
+ },
+ {
+  "id": "w25",
+  "text": "fingers",
+  "start": 7.883,
+  "end": 8.173
+ },
+ {
+  "id": "w26",
+  "text": "on",
+  "start": 8.208,
+  "end": 8.278
+ },
+ {
+  "id": "w27",
+  "text": "the",
+  "start": 8.313,
+  "end": 8.382
+ },
+ {
+  "id": "w28",
+  "text": "middle",
+  "start": 8.429,
+  "end": 8.649
+ },
+ {
+  "id": "w29",
+  "text": "row",
+  "start": 8.684,
+  "end": 8.893
+ },
+ {
+  "id": "w30",
+  "text": "and",
+  "start": 9.102,
+  "end": 9.532
+ },
+ {
+  "id": "w31",
+  "text": "your",
+  "start": 9.59,
+  "end": 9.694
+ },
+ {
+  "id": "w32",
+  "text": "left",
+  "start": 9.741,
+  "end": 9.915
+ },
+ {
+  "id": "w33",
+  "text": "hand",
+  "start": 9.961,
+  "end": 10.136
+ },
+ {
+  "id": "w34",
+  "text": "lands",
+  "start": 10.205,
+  "end": 10.437
+ },
+ {
+  "id": "w35",
+  "text": "on",
+  "start": 10.484,
+  "end": 10.577
+ },
+ {
+  "id": "w36",
+  "text": "A",
+  "start": 10.67,
+  "end": 10.797
+ },
+ {
+  "id": "w37",
+  "text": "S",
+  "start": 10.89,
+  "end": 11.006
+ },
+ {
+  "id": "w38",
+  "text": "D",
+  "start": 11.064,
+  "end": 11.157
+ },
+ {
+  "id": "w39",
+  "text": "F,",
+  "start": 11.273,
+  "end": 11.656
+ },
+ {
+  "id": "w40",
+  "text": "your",
+  "start": 11.865,
+  "end": 12.028
+ },
+ {
+  "id": "w41",
+  "text": "right",
+  "start": 12.086,
+  "end": 12.283
+ },
+ {
+  "id": "w42",
+  "text": "on",
+  "start": 12.341,
+  "end": 12.504
+ },
+ {
+  "id": "w43",
+  "text": "J",
+  "start": 12.585,
+  "end": 12.759
+ },
+ {
+  "id": "w44",
+  "text": "K",
+  "start": 12.852,
+  "end": 12.968
+ },
+ {
+  "id": "w45",
+  "text": "L",
+  "start": 13.212,
+  "end": 13.363
+ },
+ {
+  "id": "w46",
+  "text": "semicolon.",
+  "start": 13.479,
+  "end": 14.222
+ },
+ {
+  "id": "w47",
+  "text": "Those",
+  "start": 15.035,
+  "end": 15.291
+ },
+ {
+  "id": "w48",
+  "text": "two",
+  "start": 15.314,
+  "end": 15.442
+ },
+ {
+  "id": "w49",
+  "text": "bumps",
+  "start": 15.5,
+  "end": 15.755
+ },
+ {
+  "id": "w50",
+  "text": "sit",
+  "start": 15.802,
+  "end": 15.964
+ },
+ {
+  "id": "w51",
+  "text": "right",
+  "start": 16.045,
+  "end": 16.266
+ },
+ {
+  "id": "w52",
+  "text": "under",
+  "start": 16.313,
+  "end": 16.463
+ },
+ {
+  "id": "w53",
+  "text": "your",
+  "start": 16.51,
+  "end": 16.603
+ },
+ {
+  "id": "w54",
+  "text": "index",
+  "start": 16.649,
+  "end": 16.951
+ },
+ {
+  "id": "w55",
+  "text": "fingers,",
+  "start": 17.009,
+  "end": 17.543
+ },
+ {
+  "id": "w56",
+  "text": "so",
+  "start": 17.868,
+  "end": 18.158
+ },
+ {
+  "id": "w57",
+  "text": "a",
+  "start": 18.275,
+  "end": 18.309
+ },
+ {
+  "id": "w58",
+  "text": "touch",
+  "start": 18.379,
+  "end": 18.6
+ },
+ {
+  "id": "w59",
+  "text": "typist",
+  "start": 18.646,
+  "end": 19.052
+ },
+ {
+  "id": "w60",
+  "text": "finds",
+  "start": 19.099,
+  "end": 19.424
+ },
+ {
+  "id": "w61",
+  "text": "that",
+  "start": 19.459,
+  "end": 19.587
+ },
+ {
+  "id": "w62",
+  "text": "exact",
+  "start": 19.645,
+  "end": 20.039
+ },
+ {
+  "id": "w63",
+  "text": "spot",
+  "start": 20.074,
+  "end": 20.457
+ },
+ {
+  "id": "w64",
+  "text": "without",
+  "start": 20.701,
+  "end": 21.061
+ },
+ {
+  "id": "w65",
+  "text": "ever",
+  "start": 21.131,
+  "end": 21.363
+ },
+ {
+  "id": "w66",
+  "text": "looking",
+  "start": 21.433,
+  "end": 21.7
+ },
+ {
+  "id": "w67",
+  "text": "down.",
+  "start": 21.746,
+  "end": 22.164
+ },
+ {
+  "id": "w68",
+  "text": "Lift",
+  "start": 23.116,
+  "end": 23.302
+ },
+ {
+  "id": "w69",
+  "text": "your",
+  "start": 23.337,
+  "end": 23.441
+ },
+ {
+  "id": "w70",
+  "text": "hands",
+  "start": 23.464,
+  "end": 23.685
+ },
+ {
+  "id": "w71",
+  "text": "off",
+  "start": 23.72,
+  "end": 23.871
+ },
+ {
+  "id": "w72",
+  "text": "the",
+  "start": 23.905,
+  "end": 23.975
+ },
+ {
+  "id": "w73",
+  "text": "keyboard,",
+  "start": 24.01,
+  "end": 24.614
+ },
+ {
+  "id": "w74",
+  "text": "look",
+  "start": 24.788,
+  "end": 24.95
+ },
+ {
+  "id": "w75",
+  "text": "away,",
+  "start": 24.997,
+  "end": 25.484
+ },
+ {
+  "id": "w76",
+  "text": "set",
+  "start": 25.868,
+  "end": 26.065
+ },
+ {
+  "id": "w77",
+  "text": "them",
+  "start": 26.111,
+  "end": 26.227
+ },
+ {
+  "id": "w78",
+  "text": "back",
+  "start": 26.274,
+  "end": 26.448
+ },
+ {
+  "id": "w79",
+  "text": "down,",
+  "start": 26.506,
+  "end": 26.912
+ },
+ {
+  "id": "w80",
+  "text": "and",
+  "start": 27.237,
+  "end": 27.377
+ },
+ {
+  "id": "w81",
+  "text": "your",
+  "start": 27.412,
+  "end": 27.516
+ },
+ {
+  "id": "w82",
+  "text": "fingers",
+  "start": 27.563,
+  "end": 27.888
+ },
+ {
+  "id": "w83",
+  "text": "still",
+  "start": 27.934,
+  "end": 28.143
+ },
+ {
+  "id": "w84",
+  "text": "land",
+  "start": 28.19,
+  "end": 28.398
+ },
+ {
+  "id": "w85",
+  "text": "on",
+  "start": 28.457,
+  "end": 28.584
+ },
+ {
+  "id": "w86",
+  "text": "F",
+  "start": 28.7,
+  "end": 28.816
+ },
+ {
+  "id": "w87",
+  "text": "and",
+  "start": 28.886,
+  "end": 28.956
+ },
+ {
+  "id": "w88",
+  "text": "J",
+  "start": 29.002,
+  "end": 29.176
+ },
+ {
+  "id": "w89",
+  "text": "first,",
+  "start": 29.292,
+  "end": 29.85
+ },
+ {
+  "id": "w90",
+  "text": "guided",
+  "start": 30.361,
+  "end": 30.721
+ },
+ {
+  "id": "w91",
+  "text": "by",
+  "start": 30.779,
+  "end": 30.918
+ },
+ {
+  "id": "w92",
+  "text": "feel",
+  "start": 31.034,
+  "end": 31.44
+ },
+ {
+  "id": "w93",
+  "text": "alone.",
+  "start": 31.824,
+  "end": 32.393
+ },
+ {
+  "id": "w94",
+  "text": "That's",
+  "start": 33.345,
+  "end": 33.554
+ },
+ {
+  "id": "w95",
+  "text": "why",
+  "start": 33.577,
+  "end": 33.693
+ },
+ {
+  "id": "w96",
+  "text": "trained",
+  "start": 33.762,
+  "end": 34.064
+ },
+ {
+  "id": "w97",
+  "text": "typists",
+  "start": 34.111,
+  "end": 34.633
+ },
+ {
+  "id": "w98",
+  "text": "watch",
+  "start": 34.715,
+  "end": 34.958
+ },
+ {
+  "id": "w99",
+  "text": "the",
+  "start": 35.005,
+  "end": 35.074
+ },
+ {
+  "id": "w100",
+  "text": "screen",
+  "start": 35.109,
+  "end": 35.399
+ },
+ {
+  "id": "w101",
+  "text": "the",
+  "start": 35.458,
+  "end": 35.527
+ },
+ {
+  "id": "w102",
+  "text": "whole",
+  "start": 35.562,
+  "end": 35.759
+ },
+ {
+  "id": "w103",
+  "text": "time",
+  "start": 35.794,
+  "end": 36.317
+ },
+ {
+  "id": "w104",
+  "text": "instead",
+  "start": 36.352,
+  "end": 36.7
+ },
+ {
+  "id": "w105",
+  "text": "of",
+  "start": 36.723,
+  "end": 36.769
+ },
+ {
+  "id": "w106",
+  "text": "hunting",
+  "start": 36.828,
+  "end": 37.083
+ },
+ {
+  "id": "w107",
+  "text": "for",
+  "start": 37.129,
+  "end": 37.222
+ },
+ {
+  "id": "w108",
+  "text": "keys.",
+  "start": 37.28,
+  "end": 37.838
+ },
+ {
+  "id": "w109",
+  "text": "The",
+  "start": 38.534,
+  "end": 38.65
+ },
+ {
+  "id": "w110",
+  "text": "same",
+  "start": 38.708,
+  "end": 38.906
+ },
+ {
+  "id": "w111",
+  "text": "trick",
+  "start": 38.941,
+  "end": 39.15
+ },
+ {
+  "id": "w112",
+  "text": "shows",
+  "start": 39.208,
+  "end": 39.417
+ },
+ {
+  "id": "w113",
+  "text": "up",
+  "start": 39.463,
+  "end": 39.556
+ },
+ {
+  "id": "w114",
+  "text": "again",
+  "start": 39.602,
+  "end": 39.811
+ },
+ {
+  "id": "w115",
+  "text": "on",
+  "start": 39.858,
+  "end": 39.916
+ },
+ {
+  "id": "w116",
+  "text": "the",
+  "start": 39.939,
+  "end": 40.009
+ },
+ {
+  "id": "w117",
+  "text": "number",
+  "start": 40.043,
+  "end": 40.264
+ },
+ {
+  "id": "w118",
+  "text": "pad,",
+  "start": 40.311,
+  "end": 40.74
+ },
+ {
+  "id": "w119",
+  "text": "where",
+  "start": 41.065,
+  "end": 41.286
+ },
+ {
+  "id": "w120",
+  "text": "the",
+  "start": 41.309,
+  "end": 41.379
+ },
+ {
+  "id": "w121",
+  "text": "5",
+  "start": 41.472,
+  "end": 41.715
+ },
+ {
+  "id": "w122",
+  "text": "key",
+  "start": 41.785,
+  "end": 41.971
+ },
+ {
+  "id": "w123",
+  "text": "carries",
+  "start": 42.04,
+  "end": 42.331
+ },
+ {
+  "id": "w124",
+  "text": "a",
+  "start": 42.365,
+  "end": 42.389
+ },
+ {
+  "id": "w125",
+  "text": "matching",
+  "start": 42.447,
+  "end": 42.795
+ },
+ {
+  "id": "w126",
+  "text": "raised",
+  "start": 42.876,
+  "end": 43.155
+ },
+ {
+  "id": "w127",
+  "text": "dot,",
+  "start": 43.178,
+  "end": 43.573
+ },
+ {
+  "id": "w128",
+  "text": "marking",
+  "start": 43.724,
+  "end": 44.061
+ },
+ {
+  "id": "w129",
+  "text": "its",
+  "start": 44.107,
+  "end": 44.2
+ },
+ {
+  "id": "w130",
+  "text": "center.",
+  "start": 44.235,
+  "end": 44.746
+ },
+ {
+  "id": "w131",
+  "text": "Nobody",
+  "start": 45.698,
+  "end": 46
+ },
+ {
+  "id": "w132",
+  "text": "can",
+  "start": 46.035,
+  "end": 46.139
+ },
+ {
+  "id": "w133",
+  "text": "point",
+  "start": 46.209,
+  "end": 46.476
+ },
+ {
+  "id": "w134",
+  "text": "to",
+  "start": 46.534,
+  "end": 46.685
+ },
+ {
+  "id": "w135",
+  "text": "who",
+  "start": 46.766,
+  "end": 46.905
+ },
+ {
+  "id": "w136",
+  "text": "actually",
+  "start": 46.987,
+  "end": 47.37
+ },
+ {
+  "id": "w137",
+  "text": "added",
+  "start": 47.428,
+  "end": 47.683
+ },
+ {
+  "id": "w138",
+  "text": "it,",
+  "start": 47.73,
+  "end": 47.915
+ },
+ {
+  "id": "w139",
+  "text": "or",
+  "start": 48.066,
+  "end": 48.391
+ },
+ {
+  "id": "w140",
+  "text": "exactly",
+  "start": 48.508,
+  "end": 48.995
+ },
+ {
+  "id": "w141",
+  "text": "when.",
+  "start": 49.042,
+  "end": 49.448
+ },
+ {
+  "id": "w142",
+  "text": "One",
+  "start": 50.4,
+  "end": 50.621
+ },
+ {
+  "id": "w143",
+  "text": "patent",
+  "start": 50.655,
+  "end": 51.004
+ },
+ {
+  "id": "w144",
+  "text": "people",
+  "start": 51.039,
+  "end": 51.352
+ },
+ {
+  "id": "w145",
+  "text": "credit",
+  "start": 51.41,
+  "end": 51.724
+ },
+ {
+  "id": "w146",
+  "text": "online",
+  "start": 51.782,
+  "end": 52.292
+ },
+ {
+  "id": "w147",
+  "text": "for",
+  "start": 52.339,
+  "end": 52.443
+ },
+ {
+  "id": "w148",
+  "text": "this",
+  "start": 52.478,
+  "end": 52.652
+ },
+ {
+  "id": "w149",
+  "text": "doesn't",
+  "start": 52.71,
+  "end": 52.943
+ },
+ {
+  "id": "w150",
+  "text": "even",
+  "start": 52.966,
+  "end": 53.117
+ },
+ {
+  "id": "w151",
+  "text": "cover",
+  "start": 53.186,
+  "end": 53.535
+ },
+ {
+  "id": "w152",
+  "text": "F",
+  "start": 53.651,
+  "end": 53.802
+ },
+ {
+  "id": "w153",
+  "text": "and",
+  "start": 53.871,
+  "end": 53.953
+ },
+ {
+  "id": "w154",
+  "text": "J,",
+  "start": 54.022,
+  "end": 54.475
+ },
+ {
+  "id": "w155",
+  "text": "it",
+  "start": 54.719,
+  "end": 54.847
+ },
+ {
+  "id": "w156",
+  "text": "covers",
+  "start": 54.905,
+  "end": 55.183
+ },
+ {
+  "id": "w157",
+  "text": "two",
+  "start": 55.241,
+  "end": 55.439
+ },
+ {
+  "id": "w158",
+  "text": "completely",
+  "start": 55.52,
+  "end": 56.019
+ },
+ {
+  "id": "w159",
+  "text": "different",
+  "start": 56.054,
+  "end": 56.344
+ },
+ {
+  "id": "w160",
+  "text": "keys.",
+  "start": 56.379,
+  "end": 56.878
+ },
+ {
+  "id": "w161",
+  "text": "Manufacturers",
+  "start": 57.575,
+  "end": 58.283
+ },
+ {
+  "id": "w162",
+  "text": "just",
+  "start": 58.318,
+  "end": 58.446
+ },
+ {
+  "id": "w163",
+  "text": "kept",
+  "start": 58.481,
+  "end": 58.643
+ },
+ {
+  "id": "w164",
+  "text": "doing",
+  "start": 58.69,
+  "end": 58.898
+ },
+ {
+  "id": "w165",
+  "text": "it",
+  "start": 58.945,
+  "end": 58.991
+ },
+ {
+  "id": "w166",
+  "text": "anyway,",
+  "start": 59.026,
+  "end": 59.583
+ },
+ {
+  "id": "w167",
+  "text": "because",
+  "start": 60.025,
+  "end": 60.268
+ },
+ {
+  "id": "w168",
+  "text": "it",
+  "start": 60.303,
+  "end": 60.35
+ },
+ {
+  "id": "w169",
+  "text": "worked,",
+  "start": 60.385,
+  "end": 60.884
+ },
+ {
+  "id": "w170",
+  "text": "keyboard",
+  "start": 61.128,
+  "end": 61.616
+ },
+ {
+  "id": "w171",
+  "text": "after",
+  "start": 61.674,
+  "end": 61.894
+ },
+ {
+  "id": "w172",
+  "text": "keyboard,",
+  "start": 61.941,
+  "end": 62.626
+ },
+ {
+  "id": "w173",
+  "text": "for",
+  "start": 63.009,
+  "end": 63.137
+ },
+ {
+  "id": "w174",
+  "text": "decades.",
+  "start": 63.195,
+  "end": 63.903
+ },
+ {
+  "id": "w175",
+  "text": "Two",
+  "start": 65.017,
+  "end": 65.296
+ },
+ {
+  "id": "w176",
+  "text": "tiny",
+  "start": 65.377,
+  "end": 65.691
+ },
+ {
+  "id": "w177",
+  "text": "bumps,",
+  "start": 65.749,
+  "end": 66.329
+ },
+ {
+  "id": "w178",
+  "text": "one",
+  "start": 66.654,
+  "end": 66.91
+ },
+ {
+  "id": "w179",
+  "text": "blind",
+  "start": 66.956,
+  "end": 67.27
+ },
+ {
+  "id": "w180",
+  "text": "reflex,",
+  "start": 67.328,
+  "end": 68.082
+ },
+ {
+  "id": "w181",
+  "text": "still",
+  "start": 68.524,
+  "end": 68.767
+ },
+ {
+  "id": "w182",
+  "text": "guiding",
+  "start": 68.826,
+  "end": 69.116
+ },
+ {
+  "id": "w183",
+  "text": "your",
+  "start": 69.151,
+  "end": 69.267
+ },
+ {
+  "id": "w184",
+  "text": "hands",
+  "start": 69.313,
+  "end": 69.661
+ },
+ {
+  "id": "w185",
+  "text": "right",
+  "start": 70.045,
+  "end": 70.265
+ },
+ {
+  "id": "w186",
+  "text": "now.",
+  "start": 70.312,
+  "end": 70.683
+ },
+ {
+  "id": "w187",
+  "text": "Follow",
+  "start": 71.798,
+  "end": 72.111
+ },
+ {
+  "id": "w188",
+  "text": "for",
+  "start": 72.169,
+  "end": 72.274
+ },
+ {
+  "id": "w189",
+  "text": "more",
+  "start": 72.32,
+  "end": 72.483
+ },
+ {
+  "id": "w190",
+  "text": "everyday",
+  "start": 72.552,
+  "end": 72.947
+ },
+ {
+  "id": "w191",
+  "text": "design",
+  "start": 72.993,
+  "end": 73.342
+ },
+ {
+  "id": "w192",
+  "text": "details",
+  "start": 73.411,
+  "end": 73.841
+ },
+ {
+  "id": "w193",
+  "text": "hiding",
+  "start": 73.911,
+  "end": 74.271
+ },
+ {
+  "id": "w194",
+  "text": "in",
+  "start": 74.34,
+  "end": 74.422
+ },
+ {
+  "id": "w195",
+  "text": "plain",
+  "start": 74.491,
+  "end": 74.723
+ },
+ {
+  "id": "w196",
+  "text": "sight.",
+  "start": 74.793,
+  "end": 75.223
+ }
+]

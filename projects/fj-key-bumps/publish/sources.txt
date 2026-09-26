@@ -1,0 +1,51 @@
+Sources — fj-key-bumps (fact-checked 2026-09-26)
+
+1. Mental Floss, "The Reason for the Bumps on the F and J Keys" — confirms tactile home-row markers for touch typing.
+   https://www.mentalfloss.com/article/623391/reason-for-bumps-on-computer-keys
+2. BGR, "Why keyboard F and J keys have bumps" — corroborating explainer, same claim.
+   https://www.bgr.com/2113249/why-keyboard-f-and-j-keys-have-bumps/
+3. MakeUseOf, "Why Do Keyboards Have a Bump on the F and J Keys?" — corroborating.
+   https://www.makeuseof.com/why-keyboards-have-bump-f-j-keys/
+4. Type Faster, numpad touch-typing guide — confirms numpad 5 carries a raised dot marking the numpad's
+   home position (sources disagree on which finger rests there, so the script does not specify one).
+   https://type-faster.com/blogs/numpad/numpad-finger-placement-and-home-keys
+5. No solid, citable inventor or start date exists for the F/J bump convention — multiple independent
+   explainers state this is unknown. A patent commonly misattributed online as "the F/J bump patent"
+   (US 6,667,697 B2, June E. Botich, granted 2003) was checked directly on Google Patents: it covers
+   tactile edges on the A key and the semicolon key, NOT F and J. The script references this real
+   patent only to say it covers "two completely different keys" — it does not name Botich or claim she
+   invented the F/J bump, since that would repeat the misattribution.
+   https://patents.google.com/patent/US6667697B2/en
+6. Not used / deliberately cut after fact-check: a specific decade for when the F/J bump began (no
+   reliable source found); ISO/IEC 9995 and ANSI's 1988 keyboard-layout standard as "the standard that
+   specifies the bump" (both are real standards, but neither's actual text could be verified to cover
+   the tactile-bump feature specifically — see ANSI Blog https://blog.ansi.org/ansi/standardization-of-keyboard-layouts/
+   and ISO https://www.iso.org/standard/51645.html, both about layout geometry, not tactile markers).
+
+No AI-generated imagery depicts a real, identifiable person; no faces are visible in any shot.
+
+Stock assets (Pexels, free for commercial use, no attribution required — logged for provenance):
+- t02 hands typing white keyboard (photo 6143822) — cottonbro studio — https://www.pexels.com/photo/person-using-white-computer-keyboard-6143822/
+- t03 hands typing wooden keyboard (photo 4476379) — kaboompics.com — https://www.pexels.com/photo/crop-woman-typing-on-wireless-keyboard-4476379/
+- t04 hand on mouse and keyboard (photo 11749459) — Matheus Bertelli — https://www.pexels.com/photo/mans-hands-on-keyboard-and-mouse-11749459/
+- t05 hand on MacBook arrow keys (photo 5077052) — cottonbro studio — https://www.pexels.com/photo/persons-hand-on-macbook-5077052/
+- t06 hands on backlit gaming keyboard (photo 7915239) — RDNE Stock project — https://www.pexels.com/photo/close-up-photo-of-person-s-hands-on-mechanical-keyboard-7915239/
+- t09 hands typing white keyboard, desk (photo 8572607) — Анна Шаталова — https://www.pexels.com/photo/person-using-white-computer-keyboard-8572607/
+- t10 dark laptop screen, reading page (photo 4069064) — Stefan Lobont — https://www.pexels.com/photo/black-flat-screen-computer-monitor-4069064/
+- t11 calculator keypad, B&W (photo 5491026) — Nothing Ahead — https://www.pexels.com/photo/keypad-of-a-calculator-5491026/
+- t13 vintage typewriter keys (photo 25852648) — pic Itsuda — https://www.pexels.com/photo/keys-of-vintage-typewriter-25852648/
+- t15 factory assembly machine (photo 34221993) — Freek Wolsink — https://www.pexels.com/photo/industrial-manufacturing-assembly-line-equipment-34221993/
+- t18 moody desktop keyboard setup (photo 36045613) — Ludmi Ledesma — https://www.pexels.com/photo/moody-desktop-setup-with-keyboard-and-screen-36045613/
+- t19 hands on keyboard, cozy desk (photo 20343066) — Mariia Sabadash — https://www.pexels.com/photo/woman-hands-on-keyboard-20343066/
+- t07 hands typing, focus on hands (video 34573350) — MELQUIZEDEQUE ALMEIDA — https://www.pexels.com/video/typing-on-keyboard-with-focus-on-hands-34573350/
+- t08 hands typing fast on laptop (video 34124550) — MELQUIZEDEQUE ALMEIDA — https://www.pexels.com/video/hands-typing-fast-on-a-laptop-keyboard-34124550/
+- t14 person flipping through documents (video 6100897) — KATRIN BOLOVTSOVA — https://www.pexels.com/video/a-person-flipping-some-documents-6100897/
+- t16 industrial factory conveyor system (video 38052460) — Gitti Whittaker — https://www.pexels.com/video/industrial-factory-conveyor-system-overview-38052460/
+
+AI-generated assets (fal.ai openai/gpt-image-2 stills; minimax h3-max image-to-video for clips) —
+illustrative only, no real person/event, no visible faces, no on-screen text or logos:
+- t01 (HIGH quality still + clip, HOOK): macro of a dark keycap with a raised tactile ridge
+- t12 (HIGH quality still): macro of a numpad-style key with a raised center dot ("numpad 5" beat)
+- t17 (MEDIUM quality still + clip, climax): macro of a fingertip touching a keycap's raised ridge
+Cost note: 2 high stills, 1 medium still, 2 AI video clips (6s each, minimax h3-max 768P, $0.04/s
+pre-30 Sep 2026 rate) ≈ within the $1.1-1.3/video target (slightly under, since only 2 AI clips used).

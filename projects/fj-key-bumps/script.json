@@ -1,0 +1,21 @@
+{
+  "slug": "fj-key-bumps",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_multilingual_v2",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "There are two tiny ridges hiding on your keyboard, on the F key and the J key, and they're not a manufacturing defect. Rest your fingers on the middle row and your left hand lands on A S D F, your right on J K L semicolon. Those two bumps sit right under your index fingers, so a touch typist finds that exact spot without ever looking down. Lift your hands off the keyboard, look away, set them back down, and your fingers still land on F and J first, guided by feel alone. That's why trained typists watch the screen the whole time instead of hunting for keys. The same trick shows up again on the number pad, where the 5 key carries a matching raised dot, marking its center. Nobody can point to who actually added it, or exactly when. One patent people credit online for this doesn't even cover F and J, it covers two completely different keys. Manufacturers just kept doing it anyway, because it worked, keyboard after keyboard, for decades. Two tiny bumps, one blind reflex, still guiding your hands right now. Follow for more everyday design details hiding in plain sight."
+    }
+  ]
+}

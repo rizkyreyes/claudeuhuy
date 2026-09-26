@@ -2,3 +2,6 @@ node_modules/
 projects/*/work-*/
 projects/*/out.mp4
 projects/*/final.mp4
+projects/*/raw/
+projects/*/ai_raw/
+projects/*/contact/
