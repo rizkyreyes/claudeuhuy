@@ -11,7 +11,7 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | scheduled | 74.77 | Sun 27 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-vevymc, confirmed live in Buffer, media/sources recovered to main |
 | b2-2 | fj-key-bumps | Bumps on the F and J keys | scheduled | 77.01 | Mon 28 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-gwdfjw, confirmed live in Buffer, media/sources recovered to main |
 | b2-3 | foil-box-tabs | Locking tabs on a foil box | scheduled | 71.40 | Tue 29 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-lgumw6, confirmed live in Buffer, media/sources recovered to main |
-| b2-4 | padlock-hole | Hole in the bottom of a padlock | todo | | | |
+| b2-4 | padlock-hole | Hole in the bottom of a padlock | rendered | 72.87 | | captions in projects/padlock-hole/publish/captions.md, waiting for a Buffer slot |
 | b2-5 | sink-overflow | Overflow hole in a bathroom sink | todo | | | |
 | b2-6 | toothpaste-square | Colored square on a toothpaste tube | todo | | | myth-bust |
 | b2-7 | window-weep-holes | Weep holes in a window frame | todo | | | |

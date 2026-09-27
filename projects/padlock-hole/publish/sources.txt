@@ -1,0 +1,40 @@
+Fact-check sources for padlock-hole (re-verified 2026-09-27):
+
+1. Drainage/rust-prevention purpose of the bottom hole:
+   - Monroe Engineering, "Why Padlocks Have a Small Hole on the Bottom" — https://monroeengineering.com/blog/why-padlocks-have-a-small-hole-on-the-bottom/
+   - House Digest, "What Is The Tiny Hole On The Bottom Of A Padlock For?" — https://www.housedigest.com/1809428/padlock-tiny-hole-bottom-use-explained-what-for/
+   - AllPadlocks, "What is the Hole on the Bottom of a Padlock?" — https://allpadlocks.com/blogs/news/what-is-the-hole-on-the-bottom-of-a-padlock
+
+2. Lubrication purpose (same hole used to oil/lube a stuck padlock):
+   - 21st Security, "Why Padlocks Have a Tiny Hole at the Bottom" — https://twentyfirstsecurity.com.au/blog/why-padlocks-have-a-tiny-hole-at-the-bottom/
+   - I'm A Useless Info Junkie, "This Is Why Padlocks Have Those Small Holes In The Bottom" — https://theuijunkie.com/padlock-holes/
+
+3. Caveat locked into the script: not every padlock has the hole on the bottom; some put it on the side instead. Source: AllPadlocks (above) — "not every padlock has a hole ... some padlocks have holes on their sides rather than on their base."
+
+4. Lubricant recommendation (dry graphite/PTFE over oil for locks):
+   - Acme Locksmith, "Best Lock Lubricant: PTFE vs Graphite vs WD-40" — https://www.acmelocksmith.com/articles/best-lock-lubricants/
+   - Door & Window Surgeon, "WD-40 Lock Lubricant: Why It's Bad for Locks & The Best Alternatives" — https://www.doorwindowsurgeon.com/post/the-misconception-of-locks-lubricant-and-wd-40
+
+No numeric claims, dates, or named individuals were used in this script (topic didn't require them), so nothing else needed LOCKED verification.
+
+B-roll provenance (stock, free for commercial use, no attribution required — logged anyway):
+- t01 (clip): Pexels video 32365210, "Secure metal ladder with chain and padlock", by liathyrax — https://www.pexels.com/video/secure-metal-ladder-with-chain-and-padlock-32365210/
+- t03 (clip): Pexels video 26586646, "A bunch of padlocks on a fence with a blue sky", by Matthias Groeneveld — https://www.pexels.com/video/a-bunch-of-padlocks-on-a-fence-with-a-blue-sky-26586646/
+- t04 (clip): Pexels video 36078797, "Raindrops creating ripples in a calm puddle", by peri — https://www.pexels.com/video/raindrops-creating-ripples-in-a-calm-puddle-36078797/
+- t07 (still): Pexels photo 36914355, "Rusty padlock on rotted metal door close up", by Primitive Spaces — https://www.pexels.com/photo/rusty-padlock-on-rotted-metal-door-close-up-36914355/
+- t08 (clip): Pexels video 36453319, "Aerial view of cracked ice surface in winter", by Efrem Efre — https://www.pexels.com/video/aerial-view-of-cracked-ice-surface-in-winter-36453319/
+- t09 (still): Pexels photo 10961071, "Close-up shot of water drops on a metal", by Konstantin Mishchenko — https://www.pexels.com/photo/close-up-shot-of-water-drops-on-a-metal-10961071/
+- t12 (still): Pexels photo 12826687, "A silver oil can", by Wolfgang Wendefeuer — https://www.pexels.com/photo/a-silver-oil-can-12826687/
+- t14 (still): Pexels photo 37955293, "Close-up macro photograph of pencil lead", by Валерий Линк — https://www.pexels.com/photo/close-up-macro-photograph-of-pencil-lead-37955293/
+- t17 (still): Pexels photo 7553830, "Padlock locked on iron bar", by Diana — https://www.pexels.com/photo/padlock-locked-on-iron-bar-7553830/
+- t18 (clip): Pexels video 5638005, "Closeup video of tools", by Tima Miroshnichenko — https://www.pexels.com/video/closeup-video-of-tools-5638005/
+
+AI-generated illustrative imagery (not a real person/event/place; fal.ai openai/gpt-image-2 stills, minimax h3-max image-to-video for motion):
+- t02 (still, HIGH): macro of the drain hole on a padlock's underside
+- t05 (still, HIGH): cutaway view of a padlock's shackle mechanism with water inside
+- t06 (still→clip, MEDIUM): water pooling/draining inside a padlock's shackle channel
+- t10 (still, MEDIUM): hand gripping a stuck padlock shackle
+- t11 (still→clip, MEDIUM): lubricant being dropped into the bottom hole
+- t13 (still, MEDIUM): oil-and-grit paste inside a lock mechanism
+- t15 (still, MEDIUM): dry graphite powder on a clean pin mechanism
+- t16 (still, MEDIUM): padlock model with the drain hole on the side of the case instead of the bottom

@@ -1,0 +1,21 @@
+{
+  "slug": "padlock-hole",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_multilingual_v2",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Every padlock has a second hole. It's not the keyhole. Look underneath and you'll find a tiny opening drilled through the metal. Padlocks live outside, bolted to gates, sheds, and fences, exposed to rain and every temperature swing. Water gets into that shackle mechanism no matter how tight the case is, and without an exit it sits against bare steel until the lock rusts. In freezing weather, that trapped water expands and can crack the housing. That hole lets gravity drain the case first. It pulls double duty too. When a padlock sticks, that same opening is where you drop lubricant, straight into the pins. Skip the household oil, though. Oil attracts dirt and grit, and turns into paste inside a lock. Locksmiths reach for dry graphite or PTFE instead, since it sheds water without gumming up the parts. Not every padlock puts this hole on the bottom; some hide it on the side. But if yours has one down there, now you know exactly what it's for. Follow for more everyday hardware that's smarter than it looks."
+    }
+  ]
+}
