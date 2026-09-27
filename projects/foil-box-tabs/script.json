@@ -1,0 +1,21 @@
+{
+  "slug": "foil-box-tabs",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_multilingual_v2",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That little tab on the end of your foil box looks like nothing. It's not nothing. Push it in, and it locks the whole roll in place inside the box. Reynolds didn't add these end locks until 1996, and even then, the instructions are printed in letters so small almost nobody notices them: press here to lock roll. Here's the problem they're solving. Without the tabs pushed in, that cardboard tube slides and spins every time you pull on the foil, so the sheet tears jagged and crooked. Push both tabs in, on either end, and the tube stops moving completely. The foil stays flat against the box's built-in cutting edge, so one clean pull gives you one clean, straight sheet. It's not only foil. Plastic wrap and parchment paper boxes hide the exact same tabs, doing the exact same job, and almost nobody uses them. So the next time a torn edge comes out ragged, the box isn't broken. Check the sides first. Follow for more everyday objects that already came with the instructions built in."
+    }
+  ]
+}

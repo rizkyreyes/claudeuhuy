@@ -1,0 +1,1078 @@
+{
+ "voiceId": "uKGPYP2uuyRQv8SeFre0",
+ "modelId": "eleven_multilingual_v2",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "That little tab on the end of your foil box looks like nothing. It's not nothing. Push it in, and it locks the whole roll in place inside the box. Reynolds didn't add these end locks until 1996, and even then, the instructions are printed in letters so small almost nobody notices them: press here to lock roll. Here's the problem they're solving. Without the tabs pushed in, that cardboard tube slides and spins every time you pull on the foil, so the sheet tears jagged and crooked. Push both tabs in, on either end, and the tube stops moving completely. The foil stays flat against the box's built-in cutting edge, so one clean pull gives you one clean, straight sheet. It's not only foil. Plastic wrap and parchment paper boxes hide the exact same tabs, doing the exact same job, and almost nobody uses them. So the next time a torn edge comes out ragged, the box isn't broken. Check the sides first. Follow for more everyday objects that already came with the instructions built in.",
+   "wav": "vo.wav",
+   "duration": 69.846,
+   "speechStart": 0.058,
+   "speechEnd": 69.568,
+   "words": [
+    {
+     "id": "w0",
+     "text": "That",
+     "start": 0.058,
+     "end": 0.197
+    },
+    {
+     "id": "w1",
+     "text": "little",
+     "start": 0.244,
+     "end": 0.43
+    },
+    {
+     "id": "w2",
+     "text": "tab",
+     "start": 0.453,
+     "end": 0.72
+    },
+    {
+     "id": "w3",
+     "text": "on",
+     "start": 0.778,
+     "end": 0.836
+    },
+    {
+     "id": "w4",
+     "text": "the",
+     "start": 0.871,
+     "end": 0.94
+    },
+    {
+     "id": "w5",
+     "text": "end",
+     "start": 0.975,
+     "end": 1.08
+    },
+    {
+     "id": "w6",
+     "text": "of",
+     "start": 1.115,
+     "end": 1.161
+    },
+    {
+     "id": "w7",
+     "text": "your",
+     "start": 1.184,
+     "end": 1.277
+    },
+    {
+     "id": "w8",
+     "text": "foil",
+     "start": 1.335,
+     "end": 1.602
+    },
+    {
+     "id": "w9",
+     "text": "box",
+     "start": 1.66,
+     "end": 1.916
+    },
+    {
+     "id": "w10",
+     "text": "looks",
+     "start": 1.962,
+     "end": 2.136
+    },
+    {
+     "id": "w11",
+     "text": "like",
+     "start": 2.171,
+     "end": 2.334
+    },
+    {
+     "id": "w12",
+     "text": "nothing.",
+     "start": 2.368,
+     "end": 2.879
+    },
+    {
+     "id": "w13",
+     "text": "It's",
+     "start": 3.204,
+     "end": 3.379
+    },
+    {
+     "id": "w14",
+     "text": "not",
+     "start": 3.413,
+     "end": 3.518
+    },
+    {
+     "id": "w15",
+     "text": "nothing.",
+     "start": 3.564,
+     "end": 4.052
+    },
+    {
+     "id": "w16",
+     "text": "Push",
+     "start": 4.377,
+     "end": 4.609
+    },
+    {
+     "id": "w17",
+     "text": "it",
+     "start": 4.656,
+     "end": 4.725
+    },
+    {
+     "id": "w18",
+     "text": "in,",
+     "start": 4.772,
+     "end": 5.05
+    },
+    {
+     "id": "w19",
+     "text": "and",
+     "start": 5.433,
+     "end": 5.584
+    },
+    {
+     "id": "w20",
+     "text": "it",
+     "start": 5.642,
+     "end": 5.7
+    },
+    {
+     "id": "w21",
+     "text": "locks",
+     "start": 5.747,
+     "end": 6.026
+    },
+    {
+     "id": "w22",
+     "text": "the",
+     "start": 6.06,
+     "end": 6.13
+    },
+    {
+     "id": "w23",
+     "text": "whole",
+     "start": 6.177,
+     "end": 6.397
+    },
+    {
+     "id": "w24",
+     "text": "roll",
+     "start": 6.444,
+     "end": 6.687
+    },
+    {
+     "id": "w25",
+     "text": "in",
+     "start": 6.745,
+     "end": 6.803
+    },
+    {
+     "id": "w26",
+     "text": "place",
+     "start": 6.873,
+     "end": 7.233
+    },
+    {
+     "id": "w27",
+     "text": "inside",
+     "start": 7.291,
+     "end": 7.767
+    },
+    {
+     "id": "w28",
+     "text": "the",
+     "start": 7.802,
+     "end": 7.872
+    },
+    {
+     "id": "w29",
+     "text": "box.",
+     "start": 7.906,
+     "end": 8.429
+    },
+    {
+     "id": "w30",
+     "text": "Reynolds",
+     "start": 9.543,
+     "end": 9.822
+    },
+    {
+     "id": "w31",
+     "text": "didn't",
+     "start": 9.857,
+     "end": 10.054
+    },
+    {
+     "id": "w32",
+     "text": "add",
+     "start": 10.089,
+     "end": 10.228
+    },
+    {
+     "id": "w33",
+     "text": "these",
+     "start": 10.263,
+     "end": 10.426
+    },
+    {
+     "id": "w34",
+     "text": "end",
+     "start": 10.461,
+     "end": 10.577
+    },
+    {
+     "id": "w35",
+     "text": "locks",
+     "start": 10.635,
+     "end": 10.879
+    },
+    {
+     "id": "w36",
+     "text": "until",
+     "start": 10.913,
+     "end": 11.122
+    },
+    {
+     "id": "w37",
+     "text": "1996,",
+     "start": 11.18,
+     "end": 12.434
+    },
+    {
+     "id": "w38",
+     "text": "and",
+     "start": 12.759,
+     "end": 12.899
+    },
+    {
+     "id": "w39",
+     "text": "even",
+     "start": 12.934,
+     "end": 13.084
+    },
+    {
+     "id": "w40",
+     "text": "then,",
+     "start": 13.131,
+     "end": 13.595
+    },
+    {
+     "id": "w41",
+     "text": "the",
+     "start": 13.711,
+     "end": 13.804
+    },
+    {
+     "id": "w42",
+     "text": "instructions",
+     "start": 13.851,
+     "end": 14.373
+    },
+    {
+     "id": "w43",
+     "text": "are",
+     "start": 14.397,
+     "end": 14.49
+    },
+    {
+     "id": "w44",
+     "text": "printed",
+     "start": 14.524,
+     "end": 14.826
+    },
+    {
+     "id": "w45",
+     "text": "in",
+     "start": 14.861,
+     "end": 14.919
+    },
+    {
+     "id": "w46",
+     "text": "letters",
+     "start": 14.977,
+     "end": 15.302
+    },
+    {
+     "id": "w47",
+     "text": "so",
+     "start": 15.36,
+     "end": 15.534
+    },
+    {
+     "id": "w48",
+     "text": "small",
+     "start": 15.616,
+     "end": 16.127
+    },
+    {
+     "id": "w49",
+     "text": "almost",
+     "start": 16.243,
+     "end": 16.661
+    },
+    {
+     "id": "w50",
+     "text": "nobody",
+     "start": 16.777,
+     "end": 17.16
+    },
+    {
+     "id": "w51",
+     "text": "notices",
+     "start": 17.229,
+     "end": 17.647
+    },
+    {
+     "id": "w52",
+     "text": "them:",
+     "start": 17.671,
+     "end": 17.984
+    },
+    {
+     "id": "w53",
+     "text": "press",
+     "start": 19.099,
+     "end": 19.366
+    },
+    {
+     "id": "w54",
+     "text": "here",
+     "start": 19.424,
+     "end": 19.644
+    },
+    {
+     "id": "w55",
+     "text": "to",
+     "start": 19.702,
+     "end": 19.784
+    },
+    {
+     "id": "w56",
+     "text": "lock",
+     "start": 19.865,
+     "end": 20.086
+    },
+    {
+     "id": "w57",
+     "text": "roll.",
+     "start": 20.144,
+     "end": 20.678
+    },
+    {
+     "id": "w58",
+     "text": "Here's",
+     "start": 21.978,
+     "end": 22.199
+    },
+    {
+     "id": "w59",
+     "text": "the",
+     "start": 22.222,
+     "end": 22.291
+    },
+    {
+     "id": "w60",
+     "text": "problem",
+     "start": 22.326,
+     "end": 22.686
+    },
+    {
+     "id": "w61",
+     "text": "they're",
+     "start": 22.721,
+     "end": 22.884
+    },
+    {
+     "id": "w62",
+     "text": "solving.",
+     "start": 22.907,
+     "end": 23.499
+    },
+    {
+     "id": "w63",
+     "text": "Without",
+     "start": 24.195,
+     "end": 24.474
+    },
+    {
+     "id": "w64",
+     "text": "the",
+     "start": 24.509,
+     "end": 24.579
+    },
+    {
+     "id": "w65",
+     "text": "tabs",
+     "start": 24.613,
+     "end": 24.95
+    },
+    {
+     "id": "w66",
+     "text": "pushed",
+     "start": 24.997,
+     "end": 25.264
+    },
+    {
+     "id": "w67",
+     "text": "in,",
+     "start": 25.322,
+     "end": 25.647
+    },
+    {
+     "id": "w68",
+     "text": "that",
+     "start": 25.925,
+     "end": 26.088
+    },
+    {
+     "id": "w69",
+     "text": "cardboard",
+     "start": 26.146,
+     "end": 26.634
+    },
+    {
+     "id": "w70",
+     "text": "tube",
+     "start": 26.68,
+     "end": 26.959
+    },
+    {
+     "id": "w71",
+     "text": "slides",
+     "start": 27.005,
+     "end": 27.423
+    },
+    {
+     "id": "w72",
+     "text": "and",
+     "start": 27.458,
+     "end": 27.528
+    },
+    {
+     "id": "w73",
+     "text": "spins",
+     "start": 27.586,
+     "end": 28.004
+    },
+    {
+     "id": "w74",
+     "text": "every",
+     "start": 28.073,
+     "end": 28.259
+    },
+    {
+     "id": "w75",
+     "text": "time",
+     "start": 28.305,
+     "end": 28.514
+    },
+    {
+     "id": "w76",
+     "text": "you",
+     "start": 28.538,
+     "end": 28.619
+    },
+    {
+     "id": "w77",
+     "text": "pull",
+     "start": 28.677,
+     "end": 28.839
+    },
+    {
+     "id": "w78",
+     "text": "on",
+     "start": 28.909,
+     "end": 28.979
+    },
+    {
+     "id": "w79",
+     "text": "the",
+     "start": 29.014,
+     "end": 29.083
+    },
+    {
+     "id": "w80",
+     "text": "foil,",
+     "start": 29.13,
+     "end": 29.675
+    },
+    {
+     "id": "w81",
+     "text": "so",
+     "start": 30.279,
+     "end": 30.395
+    },
+    {
+     "id": "w82",
+     "text": "the",
+     "start": 30.453,
+     "end": 30.523
+    },
+    {
+     "id": "w83",
+     "text": "sheet",
+     "start": 30.581,
+     "end": 30.825
+    },
+    {
+     "id": "w84",
+     "text": "tears",
+     "start": 30.883,
+     "end": 31.313
+    },
+    {
+     "id": "w85",
+     "text": "jagged",
+     "start": 31.406,
+     "end": 31.882
+    },
+    {
+     "id": "w86",
+     "text": "and",
+     "start": 31.905,
+     "end": 31.974
+    },
+    {
+     "id": "w87",
+     "text": "crooked.",
+     "start": 32.033,
+     "end": 32.578
+    },
+    {
+     "id": "w88",
+     "text": "Push",
+     "start": 33.693,
+     "end": 33.925
+    },
+    {
+     "id": "w89",
+     "text": "both",
+     "start": 33.983,
+     "end": 34.18
+    },
+    {
+     "id": "w90",
+     "text": "tabs",
+     "start": 34.215,
+     "end": 34.54
+    },
+    {
+     "id": "w91",
+     "text": "in,",
+     "start": 34.61,
+     "end": 34.912
+    },
+    {
+     "id": "w92",
+     "text": "on",
+     "start": 34.958,
+     "end": 35.144
+    },
+    {
+     "id": "w93",
+     "text": "either",
+     "start": 35.202,
+     "end": 35.411
+    },
+    {
+     "id": "w94",
+     "text": "end,",
+     "start": 35.481,
+     "end": 35.841
+    },
+    {
+     "id": "w95",
+     "text": "and",
+     "start": 36.351,
+     "end": 36.502
+    },
+    {
+     "id": "w96",
+     "text": "the",
+     "start": 36.549,
+     "end": 36.618
+    },
+    {
+     "id": "w97",
+     "text": "tube",
+     "start": 36.665,
+     "end": 37.048
+    },
+    {
+     "id": "w98",
+     "text": "stops",
+     "start": 37.094,
+     "end": 37.42
+    },
+    {
+     "id": "w99",
+     "text": "moving",
+     "start": 37.478,
+     "end": 37.756
+    },
+    {
+     "id": "w100",
+     "text": "completely.",
+     "start": 37.826,
+     "end": 38.534
+    },
+    {
+     "id": "w101",
+     "text": "The",
+     "start": 39.649,
+     "end": 39.765
+    },
+    {
+     "id": "w102",
+     "text": "foil",
+     "start": 39.823,
+     "end": 40.067
+    },
+    {
+     "id": "w103",
+     "text": "stays",
+     "start": 40.125,
+     "end": 40.368
+    },
+    {
+     "id": "w104",
+     "text": "flat",
+     "start": 40.427,
+     "end": 40.752
+    },
+    {
+     "id": "w105",
+     "text": "against",
+     "start": 40.844,
+     "end": 41.17
+    },
+    {
+     "id": "w106",
+     "text": "the",
+     "start": 41.204,
+     "end": 41.274
+    },
+    {
+     "id": "w107",
+     "text": "box's",
+     "start": 41.32,
+     "end": 41.738
+    },
+    {
+     "id": "w108",
+     "text": "built-in",
+     "start": 41.808,
+     "end": 42.191
+    },
+    {
+     "id": "w109",
+     "text": "cutting",
+     "start": 42.261,
+     "end": 42.54
+    },
+    {
+     "id": "w110",
+     "text": "edge,",
+     "start": 42.609,
+     "end": 42.992
+    },
+    {
+     "id": "w111",
+     "text": "so",
+     "start": 43.166,
+     "end": 43.317
+    },
+    {
+     "id": "w112",
+     "text": "one",
+     "start": 43.399,
+     "end": 43.561
+    },
+    {
+     "id": "w113",
+     "text": "clean",
+     "start": 43.596,
+     "end": 43.828
+    },
+    {
+     "id": "w114",
+     "text": "pull",
+     "start": 43.898,
+     "end": 44.153
+    },
+    {
+     "id": "w115",
+     "text": "gives",
+     "start": 44.223,
+     "end": 44.397
+    },
+    {
+     "id": "w116",
+     "text": "you",
+     "start": 44.432,
+     "end": 44.513
+    },
+    {
+     "id": "w117",
+     "text": "one",
+     "start": 44.595,
+     "end": 44.815
+    },
+    {
+     "id": "w118",
+     "text": "clean,",
+     "start": 44.873,
+     "end": 45.221
+    },
+    {
+     "id": "w119",
+     "text": "straight",
+     "start": 45.268,
+     "end": 45.57
+    },
+    {
+     "id": "w120",
+     "text": "sheet.",
+     "start": 45.616,
+     "end": 46.092
+    },
+    {
+     "id": "w121",
+     "text": "It's",
+     "start": 46.789,
+     "end": 46.975
+    },
+    {
+     "id": "w122",
+     "text": "not",
+     "start": 47.009,
+     "end": 47.137
+    },
+    {
+     "id": "w123",
+     "text": "only",
+     "start": 47.183,
+     "end": 47.346
+    },
+    {
+     "id": "w124",
+     "text": "foil.",
+     "start": 47.427,
+     "end": 48.031
+    },
+    {
+     "id": "w125",
+     "text": "Plastic",
+     "start": 48.728,
+     "end": 49.146
+    },
+    {
+     "id": "w126",
+     "text": "wrap",
+     "start": 49.18,
+     "end": 49.459
+    },
+    {
+     "id": "w127",
+     "text": "and",
+     "start": 49.738,
+     "end": 50.074
+    },
+    {
+     "id": "w128",
+     "text": "parchment",
+     "start": 50.156,
+     "end": 50.516
+    },
+    {
+     "id": "w129",
+     "text": "paper",
+     "start": 50.539,
+     "end": 50.748
+    },
+    {
+     "id": "w130",
+     "text": "boxes",
+     "start": 50.806,
+     "end": 51.317
+    },
+    {
+     "id": "w131",
+     "text": "hide",
+     "start": 51.433,
+     "end": 51.735
+    },
+    {
+     "id": "w132",
+     "text": "the",
+     "start": 51.758,
+     "end": 51.839
+    },
+    {
+     "id": "w133",
+     "text": "exact",
+     "start": 51.897,
+     "end": 52.303
+    },
+    {
+     "id": "w134",
+     "text": "same",
+     "start": 52.361,
+     "end": 52.629
+    },
+    {
+     "id": "w135",
+     "text": "tabs,",
+     "start": 52.663,
+     "end": 53.337
+    },
+    {
+     "id": "w136",
+     "text": "doing",
+     "start": 53.662,
+     "end": 53.894
+    },
+    {
+     "id": "w137",
+     "text": "the",
+     "start": 53.929,
+     "end": 53.998
+    },
+    {
+     "id": "w138",
+     "text": "exact",
+     "start": 54.057,
+     "end": 54.428
+    },
+    {
+     "id": "w139",
+     "text": "same",
+     "start": 54.486,
+     "end": 54.753
+    },
+    {
+     "id": "w140",
+     "text": "job,",
+     "start": 54.811,
+     "end": 55.229
+    },
+    {
+     "id": "w141",
+     "text": "and",
+     "start": 55.252,
+     "end": 55.67
+    },
+    {
+     "id": "w142",
+     "text": "almost",
+     "start": 56.112,
+     "end": 56.413
+    },
+    {
+     "id": "w143",
+     "text": "nobody",
+     "start": 56.471,
+     "end": 56.773
+    },
+    {
+     "id": "w144",
+     "text": "uses",
+     "start": 56.831,
+     "end": 57.064
+    },
+    {
+     "id": "w145",
+     "text": "them.",
+     "start": 57.098,
+     "end": 57.423
+    },
+    {
+     "id": "w146",
+     "text": "So",
+     "start": 58.538,
+     "end": 58.84
+    },
+    {
+     "id": "w147",
+     "text": "the",
+     "start": 58.921,
+     "end": 58.991
+    },
+    {
+     "id": "w148",
+     "text": "next",
+     "start": 59.037,
+     "end": 59.223
+    },
+    {
+     "id": "w149",
+     "text": "time",
+     "start": 59.258,
+     "end": 59.525
+    },
+    {
+     "id": "w150",
+     "text": "a",
+     "start": 59.56,
+     "end": 59.594
+    },
+    {
+     "id": "w151",
+     "text": "torn",
+     "start": 59.641,
+     "end": 59.873
+    },
+    {
+     "id": "w152",
+     "text": "edge",
+     "start": 59.92,
+     "end": 60.105
+    },
+    {
+     "id": "w153",
+     "text": "comes",
+     "start": 60.152,
+     "end": 60.372
+    },
+    {
+     "id": "w154",
+     "text": "out",
+     "start": 60.43,
+     "end": 60.558
+    },
+    {
+     "id": "w155",
+     "text": "ragged,",
+     "start": 60.616,
+     "end": 61.104
+    },
+    {
+     "id": "w156",
+     "text": "the",
+     "start": 61.429,
+     "end": 61.522
+    },
+    {
+     "id": "w157",
+     "text": "box",
+     "start": 61.557,
+     "end": 61.754
+    },
+    {
+     "id": "w158",
+     "text": "isn't",
+     "start": 61.812,
+     "end": 61.986
+    },
+    {
+     "id": "w159",
+     "text": "broken.",
+     "start": 62.009,
+     "end": 62.532
+    },
+    {
+     "id": "w160",
+     "text": "Check",
+     "start": 63.646,
+     "end": 63.844
+    },
+    {
+     "id": "w161",
+     "text": "the",
+     "start": 63.89,
+     "end": 63.96
+    },
+    {
+     "id": "w162",
+     "text": "sides",
+     "start": 63.983,
+     "end": 64.25
+    },
+    {
+     "id": "w163",
+     "text": "first.",
+     "start": 64.297,
+     "end": 64.796
+    },
+    {
+     "id": "w164",
+     "text": "Follow",
+     "start": 65.493,
+     "end": 65.806
+    },
+    {
+     "id": "w165",
+     "text": "for",
+     "start": 65.864,
+     "end": 65.957
+    },
+    {
+     "id": "w166",
+     "text": "more",
+     "start": 66.015,
+     "end": 66.201
+    },
+    {
+     "id": "w167",
+     "text": "everyday",
+     "start": 66.271,
+     "end": 66.689
+    },
+    {
+     "id": "w168",
+     "text": "objects",
+     "start": 66.758,
+     "end": 67.234
+    },
+    {
+     "id": "w169",
+     "text": "that",
+     "start": 67.269,
+     "end": 67.397
+    },
+    {
+     "id": "w170",
+     "text": "already",
+     "start": 67.443,
+     "end": 67.78
+    },
+    {
+     "id": "w171",
+     "text": "came",
+     "start": 67.838,
+     "end": 68.151
+    },
+    {
+     "id": "w172",
+     "text": "with",
+     "start": 68.186,
+     "end": 68.314
+    },
+    {
+     "id": "w173",
+     "text": "the",
+     "start": 68.349,
+     "end": 68.418
+    },
+    {
+     "id": "w174",
+     "text": "instructions",
+     "start": 68.477,
+     "end": 69.011
+    },
+    {
+     "id": "w175",
+     "text": "built",
+     "start": 69.057,
+     "end": 69.278
+    },
+    {
+     "id": "w176",
+     "text": "in.",
+     "start": 69.336,
+     "end": 69.568
+    }
+   ]
+  }
+ ]
+}
