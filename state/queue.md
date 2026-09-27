@@ -10,7 +10,7 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | b1-3 | jeans-watch-pocket | Tiny pocket in jeans | posted | 74.57 | Sat 26 Sep 2026 7 PM | batch 1 |
 | b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | scheduled | 74.77 | Sun 27 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-vevymc, confirmed live in Buffer |
 | b2-2 | fj-key-bumps | Bumps on the F and J keys | scheduled | 77.01 | Mon 28 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-gwdfjw, confirmed live in Buffer |
-| b2-3 | foil-box-tabs | Locking tabs on a foil box | todo | | | |
+| b2-3 | foil-box-tabs | Locking tabs on a foil box | rendered | 71.40 | | captions in projects/foil-box-tabs/publish/captions.md |
 | b2-4 | padlock-hole | Hole in the bottom of a padlock | todo | | | |
 | b2-5 | sink-overflow | Overflow hole in a bathroom sink | todo | | | |
 | b2-6 | toothpaste-square | Colored square on a toothpaste tube | todo | | | myth-bust |
