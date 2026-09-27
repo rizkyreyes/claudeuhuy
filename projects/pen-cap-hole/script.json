@@ -1,0 +1,21 @@
+{
+  "slug": "pen-cap-hole",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_multilingual_v2",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "There's a hole in the top of your pen cap. That's not for the ink. The ink already has its own vent, further down on the barrel, letting air in as you write. The hole in the cap does something completely different. Most people never notice it. It's there so a child can still breathe if that cap gets stuck in their throat. Between 1970 and 1984, nine children died in the UK after choking on pen caps that sealed off their windpipe. So in 1990, Britain wrote a new safety standard, BS 7272, requiring every cap to let air pass even while lodged in place. BIC began drilling that hole into every Bic Cristal cap that year, then applied the rule to every pen it sold worldwide. The standard later became international as ISO 11540, and most manufacturers copied the design. No UK child has died from a swallowed pen cap since. That hole isn't a manufacturing defect, and it isn't decoration either. It's a tiny airway, engineered in only after real children stopped breathing. Follow for more everyday objects hiding a safety feature nobody ever explains."
+    }
+  ]
+}

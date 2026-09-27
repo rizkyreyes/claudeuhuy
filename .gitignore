@@ -1,0 +1,6 @@
+node_modules/
+projects/*/assets/
+projects/*/vendor/
+projects/*/index.html
+projects/*/out.mp4
+projects/*/final.mp4

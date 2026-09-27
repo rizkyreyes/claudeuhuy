@@ -1,0 +1,35 @@
+foil-box-tabs — sources for locked claims
+
+1. End-lock tabs on foil/plastic-wrap/parchment boxes press in to hold the roll's cardboard
+   core steady so it doesn't slide or jump out while pulling/tearing off a sheet:
+   - Slate, "End locks: aluminum foil and saran wrap box tabs are a great invention" (2013)
+     https://slate.com/culture/2013/05/end-locks-aluminum-foil-and-saran-wrap-box-tabs-are-a-great-invention-photo.html
+   - Mental Floss, "Why Are There Tabs on the Sides of Aluminum Foil Boxes?"
+     https://www.mentalfloss.com/article/640159/why-are-there-tabs-sides-aluminum-foil-boxes
+   - Snopes, "Foiled Again" (confirms locking tabs are real and functional, not a myth)
+     https://www.snopes.com/fact-check/foiled-again/
+
+2. With the tabs pushed in, the foil/wrap stays flat against the box's built-in cutting edge,
+   giving a cleaner, straighter tear:
+   - ManMadeDIY, "This hidden feature on aluminum foil boxes makes them much easier to use"
+     https://www.manmadediy.com/this-hidden-feature-on-aluminum-foil-boxes-makes-them-much-easier-to-use/
+   - Mental Floss (same article as above)
+
+3. Reynolds Wrap boxes print "Press Here to Lock Roll" on the tabs:
+   - Slate (above)
+   - Numerade / Chegg homework listings quoting the exact box text (corroborating, non-primary)
+     https://www.numerade.com/ask/question/question-50-1-pts-wrap-the-reynolds-wrap-aluminum-foil-box-has-two-side-tabs-that-say-press-here-to-lock-roll-to-keep-the-roll-of-foil-in-place-during-use-this-demonstrates-which-elements-of-58928/
+
+4. Reynolds did not add end locks to its foil boxes until 1996; explanatory text followed shortly
+   after (secondary-source claim, corroborated by two independent outlets — no primary Reynolds
+   statement found, so treated as reasonably but not fully locked):
+   - Mental Floss (above)
+   - ManMadeDIY (above)
+
+5. Plastic wrap and parchment paper boxes carry the same end-lock tabs:
+   - Mental Floss (above)
+   - Slate (above)
+
+AI-generated imagery note: all b-roll stills/clips in this project are AI-generated illustrative
+images (fal.ai gpt-image-2 / minimax image-to-video), not real photos of any person or event.
+No faces are shown.

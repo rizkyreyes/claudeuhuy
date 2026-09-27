@@ -5,12 +5,12 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 
 | # | slug | topic | status | duration | scheduled for (ET) | notes |
 |---|---|---|---|---|---|---|
-| b1-1 | tape-measure-hook | Loose hook on a tape measure | scheduled | 73.23 | Thu 24 Sep 2026 7 PM | batch 1 |
-| b1-2 | pot-handle-hole | Hole at the end of a pan handle | scheduled | 74.20 | Fri 25 Sep 2026 7 PM | batch 1 |
-| b1-3 | jeans-watch-pocket | Tiny pocket in jeans | scheduled | 74.57 | Sat 26 Sep 2026 7 PM | batch 1 |
-| b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | todo | | | see docs/topics.md |
-| b2-2 | fj-key-bumps | Bumps on the F and J keys | todo | | | |
-| b2-3 | foil-box-tabs | Locking tabs on a foil box | todo | | | |
+| b1-1 | tape-measure-hook | Loose hook on a tape measure | posted | 73.23 | Thu 24 Sep 2026 7 PM | batch 1, confirmed sent on all 3 channels |
+| b1-2 | pot-handle-hole | Hole at the end of a pan handle | posted | 74.20 | Fri 25 Sep 2026 7 PM | batch 1, confirmed sent on all 3 channels |
+| b1-3 | jeans-watch-pocket | Tiny pocket in jeans | posted | 74.57 | Sat 26 Sep 2026 7 PM | batch 1, confirmed sent on all 3 channels |
+| b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | scheduled | 74.77 | Sun 27 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-vevymc, confirmed live in Buffer, media/sources recovered to main |
+| b2-2 | fj-key-bumps | Bumps on the F and J keys | scheduled | 77.01 | Mon 28 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-gwdfjw, confirmed live in Buffer, media/sources recovered to main |
+| b2-3 | foil-box-tabs | Locking tabs on a foil box | scheduled | 71.40 | Tue 29 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-lgumw6, confirmed live in Buffer, media/sources recovered to main |
 | b2-4 | padlock-hole | Hole in the bottom of a padlock | todo | | | |
 | b2-5 | sink-overflow | Overflow hole in a bathroom sink | todo | | | |
 | b2-6 | toothpaste-square | Colored square on a toothpaste tube | todo | | | myth-bust |
