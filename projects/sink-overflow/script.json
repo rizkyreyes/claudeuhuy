@@ -1,0 +1,21 @@
+{
+  "slug": "sink-overflow",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_multilingual_v2",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That little hole near the top of your bathroom sink isn't decoration, and it's doing two jobs at once. The obvious one: if a faucet gets left running or the drain clogs, that hole channels the rising water back down before it spills onto your floor. The second job is the one nobody notices. Every time you drain a full sink, that hole lets air sneak into the drain pipe from above. Without it, the water creates a vacuum that fights itself, gurgling and slowing down. With it, air rushes in behind the water, and the whole sink empties faster and smoother. Here's the part that surprises people. No plumbing code actually requires this hole. Manufacturers add it anyway, on nearly every sink, because it's cheap insurance against a flood and a genuinely faster drain, which is also why some vessel sinks skip it entirely. One catch. Soap scum, toothpaste, and skin oil creep into that channel over time, which makes it one of the dirtiest spots in your bathroom if you never clean it out. Follow for more everyday hardware that's smarter than it looks."
+    }
+  ]
+}

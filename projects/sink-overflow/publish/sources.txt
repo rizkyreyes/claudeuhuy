@@ -1,0 +1,70 @@
+# Sources — sink-overflow
+
+Facts verified 2026-09-28 via web search (WebSearch tool).
+
+1. Overflow-hole purpose #1 (spill prevention): if a faucet is left running or a
+   drain clogs, the overflow channel diverts water back down before it spills
+   over the rim, buying time before a flood.
+   - "What Is The Hole At The Top Of Your Bathroom Sink For?" — House Digest
+     https://www.housedigest.com/1801300/hole-top-bathroom-sink-use-explained-what-for/
+   - "What Is The Hole At The Top Of Your Bathroom Sink For?" — Yahoo Lifestyle
+     https://www.yahoo.com/lifestyle/hole-top-bathroom-sink-163000937.html
+   - "Function and Cleaning of a Sink Overflow Hole" — Merry Maids
+     https://merrymaids.com/blog/function-and-cleaning-sink-overflow-hole
+
+2. Overflow-hole purpose #2 (drain speed / airflow): the hole lets air into the
+   drain channel as the sink empties, breaking the vacuum that would otherwise
+   slow the water down, so a full basin drains faster and smoother.
+   - Merry Maids (above)
+   - "Are Overflow Holes in Bathroom Basins Necessary?" — The Plumbette
+     https://www.theplumbette.com.au/building-and-renovation/are-overflow-holes-in-bathroom-basins-necessary/
+
+3. Not a plumbing-code requirement: no plumbing code mandates an overflow hole
+   on a bathroom sink in most jurisdictions — it's a voluntary manufacturer
+   feature, not a universal legal requirement (which is why some vessel/vanity
+   sinks skip it).
+   - "Overflow holes in bathroom sinks - required by code?" — Houzz Forum
+     https://www.houzz.com/discussions/2815550/overflow-holes-in-bathroom-sinks-required-by-code
+   - IAPMO Code Spotlight (March 2018), "Not all plumbing fixtures are
+     required to have an overflow."
+     https://forms.iapmo.org/email_marketing/codespotlight/2018/mar8.htm
+
+4. Maintenance note: soap, toothpaste, and skin oils migrate into the overflow
+   channel over time and build up, becoming a spot for bacteria/mold/biofilm
+   if never cleaned.
+   - House Digest (above)
+   - "The Purpose and Cleaning of a Sink Overflow Hole" — Badger Luxe Cleaning
+     https://badgerluxecleaning.com/purpose-and-cleaning-of-a-sink-overflow-hole/
+
+No AI-generated imagery in this video shows text, logos, or real/identifiable
+people — see notes below per asset.
+
+## B-roll asset log
+
+### Stock (Pexels / Pixabay — free for commercial use, no attribution required, logged anyway)
+- t01 (clip) — Pexels video 5614823, "Vintage style faucet with running water", Tima Miroshnichenko — https://www.pexels.com/video/vintage-style-faucet-with-running-water-5614823/
+- t03 (still) — Pexels photo 11182884, "Hands immersing in sink with water" — https://www.pexels.com/photo/hands-immersing-in-sink-with-water-11182884/
+- t04 (clip) — Pexels video 8084880, "Water flowing on the sink" — https://www.pexels.com/video/water-flowing-on-the-sink-8084880/
+- t05 (still) — Pexels photo 5768318, "Stainless steel cover of drain in modern shower" — https://www.pexels.com/photo/stainless-steel-cover-of-drain-in-modern-shower-5768318/
+- t07 (still) — Pexels photo 9462308, "Close-up of a soapy kitchen sink" — https://www.pexels.com/photo/close-up-of-a-soapy-kitchen-sink-9462308/
+- t09 (clip) — Pexels video 9462947, "Soap bubbles going through sink drainage" — https://www.pexels.com/video/soap-bubbles-going-through-sink-drainage-9462947/
+- t11 (clip) — Pexels video 34762373, "Close-up of hand washing in kitchen sink" — https://www.pexels.com/video/close-up-of-hand-washing-in-kitchen-sink-34762373/
+  (originally picked Pixabay video 283533 for this cue; on review its actual footage was ocean waves, not a sink — mismatch caught before delivery and swapped for this Pexels clip)
+- t12 (still) — Pixabay photo 1018927, "sink rain drops water drain" — https://pixabay.com/photos/sink-rain-drops-water-drain-1018927/
+- t13 (clip) — Pexels video 8563625, "Slow motion video of water coming out from faucet" (720x1280 source, upscaled) — https://www.pexels.com/video/slow-motion-video-of-water-coming-out-from-faucet-8563625/
+  (originally picked Pixabay video 330898 for this cue; on review its actual footage was a frozen forest stream, not a sink — mismatch caught before delivery and swapped for this Pexels clip)
+- t14 (still) — Pexels photo 4154172, "Person in black long sleeve shirt holding white ceramic sink" (hands/torso only, no face) — https://www.pexels.com/photo/person-in-black-long-sleeve-shirt-holding-white-ceramic-sink-4154172/
+- t15 (still) — Pexels photo 6920608, "Photo of a bathroom sink" — https://www.pexels.com/photo/photo-of-a-bathroom-sink-6920608/
+- t16 (clip) — Pexels video 6845752, "Minimalist white bathroom sink" — https://www.pexels.com/video/minimalist-white-bathroom-sink-6845752/
+- t18 (still) — Pexels photo 9462652, "Close-up of brushing the sink" — https://www.pexels.com/photo/close-up-of-brushing-the-sink-9462652/
+- t19 (clip) — Pexels video 36778246, "Elegant modern bathroom interior design" — https://www.pexels.com/video/elegant-modern-bathroom-interior-design-36778246/
+
+### AI-generated (fal.ai openai/gpt-image-2 stills; minimax h3-max image-to-video for the 2 clips)
+All AI-generated illustrative macro/interior shots — not a real person, product, or event.
+- t02 (still, HIGH — hook shot) — macro of an overflow hole in a porcelain sink wall, water droplets, no text/logos/people.
+- t06 (still HIGH + animated 6s clip) — water trickling sideways into the overflow slot (core mechanism #1: spill prevention), no text/logos/people.
+- t08 (still, MEDIUM) — low-angle view of the overflow passage from underneath the basin, no text/logos/people.
+- t10 (still MEDIUM + animated 6s clip) — air bubbles at the overflow slot (core mechanism #2: airflow/drain speed), no text/logos/people.
+- t17 (still, MEDIUM) — macro of grime/mineral buildup inside the overflow channel, no text/logos/people.
+
+AI-clip budget: 2 of 2-3 max. AI-still budget: 2 high + 3 medium (5 total), all others real stock — lighter than the 2-3/6-8 mix used on prior batch-2 videos, well within the ~$1.1-1.3/video cost target.
