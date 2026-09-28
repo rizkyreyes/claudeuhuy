@@ -1,5 +1,7 @@
 # Topic bank
 
+**October 2026:** 63 more researched topics are in `docs/topics-october.md`. The order they go out in is in `state/queue.md`.
+
 Each topic: the hook, the verified reason, and where the claim comes from. **Re-verify every fact on the day you script it** (web search), and cut anything you can't confirm. Longer draft scripts for batch 2 live in the claude.ai Project doc `claude/batch-2-scripts.md` — use them as a starting point, not as verified copy.
 
 1. **Hole in a ballpoint pen cap** — Hook: "There's a hole in the top of your pen cap. It's not for the ink." Reason: a vented cap lets air through if a child inhales it; UK standard BS 7272 (1990), then ISO 11540; BIC states its caps comply. Draft figure to re-check: nine UK child deaths 1970–84. Source to re-check: Snopes "Are the Holes in Ballpoint Pen Caps to Prevent Choking?". The hole on the barrel is a different job (pressure equalization so ink flows).

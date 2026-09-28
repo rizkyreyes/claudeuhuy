@@ -5,7 +5,9 @@
 // environment's fal.ai API credential (host queue.fal.run, header Authorization, prefix "Key") is added by the proxy.
 //
 //   node falsync.mjs image <out.jpg> <WxH> <low|medium|high> <prompt...>
-//   node falsync.mjs video <first-frame.jpg> <out.mp4> <duration 6|10> <prompt...>      (minimax/h3-max 768P)
+//   node falsync.mjs ltx   <first-frame.jpg> <out.mp4> <duration 6|8|10> <prompt...>    (LTX-2.3 Fast, 1080p 9:16, $0.06/s) — DEFAULT for clips
+//   node falsync.mjs video <first-frame.jpg> <out.mp4> <duration 6|10> <prompt...>      (minimax/h3-max 768P, $0.08/s from 1 Oct 2026) — fallback
+//   node falsync.mjs cdn          # can this environment download from *.fal.media? (LTX returns a URL there, not inline data)
 //   node falsync.mjs probe        # auth check: POSTs an EMPTY job (it fails validation, produces nothing).
 //                                 # HTTP 200 = credential works, 401 = no credential attached.
 import fs from "node:fs"; import os from "node:os"; import path from "node:path";
@@ -45,6 +47,14 @@ export async function run(model, input, label = model) {
     } catch (e) { if (a === 5) throw new Error(`${label} result fetch failed for PAID request ${request_id}: ${e.message}`); await sleep(5000 * a); }
   }
 }
+export async function saveMedia(u, out) {        // data URI (sync_mode) or a fal.media URL
+  if (String(u).startsWith("data:")) return saveDataUri(u, out);
+  for (let a = 1; a <= 4; a++) {
+    try { const r = await fetch(u); if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      fs.mkdirSync(path.dirname(out), { recursive: true }); fs.writeFileSync(out, Buffer.from(await r.arrayBuffer())); return out; }
+    catch (e) { if (a === 4) throw new Error(`download failed (${e.message}) — the job is PAID, url: ${u}`); await sleep(3000 * a); }
+  }
+}
 export function saveDataUri(uri, out) {
   const m = String(uri).match(/^data:[^;]+;base64,(.*)$/s);
   if (!m) throw new Error(`expected a data URI (sync_mode), got: ${String(uri).slice(0, 80)}`);
@@ -60,11 +70,20 @@ if (process.argv[1] && process.argv[1].endsWith("falsync.mjs")) {
     const [out, size, quality, ...p] = a; const [w, h] = size.split("x").map(Number);
     const { request_id, json } = await run("openai/gpt-image-2", { prompt: p.join(" "), image_size: { width: w, height: h }, quality, num_images: 1, output_format: "jpeg", sync_mode: true }, path.basename(out));
     saveDataUri(json.images?.[0]?.url, out); console.log(`${out} ok ${request_id}`);
+  } else if (cmd === "cdn") {
+    try { const r = await fetch("https://v3b.fal.media/", { method: "HEAD" }); console.log(`fal.media reachable (HTTP ${r.status}) — use ltx`); }
+    catch (e) { console.log(`fal.media NOT reachable (${e.cause?.message || e.message}) — use video (minimax) instead`); }
+  } else if (cmd === "ltx") {
+    const [img, out, dur, ...p] = a;
+    const { request_id, json } = await run("fal-ai/ltx-2.3/image-to-video/fast", {
+      prompt: p.join(" "), duration: +dur || 6, resolution: "1080p", aspect_ratio: "9:16", fps: 25, generate_audio: false,
+      image_url: `data:image/jpeg;base64,${fs.readFileSync(img).toString("base64")}`, sync_mode: true }, path.basename(out));
+    await saveMedia(json.video?.url, out); console.log(`${out} ok ${request_id}`);
   } else if (cmd === "video") {
     const [img, out, dur, ...p] = a;
     const { request_id, json } = await run("minimax/h3-max/image-to-video", {
       prompt: p.join(" "), prompt_expansion_mode: "balanced", duration: +dur || 6, resolution: "768P", enable_safety_checker: true,
       image_url: `data:image/jpeg;base64,${fs.readFileSync(img).toString("base64")}`, sync_mode: true }, path.basename(out));
     saveDataUri(json.video?.url, out); console.log(`${out} ok ${request_id}`);
-  } else { console.log("usage: probe | image <out> <WxH> <quality> <prompt> | video <img> <out> <dur> <prompt>"); process.exit(1); }
+  } else { console.log("usage: probe | cdn | image <out> <WxH> <quality> <prompt> | ltx|video <img> <out> <dur> <prompt>"); process.exit(1); }
 }

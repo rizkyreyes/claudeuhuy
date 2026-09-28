@@ -2,25 +2,19 @@
 
 ## Video
 - Vertical 1080x1920, 30 fps, h264 + aac, ~70–78 s. English narration, voice "Chris Anthony" (ElevenLabs `uKGPYP2uuyRQv8SeFre0`, `eleven_multilingual_v2`), loudness -16 LUFS.
-- Full-bleed b-roll, a new shot every 3–5 s, each cut on a spoken word. Stills get a slow Ken Burns drift; 2–3 real motion clips per video.
+- Full-bleed b-roll, a new shot every 3–5 s, each cut on a spoken word. Stills get a slow Ken Burns drift; several real motion clips per video (stock first, 1–2 AI).
 - Karaoke captions at the bottom (current word yellow `#F5C242`, spoken words white, upcoming words dimmed), dark gradient behind them. **No text in the middle of the screen.**
 - All three platforms get the "AI-generated" label (the b-roll includes photoreal AI imagery).
 
-## Cost — "mixed scenario" (decided 23 Sep 2026)
-- Stock footage (Pexels / Pixabay) first for anything generic — free.
+## Cost: October 2026 (2 videos a day, decided 28 Sep 2026)
+- Stock footage (Pexels / Pixabay) first for anything generic. It's free. Aim for 4–6 stock clips per video.
 - AI stills (fal.ai `openai/gpt-image-2`, 1088x1920): **high** only for the 1–2 key shots, **medium** for the rest.
-- AI clips: minimax h3-max image-to-video 768P, 6 s, 2–3 per video. $0.04/s until 30 Sep 2026, $0.08/s after — test LTX-2 Fast ($0.04/s) before switching.
-- Target ≈ $1.1–1.3 per video.
+- AI clips: **1–2 per video**. Trying **LTX-2.3 Fast** (`fal-ai/ltx-2.3/image-to-video/fast`, 1080p 9:16, $0.06/s = $0.36 per 6 s clip) instead of minimax h3-max 768P ($0.08/s from 1 Oct = $0.48 per clip). LTX returns the file on fal.media, so the environment must be able to reach `*.fal.media`; if not, the pipeline falls back to minimax.
+- Rough fal.ai spend for 62 videos: about $55–90 for the month (stills plus 1–2 LTX clips each). ElevenLabs: ~1,000–1,100 characters per video, so about 65,000 characters for October.
 
-## Captions per platform (examples from batch 1)
+## Captions per platform
 
-**YouTube** — title: question form, ≤100 chars, ends with `#shorts`, e.g. `Why Does a Tape Measure Have a Loose Hook? #shorts`. Description: 2–3 plain sentences with the actual answer, one "Follow for more …" line, 6–7 hashtags ending `#shorts`.
-
-**TikTok** — one short line that teases without giving the answer away, then 5–6 hashtags ending `#fyp`. e.g. `That wobbly hook on your tape measure isn't broken. It's the smartest part of the tool. #tapemeasure #tools #woodworking #diy #didyouknow #engineering #fyp`
-
-**Instagram** — 2–3 sentences with the answer, a line `Follow @hidden.in.yourhome for more …` (vary the ending every time), 7–9 hashtags ending `#hiddeninyourhome`.
-
-Write like a person talking, not a press release. No em-dash chains, no "Did you know?!" openers, no emojis unless Rizky asks.
+See `docs/vidiq-captions.md` (VidIQ-curated hashtags, title scoring, human-tone rules, worked example). Posting times: `docs/schedule-october.md`.
 
 ## Batch 1 (already scheduled, 24–26 Sep 2026)
 | Video | Duration | Posts at (ET) |
