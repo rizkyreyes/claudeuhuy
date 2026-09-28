@@ -1,5 +1,7 @@
 # Production queue
 
+Channels (from 28 Sep 2026): **YouTube, TikTok, Facebook Page**. Instagram was removed from Buffer (free plan = 3 channels).
+
 Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `scheduled` (posts created in Buffer) → `posted`.
 `duration` = exact final MP4 length in seconds (used to match Buffer drafts to videos).
 `scheduled for (ET)` on `todo` rows is the PLANNED slot from `docs/schedule-october.md`. If production falls behind, don't skip topics: give the next `todo` row the earliest empty slot and update this column to the real time.
@@ -10,11 +12,11 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | b1-1 | tape-measure-hook | Loose hook on a tape measure | posted | 73.23 | Thu 24 Sep 2026 7 PM | batch 1, confirmed sent on all 3 channels |
 | b1-2 | pot-handle-hole | Hole at the end of a pan handle | posted | 74.20 | Fri 25 Sep 2026 7 PM | batch 1, confirmed sent on all 3 channels |
 | b1-3 | jeans-watch-pocket | Tiny pocket in jeans | posted | 74.57 | Sat 26 Sep 2026 7 PM | batch 1, confirmed sent on all 3 channels |
-| b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | scheduled | 74.77 | Sun 27 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-vevymc, confirmed live in Buffer, media/sources recovered to main |
+| b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | posted | 74.77 | Sun 27 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-vevymc, confirmed live in Buffer, media/sources recovered to main |
 | b2-2 | fj-key-bumps | Bumps on the F and J keys | scheduled | 77.01 | Mon 28 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-gwdfjw, confirmed live in Buffer, media/sources recovered to main |
 | b2-3 | foil-box-tabs | Locking tabs on a foil box | scheduled | 71.40 | Tue 29 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-lgumw6, confirmed live in Buffer, media/sources recovered to main |
 | b2-4 | padlock-hole | Hole in the bottom of a padlock | scheduled | 72.87 | Wed 30 Sep 2026 7 PM | scheduled 28 Sep from main/media via raw URL, captions rewritten with VidIQ hashtags |
-| o-01 | sink-overflow | Overflow hole in a bathroom sink | todo | | Thu 1 Oct 2026 12 PM | was b2-5, see docs/topics.md |
+| o-01 | sink-overflow | Overflow hole in a bathroom sink | scheduled | 73.13 | Thu 1 Oct 2026 12 PM | produced by the 28 Sep run; scheduled 28 Sep on YouTube, TikTok, Facebook from main/media |
 | o-02 | toothpaste-square | Colored square on a toothpaste tube | todo | | Thu 1 Oct 2026 7 PM | was b2-6, myth-bust, see docs/topics.md |
 | o-03 | window-weep-holes | Weep holes in a window frame | todo | | Fri 2 Oct 2026 12 PM | was b2-7, see docs/topics.md |
 | o-04 | microwave-door-mesh | Metal mesh dots in the microwave door | todo | | Fri 2 Oct 2026 7 PM | kitchen · safety · docs/topics-october.md |

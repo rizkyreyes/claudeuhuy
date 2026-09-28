@@ -6,7 +6,7 @@ Data came from VidIQ keyword research (country US) and outlier/title scoring. Nu
 
 - Write the way you'd text a friend who asked "wait, why does it have that?" Short sentences. Contractions (it's, don't, you'll).
 - **No em dashes (—) at all.** Use a period or a comma. No "Did you know?!", no "Here's the thing", no "game-changer", "mind-blowing", "unlock", "delve", "elevate".
-- Say the actual answer in the first sentence of YouTube and Instagram. TikTok only teases.
+- Say the actual answer in the first sentence of YouTube and Facebook. TikTok only teases.
 - One idea per sentence. If a sentence has two commas and a "which", split it.
 - No emojis (Rizky's rule). No ALL CAPS words.
 - The follow line changes every video, and it should sound like something a person would say, e.g. "Follow if you like knowing why your stuff looks the way it does." Never reuse one within 10 videos. Check `projects/*/publish/captions.md` for the last 10.
@@ -31,7 +31,7 @@ If the VidIQ connector is available in the run, score 2 versions with `vidiq_sco
 
 ## 3. Hashtags
 
-Pick from three layers. Total: YouTube 6–7 (last one `#shorts`), TikTok 4–5 (last one `#fyp`), Instagram 7–9 (last one `#hiddeninyourhome`).
+Pick from three layers. Total: YouTube 6–7 (last one `#shorts`), TikTok 4–5 (last one `#fyp`), Facebook 4–5 (no `#shorts`, no `#fyp`; Facebook shows long hashtag rows as clutter).
 
 **Layer 1: object tag (1 tag).** The object itself in plain words: `#padlock`, `#microwave`, `#toothbrush`. Use it even when volume is tiny, because it tells the algorithm what's in the video.
 
@@ -59,7 +59,7 @@ Pick from three layers. Total: YouTube 6–7 (last one `#shorts`), TikTok 4–5 
 | tech | `#tech` (110K US), `#techfacts` |
 | clothing, carry, office | `#lifehacks`, `#design`, `#history` (not VidIQ-checked, use sparingly) |
 
-Avoid: `#didyouknow` on every post (we overused it in September), `#shorts` on TikTok/Instagram, `#fyp` on YouTube, and anything unrelated just because it's big (`#learnenglish`, `#brightside`).
+Avoid: `#didyouknow` on every post (we overused it in September), `#shorts` on TikTok/Facebook, `#fyp` on YouTube or Facebook, and anything unrelated just because it's big (`#learnenglish`, `#brightside`).
 
 ## 4. Per-platform format
 
@@ -67,7 +67,7 @@ Avoid: `#didyouknow` on every post (we overused it in September), `#shorts` on T
 
 **TikTok**: one short line that teases without giving the answer, then hashtags. Under 150 characters total.
 
-**Instagram**: 2–3 sentences with the answer (can differ in wording from YouTube), blank line, `Follow @hidden.in.yourhome …` with a fresh ending, blank line, hashtags.
+**Facebook (Reel)**: 2–4 sentences with the answer, worded differently from YouTube, blank line, `Follow Hidden In Your Home …` with a fresh ending (no @handle; it's a Page), blank line, 4–5 hashtags. Instagram is no longer connected (replaced 28 Sep 2026).
 
 ## 5. Worked example (padlock-hole, scheduled Wed 30 Sep 7 PM ET)
 
@@ -83,12 +83,12 @@ YouTube description:
 TikTok:
 > That little hole under your padlock isn't a second keyhole. #padlock #howthingswork #interestingfacts #diy #fyp
 
-Instagram:
-> That tiny hole under your padlock lets rainwater drain out, so the lock doesn't rust or crack in a freeze. It's also where the lube goes when the shackle gets stiff. Grab dry graphite or PTFE spray, not the oil can. Oil holds onto dirt and gums up the lock.
+Facebook:
+> That tiny hole under your padlock lets rainwater drain out, so the lock doesn't rust or crack when it freezes. It's also where the lube goes when the shackle gets stiff. Use dry graphite or PTFE spray, not the oil can. Oil holds onto dirt and gums the lock up.
 >
-> Follow @hidden.in.yourhome if you like finding out why your stuff looks the way it does.
+> Follow Hidden In Your Home for more everyday stuff that's smarter than it looks.
 >
-> #padlock #howthingswork #interestingfacts #hiddendesign #funfacts #diy #homehacks #hiddeninyourhome
+> #padlock #howthingswork #interestingfacts #diy #homehacks
 
 ## 6. What worked for competitors (VidIQ outliers, Shorts, last 6 months)
 
