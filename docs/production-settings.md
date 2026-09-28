@@ -1,7 +1,7 @@
 # Production settings
 
 ## Video
-- Vertical 1080x1920, 30 fps, h264 + aac, ~70–78 s. English narration, voice "Chris Anthony" (ElevenLabs `uKGPYP2uuyRQv8SeFre0`, `eleven_multilingual_v2`), loudness -16 LUFS.
+- Vertical 1080x1920, 30 fps, h264 + aac, ~70–78 s. English narration, voice "Chris Anthony" (ElevenLabs `uKGPYP2uuyRQv8SeFre0`, model **`eleven_v4_turbo`** from 29 Sep 2026 (0.5x character cost); before that `eleven_multilingual_v2`), loudness -16 LUFS.
 - Full-bleed b-roll, a new shot every 3–5 s, each cut on a spoken word. Stills get a slow Ken Burns drift; several real motion clips per video (stock first, 1–2 AI).
 - Karaoke captions at the bottom (current word yellow `#F5C242`, spoken words white, upcoming words dimmed), dark gradient behind them. **No text in the middle of the screen.**
 - YouTube and TikTok posts get the "AI-generated" label (the b-roll includes photoreal AI imagery). Buffer has no AI-label field for Facebook.

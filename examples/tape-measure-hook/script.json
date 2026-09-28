@@ -2,7 +2,7 @@
   "slug": "tape-measure-hook",
   "mode": "explainer",
   "voiceId": "uKGPYP2uuyRQv8SeFre0",
-  "modelId": "eleven_multilingual_v2",
+  "modelId": "eleven_v4_turbo",
   "language": "en",
   "seed": 42,
   "voiceSettings": {

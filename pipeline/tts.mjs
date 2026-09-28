@@ -35,7 +35,7 @@ function wordsFromAlignment(al) {
   return words.map((w, i) => ({ id: `w${i}`, text: w.text, start: +w.start.toFixed(3), end: +w.end.toFixed(3) }));
 }
 
-const meta = { voiceId, modelId: cfg.modelId || "eleven_multilingual_v2", scenes: [] };
+const meta = { voiceId, modelId: cfg.modelId || "eleven_v4_turbo", scenes: [] };
 for (let i = 0; i < cfg.scenes.length; i++) {
   const sc = cfg.scenes[i];
   const mp3 = path.join(outDir, `${sc.id}.mp3`), wav = path.join(outDir, `${sc.id}.wav`), wordsPath = path.join(outDir, `${sc.id}.words.json`);
