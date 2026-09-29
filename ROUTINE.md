@@ -2,7 +2,7 @@
 
 You are the daily production run for **Hidden In Your Home**, a faceless short-form channel (YouTube Shorts, TikTok, Instagram Reels) about the hidden reason behind small design details on everyday objects. English, US audience. Owner: Rizky (writes in Indonesian — any note to him is in plain, friendly Indonesian).
 
-Work in this repository, on the `main` branch (commit and push straight to `main`). Read `state/queue.md`, `docs/production-settings.md`, `docs/schedule-october.md` and `docs/vidiq-captions.md` first. At the end, update `state/queue.md` and append to `docs/run-log.md`, then commit and push.
+Work in this repository, on the `main` branch (commit and push straight to `main`). Read **`docs/playbook.md`** first (it's updated every Sunday by the weekly review and **overrides the other docs where they conflict**), then `state/queue.md`, `docs/production-settings.md`, `docs/schedule-october.md` and `docs/vidiq-captions.md`. At the end, update `state/queue.md` and append to `docs/run-log.md`, then commit and push.
 
 **October 2026 target: 2 videos a day** (62 slots, planned topic per slot in `state/queue.md`).
 
@@ -59,7 +59,7 @@ Count the slots from now through the next 96 hours (4 days, max 8 slots, which a
 For the chosen topic, in `projects/<slug>/`:
 
 1. **Fact-check first.** The topic's starting notes and sources are in `docs/topics-october.md` (or `docs/topics.md` for the first three). Search the web for every claim, number, date and named source. Mark each LOCKED (verified this run) or cut it. Record sources in `projects/<slug>/publish/sources.txt`.
-2. **Script** → `script.json` (format: `examples/tape-measure-hook/script.json`). One continuous narration, ~165–190 words ≈ 70–76 s with eleven_v4_turbo (~2.5 words/s). Hook complete in the first 2 seconds, open loop, payoff, one CTA line. Written for the ear. Voice `uKGPYP2uuyRQv8SeFre0` ("Chris Anthony"), model **`eleven_v4_turbo`** (Eleven v4 Turbo, half the character cost of v4, chosen by Rizky 29 Sep 2026; set `"modelId": "eleven_v4_turbo"` in script.json). No square brackets in the narration: v4 models read `[...]` as delivery tags.
+2. **Script** → `script.json` (format: `examples/tape-measure-hook/script.json`). One continuous narration; length and word count follow `docs/playbook.md` (eleven_v4_turbo speaks about 3.1 words/s). Hook complete in the first 2 seconds, open loop, payoff, one CTA line. Written for the ear. Voice `uKGPYP2uuyRQv8SeFre0` ("Chris Anthony"), model **`eleven_v4_turbo`** (Eleven v4 Turbo, half the character cost of v4, chosen by Rizky 29 Sep 2026; set `"modelId": "eleven_v4_turbo"` in script.json). No square brackets in the narration: v4 models read `[...]` as delivery tags.
 3. **Voice-over**: `node ../../pipeline/tts.mjs script.json assets/vo` → `assets/vo/audio_meta.json` (word timestamps). If the take is > 80 s, trim words and regenerate with `--force`.
 4. **Shot list** → `shots.mjs` (format: `examples/tape-measure-hook/shots.mjs`): 15–20 cues, cut every 3–5 s on a spoken word. Each cue's word is the *next occurrence after the previous cue* — avoid ambiguous short words ("a", "the", "it"), prefer distinctive words.
 5. **B-roll — mixed scenario** (costs matter):
