@@ -1,0 +1,24 @@
+FACT SOURCES (web search, 29 Sep 2026; several publisher pages were blocked by the sandbox proxy for full fetch, so claims are locked from multiple concordant search results)
+LOCKED claims:
+1. Weep holes are drainage openings at the bottom exterior of a window frame that let water (rain, wind-driven rain, condensation, gasket leakage) drain outside. Sources: Hunker https://www.hunker.com/13403252/how-a-vinyl-window-with-weep-holes-works/ ; Eco-Line Windows https://www.ecolinewindows.ca/what-are-window-weep-holes-a-complete-guide-for-homeowners/ ; Angi https://www.angi.com/articles/weep-hole.htm ; Building America Solution Center (PNNL) https://basc.pnnl.gov/diy-guides/clean-window-weep-holes
+2. Vinyl frames are hollow with a drainage cavity/channels that steer water to the bottom track; on sliding windows water collects in the lower track. Sources: Hunker, Magic Window https://www.magicwindow.ca/blog/weep-holes-in-windows-what-they-do-how-to-clean-them
+3. Industry standard weep slot is 3/16 in x 5/8 in or larger (script says "about five eighths of an inch long"). Source: Warren Forensics, Water Removal in Windows and Doors Part 1 https://www.warrenforensics.com/2025/06/11/water-removal-in-windows-and-doors-part-1-weep-holes/
+4. Caulking/blocking traps water, damaging sill, framing, sheathing, wall cavity, mold and rot. Sources: Canadian Choice Windows https://www.windowscanada.com/whitepages/what-are-weep-holes-in-windows-and-why-you-should-never-block-them.html ; Hansen Pole Buildings https://www.hansenpolebuildings.com/2015/10/dont-cry-about-weep-holes/ ; Door & Window Magazine https://www.doorandwindow.com/windows/installation/weep-holes-are-nothing-to-cry-about.php
+5. Fix: remove caulk / clear with putty knife, utility knife or flathead screwdriver, remove dirt, insects. Sources: PNNL BASC, Angi.
+CUT: pressure-equalization claim (single source), "clean once a season" (not stated in script), any claim about covers/flaps.
+Note: vinyl-window specific wording in script kept generic ("window frame"); topic note in docs/topics.md item 7.
+
+STOCK FILES (Pexels, free commercial license)
+- w05 Pexels 11487519 "View from window on downpour" https://www.pexels.com/video/view-from-window-on-downpour-11487519/ (author per page)
+- w06 Pexels 19280141 "Trees in windy weather" https://www.pexels.com/video/trees-in-windy-weather-19280141/
+- w07 Pexels 5192033 "Video of a wet window" https://www.pexels.com/video/video-of-a-wet-window-5192033/
+- w08 Pexels 12742709 "Close-up of raindrops on glass" https://www.pexels.com/video/close-up-of-raindrops-on-glass-12742709/ (Binil Babu)
+- w13 Pexels 38782629 "Raindrops glistening on window pane" https://www.pexels.com/video/raindrops-glistening-on-window-pane-38782629/
+- w16b Pexels 4440686 "Person cleaning the window" https://www.pexels.com/video/person-cleaning-the-window-4440686/ (hands in gloves only)
+All six previewed (first + later frame) before use. Rejected: Pixabay 78931/78932 (unrelated fantasy art), Pexels 39586470 (identifiable man), 37872704 (too dark).
+
+AI ASSETS (fal.ai openai/gpt-image-2, illustrative, not a real person/event, no logos or text)
+- HIGH: w01, w09
+- MEDIUM: w02, w03, w04, w10, w11, w12, w14, w15, w16, w17
+- LTX-2.3 Fast clips (from stills): w01 (6 s), w11 (6 s)
+Voice: ElevenLabs "Chris Anthony" uKGPYP2uuyRQv8SeFre0, model eleven_v4_turbo.

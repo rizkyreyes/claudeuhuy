@@ -1,0 +1,21 @@
+{
+  "slug": "window-weep-holes",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Those little slots at the bottom of your window frame look like a gap someone forgot to seal. Please don't seal them. They're called weep holes, and they're the only way out for water. The industry standard is a narrow slot, about five eighths of an inch long, tucked low on the outside of the frame. Here's the thing. Rain finds its way into a window. Wind pushes it past the seals, and condensation drips down the glass. Nobody builds a window that stays perfectly dry inside. So the frame is made hollow, with channels that catch that water and steer it to the bottom track. On a sliding window, that's the track you slide along. Then it drains through the weep holes and back outside, like a tiny gutter built into the frame. Now imagine you caulk those slots shut, because you felt a draft. The water still gets in. But now it has nowhere to go. It sits in the frame, soaks the sill, and can leak into the wall below, where you can't see it. Rot and mold can build up there for years. The fix is boring. Poke the slots clear with a small screwdriver, and brush out the dirt and bugs. So the next time you see those slots, leave them open. They're not a flaw. They're the drain. Follow for more everyday details that are doing a quiet job."
+    }
+  ]
+}
