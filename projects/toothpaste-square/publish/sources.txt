@@ -1,0 +1,43 @@
+# Sources: toothpaste-square
+
+Facts verified 2026-09-29 via web search (WebSearch). Direct page fetches of colgate.com, snopes.com,
+mentalfloss.com and healthline.com were blocked by the network proxy, so those claims are locked from
+the search-result excerpts of several independent outlets (marked below), not from full-page reads.
+
+1. The myth: green = natural, blue = natural + medicine, red = natural + chemicals, black = all chemicals. LOCKED
+   - Snopes, "Do Color Codes on Toothpaste Tubes Identify Their Ingredients?" (rated false)
+     https://www.snopes.com/fact-check/false-tube-stakes/
+   - Africa Check https://africacheck.org/fact-checks/meta-programme-fact-checks/colour-coded-blocks-dont-indicate-your-toothpastes
+2. The square does not identify the composition; fact checkers rated the claim false; manufacturers/regulators do not use it to classify ingredients. LOCKED
+   - Snopes (above); Healthline https://www.healthline.com/health/toothpaste-color-code ;
+     Mental Floss https://www.mentalfloss.com/article/630094/what-the-color-codes-on-toothpaste-tubes-mean
+   - Colgate, "What is a Toothpaste Color Code" https://www.colgate.com/en-us/oral-health/selecting-dental-products/what-is-a-toothpaste-color-code
+3. What it is: an "eye mark" (color mark), a printed mark read by a light-beam sensor to locate where packaging is printed, cut, folded or sealed as it moves through machinery. LOCKED
+   - Snopes, Colgate, Mental Floss (above); Misbar https://www.misbar.com/amp/en/factcheck/2022/01/22/toothpaste-color-codes-are-for-manufacturing-purposes-only
+4. The color only needs to contrast with the tube so the sensor detects it; the same product can carry different mark colors. LOCKED (Snopes: different colors signify different packaging/sensors; Healthline/Ranvoo excerpts on contrast)
+   - https://www.healthline.com/health/toothpaste-color-code ; https://ranvoo.com/blogs/oral-health/what-is-a-toothpaste-color-code
+5. For actual ingredients, read the ingredient information printed on the tube or box. LOCKED (search excerpt of Snopes/Healthline)
+
+Not claimed in the video: any year, any brand, any regulator statement beyond "toothpaste companies say the same" (Colgate page).
+
+## Stock footage (Pexels license, free commercial use; normalized to 1080x1920/30fps)
+- t02 Pexels 7593909, "A person putting toothpaste on a toothbrush", Miriam Alonso https://www.pexels.com/video/a-person-putting-toothpaste-on-a-toothbrush-7593909/
+- t03 Pexels 37915625, "Close-up of green fig tree leaves in summer" https://www.pexels.com/video/close-up-of-green-fig-tree-leaves-in-summer-37915625/
+- t04 Pexels 8325960, "Coloring clear liquid" https://www.pexels.com/video/coloring-clear-liquid-8325960/
+- t07 Pexels 38410501, "Scrolling through social media on smartphone" https://www.pexels.com/video/scrolling-through-social-media-on-smartphone-38410501/
+- t09 Pexels 6120117, "Reading graphs while using magnifying glass" https://www.pexels.com/video/reading-graphs-while-using-magnifying-glass-6120117/
+- t10 Pexels 38052460, "Industrial factory conveyor system overview" https://www.pexels.com/video/industrial-factory-conveyor-system-overview-38052460/
+- t12 Pexels 31715277, "Efficient citrus sorting in a modern facility" https://www.pexels.com/video/efficient-citrus-sorting-in-a-modern-facility-31715277/
+- t16 Pexels 7593921, "Washing a toothbrush" https://www.pexels.com/video/washing-a-toothbrush-7593921/
+(Authors other than t02 not recorded by the search output; page URLs identify them. Each candidate's frames were previewed before use.)
+
+## AI assets (AI-generated illustrative, not a real person/event; fal openai/gpt-image-2, 1088x1920)
+- t01 still HIGH (green square on plain tube) + LTX-2.3 Fast clip 6 s
+- t11 still HIGH (sensor beam on tube end) + LTX-2.3 Fast clip 6 s
+- t05 medium (four tubes, four square colors)
+- t06 medium (black square)
+- t08 medium (blue square macro)
+- t13 medium (white square on dark tube)
+- t14 medium (two tubes, red and green squares)
+- t15 medium (plain tube and box on counter)
+Generic illustrations only: no brands, no text, no people.

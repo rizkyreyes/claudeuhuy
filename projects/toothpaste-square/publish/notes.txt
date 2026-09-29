@@ -1,0 +1,9 @@
+toothpaste-square production notes
+- AI stills: 2 high (t01, t11), 6 medium (t05, t06, t08, t13, t14, t15).
+- LTX-2.3 Fast clips: 2.
+  - t01: sharp, no warping; but the tube slides upward over the 6 s and the green square exits the top of frame by the end (the cue only shows the first ~4 s, so fine).
+  - t11: sharp, stable, red beam and sensor stay clean, no warping.
+- Stock clips: 8 (7593909, 37915625, 8325960, 38410501, 6120117, 38052460, 31715277, 7593921), all previewed (3 frames each) before use. Rejected: 38855473 (worker's face), 7250661 and 6762646 (readable jar text), 30775057 (brand text on beaker).
+- VO is 58.9 s (184 words, faster than the ~2.5 words/s assumption, about 3.1 words/s), so the video is shorter than the 70-76 s target. No padding added.
+- Odd: colgate.com, snopes.com, mentalfloss.com, healthline.com were blocked by the egress proxy for direct fetch; facts locked from search excerpts of multiple outlets (see sources.txt). "toothpaste companies say the same" rests on the Colgate page excerpt only.
+- t03/t04 etc. stock clips are shorter than their cue only where noted by build (longest hold 7.04 s).

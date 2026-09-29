@@ -1,0 +1,21 @@
+{
+  "slug": "toothpaste-square",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Flip over your toothpaste tube and look at the little colored square on the crimped end. You've probably heard it's a code. Green means natural. Blue means natural plus medicine. Red means natural plus chemicals. And black means all chemicals. It's a great story, and it's completely wrong. That square has nothing to do with what's inside. Fact checkers have rated the claim false, and the toothpaste companies say the same. So what is it? It's called an eye mark. Back at the factory, the tube is printed on a fast moving line, and a light sensor watches for that square. When the sensor sees it, the machine knows exactly where to print, where to cut, and where to seal the tube. The color only has to stand out from the background, so the sensor can spot it. That's why the same toothpaste can show up with different colors. If you actually want to know what's in your toothpaste, skip the square and read the ingredient list printed right on the tube or the box. Follow for more tiny details hiding on everyday things."
+    }
+  ]
+}
