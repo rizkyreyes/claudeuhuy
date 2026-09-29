@@ -13,13 +13,13 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | b1-2 | pot-handle-hole | Hole at the end of a pan handle | posted | 74.20 | Fri 25 Sep 2026 7 PM | batch 1, confirmed sent on all 3 channels |
 | b1-3 | jeans-watch-pocket | Tiny pocket in jeans | posted | 74.57 | Sat 26 Sep 2026 7 PM | batch 1, confirmed sent on all 3 channels |
 | b2-1 | pen-cap-hole | Hole in a ballpoint pen cap | posted | 74.77 | Sun 27 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-vevymc, confirmed live in Buffer, media/sources recovered to main |
-| b2-2 | fj-key-bumps | Bumps on the F and J keys | scheduled | 77.01 | Mon 28 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-gwdfjw, confirmed live in Buffer, media/sources recovered to main |
+| b2-2 | fj-key-bumps | Bumps on the F and J keys | posted | 77.01 | Mon 28 Sep 2026 7 PM | confirmed sent on all 3 channels 28 Sep, media removed 29 Sep |
 | b2-3 | foil-box-tabs | Locking tabs on a foil box | scheduled | 71.40 | Tue 29 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-lgumw6, confirmed live in Buffer, media/sources recovered to main |
 | b2-4 | padlock-hole | Hole in the bottom of a padlock | scheduled | 72.87 | Wed 30 Sep 2026 7 PM | scheduled 28 Sep from main/media via raw URL, captions rewritten with VidIQ hashtags |
 | o-01 | sink-overflow | Overflow hole in a bathroom sink | scheduled | 73.13 | Thu 1 Oct 2026 12 PM | produced by the 28 Sep run; scheduled 28 Sep on YouTube, TikTok, Facebook from main/media |
-| o-02 | toothpaste-square | Colored square on a toothpaste tube | todo | | Thu 1 Oct 2026 7 PM | was b2-6, myth-bust, see docs/topics.md |
-| o-03 | window-weep-holes | Weep holes in a window frame | todo | | Fri 2 Oct 2026 12 PM | was b2-7, see docs/topics.md |
-| o-04 | microwave-door-mesh | Metal mesh dots in the microwave door | todo | | Fri 2 Oct 2026 7 PM | kitchen · safety · docs/topics-october.md |
+| o-02 | toothpaste-square | Colored square on a toothpaste tube | scheduled | 60.44 | Wed 30 Sep 2026 12 PM | produced 29 Sep, scheduled on YouTube, TikTok, Facebook; took the empty Wed noon slot |
+| o-03 | window-weep-holes | Weep holes in a window frame | scheduled | 75.11 | Thu 1 Oct 2026 7 PM | produced 29 Sep, scheduled on all 3 channels |
+| o-04 | microwave-door-mesh | Metal mesh dots in the microwave door | scheduled | 69.73 | Fri 2 Oct 2026 12 PM | produced 29 Sep, scheduled on all 3 channels |
 | o-05 | pizza-saver-table | Little plastic "table" in a pizza box | todo | | Sat 3 Oct 2026 3 PM | packaging · history · docs/topics-october.md |
 | o-06 | care-label-dots | Dots inside laundry care symbols | todo | | Sat 3 Oct 2026 7 PM | laundry · hack · docs/topics-october.md |
 | o-07 | jeans-rivets | Copper rivets on jeans pockets | todo | | Sun 4 Oct 2026 12 PM | clothing · history · docs/topics-october.md |
