@@ -1,6 +1,6 @@
 # Hidden In Your Home — daily routine
 
-You are the daily production run for **Hidden In Your Home**, a faceless short-form channel (YouTube Shorts, TikTok, Facebook Reels) about the hidden reason behind small design details on everyday objects. English, US audience. Owner: Rizky (writes in Indonesian — any note to him is in plain, friendly Indonesian).
+You are the daily production run for **Hidden In Your Home**, a faceless short-form channel (YouTube Shorts, TikTok, Instagram Reels) about the hidden reason behind small design details on everyday objects. English, US audience. Owner: Rizky (writes in Indonesian — any note to him is in plain, friendly Indonesian).
 
 Work in this repository, on the `main` branch (commit and push straight to `main`). Read `state/queue.md`, `docs/production-settings.md`, `docs/schedule-october.md` and `docs/vidiq-captions.md` first. At the end, update `state/queue.md` and append to `docs/run-log.md`, then commit and push.
 
@@ -30,13 +30,13 @@ which ffmpeg ffprobe; ls /opt/pw-browsers/*/chrome-linux/chrome 2>/dev/null
 
 ## Step 1 — Buffer housekeeping (always, before producing)
 
-Buffer organization **"My organization"** `6ab28b6ea45657d8dd17cfc3`. Channels (Instagram was replaced by Facebook on 28 Sep 2026; never post to Instagram, and if a channel id below is missing from `list_channels`, stop scheduling and tell Rizky):
+Buffer organization **"My organization"** `6ab28b6ea45657d8dd17cfc3`. Channels (Rizky switched Instagram to Facebook on 28 Sep and back to Instagram on 29 Sep 2026; the Instagram id changed. Never post to Facebook. If a channel id below is missing from `list_channels`, stop scheduling and tell Rizky):
 
 | Channel | id | Post settings |
 |---|---|---|
 | YouTube "Hidden In Your Home" | `6ab290a4ea19ca0bdeb603a4` | metadata.youtube: title (≤100 chars, ends `#shorts`), categoryId `"27"`, privacy public, madeForKids false, isAiGenerated true, notifySubscribers true |
 | TikTok hidden.in.yourhome | `6ab28e9cea19ca0bdeb5efbd` | metadata.tiktok.isAiGenerated true |
-| Facebook Page "Hidden In Your Home" | `6aba95c7ea19ca0bde14db33` | metadata.facebook: type `reel` (Buffer has no AI-label field for Facebook) |
+| Instagram hidden.in.yourhome | `6abbd80aea19ca0bde2429ba` | metadata.instagram: type reel, shouldShareToFeed true, isAiGenerated true |
 
 Rules:
 - Before creating or deleting anything, if `list_posts` shows fewer scheduled posts than `state/queue.md` expects, query again once. On 28 Sep a stale empty result caused 9 duplicate posts.
@@ -79,7 +79,7 @@ For the chosen topic, in `projects/<slug>/`:
    If `final.mp4` > 30 MB, re-encode two-pass to about 28 MB (the repo takes 2 videos a day). Verify with ffprobe (1080x1920, 30 fps, h264/aac) and extract ~12 frames into a contact sheet and look at it: captions readable, b-roll matches the words, no black frames, no garbled text in images.
 8. **Captions**: write `publish/captions.md` following `docs/vidiq-captions.md`. If VidIQ is connected and has credits, score two title versions with `vidiq_score_title` and keep the higher; note both scores in captions.md.
 9. **Deliver**: copy `final.mp4` to `media/<slug>.mp4` in the repo, set the row in `state/queue.md` to `rendered` with the exact duration (seconds, 2 decimals).
-10. **Schedule it** (the repo is public): commit and push to `main` first, then the file is at `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/<slug>.mp4`. If every channel has room (≤ 9 after adding), `create_post` for YouTube with that URL in the video's slot. If the returned asset has `durationMs` > 0, create the TikTok and Facebook posts too and mark `scheduled`. If Buffer rejects the URL or the duration is 0, delete that post and keep the row `rendered` — Rizky uploads it manually.
+10. **Schedule it** (the repo is public): commit and push to `main` first, then the file is at `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/<slug>.mp4`. If every channel has room (≤ 9 after adding), `create_post` for YouTube with that URL in the video's slot. If the returned asset has `durationMs` > 0, create the TikTok and Instagram posts too and mark `scheduled`. If Buffer rejects the URL or the duration is 0, delete that post and keep the row `rendered` — Rizky uploads it manually.
 
 ## Step 3 — Close out
 

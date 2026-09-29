@@ -1,6 +1,6 @@
 # Posting schedule: October 2026 (2 videos a day)
 
-Decided 28 Sep 2026 with Rizky. Every video goes to YouTube, TikTok and the Facebook Page at the same minute (Instagram was dropped from Buffer on 28 Sep).
+Decided 28 Sep 2026 with Rizky. Every video goes to YouTube, TikTok and Instagram at the same minute (Facebook was tried 28–29 Sep and dropped).
 
 ## Daily slots
 

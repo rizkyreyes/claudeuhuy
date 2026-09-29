@@ -1,6 +1,6 @@
 # Production queue
 
-Channels (from 28 Sep 2026): **YouTube, TikTok, Facebook Page**. Instagram was removed from Buffer (free plan = 3 channels).
+Channels (from 29 Sep 2026): **YouTube, TikTok, Instagram** (Instagram re-connected with a new id; Facebook was used 28–29 Sep and dropped).
 
 Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `scheduled` (posts created in Buffer) → `posted`.
 `duration` = exact final MP4 length in seconds (used to match Buffer drafts to videos).
@@ -16,10 +16,10 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | b2-2 | fj-key-bumps | Bumps on the F and J keys | posted | 77.01 | Mon 28 Sep 2026 7 PM | confirmed sent on all 3 channels 28 Sep, media removed 29 Sep |
 | b2-3 | foil-box-tabs | Locking tabs on a foil box | scheduled | 71.40 | Tue 29 Sep 2026 7 PM | produced on branch claude/optimistic-ramanujan-lgumw6, confirmed live in Buffer, media/sources recovered to main |
 | b2-4 | padlock-hole | Hole in the bottom of a padlock | scheduled | 72.87 | Wed 30 Sep 2026 7 PM | scheduled 28 Sep from main/media via raw URL, captions rewritten with VidIQ hashtags |
-| o-01 | sink-overflow | Overflow hole in a bathroom sink | scheduled | 73.13 | Thu 1 Oct 2026 12 PM | produced by the 28 Sep run; scheduled 28 Sep on YouTube, TikTok, Facebook from main/media |
-| o-02 | toothpaste-square | Colored square on a toothpaste tube | scheduled | 60.44 | Wed 30 Sep 2026 12 PM | produced 29 Sep, scheduled on YouTube, TikTok, Facebook; took the empty Wed noon slot |
-| o-03 | window-weep-holes | Weep holes in a window frame | scheduled | 75.11 | Thu 1 Oct 2026 7 PM | produced 29 Sep, scheduled on all 3 channels |
-| o-04 | microwave-door-mesh | Metal mesh dots in the microwave door | scheduled | 69.73 | Fri 2 Oct 2026 12 PM | produced 29 Sep, scheduled on all 3 channels |
+| o-01 | sink-overflow | Overflow hole in a bathroom sink | scheduled | 73.13 | Thu 1 Oct 2026 12 PM | produced by the 28 Sep run; scheduled 28 Sep on YouTube, TikTok, Facebook (FB post removed with the channel; Instagram Reel added by hand 29 Sep) from main/media |
+| o-02 | toothpaste-square | Colored square on a toothpaste tube | scheduled | 60.44 | Wed 30 Sep 2026 12 PM | produced 29 Sep, scheduled on YouTube, TikTok, Facebook (FB post removed with the channel; Instagram Reel added by hand 29 Sep); took the empty Wed noon slot |
+| o-03 | window-weep-holes | Weep holes in a window frame | scheduled | 75.11 | Thu 1 Oct 2026 7 PM | produced 29 Sep, scheduled on YouTube, TikTok, Facebook (FB post removed with the channel; Instagram Reel added by hand 29 Sep) |
+| o-04 | microwave-door-mesh | Metal mesh dots in the microwave door | scheduled | 69.73 | Fri 2 Oct 2026 12 PM | produced 29 Sep, scheduled on YouTube, TikTok, Facebook (FB post removed with the channel; Instagram Reel added by hand 29 Sep) |
 | o-05 | pizza-saver-table | Little plastic "table" in a pizza box | todo | | Sat 3 Oct 2026 3 PM | packaging · history · docs/topics-october.md |
 | o-06 | care-label-dots | Dots inside laundry care symbols | todo | | Sat 3 Oct 2026 7 PM | laundry · hack · docs/topics-october.md |
 | o-07 | jeans-rivets | Copper rivets on jeans pockets | todo | | Sun 4 Oct 2026 12 PM | clothing · history · docs/topics-october.md |
