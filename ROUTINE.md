@@ -28,6 +28,10 @@ which ffmpeg ffprobe; ls /opt/pw-browsers/*/chrome-linux/chrome 2>/dev/null
 - If the VidIQ tools (`vidiq_*`) are available in this run, call `vidiq_balance` (free). Under 100 credits: skip title scoring this run. If VidIQ isn't connected at all, just follow `docs/vidiq-captions.md`.
 - ElevenLabs is pay-as-you-go. If `curl -s https://api.elevenlabs.io/v1/user/subscription` shows fewer than 2,500 characters left (`character_limit - character_count`), produce only what fits and tell Rizky to top up.
 
+## Step 0.5 — Sundays only: weekly review
+
+If today's date in **Asia/Jakarta is a Sunday**, do the weekly review **before** Step 1: open `docs/WEEKLY-REVIEW.md` and follow its Steps 1–5 (numbers from Buffer and VidIQ, scoring, diagnosis, at most 2 changes written into `docs/playbook.md`, report in `docs/weekly/`, follower snapshot in `docs/metrics-history.md`), then commit and push. Then re-read `docs/playbook.md` and continue with Step 1, so today's videos already use the updated rules. Put the weekly summary (casual Indonesian, 5–10 lines) at the top of your final message, before the usual daily summary. On other days skip this step.
+
 ## Step 1 — Buffer housekeeping (always, before producing)
 
 Buffer organization **"My organization"** `6ab28b6ea45657d8dd17cfc3`. Channels (Rizky switched Instagram to Facebook on 28 Sep and back to Instagram on 29 Sep 2026; the Instagram id changed. Never post to Facebook. If a channel id below is missing from `list_channels`, stop scheduling and tell Rizky):
