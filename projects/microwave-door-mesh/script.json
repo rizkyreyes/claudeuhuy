@@ -1,0 +1,21 @@
+{
+  "slug": "microwave-door-mesh",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Those tiny dots on your microwave door are a shield you can see through. Look closely. That's a sheet of metal with thousands of little holes punched in it. So why doesn't the radiation slip through them? Size. Your microwave cooks with radio waves vibrating 2.45 billion times a second, and each wave is about twelve centimeters long, nearly five inches. Every hole in that screen is a couple of millimeters wide at most, far smaller than the wave. To the microwaves, that screen acts like a solid metal wall. But visible light is hundreds of thousands of times shorter, so it slips right through the holes, and you can watch your food spin. Same door, two different waves, two different results. And it's regulated. A federal rule limits leakage to five milliwatts per square centimeter, measured about two inches from the oven, for the oven's whole life. Step back to twenty inches, and it drops to about one hundredth of that. Two independent interlock switches also shut the microwaves off the moment you open the door. So next time you glance at that mesh, remember it isn't decoration. It's a window and a wall in the same piece of metal. Follow for more everyday objects hiding a clever trick."
+    }
+  ]
+}

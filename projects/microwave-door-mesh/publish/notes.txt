@@ -1,0 +1,5 @@
+AI stills: 2 high (a01, a02), 7 medium (a03-a09). LTX-2.3 Fast clips: 2 (a01, a03). Stock clips: 8 (Pexels). ElevenLabs: ~1,180 characters, run twice (first take 59.9 s was too short; regenerated at 68.2 s) so ~2,200 characters spent.
+LTX verdicts (3 frames each):
+- a01 (microwave door): sharp, no warping, but the scene slowly darkens to near-black by the end of the 6 s clip.
+- a03 (pasta in microwave): sharp, plate rotates; the door mesh texture in the first frame is lost as the shot changes to a cleaner interior, no warping.
+Odd: script is 210 words (over the 165-190 guide) because v4 turbo speaks fast; VO is 68.16 s and the video 69.73 s, slightly under the 70-76 s target. Wording avoids claiming exact hole size beyond "a couple of millimeters at most". Pixabay searches returned unrelated clips (fire, forest) so only Pexels was used; all candidates were previewed. Two Pexels clips showing a woman's face (9462920, 9462944) were rejected. fda.gov / ecfr.gov / sfu.ca could not be fetched directly (egress blocked); claims confirmed from search excerpts. First 2-pass encode used a wrong bitrate; final redone (28.35 MB).

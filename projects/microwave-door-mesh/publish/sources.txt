@@ -1,0 +1,19 @@
+FACT SOURCES (all LOCKED 29 Sep 2026 via web search; fda.gov, sfu.ca and ecfr.gov were blocked from direct fetch, so claims were confirmed from search-result excerpts of the same pages)
+- Microwave wavelength 12.2 cm (2.45 GHz), holes in door screen tiny compared to wavelength so screen acts as solid, visible light 390-700 nm passes through; screen holes roughly 0.2-2 mm: Wikipedia "Electromagnetic shielding"; https://www.sfu.ca/phys/346/121/resources/physics_of_microwave_ovens.pdf ; US patent texts on microwave door screens
+- 5 mW/cm2 leakage limit at about 2 inches from oven surface, lifetime of oven; 20 inches is about 1/100th of the 2-inch value; two independent interlock systems stop microwaves when latch released/door opened: https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens ; 21 CFR 1030.10 https://www.ecfr.gov/current/title-21/chapter-I/subchapter-J/part-1030/section-1030.10
+- "hundreds of thousands of times shorter": 12.2 cm / ~500 nm = ~240,000 (calculated). "2.45 billion times a second" = 2.45 GHz.
+- "a couple of millimeters at most": from the 0.2-2 mm range above.
+
+STOCK (Pexels, free commercial use; ids used in assets/footage)
+- s01 https://www.pexels.com/video/metal-grid-surface-7830315/ (Monstera Production)
+- s02 https://www.pexels.com/video/texture-of-metal-cover-with-holes-7830308/ (Monstera Production)
+- s03 https://www.pexels.com/video/precision-sheet-metal-laser-cutting-process-30409130/ (Cemrecan Yurtman)
+- s04 https://www.pexels.com/video/a-person-cleaning-a-microwave-oven-with-a-green-cloth-9473240/ (Liliana Drew; hand/arm only)
+- s05 https://www.pexels.com/video/person-sifting-the-flour-using-strainer-and-whisk-8477801/ (Los Muertos Crew)
+- s06 https://www.pexels.com/video/modern-kitchen-interior-with-black-appliances-36842429/ (Ali Jafar)
+- s07 https://www.pexels.com/video/homemade-soup-stirred-on-a-cozy-kitchen-table-37876544/ (Ardina Setiorini; hands only)
+- s08 https://www.pexels.com/video/steaming-bowls-of-soup-on-a-table-8051346/ (Annushka Ahuja)
+
+AI ASSETS (AI-generated illustrative, not a real person/event; fal.ai openai/gpt-image-2 1088x1920)
+- a01 (high, then LTX-2.3 Fast clip 6 s), a02 (high), a03 (medium, then LTX clip 6 s), a04, a05, a06, a07, a08, a09 (medium)
+- Voice: ElevenLabs "Chris Anthony", eleven_v4_turbo
