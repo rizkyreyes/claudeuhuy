@@ -1,5 +1,4 @@
 {
-  "handle": "@hidden.in.yourhome",
   "slides": [
     {
       "type": "cover",
@@ -46,7 +45,7 @@
       "type": "end",
       "bg": "bg/cover.jpg",
       "title": "Which one did you grow up believing?",
-      "cta": "Follow @hidden.in.yourhome for the real reason behind everyday stuff",
+      "cta": "Follow for the real reason behind everyday stuff",
       "sources": [
         "Popular Science: home energy conservation myths",
         "U.S. Department of Energy",

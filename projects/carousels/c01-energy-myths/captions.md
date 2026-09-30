@@ -3,7 +3,7 @@
 ## Instagram (carousel post)
 Five home energy "rules" that don't actually save you anything. Swipe through and count how many you still follow. Save this for the next time someone in your house cranks the thermostat.
 
-Follow @hidden.in.yourhome for the real reason behind everyday stuff.
+Follow for the real reason behind everyday stuff.
 
 #energysaving #homehacks #mythbusting #interestingfacts #howthingswork #savemoney #homeowner #hiddeninyourhome
 

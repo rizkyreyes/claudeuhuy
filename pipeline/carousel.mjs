@@ -5,13 +5,13 @@
 //
 // carousel.json (paths are relative to the json file):
 // {
-//   "handle": "@hidden.in.yourhome",
 //   "slides": [
 //     { "type": "cover", "bg": "bg/cover.jpg", "kicker": "Myth vs fact", "title": "5 home energy myths you probably still believe", "sub": "Swipe" },
 //     { "type": "myth",  "bg": "bg/thermostat.jpg", "myth": "Crank the thermostat way up and the house heats faster.", "fact": "Your furnace runs at one speed. ...", "source": "Trane, via Popular Science" },
-//     { "type": "end",   "bg": "bg/cover.jpg", "title": "Save this for later.", "cta": "Follow @hidden.in.yourhome for more", "sources": ["...", "..."] }
+//     { "type": "end",   "bg": "bg/cover.jpg", "title": "Save this for later.", "cta": "Follow for more", "sources": ["...", "..."] }
 //   ]
 // }
+// No @handle on any slide (Rizky, 30 Sep 2026): the footer shows only "Hidden In Your Home".
 // Myth slides are numbered automatically (1/5, 2/5 ...). Text on the image is allowed here (the "no text in the
 // middle of the screen" rule is for videos only). Keep myth lines under ~90 characters and facts under ~200.
 import fs from "node:fs"; import path from "node:path"; import os from "node:os"; import { execFileSync } from "node:child_process";
@@ -21,7 +21,6 @@ if (!jsonPath || !outDir) { console.log("usage: node carousel.mjs <carousel.json
 const here = path.dirname(new URL(import.meta.url).pathname);
 const base = path.dirname(path.resolve(jsonPath));
 const cfg = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
-const handle = cfg.handle || "@hidden.in.yourhome";
 // Prefer chrome-headless-shell: its --window-size is the exact viewport (full Chrome's headless mode can lose ~90px).
 const pw = fs.existsSync("/opt/pw-browsers") ? fs.readdirSync("/opt/pw-browsers") : [];
 const chrome = process.env.CHROME_PATH || [
@@ -85,7 +84,7 @@ function page(s, i, W, H) {
   .srclist{display:flex;flex-direction:column;gap:6px;font:500 22px/1.3 "Archivo";color:var(--muted);margin-top:18px}.srclist b{font-weight:800;letter-spacing:.14em;text-transform:uppercase;font-size:20px;color:var(--ink)}
   .foot{margin-top:34px;display:flex;justify-content:space-between;font:700 26px/1 "Archivo";color:var(--muted)}
   </style></head><body><div class="bg"></div><div class="veil"></div>
-  <div class="wrap">${top}<div class="main">${body}</div><div class="foot"><span>${esc(handle)}</span><span>Hidden In Your Home</span></div></div></body></html>`;
+  <div class="wrap">${top}<div class="main">${body}</div><div class="foot"><span>Hidden In Your Home</span></div></div></body></html>`;
 }
 
 const sizes = { ig: [1080, 1350], tt: [1080, 1920] };
