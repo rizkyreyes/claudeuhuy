@@ -20,9 +20,9 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | o-02 | toothpaste-square | Colored square on a toothpaste tube | scheduled | 60.44 | Wed 30 Sep 2026 12 PM | produced 29 Sep, scheduled on YouTube, TikTok, Facebook (FB post removed with the channel; Instagram Reel added by hand 29 Sep); took the empty Wed noon slot |
 | o-03 | window-weep-holes | Weep holes in a window frame | scheduled | 75.11 | Thu 1 Oct 2026 7 PM | produced 29 Sep, scheduled on YouTube, TikTok, Facebook (FB post removed with the channel; Instagram Reel added by hand 29 Sep) |
 | o-04 | microwave-door-mesh | Metal mesh dots in the microwave door | scheduled | 69.73 | Fri 2 Oct 2026 12 PM | produced 29 Sep, scheduled on YouTube, TikTok, Facebook (FB post removed with the channel; Instagram Reel added by hand 29 Sep) |
-| o-05 | pizza-saver-table | Little plastic "table" in a pizza box | todo | | Sat 3 Oct 2026 3 PM | packaging · history · docs/topics-october.md |
-| o-06 | care-label-dots | Dots inside laundry care symbols | todo | | Sat 3 Oct 2026 7 PM | laundry · hack · docs/topics-october.md |
-| o-07 | jeans-rivets | Copper rivets on jeans pockets | todo | | Sun 4 Oct 2026 12 PM | clothing · history · docs/topics-october.md |
+| o-05 | pizza-saver-table | Little plastic "table" in a pizza box | scheduled | 76.77 | Fri 2 Oct 2026 7 PM | produced 30 Sep, scheduled on YouTube, TikTok, Instagram from main/media; took the empty Fri 7 PM slot (planned Sat 3 PM) |
+| o-06 | care-label-dots | Dots inside laundry care symbols | scheduled | 78.85 | Sat 3 Oct 2026 3 PM | produced 30 Sep, scheduled on all 3 channels; small brand name visible on washer panel ~1.5 s |
+| o-07 | jeans-rivets | Copper rivets on jeans pockets | scheduled | 75.40 | Sat 3 Oct 2026 7 PM | produced 30 Sep, scheduled on all 3 channels (planned Sun 12 PM) |
 | o-08 | trash-can-vents | Vent holes near the top of a trash can | todo | | Sun 4 Oct 2026 6 PM | cleaning · convenience · docs/topics-october.md |
 | o-09 | pillow-law-tag | "Do not remove under penalty of law" pillow tag | todo | | Mon 5 Oct 2026 12 PM | bedroom · myth-bust · docs/topics-october.md |
 | o-10 | heinz-57-tap-spot | Embossed "57" on a glass Heinz bottle | todo | | Mon 5 Oct 2026 7 PM | packaging · hack · docs/topics-october.md |
