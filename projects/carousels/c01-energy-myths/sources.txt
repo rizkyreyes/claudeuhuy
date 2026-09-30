@@ -1,0 +1,10 @@
+c01-energy-myths: sources (checked 30 Sep 2026)
+
+1. Thermostat: "Setting it higher won't make your home heat up any faster; it will only cause your system to overshoot the desired temperature." Trane, quoted in Popular Science, https://www.popsci.com/diy/home-energy-conservation-myths/
+2. Fans cool people, not rooms (wind-chill effect; DOE says fans let you raise the thermostat about 4°F). Popular Science (same article), citing the U.S. Department of Energy.
+3. Closing vents in unused rooms can increase energy use (duct pressure pushes air out through leaks). 2003 Lawrence Berkeley National Laboratory study, via Popular Science (same article).
+4. "The operating life of a LED is unaffected by turning it on and off." U.S. Department of Energy, quoted in Popular Science (same article).
+5. "No, storage in a refrigerator or freezer is not required or recommended for batteries produced today." Recommended storage at room temperature, 68°F to 78°F. Energizer non-rechargeable battery FAQ, https://data.energizer.com/pdfs/non-rechargeable_faq.pdf
+
+Photos (Pexels, free license): cover/end 6053887 (white table lamp), 27638181 (thermostat, Alexander Mass), 15948528 (fan over table and couch), 11973741 (door air vent), 11039733 (light switches), 1084213 (batteries lot). Pages: https://www.pexels.com/photo/<id>/
+No people, no readable brand names on the products.

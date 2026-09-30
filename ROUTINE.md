@@ -48,7 +48,7 @@ Rules:
 - Posting times: **two slots a day**, see `docs/schedule-october.md` (Mon–Fri 12 PM & 7 PM ET, Sat 3 PM & 7 PM ET, Sun 12 PM & 6 PM ET). Same minute on all three channels. Give each video the planned slot from its row in `state/queue.md`; if that slot is already past or taken, use the earliest empty future slot and update the row. `dueAt` with offset -04:00 for all of October (EST -05:00 from 1 Nov 2026), `mode: customScheduled`, `schedulingType: automatic`. Never schedule a slot less than 1 hour from now.
 - Captions: follow `docs/vidiq-captions.md` exactly (human tone, no em dashes, 3-layer hashtags, per-platform format). Each video gets a unique follow line.
 
-**Clean up posted videos.** For every `scheduled` row whose 3 posts all show status `sent`, set the row to `posted` and `git rm media/<slug>.mp4` (the platforms already have the video; this keeps the repo from growing ~2 GB a month). Never remove a file whose posts are still `scheduled`.
+**Clean up posted videos.** For every `scheduled` row whose 3 posts all show status `sent`, set the row to `posted` and `git rm media/<slug>.mp4` (same for carousels in `state/carousels.md`: once both posts are `sent`, `git rm -r media/carousels/<id>-<slug>`) (the platforms already have the video; this keeps the repo from growing ~2 GB a month). Never remove a file whose posts are still `scheduled`.
 
 **Pick up videos waiting in Buffer.** Rizky may have uploaded finished MP4s as drafts (Buffer composer → Save Draft). Find them with `execute_query`:
 ```graphql
@@ -56,9 +56,9 @@ query { contentItems(first: 20, input: {organizationId: "6ab28b6ea45657d8dd17cfc
 ```
 Match each draft to a row in `state/queue.md` with status `rendered` by video duration (±0.3 s). For each match, if slots allow, create the three posts using the draft's `assets[0].source` as the video URL. Confirm each created post's asset shows the expected `durationMs`. Then mark the row `scheduled` with the date. Leave the draft itself in place (the posts use its media).
 
-## Step 2 — Produce videos to fill the next 4 days
+## Step 2 — Produce videos to fill the next 3 days
 
-Count the slots from now through the next 96 hours (4 days, max 8 slots, which also keeps each Buffer channel at 9 or fewer) that don't have a `scheduled` or `rendered` video yet. Produce that many videos, **at most 3 per run**, taking `todo` rows top to bottom. Usually that's 2. If a run ends early, schedule what's finished; the next run catches up. If a topic's key fact can't be verified, mark the row `cut` with the reason and use the first `spare` row instead. If no `todo` or `spare` rows are left, research new topics (see "Topic rules") and add them to `docs/topics-october.md` with sources.
+Count the video slots from now through the next 72 hours (3 days, max 6 slots; carousels share the Buffer limit, see Step 2B) that don't have a `scheduled` or `rendered` video yet. Produce that many videos, **at most 3 per run**, taking `todo` rows top to bottom. Usually that's 2. If a run ends early, schedule what's finished; the next run catches up. If a topic's key fact can't be verified, mark the row `cut` with the reason and use the first `spare` row instead. If no `todo` or `spare` rows are left, research new topics (see "Topic rules") and add them to `docs/topics-october.md` with sources.
 
 For the chosen topic, in `projects/<slug>/`:
 
@@ -84,6 +84,10 @@ For the chosen topic, in `projects/<slug>/`:
 8. **Captions**: write `publish/captions.md` following `docs/vidiq-captions.md`. If VidIQ is connected and has credits, score two title versions with `vidiq_score_title` and keep the higher; note both scores in captions.md.
 9. **Deliver**: copy `final.mp4` to `media/<slug>.mp4` in the repo, set the row in `state/queue.md` to `rendered` with the exact duration (seconds, 2 decimals).
 10. **Schedule it** (the repo is public): commit and push to `main` first, then the file is at `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/<slug>.mp4`. If every channel has room (≤ 9 after adding), `create_post` for YouTube with that URL in the video's slot. If the returned asset has `durationMs` > 0, create the TikTok and Instagram posts too and mark `scheduled`. If Buffer rejects the URL or the duration is 0, delete that post and keep the row `rendered` — Rizky uploads it manually.
+
+## Step 2B — Carousels (Instagram + TikTok, Mon/Wed/Fri 9 AM ET)
+
+Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no scheduled carousel, take the first `rendered` or `todo` row in `state/carousels.md`: research and verify 5 myths (todo rows), pick Pexels backgrounds, render with `node pipeline/carousel.mjs`, look at the slides, write captions and sources, commit and push, then schedule the Instagram carousel and the TikTok photo post from the raw `main` URLs. At most one new carousel per run. Keep Instagram and TikTok at 9 or fewer scheduled posts in total (videos + carousels); if full, skip and try next run. Carousels are not posted to YouTube.
 
 ## Step 3 — Close out
 

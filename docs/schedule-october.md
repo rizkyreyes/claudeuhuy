@@ -27,3 +27,7 @@ At the end of October, and every week on the "evaluasi mingguan" run, call `vidi
 ## Buffer limit
 
 Free plan = **10 scheduled posts per channel** (not 10 total; confirmed on buffer.com/pricing and in practice on 28 Sep, when 12 posts were queued across 3 channels). At 2 videos a day that is up to 5 days queued. Keep each channel at **9 or fewer** so there's always room for a fix.
+
+## Carousels (added 30 Sep 2026)
+
+Instagram + TikTok only: **Monday, Wednesday, Friday at 9:00 AM ET** (`T09:00:00-04:00`, 20:00 WIB). First one Fri 2 Oct. Plan in `state/carousels.md`, procedure in `docs/CAROUSELS.md`. To leave Buffer room for them, the daily run now keeps only **3 days** of videos queued (was 4).

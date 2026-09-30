@@ -1,0 +1,57 @@
+{
+  "handle": "@hidden.in.yourhome",
+  "slides": [
+    {
+      "type": "cover",
+      "bg": "bg/cover.jpg",
+      "title": "5 home energy myths you're probably still falling for",
+      "sub": "Swipe"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/thermostat.jpg",
+      "myth": "Crank the thermostat way up and the house warms up faster.",
+      "fact": "Your furnace heats at one speed no matter what number you pick. A higher setting just makes it overshoot and burn extra. Set the temperature you actually want.",
+      "source": "Trane, quoted in Popular Science"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/fan.jpg",
+      "myth": "A ceiling fan cools down the room.",
+      "fact": "Fans cool people, not rooms. The air stays the same temperature, the breeze just feels cooler on your skin. So turn it off when you leave.",
+      "source": "U.S. Department of Energy, via Popular Science"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/vent.jpg",
+      "myth": "Closing the vents in rooms you don't use saves money.",
+      "fact": "It can actually waste energy. The system still pushes the same air, and the extra pressure forces more of it out through leaks in the ducts.",
+      "source": "Lawrence Berkeley National Laboratory (2003), via Popular Science"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/lights.jpg",
+      "myth": "Flipping LED lights on and off wears them out, so just leave them on.",
+      "fact": "Switching doesn't shorten an LED's life. That rule came from old fluorescent tubes. Leaving the room? Turn them off.",
+      "source": "U.S. Department of Energy, via Popular Science"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/batteries.jpg",
+      "myth": "Batteries last longer if you keep them in the fridge.",
+      "fact": "Battery makers say don't. Cold storage can cause condensation that damages them. Keep them at room temperature, about 68 to 78°F.",
+      "source": "Energizer battery FAQ"
+    },
+    {
+      "type": "end",
+      "bg": "bg/cover.jpg",
+      "title": "Which one did you grow up believing?",
+      "cta": "Follow @hidden.in.yourhome for the real reason behind everyday stuff",
+      "sources": [
+        "Popular Science: home energy conservation myths",
+        "U.S. Department of Energy",
+        "Energizer: non-rechargeable battery FAQ"
+      ]
+    }
+  ]
+}

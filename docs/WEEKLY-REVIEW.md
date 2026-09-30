@@ -44,6 +44,8 @@ Buffer's own `engagementRate` shows 0 for YouTube, so **compute it yourself** fo
 
 Keep VidIQ use under ~60 credits per review. Check `vidiq_balance` first.
 
+**Carousels** (`state/carousels.md`): collect Instagram views, reach, likes, comments, shares and **saves**, and TikTok views and likes. Score them separately from videos: on Instagram the key signal is (saves + shares) ÷ reach. Say in the report whether carousels are pulling their weight (new followers, saves) or just filling slots, and suggest keeping, changing (theme, cover line, slide count) or dropping them.
+
 ## Step 2. Score each video
 
 Work out the week's **median** views, ER and retention per platform. Then label each video:
