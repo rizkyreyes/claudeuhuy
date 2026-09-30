@@ -1,0 +1,22 @@
+FACT SOURCES (web search, 30 Sep 2026; several publisher pages blocked by the sandbox proxy for full fetch, so claims are locked from two or more concordant search results)
+LOCKED claims:
+1. Jacob Davis, a tailor in Reno, Nevada, made tents, horse blankets and work pants (cloth bought from Levi Strauss) and put metal/copper rivets on pants at stress points. Sources: Online Nevada Encyclopedia https://www.onlinenevada.org/articles/jacob-davis-and-copper-riveted-jeans ; Jewish Museum of the American West https://www.jmaw.org/davis-levi-reno-jewish/ ; Levi's https://www.levi.com/US/en_US/blog/article/lvc-a-riveting-story
+2. Davis could not afford the $68 patent fee, wrote to Levi Strauss (his cloth supplier, San Francisco wholesaler) proposing to file jointly; Strauss agreed and paid. Sources: US National Archives Prologue blog https://prologue.blogs.archives.gov/2010/05/20/forever-in-blue-jeansand-in-court/ ; Wikipedia Levi Strauss / Jacob W. Davis ; Britannica https://www.britannica.com/today-in-history/May-20-How-Jeans-Turned-the-Whole-World-Blue
+3. US Patent 139,121, granted May 20, 1873 to Jacob W. Davis and Levi Strauss & Co., titled "Improvement in fastening pocket-openings"; a metal rivet at each edge of the pocket opening to prevent ripping of the seam. Sources: Google Patents https://patents.google.com/patent/US139121A/en ; IPWatchdog https://ipwatchdog.com/2014/05/20/today-in-patent-history-blue-jeans-patented-may-20-1873/ ; History.com https://www.history.com/this-day-in-history/may-20/levi-strauss-and-jacob-davis-receive-patent-for-blue-jeans
+4. 1937: Levi's covered the back-pocket rivets because customers complained they scratched furniture and saddles; later replaced with bar tack stitching (1966 per Levi's history). Sources: Levi Strauss & Co. "The 80-Year Coverup" https://www.levistrauss.com/2017/07/06/80-year-cover/ ; Levi Strauss & Co. Wikipedia ; Long John / Excellent Vintage 501 guides.
+CUT: 1941 crotch rivet campfire story (apocryphal, sources conflict); Davis's 1870 first-rivet story and "1870s" only used loosely as "Back in the 1870s"; exact 1966 year not spoken ("Later").
+Not repeated: the jeans-watch-pocket payoff (script not present in repo).
+
+STOCK FILES (Pexels, free commercial license; all previewed frame strips before use)
+- j05 Pexels 8064253 "A person adjusting a horse saddle" https://www.pexels.com/video/a-person-adjusting-a-horse-saddle-8064253/ (hands/arm only)
+- j06 Pexels 32866095 "Sewing machine in action with denim fabric" https://www.pexels.com/video/sewing-machine-in-action-with-denim-fabric-32866095/ (hand only)
+- j08 Pexels 6654774 "Putting rivet on the buckle of the leather belt" https://www.pexels.com/video/putting-rivet-on-the-buckle-of-the-leather-belt-6654774/ (fingers only)
+- j14 Pexels 5846394 "Blacksmith hammering a burning metal" https://www.pexels.com/video/blacksmith-hammering-a-burning-metal-5846394/ (hammer and metal only, no face)
+- j18 Pexels 6764149 "Denim jeans on the table" (cottonbro studio) https://www.pexels.com/video/denim-jeans-on-the-table-6764149/
+Rejected: 30614785 (face visible), 37442789 (shop signage text), 6961606.
+
+AI ASSETS (fal.ai openai/gpt-image-2, illustrative, not a real person/event, no logos or text)
+- HIGH: j01, j02
+- MEDIUM: j03, j04, j07, j09, j10, j13, j15, j16, j17
+- LTX-2.3 Fast clips (from stills): j01 (6 s, sharp), j10 (6 s, sharp but nearly static)
+Voice: ElevenLabs "Chris Anthony" uKGPYP2uuyRQv8SeFre0, model eleven_v4_turbo.

@@ -1,0 +1,21 @@
+{
+  "slug": "pizza-saver-table",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That tiny plastic table in your pizza box has its own patent. And it's not a table. It's called a pizza saver, and its only job is holding up the lid. Here's the problem. A hot pizza gives off steam. That steam gets trapped in the box, and it softens the cardboard. Soon the middle of the lid starts to sag. Keep sagging, and the lid lands right on the cheese. Then it sticks, and you open the box to a wrecked pizza. So somebody needed a tiny support that could stand in the middle. In 1983, a Long Island woman named Carmela Vitale filed a patent for exactly that. She called it a package saver. It's a little three-legged frame. Three legs, because three legs never wobble, like a milking stool. The legs narrow to a point, so they barely touch the pizza. And it's made of heat-resistant plastic, usually polypropylene, so it can sit on a hot pie. The patent was granted on February twelfth, 1985. It lapsed in 1993, when the fees weren't paid. Since then, dozens of companies have made them, and they've been riding in delivery boxes ever since. So next time you open a pizza box, don't call it a table. It's a tiny tripod with a patent and one job. Follow if you want to know who thought up the little stuff you never notice."
+    }
+  ]
+}

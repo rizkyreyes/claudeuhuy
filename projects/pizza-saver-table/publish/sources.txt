@@ -1,0 +1,24 @@
+FACT SOURCES (web search, 30 Sep 2026; mentalfloss, Google Patents and Wikipedia pages were blocked by the sandbox proxy for full fetch, so claims are locked from multiple concordant search results/snippets)
+LOCKED claims:
+1. Steam from a hot pizza softens the corrugated cardboard lid, so the middle sags and can touch/damage the pizza (cheese). Sources: Gizmodo https://gizmodo.com/that-plastic-thing-inside-the-pizza-box-was-invented-30-1684099045 ; PMQ Pizza https://www.pmq.com/that-plastic-thing-inside-your-pizza-box-was-invented-30-years-ago/ ; Snopes https://www.snopes.com/articles/463896/plastic-table-pizza-delivery-box/ ; Mental Floss https://www.mentalfloss.com/article/612225/how-pizza-saver-invention-transformed-pizza-delivery
+2. Carmela Vitale of Dix Hills / Long Island, New York, filed 10 Feb 1983 (script: "In 1983 ... filed a patent") and was granted U.S. Pat. 4,498,586 "Package Saver" on 12 Feb 1985. Sources: USPTO post https://x.com/uspto/status/2062916145640874426 ; Google Patents US4498586A https://patents.google.com/patent/US4498586A/en ; Wikipedia Pizza saver https://en.wikipedia.org/wiki/Pizza_saver ; Inventors Digest https://inventorsdigest.com/time-tested-still-on-guard
+3. Device is a small three-legged frame (tripod) that supports the lid; three legs so it is always stable "a la a milking stool"; legs narrow to a point to cause minimal damage to the pizza. Source: Reddie & Grose https://www.reddie.co.uk/2022/03/07/international-womens-day-thinking-outside-the-pizza-box/ ; Gizmodo (tiny tripod)
+4. Made of heat-resistant plastic, usually polypropylene. Source: Wikipedia Pizza saver / Pizza box https://en.wikipedia.org/wiki/Pizza_box
+5. Patent lapsed in 1993 for failure to pay maintenance fees (script: "when the fees weren't paid"); since then dozens of companies make and sell them to restaurants. Sources: Wikipedia Pizza saver; Gizmodo; PMQ.
+The inventor is named because the USPTO and multiple outlets name her; she is not depicted (no people in any visual).
+CUT: "about a penny apiece" cost (reported, single source), 1974 Argentine SEPI earlier patent (not in script, only Snopes/Wikipedia snippet), alternate uses of the saver (not needed), any brand.
+
+STOCK FILES (Pexels, free commercial license). All previewed (frames every 3 s) before use.
+- s_pep Pexels 34174957 "Delicious pepperoni pizza close-up video" https://www.pexels.com/video/delicious-pepperoni-pizza-close-up-video-34174957/
+- s_steam Pexels 12911017 "Taking cover from food" https://www.pexels.com/video/taking-cover-from-food-12911017/ (steam over a cooker; torso only, no face)
+- s_card Pexels 30653725 "Industrial brown cardboard surface with tape" https://www.pexels.com/video/industrial-brown-cardboard-surface-with-tape-30653725/
+- s_cheese Pexels 16423978 "The ultimate fior di latte mozzarella cheese pull pizza" https://www.pexels.com/video/the-ultimate-fior-di-latte-mozzarella-cheese-pull-pizza-by-rene-16423978/ (hands/torso, no face)
+- s_slice Pexels 29543382 "Irresistible cheese pull pizza delight" https://www.pexels.com/video/irresistible-cheese-pull-pizza-delight-29543382/ (hand only)
+- s_oven Pexels 6221680 "A pizza in a brick oven" https://www.pexels.com/video/a-pizza-in-a-brick-oven-6221680/
+Rejected: Pexels 35762430 (pizza box with printed text/art), 39411438 and 7362641 (identifiable person, branded cap), 17512966 (face at end), 6221683.
+
+AI ASSETS (fal.ai openai/gpt-image-2, illustrative, not a real person/event, no logos or text)
+- HIGH: p01, p05
+- MEDIUM: p02, p03, p04, p06, p07, p09, p10, p11, p13, p14
+- LTX-2.3 Fast clips (from stills): p01 (6 s, sharp), p10 (6 s, sharp)
+Voice: ElevenLabs "Chris Anthony" uKGPYP2uuyRQv8SeFre0, model eleven_v4_turbo (1,231 characters).

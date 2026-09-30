@@ -1,0 +1,21 @@
+{
+  "slug": "jeans-rivets",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Those copper studs on your jeans pockets aren't decoration. They're a patent. Back in the 1870s, a tailor named Jacob Davis was working in Reno, Nevada, making tents and horse blankets, and sturdy work pants. His problem was simple. Pockets kept ripping at the corners. So he tried something new. He hammered a small metal rivet into each corner of the pocket opening, to stop the seam from tearing. It worked. But there was a catch. Davis wanted a patent, and he couldn't afford the sixty-eight dollar fee. So he wrote to the man who sold him his cloth, a San Francisco businessman named Levi Strauss, and offered a deal. Strauss agreed to pay. On May twentieth, 1873, the two of them were granted U.S. patent number one thirty-nine, one twenty-one. Its official name was an improvement in fastening pocket openings. Not jeans. Pocket openings. Here's the funny part. Those rivets caused problems of their own. In 1937, Levi's started covering the ones on the back pockets, because customers said the metal scratched furniture and saddles. Later the back rivets were replaced with heavy stitching. But the ones on your front pockets are still doing the original job. Follow if you like finding out what your clothes were built to survive."
+    }
+  ]
+}
