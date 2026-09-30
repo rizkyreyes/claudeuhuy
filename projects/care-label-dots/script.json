@@ -1,0 +1,21 @@
+{
+  "slug": "care-label-dots",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Those little dots inside your laundry tag symbols aren't decoration. They're a temperature code. Every dot is a heat limit, and most of us just ignore them. Start with the washtub. In the US system, one dot means cold, up to about eighty five degrees Fahrenheit, or thirty Celsius. Two dots is warm, up to one oh five Fahrenheit. Three dots is hot, up to one twenty. Four dots gets you to one forty, and five dots, one sixty, is the sanitizing setting. Now look at the iron symbol. Same idea. One dot is low, about two thirty Fahrenheit, or one ten Celsius. Two dots is medium, about three hundred Fahrenheit. Three dots is high, about three ninety Fahrenheit, or two hundred Celsius, the setting you'd use on cotton and linen. The dryer symbol is a circle inside a square, and it works the same way. One dot is low heat, two is medium, three is high. Every one of these is a maximum, so you can always go lower. That matters, because too much heat is what shrinks and damages fabric. The Care Labeling Rule goes back to nineteen seventy one, and since July of nineteen ninety seven, brands can print symbols instead of words. So before you toss something in on hot, check the dots first. Follow if you want to finally read the tiny print on your own stuff."
+    }
+  ]
+}

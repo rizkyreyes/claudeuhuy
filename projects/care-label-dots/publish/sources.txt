@@ -1,0 +1,24 @@
+FACT SOURCES (web search, 30 Sep 2026; ftc.gov, tennessee.edu, whirlpool.com and wikipedia were blocked by the sandbox proxy for full fetch, so claims are locked from multiple concordant search results, incl. search snippets of those pages)
+LOCKED claims:
+1. Washtub dots (US ASTM D5489 system) = maximum water temperature: 1 dot 30C / 85F (cold), 2 dots 40C / 105F (warm), 3 dots 50C / 120F (hot), 4 dots 60C / 140F, 5 dots 70C / 160F (sanitizing). Sources: Maytag https://www.maytag.com/blog/washers-and-dryers/laundry-symbols-guide.html (2 dots 105F, 3 dots 120F, 4 dots 140F/60C, 5 dots 160F/70C); Whirlpool https://www.whirlpool.com/blog/washers-and-dryers/washer-care-symbol-guide.html ; Truly Free Home https://trulyfreehome.com/blog/laundry-care-label-symbols-and-meanings (30C/85F, 40C/105F, 50C/120F, 60C/140F); Wikipedia https://en.wikipedia.org/wiki/Laundry_symbol ; FTC-hosted ASTM chart https://www.ftc.gov/system/files/documents/rules/care-labeling-textile-wearing-apparel-certain-piece-goods/astm_care_symbols_chart.pdf
+   NOTE: docs/topics-october.md item 3 said 1/2/3 dots = 120/140/160F. That is WRONG (120/140/160F are 3/4/5 dots). Script uses the corrected numbers.
+2. Iron dots: 1 dot 110C / 230F (low), 2 dots 150C / 300F (medium), 3 dots 200C / 390F (high; cotton and linen). Sources: Super Label Store https://superlabelstore.com/blogs/tips-inspiration/care-label-symbols ; Concept Wardrobe https://theconceptwardrobe.com/care-label-symbols-what-do-they-mean ; packlove https://mypacklove.com/blogs/label/ironing-temperature-complete-guide-and-chart ; Wikipedia Laundry symbol.
+3. Dryer dots (circle in square): 1 dot low heat, 2 medium, 3 high. Sources: Midea https://www.midea.com/ca/blog/washing-machine-and-dryer-symbols ; Maytag ; Careonova https://careonova.com/laundry-symbols/dryer/
+4. Dots are maximums (script: "you can always go lower"). Source: Truly Free Home / Maytag (max recommended temperature).
+5. FTC Care Labeling Rule issued 1971; beginning July 1, 1997 ASTM D5489-96c symbols may be used in place of words. Sources: FTC https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule ; https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods-text ; Univ. of Tennessee https://fcs.tennessee.edu/wp-content/uploads/sites/23/2021/08/care-symbols.pdf
+CUT: numeric dryer exhaust temperatures (sources disagree: 60/80/90C), 6-dot 95C wash, "shrinks wool/melts synthetics" specifics (script says only "shrinks and damages fabric").
+
+STOCK FILES (Pexels, free commercial license; all previewed at two frames before use)
+- d02 Pexels 29454150 https://www.pexels.com/video/vintage-washing-machine-in-classic-laundry-room-29454150/ (apertur 2.8)
+- d04 Pexels 6391707 https://www.pexels.com/video/a-footage-of-folded-clothes-on-a-carpeted-surface-6391707/
+- d09 Pexels 9472843 https://www.pexels.com/video/a-person-ironing-a-brown-shirt-on-a-table-9472843/ (hands only)
+- d10 Pexels 5901672 https://www.pexels.com/video/person-ironing-clothes-5901672/ (hands only)
+- d12 Pexels 36302138 https://www.pexels.com/video/skilled-tailor-ironing-fabric-with-precision-36302138/ (arms only)
+- d15 Pexels 9988721 https://www.pexels.com/video/clothes-hanging-on-a-rack-9988721/
+Rejected: Pexels 6424072, 7280813, 8756892 (identifiable faces), 6238406 (empty room), 9594848 (legible text tag), 7086406.
+
+AI ASSETS (fal.ai openai/gpt-image-2, AI-generated illustrative, not a real person/event, no legible text or logos)
+- HIGH: d01, d14
+- MEDIUM: d03, d05, d06, d07, d08, d11, d13, d16, d17, d18
+- LTX-2.3 Fast clips (from stills): d01 (6 s, soft: label symbols smear and drift), d14 (6 s, sharp)
+Voice: ElevenLabs "Chris Anthony" uKGPYP2uuyRQv8SeFre0, model eleven_v4_turbo, 1257 characters.
