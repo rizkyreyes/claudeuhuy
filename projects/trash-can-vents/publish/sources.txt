@@ -1,0 +1,30 @@
+Fact-check sources for trash-can-vents (verified 2026-10-01 by web search)
+
+LOCKED
+1. A tight-fitting bag seals against the can walls, traps air, and creates suction/vacuum lock when you lift a full bag; holes in the side let air in so the bag can't vacuum-pack itself (search results summarizing Green Matters, Reader's Digest, Apartment Therapy, House Digest):
+   - https://www.greenmatters.com/pn/heres-why-you-should-drill-holes-in-your-trash-can
+   - https://www.readersdigest.ca/home-garden/tips/why-you-should-drill-holes-in-your-garbage-can/
+   - https://www.apartmenttherapy.com/trash-can-hole-diy-hack-264871
+   - US Patent 6,594,876 B1 "Method and kit for modifying a trash can to prevent vacuum lock from trash can liners" (published 22 Jul 2003): https://patents.google.com/patent/US6594876
+2. Rubbermaid Commercial Vented BRUTE: four built-in venting channels eliminate the vacuum effect; manufacturer claims liner removal "up to 50% easier". Scripted as "Rubbermaid says ... up to fifty percent easier ... That's their own number":
+   - https://www.rubbermaidcommercial.com/utility-refuse/brute-containers/brute-vented-containers/
+3. A bag that fits tight at the rim can stay puffed/bubbled when you put in a new bag, and side holes let air out/in; people drill small holes in the side near the top (bottom holes risk liquid leaking): Green Matters / Reader's Digest / Apartment Therapy above.
+(Direct page fetches were blocked by the egress proxy; claims confirmed via search result text from these pages.)
+
+CUT
+- "Vented BRUTE introduced in 2007": date not verifiable.
+- "up to 80% easier": one retailer listing conflicts with the 50% manufacturer figure, so only the 50% claim is used and attributed to Rubbermaid.
+- "Slide a hand down the side to break the seal": own tip, no source.
+
+STOCK (Pexels, free for commercial use, no attribution required; frames reviewed)
+s01 Pexels 9323260 https://www.pexels.com/video/a-man-holding-a-trash-can-with-a-black-bag-9323260/ (cottonbro studio)
+s02 Pexels 9323246 https://www.pexels.com/video/a-man-standing-in-front-of-a-trash-can-with-a-plastic-bag-9323246/ (cottonbro studio)
+s03 Pexels 9222678 https://www.pexels.com/video/a-man-holding-a-garbage-bags-9222678/ (cottonbro studio)
+s04 Pexels 9323703 https://www.pexels.com/video/white-trash-bin-in-the-room-9323703/ (cottonbro studio)
+s05 Pexels 9323705 https://www.pexels.com/video/a-person-putting-recyclable-waste-in-a-bin-9323705/ (cottonbro studio)
+s06 Pexels 7475785 https://www.pexels.com/video/trash-bag-of-plastic-7475785/ (cottonbro studio)
+
+AI-generated illustrative, not a real person/event (fal.ai openai/gpt-image-2, 1088x1920)
+t01, t02 (quality high); t03, t04, t05, t07, t08, t09 (quality medium).
+t03 also animated with LTX-2.3 Fast (6 s). A second LTX clip from t01 was generated but not used (warped).
+Voice: ElevenLabs eleven_v4_turbo, voice uKGPYP2uuyRQv8SeFre0 (AI voice).

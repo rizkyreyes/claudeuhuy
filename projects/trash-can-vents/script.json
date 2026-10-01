@@ -1,0 +1,15 @@
+{
+  "slug": "trash-can-vents",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": { "stability": 0.5, "similarity_boost": 0.85, "style": 0.3, "speed": 1, "use_speaker_boost": true },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Ever fight a full trash bag that just won't come out of the can? Look near the top for little holes. They're the fix. When you drop a bag in, it hugs the walls and traps the air underneath. Then you pull up, and there's nothing to fill the space below the bag. So the can basically sucks the bag back down. That's a vacuum seal, and it's why you end up yanking, and sometimes ripping, the bag. Vent holes let air slip in under the bag as you lift, so the pressure evens out and the bag comes right up. Some cans skip the holes and mold narrow channels into the inside wall instead. Same idea, a path for air. Rubbermaid says the channels on its commercial vented cans make pulling out the liner up to fifty percent easier. That's their own number, but it matches how it feels. It works the other way too. When you put a fresh bag in, air can escape, so the bag settles flat instead of puffing up. And if your can has no holes, people drill a few small ones in the side near the top, not the bottom, where liquid collects. So next time a bag fights back, it's not bad luck. It's air. Follow if you like knowing what the little holes on your stuff are really for."
+    }
+  ]
+}
