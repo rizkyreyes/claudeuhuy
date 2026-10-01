@@ -1,0 +1,33 @@
+Fact-check sources for pillow-law-tag (checked 2026-10-01). Several publisher pages (wgbh.org, livescience.com, wikipedia) were blocked from direct fetch in this environment; claims were confirmed via web-search result summaries of those pages and others.
+
+LOCKED:
+1. The "do not remove under penalty of law" warning is aimed at manufacturers/retailers/anyone handling the item before sale, not the consumer; removing the tag yourself after purchase is legal. Newer wording ends "except by the consumer."
+   - Live Science, "Why Do Mattresses Have 'Do Not Remove' Tags?" https://www.livescience.com/33039-why-do-mattresses-have-do-not-remove-tags.html
+   - WGBH, "Why Do Mattresses And Pillows Have 'Do Not Remove' Labels?" https://www.wgbh.org/news/local/2018-10-09/why-do-mattresses-and-pillows-have-do-not-remove-labels
+   - FindLaw, "Is It Illegal to Remove Mattress, Pillow Tags?" https://www.findlaw.com/legalblogs/law-and-life/is-it-illegal-to-remove-mattress-pillow-tags/
+   - Law label (Wikipedia) https://en.wikipedia.org/wiki/Law_label
+   - Uniform law label wording: https://www.worldmarketcorp.com/assets/vendor/forms-templates/law_label_template.pdf ; California BHGS label examples https://bhgs.dca.ca.gov/industry/label_examples.pdf
+2. Purpose: law labels list the filling/materials and whether they are new or recycled; origin in the early 1900s to stop makers stuffing bedding with unseen cheap materials such as horse hair, corn husks and rags. (Live Science, Wikipedia law label, above)
+3. Law labels cover mattresses, upholstered furniture and stuffed articles such as pillows, plush toys, comforters (Wikipedia law label).
+
+CUT (not used because sources conflict or could not be verified):
+- Exact year the "except by the consumer" wording was added (sources say 1971 vs the 1990s).
+- Textile Fiber Products Identification Act 1960 link, "disease-ridden rags", and any penalty amounts.
+Script uses no dates other than "early 1900s", no numbers, no named people.
+
+B-ROLL PROVENANCE
+Stock (Pexels, free commercial use, no attribution required):
+- sc01: Pexels video 36302125, "Precision fabric cutting by hand with scissors", JS Shariff, https://www.pexels.com/video/precision-fabric-cutting-by-hand-with-scissors-36302125/
+- sc02: Pexels video 3755469, "A person in red dress cutting a fabric using a scissor", cottonbro studio, https://www.pexels.com/video/a-person-in-red-dress-cutting-a-fabric-using-a-scissor-3755469/
+- bed01: Pexels video 17041569, "A bed with a white comforter and pillows", Erofili Charkoftaki, https://www.pexels.com/video/a-bed-with-a-white-comforter-and-pillows-17041569/
+- bed02 (still from video): Pexels video 15404202, "A bed or beds in a room", hello aesthe, https://www.pexels.com/video/a-bed-or-beds-in-a-room-at-person-15404202/
+- gav01: Pexels video 6101365, "A gavel and a document on a table", Katrin Bolovtsova, https://www.pexels.com/video/a-gavel-and-a-document-on-a-table-6101365/
+- mill01: Pexels video 30051652, "Aerial view of historic mill in daylight", David Pickup, https://www.pexels.com/video/aerial-view-of-historic-mill-in-daylight-30051652/
+- wh01: Pexels video 38052460, "Industrial factory conveyor system overview", Gitti Whittaker, https://www.pexels.com/video/industrial-factory-conveyor-system-overview-38052460/
+- tr01: Pexels video 6170600, "Man loading a delivery truck", Tima Miroshnichenko, https://www.pexels.com/video/man-loading-a-delivery-truck-6170600/
+- ph01: Pexels video 7857000, "Close-up video of person taking photo of a tree", Greta Hoffman, https://www.pexels.com/video/close-up-video-of-person-taking-photo-of-a-tree-7857000/
+- pl01: Pexels video 7351804, "Toy puppets on the bed", Vlada Karpovich, https://www.pexels.com/video/toy-puppets-on-the-bed-7351804/
+AI (fal.ai gpt-image-2; AI-generated illustrative, not a real person/event):
+- p01 (high), p13 (high), p06 (medium), p09 (medium), p10 (medium)
+AI clips (fal-ai/ltx-2.3 image-to-video fast, from p01 and p13): p01, p13
+Voice-over: ElevenLabs eleven_v4_turbo, voice uKGPYP2uuyRQv8SeFre0, 1158 characters.

@@ -1,0 +1,21 @@
+{
+  "slug": "pillow-law-tag",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "You can legally cut that tag off your pillow. Yes, the one that says do not remove under penalty of law. Nobody is coming for you. That warning was never written for you. Back in the early 1900s, some bedding makers stuffed mattresses and pillows with whatever was cheap, like horse hair, corn husks, and old rags. Buyers had no idea what they were sleeping on. So laws started requiring a label that lists exactly what's inside. That tag tells you the filling, and whether the material is new or recycled. Here's the catch. A label only works if it stays put until the product reaches the buyer. So the law says the people in the middle, the manufacturers and the stores, can't remove it or swap it. That's who the penalty is for. Look closely at the tag today. It usually ends with four small words. Except by the consumer. That's you. Once you've bought it, it's yours, and you can cut it off. Some people snap a photo of the tag first, just to remember what's inside. Pillows, mattresses, and stuffed toys all carry these tags. So go ahead and grab the scissors. Follow if you'd like to know what the rest of the tags around your house are really saying."
+    }
+  ]
+}
