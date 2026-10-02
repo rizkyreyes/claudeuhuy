@@ -1,0 +1,26 @@
+FACT CHECK (2 Oct 2026). Publisher pages (snopes.com, yahoo.com) are blocked by the egress proxy; claims locked from concordant web-search excerpts of the same Snopes report (several independent excerpts agreed).
+
+LOCKED
+1. A viral post (X, Dec 2023) said the hole in a pot / slow cooker lid is for a meat thermometer. Snopes investigated by asking manufacturers. https://www.snopes.com/articles/465956/slow-cooker-lid-hole/ ; https://www.snopes.com/articles/468826/cooking-crockpot-lifehacks/
+2. OXO customer service rep (to Snopes): the holes vent a bit of steam out, keep the lid from rattling and equalize air pressure inside and outside the pot. (same Snopes pages; search excerpts for both Snopes titles)
+3. Hamilton Beach: the hole in its slow cooker lid "allows excess steam to escape to avoid build up." (search excerpts of Snopes and Hamilton Beach pages: https://blog.hamiltonbeach.com/top-10-slow-cooker-questions-answered/ )
+4. Hamilton Beach customer service (to Snopes): SOME but not all of its slow cooker models have a hole made for a thermometer, and some models come with a temperature probe. (Snopes excerpts; Hamilton Beach Q&A mentions probe hole models.) NOTE: the topic note "Snopes found no evidence" was wrong for slow cookers; the script says most lids are steam vents and some slow cookers do have a probe hole.
+5. Steam vents in lids reduce rattling and spill-over from steam pressure (patent description): https://patents.justia.com/patent/20140014657
+
+CUT (not verified well enough)
+- Snopes' note that a thermometer in the hole may cause faster boil-over or inaccurate readings (single excerpt only).
+- "Wattage is adjusted for steam loss" in slow cookers (vague forum source).
+- Glass lids fogging less (retailer blog only).
+- Any "lid pops off" claim beyond rattling and spill-over.
+
+STOCK (Pexels, free commercial license)
+- t02 Pexels 8094272 "Steam on pot", Mikhail Nilov, https://www.pexels.com/video/steam-on-pot-8094272/
+- t06 Pexels 4253136 "A pot of boiling water on a stove", cottonbro studio, https://www.pexels.com/video/a-pot-of-boiling-water-on-a-stove-4253136/
+- t07 Pexels 37856633 "Cozy home cooking with a steaming pot", Ardina Setiorini, https://www.pexels.com/video/cozy-home-cooking-with-a-steaming-pot-37856633/
+- t10 Pexels 6831473 "Close-up video of a cooking pot", Tima Miroshnichenko, https://www.pexels.com/video/close-up-video-of-a-cooking-pot-6831473/
+- t11 Pexels 8051335 "Steam from a pot", Annushka Ahuja, https://www.pexels.com/video/steam-from-a-pot-8051335/ (replaced Pexels 11580338, which showed a cookware brand name)
+
+AI-GENERATED (illustrative, not a real person/event; no people, no logos)
+- Stills (gpt-image-2): t01 (high), t05 (high), t03, t04, t08, t09, t13, t14, t16 (medium).
+- Clips (LTX-2.3 Fast, 6 s, image-to-video): t01, t05.
+- Voice-over: ElevenLabs eleven_v4_turbo, voice uKGPYP2uuyRQv8SeFre0.

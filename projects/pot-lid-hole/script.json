@@ -1,0 +1,21 @@
+{
+  "slug": "pot-lid-hole",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That little hole in your pot lid? A viral post said it's for a meat thermometer. For most lids, that's just not true. Check a glass lid and you will spot it. It's a steam vent. When a pot heats up, water turns into steam, and steam needs somewhere to go. If the lid sealed perfectly, pressure would build up underneath. The lid could rattle, and the pot could spill over. So the hole lets a little steam out, and keeps the air pressure inside and outside about equal. That's what an OXO customer service rep told Snopes, the fact checking site. The hole vents a bit of steam, stops the lid from rattling, and equalizes the pressure. Slow cookers do the same thing. Hamilton Beach says the hole in its slow cooker lids lets excess steam escape, so it doesn't build up. Now here's the twist. Some slow cookers really do have a hole meant for a thermometer. Hamilton Beach says some of its models do, and some even come with a probe. But not all of them, and the ordinary hole in a pot lid isn't one. So don't plug it. Leave it open, and let your pot breathe. Follow if you like finding out what your cookware has been doing all along."
+    }
+  ]
+}
