@@ -3,7 +3,8 @@
 ## Video
 - Vertical 1080x1920, 30 fps, h264 + aac, ~70–78 s. English narration, voice "Chris Anthony" (ElevenLabs `uKGPYP2uuyRQv8SeFre0`, model **`eleven_v4_turbo`** from 29 Sep 2026 (0.5x character cost); before that `eleven_multilingual_v2`), loudness -16 LUFS.
 - Full-bleed b-roll, a new shot every 3–5 s, each cut on a spoken word. Stills get a slow Ken Burns drift; several real motion clips per video (stock first, 1–2 AI).
-- Karaoke captions at the bottom (current word yellow `#F5C242`, spoken words white, upcoming words dimmed), dark gradient behind them. **No text in the middle of the screen.**
+- **Opening (from 3 Oct 2026):** the first still gets a fast punch-in, and there must be a cut to a second angle inside the first 2 s (the builder enforces it). **Framing:** tight crops, subject fills about 70–85% of the frame width; `{ zoom, focus }` on stills in `shots.mjs`, `pipeline/crop.mjs` for clips.
+- Karaoke captions at the bottom, 70 px bold inside a semi-transparent dark box (current word yellow `#FFD34D`, spoken words white, upcoming words slightly dimmed), up to 4 words or about 22 characters per line. **No text in the middle of the screen.**
 - All three platforms get the "AI-generated" label (the b-roll includes photoreal AI imagery).
 
 ## Cost: October 2026 (2 videos a day, decided 28 Sep 2026)

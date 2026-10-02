@@ -75,7 +75,7 @@ Always compare **winners against weak videos**: hook line, first 2 seconds of vi
 | What the numbers show | What it usually means | What to change |
 |---|---|---|
 | Avg watch under ~8 s on TikTok/Instagram | People scroll past in the first seconds; the hook isn't landing | Object on screen at 0.0 s. Say the surprising claim in the first 1.5 s. First cut at 1.5 s or sooner. Open on the "wrong belief" or a close-up of the detail, not a wide shot. |
-| Good retention early, big drop in the middle (YouTube retention curve) | The middle explains too slowly | Shorter video (try 45–60 s). Cut background history. New shot every 2–3 s. |
+| Good retention early, big drop in the middle (YouTube retention curve) | The middle explains too slowly | Shorter video (try 45–60 s). Cut background history. New shot every 2–3 s. Check the curiosity reloops (playbook rule 8): is there one just before the drop, and does its payoff arrive fast? |
 | Good retention, low views | Topic or packaging doesn't pull people in | Rewrite title patterns, move stronger categories earlier in `state/queue.md`, adjust hashtags (`docs/vidiq-captions.md`). |
 | Good views, low likes/comments | People watch but don't react | End on a question Americans want to answer ("Which one did you have growing up?", "Be honest, did you know this?"). Rotate it; never the same line twice in a row. |
 | Low new followers even on good videos | No reason to follow | Name the series in the last line ("Part of a series on stuff in your house that's smarter than it looks"). Keep one consistent follow reason. |

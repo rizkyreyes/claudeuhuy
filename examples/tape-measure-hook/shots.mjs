@@ -1,7 +1,10 @@
 export const title = "Tape Measure Hook";
-// [cue word (next occurrence after previous cue), shot id, kind]
+// [cue word (next occurrence after previous cue), shot id, kind, { zoom, focus }]
+// Opening: cue 2 lands inside the first 2 s and shows a second angle (here a tighter crop of the same still).
+// zoom/focus work on stills only; crop clips with pipeline/crop.mjs.
 export const cues = [
-  [null, "t01", "clip"],          // That hook wiggling...
+  [null, "t01", null, { focus: "50% 35%" }],                      // That hook... (still: fast punch-in)
+  ["wiggling", "t01", null, { zoom: 1.6, focus: "50% 30%" }],     // ...wiggling on the end: tighter crop, second angle at 0.85 s
   ["It's", "t02", "clip"],                // It's not.
   ["It's", "t03"],                // It's actually the smartest part
   ["and", "t04", "clip"],                 // and almost nobody knows why

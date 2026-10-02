@@ -33,24 +33,35 @@ export function makeMotion(tl) {
   return { enter, exit, slam, kenBurns };
 }
 
-/** Four-word (or sentence-boundary) caption lines timed off the VO word table. */
+/**
+ * Caption lines timed off the VO word table: up to four words, a sentence boundary, or about 22 characters,
+ * whichever comes first, so a line stays on one row at the bigger size. Each line sits in a semi-transparent
+ * dark box (Rizky, 3 Oct 2026: the old captions were small and low-contrast).
+ */
 export function buildCaptions(VO, VO_START) {
   const caps = [], tlLines = [];
   const lines = []; let line = [];
-  for (const w of VO.words) { line.push(w); if (line.length === 4 || /[.?!]$/.test(w.text)) { lines.push(line); line = []; } }
+  const chars = (ln) => ln.reduce((n, w) => n + w.text.length + 1, 0);
+  for (const w of VO.words) {
+    if (line.length && chars(line) + w.text.length > 22) { lines.push(line); line = []; }
+    line.push(w);
+    if (line.length === 4 || /[.?!]$/.test(w.text)) { lines.push(line); line = []; }
+  }
   if (line.length) lines.push(line);
   lines.forEach((ln, i) => {
     const st = fx(VO_START + ln[0].start - 0.06);
     const nx = lines[i + 1];
     const en = fx(nx ? VO_START + nx[0].start - 0.06 : VO_START + ln.at(-1).end + 0.3);
-    caps.push(`<div class="cap clip" id="cap-${i}" data-start="${st}" data-duration="${fx(en - st)}" data-track-index="7">${ln.map((w, j) => `<span class="w" id="w-${i}-${j}">${esc(w.text)}</span>`).join(" ")}</div>`);
+    caps.push(`<div class="cap clip" id="cap-${i}" data-start="${st}" data-duration="${fx(en - st)}" data-track-index="7"><span class="capbox">${ln.map((w, j) => `<span class="w" id="w-${i}-${j}">${esc(w.text)}</span>`).join(" ")}</span></div>`);
     tlLines.push(`tl.fromTo("#cap-${i}",{y:16,opacity:0},{y:0,opacity:1,duration:0.18,ease:"power2.out"},${st});`);
+    // hard-hide the line when the next one starts: some render paths ignore data-duration and stack old captions
+    tlLines.push(`tl.set("#cap-${i}",{opacity:0},${en});`);
     // karaoke: each word lights up on the frame it is spoken, then settles to "already said"
     ln.forEach((w, j) => {
       const ws = fx(VO_START + w.start);
       const we = fx(Math.max(VO_START + w.end, ws + 0.12));
-      tlLines.push(`tl.fromTo("#w-${i}-${j}",{color:"rgba(244,245,247,0.45)",scale:1},{color:"#F5C242",scale:1.06,duration:0.08,ease:"power2.out",immediateRender:false},${ws});`);
-      tlLines.push(`tl.to("#w-${i}-${j}",{color:"#F4F5F7",scale:1,duration:0.1,ease:"power1.out"},${we});`);
+      tlLines.push(`tl.fromTo("#w-${i}-${j}",{color:"rgba(255,255,255,0.72)",scale:1},{color:"#FFD34D",scale:1.06,duration:0.08,ease:"power2.out",immediateRender:false},${ws});`);
+      tlLines.push(`tl.to("#w-${i}-${j}",{color:"#FFFFFF",scale:1,duration:0.1,ease:"power1.out"},${we});`);
     });
   });
   return { caps, tlLines };
@@ -62,6 +73,10 @@ export function buildCaptions(VO, VO_START) {
  * shot is hard-hidden just after the new one is fully up, so there is never a black frame between them.
  * A clip plays via data-start/data-duration (framework-owned — no GSAP autoAlpha on it). If a clip is shorter
  * than its window, its last frame (<clip>_last.jpg) takes over as a still for the remainder.
+ *
+ * Framing (Rizky, 3 Oct 2026): a still can carry `zoom` (1 = as shot, 1.5 = crop in 1.5x) and `focus`
+ * ("50% 30%" = the point the crop closes in on). The FIRST still also gets a fast punch-in toward its focus in
+ * the first 0.45 s, so the video never opens on a static frame. Clips are cropped beforehand with crop.mjs.
  */
 export function buildBroll({ SHOTS, TOTAL, proj }) {
   const html = [], tl = [];
@@ -77,7 +92,7 @@ export function buildBroll({ SHOTS, TOTAL, proj }) {
       const d = clipDur(s.clip);
       if (d >= end - s.at - 0.01) seq.push({ ...s, end });
       else { seq.push({ ...s, end: fx(s.at + d) }); seq.push({ at: fx(s.at + d), img: s.clip.replace(/\.mp4$/, "_last.jpg"), end, still: "hold" }); }
-    } else seq.push({ at: s.at, img: s.img || s.fallback, end });
+    } else seq.push({ at: s.at, img: s.img || s.fallback, end, zoom: s.zoom, focus: s.focus });
   }
   seq.forEach((s, i) => {
     const id = `b${i}`, z = 10 + i, win = fx(s.end - s.at);
@@ -85,7 +100,9 @@ export function buildBroll({ SHOTS, TOTAL, proj }) {
       html.push(`<video id="${id}" class="clip footage" muted playsinline preload="auto" src="${s.clip}" data-start="${fx(s.at)}" data-duration="${win}" data-track-index="${11 + (i % 2)}" style="position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;z-index:${z}"></video>`);
       return;
     }
-    html.push(`<div id="${id}" class="ct footage bshot" style="z-index:${z}"><img id="${id}-img" src="${s.img}" alt=""></div>`);
+    const Z = Math.min(Math.max(Number(s.zoom) || 1, 1), 2.5), focus = s.focus || "50% 40%";
+    const sc = (n) => fx(n * Z);
+    html.push(`<div id="${id}" class="ct footage bshot" style="z-index:${z}"><img id="${id}-img" src="${s.img}" alt="" style="transform-origin:${focus}"></div>`);
     const fadeIn = i === 0 ? 0 : 0.14;
     if (i === 0) tl.push(`tl.set("#${id}",{autoAlpha:1},0);`);
     else if (s.still === "hold") tl.push(`tl.set("#${id}",{autoAlpha:1},${fx(s.at)});`);
@@ -93,7 +110,14 @@ export function buildBroll({ SHOTS, TOTAL, proj }) {
     if (i + 1 < seq.length) tl.push(`tl.set("#${id}",{autoAlpha:0},${fx(s.end + 0.2)});`);
     // Ken Burns: alternate push-in / pull-out with a small lateral drift so consecutive stills never move alike
     const dir = i % 2 === 0, x = (i % 3 === 0 ? -1 : 1) * 26;
-    const a = dir ? `scale:1.02,x:0` : `scale:1.14,x:${x}`, b = dir ? `scale:1.14,x:${x}` : `scale:1.02,x:0`;
+    if (i === 0) {
+      // opening: fast punch-in toward the focus point, then keep drifting in
+      const P = Math.min(0.45, win * 0.5);
+      tl.push(`tl.fromTo("#${id}-img",{scale:${sc(1.0)}},{scale:${sc(1.2)},duration:${fx(P)},ease:"power3.out"},0);`);
+      tl.push(`tl.to("#${id}-img",{scale:${sc(1.3)},duration:${fx(win + 0.35 - P)},ease:"none"},${fx(P)});`);
+      return;
+    }
+    const a = dir ? `scale:${sc(1.02)},x:0` : `scale:${sc(1.14)},x:${x}`, b = dir ? `scale:${sc(1.14)},x:${x}` : `scale:${sc(1.02)},x:0`;
     if (s.still !== "hold") tl.push(`tl.fromTo("#${id}-img",{${a}},{${b},duration:${fx(win + 0.35)},ease:"sine.inOut"},${fx(s.at)});`);
     else tl.push(`tl.fromTo("#${id}-img",{scale:1},{scale:1.06,duration:${fx(win + 0.35)},ease:"sine.out"},${fx(s.at)});`);
   });
@@ -120,13 +144,14 @@ body{font-family:Inter,system-ui,sans-serif;color:${INK};-webkit-font-smoothing:
 .chip{display:inline-block;padding:16px 32px;border-radius:100px;border:3px solid ${ACCENT};font-weight:800;font-size:38px;letter-spacing:-0.01em}
 .chip.dim{border-color:${MUTED};color:${MUTED}}
 .diagram{position:relative;height:420px;display:flex;align-items:center;justify-content:center}
-.cap{position:absolute;left:50px;right:50px;top:1600px;text-align:center;font-size:62px;font-weight:900;line-height:1.2;letter-spacing:-0.01em;color:rgba(244,245,247,0.45);opacity:0;text-shadow:0 4px 18px rgba(0,0,0,0.85),0 0 3px rgba(0,0,0,0.9)}
+.cap{position:absolute;left:36px;right:36px;top:1560px;text-align:center;font-size:70px;font-weight:900;line-height:1.18;letter-spacing:-0.01em;color:rgba(255,255,255,0.72);opacity:0;text-shadow:0 3px 0 rgba(0,0,0,0.6),0 0 12px rgba(0,0,0,0.9)}
+.capbox{display:inline-block;padding:14px 28px 20px;border-radius:26px;background:rgba(8,10,14,0.68)}
 .bshot{position:absolute;inset:0;overflow:hidden;opacity:0;visibility:hidden}
 .bshot img{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;will-change:transform}
 #scrim{position:absolute;left:0;right:0;bottom:0;height:720px;z-index:90;background:linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0.55) 45%,rgba(0,0,0,0.82) 100%)}
 #topfade{position:absolute;left:0;right:0;top:0;height:260px;z-index:90;background:linear-gradient(to bottom,rgba(0,0,0,0.35),rgba(0,0,0,0))}
 .cap{z-index:100}
-.cap .w{display:inline-block;margin:0 5px;transform-origin:50% 70%;color:rgba(244,245,247,0.45)}
+.cap .w{display:inline-block;margin:0 5px;transform-origin:50% 70%;color:rgba(255,255,255,0.72)}
 ${extraCSS}
 </style></head><body>
 <div id="root" data-composition-id="main" data-start="0" data-duration="${TOTAL}" data-width="${W}" data-height="${H}">

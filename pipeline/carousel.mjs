@@ -1,6 +1,8 @@
 // carousel.mjs: render a "myth vs fact" photo carousel to JPGs with headless Chromium.
 //
-//   node carousel.mjs <carousel.json> <outDir> [ig|tt|both]      (default: both)
+//   node carousel.mjs <carousel.json> <outDir> [ig|tt|both|frames]      (default: both)
+//     frames = 1080x1920 frames for the slideshow VIDEO (see slideshow.mjs): text sits higher to clear the app's
+//              caption/buttons, no "Swipe" hint, and every myth slide also gets an "a" frame (myth only, fact hidden).
 //     ig = 1080x1350 (Instagram 4:5)   tt = 1080x1920 (TikTok photo mode 9:16)
 //
 // carousel.json (paths are relative to the json file):
@@ -17,7 +19,7 @@
 import fs from "node:fs"; import path from "node:path"; import os from "node:os"; import { execFileSync } from "node:child_process";
 
 const [jsonPath, outDir, which = "both"] = process.argv.slice(2);
-if (!jsonPath || !outDir) { console.log("usage: node carousel.mjs <carousel.json> <outDir> [ig|tt|both]"); process.exit(1); }
+if (!jsonPath || !outDir) { console.log("usage: node carousel.mjs <carousel.json> <outDir> [ig|tt|both|frames]"); process.exit(1); }
 const here = path.dirname(new URL(import.meta.url).pathname);
 const base = path.dirname(path.resolve(jsonPath));
 const cfg = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
@@ -35,22 +37,25 @@ const url = (p) => "file://" + path.resolve(base, p);
 const font = (f) => "file://" + path.join(here, "fonts", f);
 const total = cfg.slides.filter((s) => s.type === "myth").length;
 
-function page(s, i, W, H) {
+function page(s, i, W, H, video = false, phase = "b") {
   const tall = H > 1500;
   const pad = 84;
+  const padB = video ? 380 : pad - 8;   // video: keep text above the caption and buttons the apps draw over the bottom
+  const padR = video ? 150 : pad;
   let n = 0; for (let k = 0; k <= i; k++) if (cfg.slides[k].type === "myth") n++;
   const top = `<div class="top"><span class="chip">Myth vs fact</span>${s.type === "myth" ? `<span class="count">${n}/${total}</span>` : ""}</div>`;
   let body = "";
   if (s.type === "cover") body = `
     ${s.kicker ? `<div class="kicker">${esc(s.kicker)}</div>` : ""}
     <h1 class="cover">${esc(s.title)}</h1>
-    ${s.sub ? `<div class="swipe">${esc(s.sub)} <span>&rarr;</span></div>` : ""}`;
+    ${s.sub && !video ? `<div class="swipe">${esc(s.sub)} <span>&rarr;</span></div>` : ""}`;
   if (s.type === "myth") body = `
     <div class="label myth-l">Myth</div>
-    <p class="myth">${esc(s.myth)}</p>
+    <p class="myth${phase === "a" ? " open" : ""}">${esc(s.myth)}</p>
+    <div class="${phase === "a" ? "hide" : "show"}">
     <div class="label fact-l">Fact</div>
     <p class="fact">${esc(s.fact)}</p>
-    ${s.source ? `<p class="src">Source: ${esc(s.source)}</p>` : ""}`;
+    ${s.source ? `<p class="src">Source: ${esc(s.source)}</p>` : ""}</div>`;
   if (s.type === "end") body = `
     <h1 class="end">${esc(s.title)}</h1>
     ${s.cta ? `<div class="cta">${esc(s.cta)}</div>` : ""}
@@ -63,8 +68,10 @@ function page(s, i, W, H) {
   html,body{width:${W}px;height:${H}px;overflow:hidden;background:#0a0c0e}
   body{font-family:"Archivo",Arial,sans-serif;color:var(--ink);position:relative}
   .bg{position:absolute;inset:0;background:url("${url(s.bg)}") center/cover no-repeat}
-  .veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(var(--shade),.55) 0%,rgba(var(--shade),.15) 22%,rgba(var(--shade),.35) ${tall ? 42 : 36}%,rgba(var(--shade),.88) ${tall ? 62 : 58}%,rgba(var(--shade),.96) 100%)}
-  .wrap{position:absolute;inset:0;padding:${pad}px ${pad}px ${pad - 8}px;display:flex;flex-direction:column}
+  .veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(var(--shade),.55) 0%,rgba(var(--shade),.15) 20%,rgba(var(--shade),.35) ${video ? 30 : tall ? 42 : 36}%,rgba(var(--shade),.88) ${video ? 46 : tall ? 62 : 58}%,rgba(var(--shade),.96) 100%)}
+  .wrap{position:absolute;inset:0;padding:${pad}px ${padR}px ${padB}px ${pad}px;display:flex;flex-direction:column}
+  .show,.hide{display:flex;flex-direction:column;gap:22px}.hide{visibility:hidden}
+  .myth.open{text-decoration:none;color:var(--ink)}
   .top{display:flex;justify-content:space-between;align-items:center}
   .chip{font:800 26px/1 "Archivo";letter-spacing:.14em;text-transform:uppercase;background:var(--yellow);color:#14161a;padding:14px 20px;border-radius:999px}
   .count{font:700 30px/1 "Archivo";letter-spacing:.06em;color:var(--ink);background:rgba(0,0,0,.45);padding:12px 18px;border-radius:999px}
@@ -87,17 +94,23 @@ function page(s, i, W, H) {
   <div class="wrap">${top}<div class="main">${body}</div><div class="foot"><span>Hidden In Your Home</span></div></div></body></html>`;
 }
 
-const sizes = { ig: [1080, 1350], tt: [1080, 1920] };
+const sizes = { ig: [1080, 1350], tt: [1080, 1920], frames: [1080, 1920] };
 const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "carousel-"));
 for (const key of which === "both" ? ["ig", "tt"] : [which]) {
   const [W, H] = sizes[key]; const dir = path.join(outDir, key); fs.mkdirSync(dir, { recursive: true });
+  const jobs = [];
   cfg.slides.forEach((s, i) => {
     if (!fs.existsSync(path.resolve(base, s.bg))) throw new Error(`missing background ${s.bg}`);
-    const html = path.join(tmp, `${key}-${i}.html`); fs.writeFileSync(html, page(s, i, W, H));
-    const png = path.join(tmp, `${key}-${i}.png`);
+    const nn = String(i + 1).padStart(2, "0");
+    if (key === "frames" && s.type === "myth") jobs.push([s, i, nn + "a", "a"]);
+    jobs.push([s, i, nn, "b"]);
+  });
+  jobs.forEach(([s, i, name, phase]) => {
+    const html = path.join(tmp, `${key}-${name}.html`); fs.writeFileSync(html, page(s, i, W, H, key === "frames", phase));
+    const png = path.join(tmp, `${key}-${name}.png`);
     execFileSync(chrome, [...(isShell ? [] : ["--headless=new"]), "--no-sandbox", "--disable-gpu", "--hide-scrollbars", "--force-device-scale-factor=1",
       "--allow-file-access-from-files", "--virtual-time-budget=4000", `--window-size=${W},${H}`, `--screenshot=${png}`, "file://" + html], { stdio: "ignore" });
-    const out = path.join(dir, `${String(i + 1).padStart(2, "0")}.jpg`);
+    const out = path.join(dir, `${name}.jpg`);
     execFileSync(ffmpeg, ["-loglevel", "error", "-y", "-i", png, "-q:v", "2", out]);
     console.log(out);
   });
