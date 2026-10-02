@@ -1,0 +1,28 @@
+Fact-check sources for heinz-57-tap-spot (checked 2026-10-02). Publisher pages (foodbeast, thekitchn, today, tastingtable, snopes) were blocked by the network egress proxy, so every claim below is backed by concordant web-search excerpts from several outlets, not full-page reads.
+
+LOCKED
+1. Heinz spokesperson: "The sweet spot to tap on the Heinz bottle is the 57 on the neck," and "apply a firm tap where the bottle narrows, and the ketchup will come out easier." Excerpts from Today (https://www.today.com/food/how-get-ketchup-out-bottle-trick-heinz-57-t118061, https://www.today.com/food/heinz-finally-revealed-best-way-pour-ketchup-t162227), AOL/Yahoo syndication, LADbible, Owler. Script says "The company calls it the sweet spot" and "a firm tap".
+2. Glass bottle, hold at about 45 degrees, tap the embossed 57 on the neck where it narrows: The Kitchn https://www.thekitchn.com/heinz-ketchup-57-trick-23750231, Tasting Table https://www.tastingtable.com/2250739/heinz-57-bottle-purpose-explained/, Foodbeast https://www.foodbeast.com/news/heinz-official-pour/ (search excerpts).
+3. Ketchup is a shear-thinning fluid (thick at rest, flows when force is applied): https://en.wikipedia.org/wiki/Shear_thinning , https://www.sciencefriday.com/educational-resources/fluid-physics-experiment/ , https://www.chemistryworld.com/news/microscopy-reveals-why-ketchup-squirts/3002513.article (search excerpts).
+4. "57 Varieties" slogan created in 1896 after the founder saw a "21 styles" shoe advertisement; 5 was his lucky number, 7 his wife's; the company already sold more than 60 products then: https://www.snopes.com/fact-check/57-varieties/ , https://www.cnn.com/2022/02/19/business/heinz-ketchup-57-varieties-history , https://en.wikipedia.org/wiki/Heinz_57 (search excerpts, concordant).
+
+CUT (not used)
+- Claim that tapping the bottom "packs the ketchup down and creates a vacuum": single weak source, cut.
+- Univ. of Melbourne professor's three-step method: not needed, cut.
+- Reason the 57 sits exactly on the neck (design intent beyond the company's "sweet spot" statement): no source, not claimed.
+- Brand name and founder name kept out of narration/on-screen captions; the bottle is shown generic with no label.
+
+Stock footage (Pexels, free for commercial use; logged for provenance):
+- t03 Pexels video 8903836 "Close-up of glass bottles" https://www.pexels.com/video/close-up-of-glass-bottles-8903836/
+- t05 Pexels video 8798269 "A ketchup bottle and tomatoes" https://www.pexels.com/video/a-ketchup-bottle-and-tomatoes-8798269/
+- t09 Pexels video 33445432 "Cluster of ripe red cherry tomatoes on vine" https://www.pexels.com/video/cluster-of-ripe-red-cherry-tomatoes-on-vine-33445432/
+- t10 Pexels video 37189266 "Traditional Italian tomato sauce cooking" https://www.pexels.com/video/traditional-italian-tomato-sauce-cooking-37189266/
+- t14 Pexels video 3512344 "A pair of nice black leather shoes" https://www.pexels.com/video/a-pair-of-nice-black-leather-shoes-3512344/
+- t16 Pexels video 8580882 "Video of a jars in cabinet" https://www.pexels.com/video/video-of-a-jars-in-cabinet-8580882/
+
+AI-generated illustrative imagery (not a real person/event/place; fal.ai openai/gpt-image-2 stills):
+- t01 (HIGH, plus LTX-2.3 Fast clip): generic unlabeled glass ketchup bottle with embossed 57
+- t02 (HIGH): macro of the embossed 57 on a glass neck
+- t04, t06, t07, t08 (clip via LTX-2.3 Fast), t11, t12 (MEDIUM): bottle neck, hand tapping, tilted bottle, flowing ketchup, ketchup on spoon
+- t13 (MEDIUM): sepia 1890s-style city street with horse-drawn streetcar, illustrative only, no people
+- t15 (MEDIUM): brass numerals 5 and 7 on wood

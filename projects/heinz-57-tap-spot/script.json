@@ -1,0 +1,21 @@
+{
+  "slug": "heinz-57-tap-spot",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Stop smacking the bottom of the ketchup bottle. Tap the 57. On a classic glass ketchup bottle, there's a raised 57 on the neck, right where the glass narrows. It's not just decoration. The company calls it the sweet spot. Their advice is simple. Tilt the bottle to about forty-five degrees, then give that spot a firm tap, and the ketchup comes out easier. So why does a tap work at all? Ketchup is what scientists call a shear-thinning fluid. Sitting still, it's thick and stubborn. Hit it with enough force, and it gets runnier and starts to flow. That's why shaking and tapping beat waiting for gravity. Now, where did the number come from? In 1896, the founder saw a shoe ad bragging about twenty-one styles, and he figured a number would stick in people's heads. He picked five, because it was his lucky number. And seven, because it was his wife's. By then, the company already sold more than sixty products. So the 57 was never a headcount. It was two lucky numbers, and it turned out to be a pretty good place to tap. Next time the bottle won't budge, you know where to hit it. Follow if you want to know why your pantry looks the way it does."
+    }
+  ]
+}
