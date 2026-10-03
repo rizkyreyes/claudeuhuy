@@ -4,6 +4,7 @@ Channels (from 29 Sep 2026): **YouTube, TikTok, Instagram** (Instagram re-connec
 
 Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `scheduled` (posts created in Buffer) → `posted`.
 `duration` = exact final MP4 length in seconds (used to match Buffer drafts to videos).
+**From Mon 5 Oct 2026: 1 video a day at 7 PM ET** (Rizky, 3 Oct). Planned slots below were re-dated on 3 Oct; topics that no longer fit in October roll over to November.
 `scheduled for (ET)` on `todo` rows is the PLANNED slot from `docs/schedule-october.md`. If production falls behind, don't skip topics: give the next `todo` row the earliest empty slot and update this column to the real time.
 `spare` rows are only used when a planned topic has to be cut (fact can't be verified).
 
@@ -25,59 +26,59 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | o-07 | jeans-rivets | Copper rivets on jeans pockets | scheduled | 75.40 | Sat 3 Oct 2026 7 PM | produced 30 Sep, scheduled on all 3 channels (planned Sun 12 PM) |
 | o-08 | trash-can-vents | Vent holes near the top of a trash can | scheduled | 68.61 | Sun 4 Oct 2026 12 PM | produced 1 Oct, scheduled on all 3 channels (planned Sun 6 PM); LTX hook clip warped so a still was used |
 | o-09 | pillow-law-tag | "Do not remove under penalty of law" pillow tag | scheduled | 71.33 | Sun 4 Oct 2026 6 PM | produced 1 Oct, scheduled on all 3 channels (planned Mon 5 Oct 12 PM); gavel stock clip has tiny unreadable pseudo-text ~8 s |
-| o-10 | heinz-57-tap-spot | Embossed "57" on a glass Heinz bottle | scheduled | 72.13 | Mon 5 Oct 2026 12 PM | produced 2 Oct, scheduled on all 3 channels (planned Mon 7 PM); generic unlabeled bottle · packaging · hack · docs/topics-october.md |
-| o-11 | pot-lid-hole | Small hole in a pot or slow-cooker lid | scheduled | 64.93 | Mon 5 Oct 2026 7 PM | produced 2 Oct, scheduled on all 3 channels; topic note corrected (some slow cookers do have a probe hole) · kitchen · myth-bust · docs/topics-october.md |
-| o-12 | iron-button-groove | Notch at the tip of an iron's soleplate | scheduled | 66.84 | Tue 6 Oct 2026 7 PM | produced 3 Oct, scheduled on all 3 channels; LTX t03 warped after 2.6 s so trimmed; laundry · hack · docs/topics-october.md |
-| o-13 | hair-dryer-plug-block | Chunky block on a hair dryer plug | scheduled | 76.84 | Tue 6 Oct 2026 12 PM | produced 3 Oct, scheduled on all 3 channels (planned Wed 7 Oct 12 PM); bathroom · safety · docs/topics-october.md |
-| o-14 | zipper-lock-tab | Fold-down tab on a jeans zipper | todo | | Wed 7 Oct 2026 7 PM | clothing · hack · docs/topics-october.md |
-| o-15 | mattress-handles | Handles on the side of a mattress | todo | | Thu 8 Oct 2026 12 PM | bedroom · myth-bust · docs/topics-october.md |
-| o-16 | vacuum-suction-valve | Sliding vent on a vacuum hose handle | todo | | Thu 8 Oct 2026 7 PM | cleaning · hack · docs/topics-october.md |
-| o-17 | toothbrush-indicator-bristles | Blue bristles on a toothbrush | todo | | Fri 9 Oct 2026 12 PM | bathroom · convenience · docs/topics-october.md |
-| o-18 | rice-cooker-cup | The measuring cup that comes with a rice cooker | todo | | Fri 9 Oct 2026 7 PM | kitchen · hack · docs/topics-october.md |
-| o-19 | smoke-alarm-date | Date on the back of a smoke alarm | todo | | Sat 10 Oct 2026 3 PM | bedroom · safety · docs/topics-october.md |
-| o-20 | egg-carton-pack-date | Three-digit number on an egg carton | todo | | Sat 10 Oct 2026 7 PM | packaging · hack · docs/topics-october.md |
-| o-21 | knife-hollow-edge-dimples | Oval dimples along a santoku blade | todo | | Sun 11 Oct 2026 12 PM | kitchen · convenience · docs/topics-october.md |
-| o-22 | he-detergent-logo | "HE" logo on laundry detergent | todo | | Sun 11 Oct 2026 6 PM | laundry · hack · docs/topics-october.md |
-| o-23 | bottle-cap-teeth | Crimped teeth on a metal bottle cap | todo | | Mon 12 Oct 2026 12 PM | packaging · history · docs/topics-october.md |
-| o-24 | running-shoe-extra-eyelet | Extra eyelet at the top of running shoes | todo | | Mon 12 Oct 2026 7 PM | clothing · hack · docs/topics-october.md |
-| o-25 | spaghetti-spoon-hole | Hole in the middle of a spaghetti spoon | todo | | Tue 13 Oct 2026 12 PM | kitchen · myth-bust · docs/topics-october.md |
-| o-26 | dustpan-comb-teeth | Row of teeth on a dustpan edge | todo | | Tue 13 Oct 2026 7 PM | cleaning · hack · docs/topics-october.md |
-| o-27 | wine-bottle-punt | Dent in the bottom of a wine bottle | todo | | Wed 14 Oct 2026 12 PM | packaging · myth-bust · docs/topics-october.md |
-| o-28 | washer-debris-filter-door | Small door at the bottom of a front-load washer | todo | | Wed 14 Oct 2026 7 PM | laundry · hack · docs/topics-october.md |
-| o-29 | brogue-shoe-holes | Holes on wingtip shoes | todo | | Thu 15 Oct 2026 12 PM | clothing · history · docs/topics-october.md |
-| o-30 | plunger-flange | Extra rubber flap under a plunger cup | todo | | Thu 15 Oct 2026 7 PM | bathroom · hack · docs/topics-october.md |
-| o-31 | child-resistant-cap-test | Push-and-turn cap on cleaning products | todo | | Fri 16 Oct 2026 12 PM | cleaning · safety · docs/topics-october.md |
-| o-32 | crisper-drawer-slider | Humidity slider on a crisper drawer | todo | | Fri 16 Oct 2026 7 PM | kitchen · hack · docs/topics-october.md |
-| o-33 | plastic-resin-code | Number inside the recycling arrows | todo | | Sat 17 Oct 2026 3 PM | packaging · myth-bust · docs/topics-october.md |
-| o-34 | tape-measure-black-diamonds | Black diamonds on a tape measure | todo | | Sat 17 Oct 2026 7 PM | garage · hack · docs/topics-october.md |
-| o-35 | party-cup-lines | Lines on a red party cup | todo | | Sun 18 Oct 2026 12 PM | kitchen · myth-bust · docs/topics-october.md |
-| o-36 | sticky-notes-yellow | Yellow sticky notes | todo | | Sun 18 Oct 2026 6 PM | office · history · docs/topics-october.md |
-| o-37 | sd-card-lock-switch | Lock switch on an SD card | todo | | Mon 19 Oct 2026 12 PM | tech · myth-bust · docs/topics-october.md |
-| o-38 | fire-hydrant-cap-colors | Colored cap on a fire hydrant | todo | | Mon 19 Oct 2026 7 PM | yard · safety · docs/topics-october.md |
-| o-39 | headrest-window-myth | Removable car headrest | todo | | Tue 20 Oct 2026 12 PM | car · myth-bust · docs/topics-october.md |
-| o-40 | tamper-resistant-outlets | Hidden shutters in newer outlets | todo | | Tue 20 Oct 2026 7 PM | living-room · safety · docs/topics-october.md |
-| o-41 | do-not-duplicate-key | "Do Not Duplicate" on a key | todo | | Wed 21 Oct 2026 12 PM | carry · myth-bust · docs/topics-october.md |
-| o-42 | stapler-anvil-pinning | Rotating plate under a stapler | todo | | Wed 21 Oct 2026 7 PM | office · hack · docs/topics-october.md |
-| o-43 | phillips-cam-out-myth | Phillips screws that strip | todo | | Thu 22 Oct 2026 12 PM | garage · myth-bust · docs/topics-october.md |
-| o-44 | plug-prong-holes | Holes in plug prongs | todo | | Thu 22 Oct 2026 7 PM | tech · manufacturing · docs/topics-october.md |
-| o-45 | fuel-gauge-arrow | Arrow next to the fuel gauge | todo | | Fri 23 Oct 2026 12 PM | car · hack · docs/topics-october.md |
-| o-46 | utility-marking-flags | Colored flags in your yard | todo | | Fri 23 Oct 2026 7 PM | yard · safety · docs/topics-october.md |
-| o-47 | privacy-knob-hole | Tiny hole in a bathroom doorknob | todo | | Sat 24 Oct 2026 3 PM | living-room · hack · docs/topics-october.md |
-| o-48 | backpack-lash-tab | Diamond patch on a backpack | todo | | Sat 24 Oct 2026 7 PM | carry · history · docs/topics-october.md |
-| o-49 | windshield-frit-dots | Black dots around the windshield | todo | | Sun 25 Oct 2026 12 PM | car · manufacturing · docs/topics-october.md |
-| o-50 | snap-off-blade | Snap-off lines on a box cutter blade | todo | | Sun 25 Oct 2026 6 PM | garage · history · docs/topics-october.md |
-| o-51 | mailbox-flag-color | Flag on a curbside mailbox | todo | | Mon 26 Oct 2026 12 PM | yard · myth-bust · docs/topics-october.md |
-| o-52 | yellow-pencils | Yellow pencils | todo | | Mon 26 Oct 2026 7 PM | office · history · docs/topics-october.md |
-| o-53 | two-by-four-size | A 2x4 isn't 2 by 4 | todo | | Tue 27 Oct 2026 12 PM | garage · manufacturing · docs/topics-october.md |
-| o-54 | keypad-number-order | Phone keypad vs calculator order | todo | | Tue 27 Oct 2026 7 PM | tech · history · docs/topics-october.md |
-| o-55 | hexagonal-pencils | Six-sided pencils | todo | | Wed 28 Oct 2026 12 PM | office · manufacturing · docs/topics-october.md |
-| o-56 | coin-reeded-edges | Ridges on dimes and quarters | todo | | Wed 28 Oct 2026 7 PM | carry · history · docs/topics-october.md |
-| o-57 | ferrite-bead-cable | Lump on a laptop charger cord | todo | | Thu 29 Oct 2026 12 PM | tech · safety · docs/topics-october.md |
-| o-58 | ceiling-fan-switch | Switch on a ceiling fan | todo | | Thu 29 Oct 2026 7 PM | living-room · hack · docs/topics-october.md |
-| o-59 | passenger-mirror-warning | "Objects in mirror are closer than they appear" | todo | | Fri 30 Oct 2026 12 PM | car · safety · docs/topics-october.md |
-| o-60 | glasses-frame-numbers | Tiny numbers inside your glasses arm | todo | | Fri 30 Oct 2026 7 PM | carry · hack · docs/topics-october.md |
-| o-61 | curb-ramp-bumps | Bumpy pad at the curb ramp | todo | | Sat 31 Oct 2026 3 PM | yard · safety · docs/topics-october.md |
-| o-62 | iphone-camera-mic-hole | Tiny hole next to the phone camera | todo | | Sat 31 Oct 2026 7 PM | tech · convenience · docs/topics-october.md |
+| o-10 | heinz-57-tap-spot | Embossed "57" on a glass Heinz bottle | scheduled | 72.13 | Mon 5 Oct 2026 7 PM | produced 2 Oct, scheduled on all 3 channels (planned Mon 7 PM); generic unlabeled bottle · packaging · hack · docs/topics-october.md; moved 3 Oct from Mon 5 Oct 12 PM when the channel went to 1 video a day |
+| o-11 | pot-lid-hole | Small hole in a pot or slow-cooker lid | scheduled | 64.93 | Tue 6 Oct 2026 7 PM | produced 2 Oct, scheduled on all 3 channels; topic note corrected (some slow cookers do have a probe hole) · kitchen · myth-bust · docs/topics-october.md; moved 3 Oct from Mon 5 Oct 7 PM when the channel went to 1 video a day |
+| o-12 | iron-button-groove | Notch at the tip of an iron's soleplate | scheduled | 66.84 | Wed 7 Oct 2026 7 PM | produced 3 Oct, scheduled on all 3 channels; LTX t03 warped after 2.6 s so trimmed; laundry · hack · docs/topics-october.md; moved 3 Oct from Tue 6 Oct 7 PM when the channel went to 1 video a day |
+| o-13 | hair-dryer-plug-block | Chunky block on a hair dryer plug | scheduled | 76.84 | Thu 8 Oct 2026 7 PM | produced 3 Oct, scheduled on all 3 channels (planned Wed 7 Oct 12 PM); bathroom · safety · docs/topics-october.md; moved 3 Oct from Tue 6 Oct 12 PM when the channel went to 1 video a day |
+| o-14 | zipper-lock-tab | Fold-down tab on a jeans zipper | todo | | Fri 9 Oct 2026 7 PM | clothing · hack · docs/topics-october.md |
+| o-15 | mattress-handles | Handles on the side of a mattress | todo | | Sat 10 Oct 2026 7 PM | bedroom · myth-bust · docs/topics-october.md |
+| o-16 | vacuum-suction-valve | Sliding vent on a vacuum hose handle | todo | | Sun 11 Oct 2026 7 PM | cleaning · hack · docs/topics-october.md |
+| o-17 | toothbrush-indicator-bristles | Blue bristles on a toothbrush | todo | | Mon 12 Oct 2026 7 PM | bathroom · convenience · docs/topics-october.md |
+| o-18 | rice-cooker-cup | The measuring cup that comes with a rice cooker | todo | | Tue 13 Oct 2026 7 PM | kitchen · hack · docs/topics-october.md |
+| o-19 | smoke-alarm-date | Date on the back of a smoke alarm | todo | | Wed 14 Oct 2026 7 PM | bedroom · safety · docs/topics-october.md |
+| o-20 | egg-carton-pack-date | Three-digit number on an egg carton | todo | | Thu 15 Oct 2026 7 PM | packaging · hack · docs/topics-october.md |
+| o-21 | knife-hollow-edge-dimples | Oval dimples along a santoku blade | todo | | Fri 16 Oct 2026 7 PM | kitchen · convenience · docs/topics-october.md |
+| o-22 | he-detergent-logo | "HE" logo on laundry detergent | todo | | Sat 17 Oct 2026 7 PM | laundry · hack · docs/topics-october.md |
+| o-23 | bottle-cap-teeth | Crimped teeth on a metal bottle cap | todo | | Sun 18 Oct 2026 7 PM | packaging · history · docs/topics-october.md |
+| o-24 | running-shoe-extra-eyelet | Extra eyelet at the top of running shoes | todo | | Mon 19 Oct 2026 7 PM | clothing · hack · docs/topics-october.md |
+| o-25 | spaghetti-spoon-hole | Hole in the middle of a spaghetti spoon | todo | | Tue 20 Oct 2026 7 PM | kitchen · myth-bust · docs/topics-october.md |
+| o-26 | dustpan-comb-teeth | Row of teeth on a dustpan edge | todo | | Wed 21 Oct 2026 7 PM | cleaning · hack · docs/topics-october.md |
+| o-27 | wine-bottle-punt | Dent in the bottom of a wine bottle | todo | | Thu 22 Oct 2026 7 PM | packaging · myth-bust · docs/topics-october.md |
+| o-28 | washer-debris-filter-door | Small door at the bottom of a front-load washer | todo | | Fri 23 Oct 2026 7 PM | laundry · hack · docs/topics-october.md |
+| o-29 | brogue-shoe-holes | Holes on wingtip shoes | todo | | Sat 24 Oct 2026 7 PM | clothing · history · docs/topics-october.md |
+| o-30 | plunger-flange | Extra rubber flap under a plunger cup | todo | | Sun 25 Oct 2026 7 PM | bathroom · hack · docs/topics-october.md |
+| o-31 | child-resistant-cap-test | Push-and-turn cap on cleaning products | todo | | Mon 26 Oct 2026 7 PM | cleaning · safety · docs/topics-october.md |
+| o-32 | crisper-drawer-slider | Humidity slider on a crisper drawer | todo | | Tue 27 Oct 2026 7 PM | kitchen · hack · docs/topics-october.md |
+| o-33 | plastic-resin-code | Number inside the recycling arrows | todo | | Wed 28 Oct 2026 7 PM | packaging · myth-bust · docs/topics-october.md |
+| o-34 | tape-measure-black-diamonds | Black diamonds on a tape measure | todo | | Thu 29 Oct 2026 7 PM | garage · hack · docs/topics-october.md |
+| o-35 | party-cup-lines | Lines on a red party cup | todo | | Fri 30 Oct 2026 7 PM | kitchen · myth-bust · docs/topics-october.md |
+| o-36 | sticky-notes-yellow | Yellow sticky notes | todo | | Sat 31 Oct 2026 7 PM | office · history · docs/topics-october.md |
+| o-37 | sd-card-lock-switch | Lock switch on an SD card | todo | | November (rolls over) | tech · myth-bust · docs/topics-october.md |
+| o-38 | fire-hydrant-cap-colors | Colored cap on a fire hydrant | todo | | November (rolls over) | yard · safety · docs/topics-october.md |
+| o-39 | headrest-window-myth | Removable car headrest | todo | | November (rolls over) | car · myth-bust · docs/topics-october.md |
+| o-40 | tamper-resistant-outlets | Hidden shutters in newer outlets | todo | | November (rolls over) | living-room · safety · docs/topics-october.md |
+| o-41 | do-not-duplicate-key | "Do Not Duplicate" on a key | todo | | November (rolls over) | carry · myth-bust · docs/topics-october.md |
+| o-42 | stapler-anvil-pinning | Rotating plate under a stapler | todo | | November (rolls over) | office · hack · docs/topics-october.md |
+| o-43 | phillips-cam-out-myth | Phillips screws that strip | todo | | November (rolls over) | garage · myth-bust · docs/topics-october.md |
+| o-44 | plug-prong-holes | Holes in plug prongs | todo | | November (rolls over) | tech · manufacturing · docs/topics-october.md |
+| o-45 | fuel-gauge-arrow | Arrow next to the fuel gauge | todo | | November (rolls over) | car · hack · docs/topics-october.md |
+| o-46 | utility-marking-flags | Colored flags in your yard | todo | | November (rolls over) | yard · safety · docs/topics-october.md |
+| o-47 | privacy-knob-hole | Tiny hole in a bathroom doorknob | todo | | November (rolls over) | living-room · hack · docs/topics-october.md |
+| o-48 | backpack-lash-tab | Diamond patch on a backpack | todo | | November (rolls over) | carry · history · docs/topics-october.md |
+| o-49 | windshield-frit-dots | Black dots around the windshield | todo | | November (rolls over) | car · manufacturing · docs/topics-october.md |
+| o-50 | snap-off-blade | Snap-off lines on a box cutter blade | todo | | November (rolls over) | garage · history · docs/topics-october.md |
+| o-51 | mailbox-flag-color | Flag on a curbside mailbox | todo | | November (rolls over) | yard · myth-bust · docs/topics-october.md |
+| o-52 | yellow-pencils | Yellow pencils | todo | | November (rolls over) | office · history · docs/topics-october.md |
+| o-53 | two-by-four-size | A 2x4 isn't 2 by 4 | todo | | November (rolls over) | garage · manufacturing · docs/topics-october.md |
+| o-54 | keypad-number-order | Phone keypad vs calculator order | todo | | November (rolls over) | tech · history · docs/topics-october.md |
+| o-55 | hexagonal-pencils | Six-sided pencils | todo | | November (rolls over) | office · manufacturing · docs/topics-october.md |
+| o-56 | coin-reeded-edges | Ridges on dimes and quarters | todo | | November (rolls over) | carry · history · docs/topics-october.md |
+| o-57 | ferrite-bead-cable | Lump on a laptop charger cord | todo | | November (rolls over) | tech · safety · docs/topics-october.md |
+| o-58 | ceiling-fan-switch | Switch on a ceiling fan | todo | | November (rolls over) | living-room · hack · docs/topics-october.md |
+| o-59 | passenger-mirror-warning | "Objects in mirror are closer than they appear" | todo | | November (rolls over) | car · safety · docs/topics-october.md |
+| o-60 | glasses-frame-numbers | Tiny numbers inside your glasses arm | todo | | November (rolls over) | carry · hack · docs/topics-october.md |
+| o-61 | curb-ramp-bumps | Bumpy pad at the curb ramp | todo | | November (rolls over) | yard · safety · docs/topics-october.md |
+| o-62 | iphone-camera-mic-hole | Tiny hole next to the phone camera | todo | | November (rolls over) | tech · convenience · docs/topics-october.md |
 | sp-1 | ykk-zipper | "YKK" on zipper pulls | spare | | | only if a topic above is cut · docs/topics-october.md |
 | sp-2 | seat-belt-button | Button on a seat belt strap | spare | | | only if a topic above is cut · docs/topics-october.md |
 | sp-3 | shampoo-bottle-ridges | Ridges on the side of a shampoo bottle | spare | | | only if a topic above is cut · docs/topics-october.md |

@@ -34,35 +34,23 @@ export function makeMotion(tl) {
 }
 
 /**
- * Caption lines timed off the VO word table: up to four words, a sentence boundary, or about 22 characters,
- * whichever comes first, so a line stays on one row at the bigger size. Each line sits in a semi-transparent
- * dark box (Rizky, 3 Oct 2026: the old captions were small and low-contrast).
+ * Word-by-word captions (Rizky, 3 Oct 2026): ONE word on screen at a time, big, in a semi-transparent dark box,
+ * popping in on the frame it is spoken. A word stays up until the next word starts; if the narrator pauses for
+ * more than 0.7 s it clears 0.3 s after the word ends, so nothing hangs over a silent beat.
  */
 export function buildCaptions(VO, VO_START) {
   const caps = [], tlLines = [];
-  const lines = []; let line = [];
-  const chars = (ln) => ln.reduce((n, w) => n + w.text.length + 1, 0);
-  for (const w of VO.words) {
-    if (line.length && chars(line) + w.text.length > 22) { lines.push(line); line = []; }
-    line.push(w);
-    if (line.length === 4 || /[.?!]$/.test(w.text)) { lines.push(line); line = []; }
-  }
-  if (line.length) lines.push(line);
-  lines.forEach((ln, i) => {
-    const st = fx(VO_START + ln[0].start - 0.06);
-    const nx = lines[i + 1];
-    const en = fx(nx ? VO_START + nx[0].start - 0.06 : VO_START + ln.at(-1).end + 0.3);
-    caps.push(`<div class="cap clip" id="cap-${i}" data-start="${st}" data-duration="${fx(en - st)}" data-track-index="7"><span class="capbox">${ln.map((w, j) => `<span class="w" id="w-${i}-${j}">${esc(w.text)}</span>`).join(" ")}</span></div>`);
-    tlLines.push(`tl.fromTo("#cap-${i}",{y:16,opacity:0},{y:0,opacity:1,duration:0.18,ease:"power2.out"},${st});`);
-    // hard-hide the line when the next one starts: some render paths ignore data-duration and stack old captions
+  const words = VO.words.filter((w) => String(w.text || "").trim());
+  words.forEach((w, i) => {
+    const st = fx(Math.max(0, VO_START + w.start - 0.03));
+    const nx = words[i + 1];
+    const spokenEnd = VO_START + Math.max(w.end, w.start + 0.12);
+    const nextStart = nx ? VO_START + nx.start - 0.03 : Infinity;
+    const en = fx(nextStart - spokenEnd > 0.7 ? spokenEnd + 0.3 : nextStart);
+    caps.push(`<div class="cap clip" id="cap-${i}" data-start="${st}" data-duration="${fx(en - st)}" data-track-index="7"><span class="capbox">${esc(w.text.trim())}</span></div>`);
+    tlLines.push(`tl.fromTo("#cap-${i}",{opacity:0,scale:0.84},{opacity:1,scale:1,duration:0.09,ease:"back.out(2)"},${st});`);
+    // hard-hide when the next word starts: some render paths ignore data-duration and stack old captions
     tlLines.push(`tl.set("#cap-${i}",{opacity:0},${en});`);
-    // karaoke: each word lights up on the frame it is spoken, then settles to "already said"
-    ln.forEach((w, j) => {
-      const ws = fx(VO_START + w.start);
-      const we = fx(Math.max(VO_START + w.end, ws + 0.12));
-      tlLines.push(`tl.fromTo("#w-${i}-${j}",{color:"rgba(255,255,255,0.72)",scale:1},{color:"#FFD34D",scale:1.06,duration:0.08,ease:"power2.out",immediateRender:false},${ws});`);
-      tlLines.push(`tl.to("#w-${i}-${j}",{color:"#FFFFFF",scale:1,duration:0.1,ease:"power1.out"},${we});`);
-    });
   });
   return { caps, tlLines };
 }
@@ -144,14 +132,13 @@ body{font-family:Inter,system-ui,sans-serif;color:${INK};-webkit-font-smoothing:
 .chip{display:inline-block;padding:16px 32px;border-radius:100px;border:3px solid ${ACCENT};font-weight:800;font-size:38px;letter-spacing:-0.01em}
 .chip.dim{border-color:${MUTED};color:${MUTED}}
 .diagram{position:relative;height:420px;display:flex;align-items:center;justify-content:center}
-.cap{position:absolute;left:36px;right:36px;top:1560px;text-align:center;font-size:70px;font-weight:900;line-height:1.18;letter-spacing:-0.01em;color:rgba(255,255,255,0.72);opacity:0;text-shadow:0 3px 0 rgba(0,0,0,0.6),0 0 12px rgba(0,0,0,0.9)}
-.capbox{display:inline-block;padding:14px 28px 20px;border-radius:26px;background:rgba(8,10,14,0.68)}
+.cap{position:absolute;left:36px;right:36px;top:1540px;text-align:center;font-size:104px;font-weight:900;line-height:1.1;letter-spacing:-0.01em;color:#FFFFFF;opacity:0;transform-origin:50% 60%;text-shadow:0 4px 0 rgba(0,0,0,0.6),0 0 14px rgba(0,0,0,0.9)}
+.capbox{display:inline-block;padding:10px 34px 18px;border-radius:28px;background:rgba(8,10,14,0.68);max-width:1008px;overflow-wrap:anywhere}
 .bshot{position:absolute;inset:0;overflow:hidden;opacity:0;visibility:hidden}
 .bshot img{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;will-change:transform}
 #scrim{position:absolute;left:0;right:0;bottom:0;height:720px;z-index:90;background:linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0.55) 45%,rgba(0,0,0,0.82) 100%)}
 #topfade{position:absolute;left:0;right:0;top:0;height:260px;z-index:90;background:linear-gradient(to bottom,rgba(0,0,0,0.35),rgba(0,0,0,0))}
 .cap{z-index:100}
-.cap .w{display:inline-block;margin:0 5px;transform-origin:50% 70%;color:rgba(255,255,255,0.72)}
 ${extraCSS}
 </style></head><body>
 <div id="root" data-composition-id="main" data-start="0" data-duration="${TOTAL}" data-width="${W}" data-height="${H}">
