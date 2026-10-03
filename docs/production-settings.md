@@ -13,6 +13,10 @@
 - AI clips: **1–2 per video**. Trying **LTX-2.3 Fast** (`fal-ai/ltx-2.3/image-to-video/fast`, 1080p 9:16, $0.06/s = $0.36 per 6 s clip) instead of minimax h3-max 768P ($0.08/s from 1 Oct = $0.48 per clip). LTX returns the file on fal.media, so the environment must be able to reach `*.fal.media`; if not, the pipeline falls back to minimax.
 - (The estimate below was for 62 videos; at 1 a day from 5 Oct it is roughly half.) Rough fal.ai spend for 62 videos: about $55–90 for the month (stills plus 1–2 LTX clips each). ElevenLabs: ~1,000–1,100 characters per video, so about 65,000 characters for October.
 
+## Thumbnails (from 3 Oct 2026)
+
+One 1080x1920 JPG per video in `thumbnails/<YYYY-MM-DD>-<slug>.jpg` (date = ET posting day), made with `pipeline/thumbnail.mjs`: tight photo of the object, red circle on the detail, red arrow, a 2–3 word label on a red tag, "Hidden In Your Home" at the bottom. Everything important sits in the middle of the frame because the platforms crop the top and bottom. Rizky downloads the file and sets it by hand once the video is live; the routine only makes it.
+
 ## Captions per platform
 
 See `docs/vidiq-captions.md` (VidIQ-curated hashtags, title scoring, human-tone rules, worked example). Posting times: `docs/schedule-october.md`.
