@@ -1,0 +1,21 @@
+{
+  "slug": "hair-dryer-plug-block",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That chunky block on your hair dryer plug isn't a power brick. It's a safety device, and it has saved lives. Two little buttons, test and reset. But nobody tells you what's actually inside. It's called an appliance leakage circuit interrupter. A tiny circuit compares the electricity flowing out to the dryer with the electricity coming back. Normally, those match. Here's exactly how it protects you. If current starts leaking out another way, the numbers stop matching, and the block cuts the power in a few thousandths of a second. So press reset, then press test. The button should pop out. If it doesn't, stop using that dryer. So why does it exist? The Consumer Product Safety Commission says hand-held hair dryers once caused about eighteen electrocutions a year in the U.S. About half of the victims were small children. A 1987 safety standard asked for protection when the dryer was switched off. Since 1991, it has to work on or off. And here's the part that got me. After those blocks spread, the commission counted just two deaths in 1992. It still doesn't make a dryer safe near water. Keep it away from sinks and tubs, and unplug it when you're done. Follow if you like knowing what the bulky parts of your stuff are really for."
+    }
+  ]
+}

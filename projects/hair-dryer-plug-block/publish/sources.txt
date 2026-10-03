@@ -1,0 +1,37 @@
+# Sources: hair-dryer-plug-block
+
+Facts verified 2026-10-03 via WebSearch. Direct fetches of govinfo.gov, cpsc.gov and ul.com were blocked by the
+network proxy, so every claim is locked from concordant search-result excerpts of several CPSC pages and
+manufacturer manuals, not from full-page reads.
+
+1. The block is an integral immersion-protection device in the attachment plug (ALCI, appliance leakage circuit interrupter), a relatively large block-shaped plug with Test and Reset pushbuttons. LOCKED
+   - Federal Register 28 Jun 2011 (CPSC hair dryer notice) https://www.govinfo.gov/content/pkg/FR-2011-06-28/html/2011-15981.htm
+   - CPSC Hand Supported Hair Dryers https://www.cpsc.gov/FAQ/Hand-Supported-Hair-Dryers
+   - CPSC 1990 release https://www.cpsc.gov/Newsroom/News-Releases/1990/Some-New-Hair-Dryers-Offer-Improved-Electrocution-Protection-When-Immersed-In-Water
+   - UL, "What is the reset button on your hair dryer" https://www.ul.com/insights/what-reset-button-your-hair-dryer-and-when-use-it
+2. How it works: detects a change/leakage in the current (e.g., appliance immersed in water) and cuts power within milliseconds; the Test button simulates a leakage current. LOCKED (UL page excerpt; CPSC FR notice; manufacturer manuals). Wording used: "a few thousandths of a second", "compares current out and back" (simplified explanation of leakage detection).
+3. Test: press Reset, press Test, the Reset button should pop out; if it does not, stop using the dryer. LOCKED (UL excerpt; Remington hair dryer manuals e.g. https://s7cdn.spectrumbrands.com/~/media/PersonalCare/Remington2017/Files/Manuals/Womens/Dryers/D8700SP%20PROtect%20Hair%20Dryer%20Manual.pdf ; BaBylissPRO manuals).
+4. Before protection devices, an average of about 18 hand-held hair dryer electrocutions a year (CPSC recall notices give 17-18; FR notice says 15-20); about half of victims were children under 10. LOCKED. Video says "about eighteen a year" and "about half were small children".
+   - https://www.cpsc.gov/Recalls/1996/cpsc-and-bills-dollar-stores-recall-electric-hair-dryers ; https://www.cpsc.gov/Recalls/1997/cpsc-and-mbr-industries-inc-recall-hair-dryers ; https://www.cpsc.gov/s3fs-public/pdfs/blk_pdf_hairdryers.pdf
+5. UL 859: the 1987 revision required protection when switched off; since 1 Jan 1991 protection must work switched on or off. LOCKED (CPSC 1989 and 1990 releases, CPSC recall notices, FR 2011).
+6. Since immersion protection devices were introduced, deaths fell to two in 1992. LOCKED (same sentence appears in several CPSC recall notices from 1995-1997).
+7. Bathroom manuals: unplug the dryer after use in a bathroom; do not use near bathtubs, sinks or water. LOCKED (BaBylissPRO and Remington manuals).
+
+CUT (not verifiable this run): "110 electrocutions 1980-86 vs 3 in 1998-2007" from docs/topics-october.md (the figures did not appear in any search result; 1984-90 count of 73 was seen but not needed). "UL 859 required it from 1987 and 1991" kept only in the corrected form above (1987 = off position only).
+Not claimed: any brand, any person, "saved lives" is the hook framing supported by the 1992 drop.
+
+## Stock footage (Pexels license, free commercial use; normalized to 1080x1920/30fps)
+- t04 Pexels 29241126 "Dimly lit hospital corridor with gurney" https://www.pexels.com/video/dimly-lit-hospital-corridor-with-gurney-29241126/
+- t05 Pexels 6755168 "Close-up shot of a electronic motherboard", Tima Miroshnichenko https://www.pexels.com/video/close-up-shot-of-a-electronic-motherboard-6755168/
+- t07 Pexels 6755165 "Repairing electronic device", Tima Miroshnichenko https://www.pexels.com/video/repairing-electronic-device-6755165/
+- t08 Pexels 34906333 "Electric energy burst visual FX", Nicola Narracci https://www.pexels.com/video/electric-energy-burst-visual-fx-34906333/
+- t09 Pexels 6755162 "Repairing electronic device", Tima Miroshnichenko https://www.pexels.com/video/repairing-electronic-device-6755162/
+- t10 Pexels 34906545 "Dynamic electric plasma art display", Nicola Narracci https://www.pexels.com/video/dynamic-electric-plasma-art-display-34906545/
+- t13 Pexels 39597264 "Vintage letters and stamps close up" https://www.pexels.com/video/vintage-letters-and-stamps-close-up-39597264/
+- t14 Pexels 3676771 "A person arranging toy animals on the floor", cottonbro studio https://www.pexels.com/video/a-person-arranging-toy-animals-on-the-floor-3676771/
+- t15 Pexels 35332817 "Flipping calendar pages in motion" https://www.pexels.com/video/flipping-calendar-pages-in-motion-35332817/
+- t16 Pexels 5839005 "Graph and a magnifying glass" https://www.pexels.com/video/graph-and-a-magnifying-glass-5839005/
+
+## AI-generated (illustrative, not a real person/event; no text or logos)
+- t01 (high), t06 (high), t03, t12, t17, t18: gpt-image-2 stills (medium except t01, t06)
+- t02, t11: gpt-image-2 medium stills animated with LTX-2.3 Fast (6 s each)
