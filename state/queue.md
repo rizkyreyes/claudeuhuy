@@ -27,7 +27,7 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | o-09 | pillow-law-tag | "Do not remove under penalty of law" pillow tag | scheduled | 71.33 | Sun 4 Oct 2026 6 PM | produced 1 Oct, scheduled on all 3 channels (planned Mon 5 Oct 12 PM); gavel stock clip has tiny unreadable pseudo-text ~8 s |
 | o-10 | heinz-57-tap-spot | Embossed "57" on a glass Heinz bottle | scheduled | 72.13 | Mon 5 Oct 2026 12 PM | produced 2 Oct, scheduled on all 3 channels (planned Mon 7 PM); generic unlabeled bottle · packaging · hack · docs/topics-october.md |
 | o-11 | pot-lid-hole | Small hole in a pot or slow-cooker lid | scheduled | 64.93 | Mon 5 Oct 2026 7 PM | produced 2 Oct, scheduled on all 3 channels; topic note corrected (some slow cookers do have a probe hole) · kitchen · myth-bust · docs/topics-october.md |
-| o-12 | iron-button-groove | Notch at the tip of an iron's soleplate | todo | | Tue 6 Oct 2026 7 PM | laundry · hack · docs/topics-october.md |
+| o-12 | iron-button-groove | Notch at the tip of an iron's soleplate | scheduled | 66.84 | Tue 6 Oct 2026 7 PM | produced 3 Oct, scheduled on all 3 channels; LTX t03 warped after 2.6 s so trimmed; laundry · hack · docs/topics-october.md |
 | o-13 | hair-dryer-plug-block | Chunky block on a hair dryer plug | scheduled | 76.84 | Tue 6 Oct 2026 12 PM | produced 3 Oct, scheduled on all 3 channels (planned Wed 7 Oct 12 PM); bathroom · safety · docs/topics-october.md |
 | o-14 | zipper-lock-tab | Fold-down tab on a jeans zipper | todo | | Wed 7 Oct 2026 7 PM | clothing · hack · docs/topics-october.md |
 | o-15 | mattress-handles | Handles on the side of a mattress | todo | | Thu 8 Oct 2026 12 PM | bedroom · myth-bust · docs/topics-october.md |
