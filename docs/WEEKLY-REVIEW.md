@@ -83,6 +83,8 @@ Always compare **winners against weak videos**: hook line, first 2 seconds of vi
 | One category wins over and over (e.g., kitchen, myth-busts) | Audience preference | Put more of that category earlier in the queue, still without two of the same room in a row. |
 | US share of views drops below ~70% | Content or timing drifting away from Americans | Check references (US units first: inches, °F, gallons; US brands/stores only as generic descriptions), and posting slots. |
 
+**Viewer requests:** every video now ends by asking what people want explained next (playbook rule 4). Read the comments on the week's videos (`vidiq_video_comments` for YouTube, Buffer for TikTok and Instagram). Any request that is a real everyday object with a verifiable reason goes into `docs/topics-october.md` and near the top of the `todo` rows in `state/queue.md`, with a note "viewer request". Mention in the report which requests were picked up.
+
 ## Step 4. Change the recipe (only when the week is "not good enough", or one change clearly won)
 
 - Change **at most 2 things per week**. Otherwise we never know what worked.
