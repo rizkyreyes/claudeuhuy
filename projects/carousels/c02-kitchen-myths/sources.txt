@@ -1,0 +1,11 @@
+c02-kitchen-myths: sources (checked 3 Oct 2026, concordant web search results; publisher pages not fetched)
+
+1. Searing does not seal in juices; seared and unseared steaks lose about the same moisture; Harold McGee calls it a myth he has tried to debunk for decades. Food Republic, https://www.foodrepublic.com/1756972/myth-searing-meat-lock-in-juices/ ; Tasting Table, https://tastingtable.com/693055/why-sear-meat-locking-in-juices-food-myths
+2. Do not wash raw poultry: USDA study, 60% of washers had bacteria in the sink afterward, droplets spread 2-3 ft. USDA FSIS "Don't wash raw poultry" (reported by NBC), https://www.nbcbayarea.com/news/health/usda-advises-not-to-wash-raw-poultry-chicken/149604/ . 165°F is USDA's safe minimum internal temperature for poultry.
+3. Microwaves penetrate roughly 1 to 1.5 in; outer layers heat first, inside heated by conduction. USDA FSIS microwave guidance, via NC State Extension "Microwave Mythbusters", https://brunswick.ces.ncsu.edu/2024/01/microwave-mythbusters/
+4. Alcohol retention after cooking 4 to 85 percent; flamed about 75 percent; boiling liquid removed from heat about 85 percent. 1992 USDA / University of Idaho / Washington State University study, summarized at https://www.isu.edu/healthsciences/news/2019/alcohol-cooks-out-or-does-it and https://www.todayifoundout.com/?p=7538
+5. Salt raises boiling point slightly but a cooking amount changes time to boil by seconds. Live Science, https://livescience.com/56214-does-salt-make-water-boil-faster.html
+Queue check: none of these is covered by a todo video in state/queue.md.
+
+Photos (Pexels, free license; pages https://www.pexels.com/photo/<id>/): cover/end 18033166 (countertop), steak 36734926, chicken 6107716, microwave 4686822, wine pour 29436323, pot 36073140. No faces, no readable brand names.
+Music: 02-bright-pop.mp3 (pipeline/music), -30 LUFS.

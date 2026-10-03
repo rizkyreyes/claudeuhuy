@@ -1,0 +1,56 @@
+{
+  "slides": [
+    {
+      "type": "cover",
+      "bg": "bg/cover.jpg",
+      "title": "5 kitchen myths you're probably still falling for",
+      "sub": "Swipe"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/sear.jpg",
+      "myth": "Searing a steak seals in the juices.",
+      "fact": "Searing doesn't make a seal. Seared and unseared steaks lose about the same moisture. It's for the browned flavor, and the real key to juicy meat is not overcooking it.",
+      "source": "Harold McGee, via Food Republic"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/chicken.jpg",
+      "myth": "You should rinse raw chicken before you cook it.",
+      "fact": "USDA says don't. Rinsing splashes bacteria around your sink and counter, up to 2 to 3 feet away. Cooking to 165°F is what makes chicken safe.",
+      "source": "USDA Food Safety and Inspection Service"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/microwave.jpg",
+      "myth": "Microwaves cook your food from the inside out.",
+      "fact": "They only reach about an inch into food. The outer layer heats first, then that heat spreads inward. That's why the middle of a thick leftover can stay cold.",
+      "source": "USDA, via NC State Extension"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/wine.jpg",
+      "myth": "All the alcohol cooks off when you add wine to a dish.",
+      "fact": "Not even close. A USDA study found 4 to 85 percent can remain, depending on the recipe. A quick simmer keeps most of it, and flaming still leaves about 75 percent.",
+      "source": "USDA Nutrient Data Lab alcohol retention study (1992)"
+    },
+    {
+      "type": "myth",
+      "bg": "bg/pot.jpg",
+      "myth": "Adding salt makes water boil faster.",
+      "fact": "A pinch of salt barely changes anything. It raises the boiling point a hair, but a teaspoon in a big pot changes the time by seconds at most. Salt it for taste instead.",
+      "source": "Live Science"
+    },
+    {
+      "type": "end",
+      "bg": "bg/cover.jpg",
+      "title": "Which one did you grow up believing?",
+      "cta": "Follow for the real story behind everyday kitchen stuff",
+      "sources": [
+        "USDA Food Safety and Inspection Service",
+        "USDA alcohol retention study (1992)",
+        "NC State Extension, Live Science, Food Republic"
+      ]
+    }
+  ]
+}
