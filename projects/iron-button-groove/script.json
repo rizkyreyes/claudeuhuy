@@ -1,0 +1,21 @@
+{
+  "slug": "iron-button-groove",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That notch on your iron is for buttons. Yes, really. A button sticks up from the fabric, and a flat, hot plate can't lie flat over it. Slide the plate across a plastic button, and the heat can melt it. So the rule is simple. Iron around buttons, never over them. But there's a trick to using that notch that most people miss. Slide the tip in beside a button, and the button slips into the groove, between the hot plate and the body of the iron. The button stays out of the heat, and you can press the fabric right up to its edge. Now look at the rest of the tip, because the notch has company. One major iron maker says its tip is precise in three ways: a pointed end, a button groove, and a slim nose, so it can reach around buttons and between pleats. Here's exactly how to put all of that to work. Flip the shirt over and press the button strip from the back. Then switch sides, and use the groove, one button at a time. Check the care label first. So next time you press a shirt, don't fight the buttons. Park them in the notch. Follow if you ever wondered what the odd little shapes on your stuff are for."
+    }
+  ]
+}

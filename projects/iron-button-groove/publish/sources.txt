@@ -1,0 +1,28 @@
+# Sources: iron-button-groove
+
+Facts verified 2026-10-03 via web search. Publisher pages (blackanddecker.com, hunker.com, sunbeam.com, patents.google.com) are blocked by the network proxy, so claims are locked from concordant search-result excerpts of several independent outlets, not full-page reads.
+
+1. A groove/notch near the tip of the soleplate is made for buttons. LOCKED
+   - Black+Decker Classic iron F67E: groove near the tip "lets you navigate easily around buttons and collars" https://www.blackanddecker.com/products/f67e-t
+   - Philips steam iron pages/manuals: tip is precise in three ways (pointed tip, button groove, nose design), reaches around buttons and between pleats https://www.philips.com/c-p/GC1434_73/steam-iron
+   - Panasonic steam iron NI-U600 page (button groove, makes ironing along buttons and seams easy) https://panasonic.com/ca/consumer/home-appliances/irons/steam/ni-u600.html
+2. How it works: button slips into the groove between the soleplate and the housing, keeping the hot part off the button and letting you press right up to its edge. LOCKED (excerpt) - Hunker https://www.hunker.com/2085860/what-is-button-groove-on-iron-for/
+3. Plastic buttons can melt if a hot iron sits too close. LOCKED - Hunker (above); Gentleman's Gazette https://www.gentlemansgazette.com/how-iron-dress-shirt/ ; Home with Milly https://homewithmilly.com/how-to-iron-a-shirt/
+4. Iron around buttons, never over them; use the tip. LOCKED - Sunbeam https://www.sunbeam.com/ironing-hints-and-tips.html ; Gentleman's Gazette (above)
+5. Flip the button side over and iron the placket from the back. LOCKED - same shirt-ironing guides (The Laundress https://www.thelaundress.com/blogs/tips/how-to-iron-dress-shirts-and-pants ; ihateironing https://www.ihateironing.com/blog/how-to-iron-a-shirt-the-ultimate-guide/)
+6. "Check the care label first": Sunbeam, Consumer Reports https://www.consumerreports.org/steam-irons/how-to-iron-a-dress-shirt LOCKED
+
+Cut / not claimed: any history or patent of the groove (US8375609, US8166682 appear in results but could not be read), any brand name or product number spoken, any temperature, any claim that every iron has the groove ("One major iron maker says" is how the Philips claim is worded, no name).
+
+## Stock footage (Pexels license, free commercial use; normalized to 1080x1920/30fps)
+- s01/s07 Pexels 6278962 "Close-up shot of the buttons on a shirt" https://www.pexels.com/video/close-up-shot-of-the-buttons-on-a-shirt-6278962/
+- s02 Pexels 6278977 "A close-up footage of fabric with buttons" https://www.pexels.com/video/a-close-up-footage-of-fabric-with-buttons-6278977/
+- s03/s09 Pexels 7705268 "Close-up view of a woman ironing clothes" https://www.pexels.com/video/close-up-view-of-a-woman-ironing-clothes-7705268/ (hands and iron only)
+- s04/s10 Pexels 9472843 "A person ironing a brown shirt on a table" https://www.pexels.com/video/a-person-ironing-a-brown-shirt-on-a-table-9472843/
+- s05 Pexels 36302139 "Tailor ironing fabric for precise press" https://www.pexels.com/video/tailor-ironing-fabric-for-precise-press-36302139/
+- s06 Pexels 7431686 "Assorted buttons" https://www.pexels.com/video/assorted-buttons-7431686/
+- s08 Pexels 36302138 "Skilled tailor ironing fabric with precision" https://www.pexels.com/video/skilled-tailor-ironing-fabric-with-precision-36302138/
+(Authors per Pexels pages; no faces shown in the used segments.)
+
+## AI-generated (illustrative, not a real person/event; fal openai/gpt-image-2, LTX-2.3 Fast)
+- t01 (high), t03 (high, plus LTX clip), t02, t04 (plus LTX clip), t05, t06, t07, t08, t09 (medium). Generic unbranded irons, no text, no people.
