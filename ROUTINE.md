@@ -90,6 +90,16 @@ For the chosen topic, in `projects/<slug>/`:
 9. **Deliver**: copy `final.mp4` to `media/<slug>.mp4` in the repo, set the row in `state/queue.md` to `rendered` with the exact duration (seconds, 2 decimals).
 10. **Schedule it** (the repo is public): commit and push to `main` first, then the file is at `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/<slug>.mp4`. If every channel has room (≤ 9 after adding), `create_post` for YouTube with that URL in the video's slot. If the returned asset has `durationMs` > 0, create the TikTok and Instagram posts too and mark `scheduled`. If Buffer rejects the URL or the duration is 0, delete that post and keep the row `rendered` — Rizky uploads it manually.
 
+### Remakes (rows with id `r-…` in `state/queue.md`)
+
+Rizky asked on 4 Oct 2026 to remake the videos that got fewer than 50 YouTube views, in the current style, for the last days of October. A remake row is produced like any other `todo` row when its slot comes into the 72-hour window, with these extras:
+
+- It is a **new video**, not a re-upload: new project folder `projects/<slug>-v2/`, new script written under the current `docs/playbook.md` (story, 2–3 curiosity reloops, two CTAs, moving opening, tight framing, one-word captions), a **different hook and opening scene** from the original, new b-roll, new thumbnail.
+- Read the original's `projects/<old slug>/script.json` and `publish/captions.md` first so the new one doesn't repeat its opening line or title. The YouTube title must be clearly different from the original's.
+- Start from the facts in `projects/<old slug>/publish/sources.txt`, and re-verify each one like any other video.
+- Don't delete, edit or re-schedule the original posts. Don't mention in the video or captions that it's a remake.
+- Keep the planned slot (Thu 29, Fri 30, Sat 31 Oct, 7 PM ET). Don't pull a remake forward to fill an earlier slot; if the row above it was cut, use a `spare` row for that slot.
+
 ## Step 2B — Carousels (Instagram + TikTok, Mon/Wed/Fri 9 AM ET)
 
 Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no scheduled carousel, take the first `rendered` or `todo` row in `state/carousels.md`: research and verify 5 myths (todo rows), pick Pexels backgrounds, render the frames with `node pipeline/carousel.mjs … frames` and the slideshow video with background music with `node pipeline/slideshow.mjs`, look at a contact sheet, write captions and sources, commit and push, then schedule it as an Instagram Reel and a TikTok video from the raw `main` URL. At most one new carousel per run. Keep Instagram and TikTok at 9 or fewer scheduled posts in total (videos + carousels); if full, skip and try next run. Carousels are not posted to YouTube.

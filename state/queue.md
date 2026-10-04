@@ -50,9 +50,12 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | o-31 | child-resistant-cap-test | Push-and-turn cap on cleaning products | todo | | Mon 26 Oct 2026 7 PM | cleaning · safety · docs/topics-october.md |
 | o-32 | crisper-drawer-slider | Humidity slider on a crisper drawer | todo | | Tue 27 Oct 2026 7 PM | kitchen · hack · docs/topics-october.md |
 | o-33 | plastic-resin-code | Number inside the recycling arrows | todo | | Wed 28 Oct 2026 7 PM | packaging · myth-bust · docs/topics-october.md |
-| o-34 | tape-measure-black-diamonds | Black diamonds on a tape measure | todo | | Thu 29 Oct 2026 7 PM | garage · hack · docs/topics-october.md |
-| o-35 | party-cup-lines | Lines on a red party cup | todo | | Fri 30 Oct 2026 7 PM | kitchen · myth-bust · docs/topics-october.md |
-| o-36 | sticky-notes-yellow | Yellow sticky notes | todo | | Sat 31 Oct 2026 7 PM | office · history · docs/topics-october.md |
+| r-01 | toothpaste-square-v2 | REMAKE: colored square on a toothpaste tube | todo | | Thu 29 Oct 2026 7 PM | remake of o-02 `toothpaste-square` (6 YouTube views); new video under the current playbook, see "Remakes" in ROUTINE.md; packaging · myth-bust · facts: `projects/toothpaste-square/publish/sources.txt` |
+| r-02 | microwave-door-mesh-v2 | REMAKE: metal mesh dots in the microwave door | todo | | Fri 30 Oct 2026 7 PM | remake of o-04 `microwave-door-mesh` (38 YouTube views); new video under the current playbook, see "Remakes" in ROUTINE.md; kitchen · safety · facts: `projects/microwave-door-mesh/publish/sources.txt` |
+| r-03 | pizza-saver-table-v2 | REMAKE: little plastic "table" in a pizza box | todo | | Sat 31 Oct 2026 7 PM | remake of o-05 `pizza-saver-table` (4 YouTube views); new video under the current playbook, see "Remakes" in ROUTINE.md; the patent is Feb 12, 1985 (Carmela Vitale), not 1993; packaging · history · facts: `projects/pizza-saver-table/publish/sources.txt` |
+| o-34 | tape-measure-black-diamonds | Black diamonds on a tape measure | todo | | November (rolls over) | garage · hack · docs/topics-october.md; gave up its Thu 29 Oct 7 PM slot to a remake on 4 Oct |
+| o-35 | party-cup-lines | Lines on a red party cup | todo | | November (rolls over) | kitchen · myth-bust · docs/topics-october.md; gave up its Fri 30 Oct 7 PM slot to a remake on 4 Oct |
+| o-36 | sticky-notes-yellow | Yellow sticky notes | todo | | November (rolls over) | office · history · docs/topics-october.md; gave up its Sat 31 Oct 7 PM slot to a remake on 4 Oct |
 | o-37 | sd-card-lock-switch | Lock switch on an SD card | todo | | November (rolls over) | tech · myth-bust · docs/topics-october.md |
 | o-38 | fire-hydrant-cap-colors | Colored cap on a fire hydrant | todo | | November (rolls over) | yard · safety · docs/topics-october.md |
 | o-39 | headrest-window-myth | Removable car headrest | todo | | November (rolls over) | car · myth-bust · docs/topics-october.md |
