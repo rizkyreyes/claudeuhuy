@@ -1,6 +1,6 @@
 # Carousel queue (Instagram + TikTok, Mon/Wed/Fri 9:00 AM ET)
 
-**From c02 on, each carousel is a slideshow VIDEO with background music** (Instagram Reel + TikTok video), see `docs/CAROUSELS.md`.
+**From c03 on, carousels are PHOTO carousels again** (Instagram carousel post + TikTok photo post, no video, no music; Rizky, 6 Oct 2026). Only c02 was a slideshow video. See `docs/CAROUSELS.md`.
 
 Status: `todo` → `rendered` (slides in `media/carousels/`) → `scheduled` → `posted`. Procedure: `docs/CAROUSELS.md`.
 Themes are starting points. Verify every myth on the day, swap out any you can't source, and don't bust a myth an upcoming video covers.

@@ -48,7 +48,7 @@ Rules:
 - Posting times: **one slot a day**, see `docs/schedule-october.md`: every day at 7:00 PM ET (`T19:00:00-04:00`). Never put two videos on the same day. Same minute on all three channels. Give each video the planned slot from its row in `state/queue.md`; if that slot is already past or taken, use the earliest empty future slot and update the row. `dueAt` with offset -04:00 for all of October (EST -05:00 from 1 Nov 2026), `mode: customScheduled`, `schedulingType: automatic`. Never schedule a slot less than 1 hour from now.
 - Captions: follow `docs/vidiq-captions.md` exactly (human tone, no em dashes, 3-layer hashtags, per-platform format). Each video gets a unique follow line.
 
-**Clean up posted videos.** For every `scheduled` row whose 3 posts all show status `sent`, set the row to `posted` and `git rm media/<slug>.mp4` (same for carousels in `state/carousels.md`: once both posts are `sent`, `git rm media/carousels/<id>-<slug>.mp4`) (the platforms already have the video; this keeps the repo from growing ~2 GB a month). Never remove a file whose posts are still `scheduled`.
+**Clean up posted videos.** For every `scheduled` row whose 3 posts all show status `sent`, set the row to `posted` and `git rm media/<slug>.mp4` (same for carousels in `state/carousels.md`: once both posts are `sent`, `git rm -r media/carousels/<id>-<slug>`, or for c02 `git rm media/carousels/c02-kitchen-myths.mp4`) (the platforms already have the video; this keeps the repo from growing ~2 GB a month). Never remove a file whose posts are still `scheduled`.
 
 **Pick up videos waiting in Buffer.** Rizky may have uploaded finished MP4s as drafts (Buffer composer → Save Draft). Find them with `execute_query`:
 ```graphql
@@ -57,6 +57,8 @@ query { contentItems(first: 20, input: {organizationId: "6ab28b6ea45657d8dd17cfc
 Match each draft to a row in `state/queue.md` with status `rendered` by video duration (±0.3 s). For each match, if slots allow, create the three posts using the draft's `assets[0].source` as the video URL. Confirm each created post's asset shows the expected `durationMs`. Then mark the row `scheduled` with the date. Leave the draft itself in place (the posts use its media).
 
 ## Step 2 — Produce videos to fill the next 3 days
+
+**Even when no video is needed, do not stop here: Step 2B (carousels) still has to run.** On 5 and 6 Oct 2026 the run found no video to make, logged "produced nothing" and skipped the carousel check, so carousel c03 was never made.
 
 Count the video slots from now through the next 72 hours (3 days, **max 3 slots, one per day at 7 PM ET**; carousels share the Buffer limit, see Step 2B) that don't have a `scheduled` or `rendered` video yet. Produce that many videos, **at most 2 per run**, taking `todo` rows top to bottom. Usually that's 1, and some days 0. If a run ends early, schedule what's finished; the next run catches up. If a topic's key fact can't be verified, mark the row `cut` with the reason and use the first `spare` row instead. If no `todo` or `spare` rows are left, research new topics (see "Topic rules") and add them to `docs/topics-october.md` with sources.
 
@@ -102,11 +104,13 @@ Rizky asked on 4 Oct 2026 to remake the videos that got fewer than 50 YouTube vi
 
 ## Step 2B — Carousels (Instagram + TikTok, Mon/Wed/Fri 9 AM ET)
 
-Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no scheduled carousel, take the first `rendered` or `todo` row in `state/carousels.md`: research and verify 5 myths (todo rows), pick Pexels backgrounds, render the frames with `node pipeline/carousel.mjs … frames` and the slideshow video with background music with `node pipeline/slideshow.mjs`, look at a contact sheet, write captions and sources, commit and push, then schedule it as an Instagram Reel and a TikTok video from the raw `main` URL. At most one new carousel per run. Keep Instagram and TikTok at 9 or fewer scheduled posts in total (videos + carousels); if full, skip and try next run. Carousels are not posted to YouTube.
+**This step runs on every run, whether or not Step 2 produced a video.** First do the carousel housekeeping: for every `scheduled` row in `state/carousels.md` whose two posts (Instagram + TikTok) show `sent`, set the row to `posted` and `git rm -r` its folder in `media/carousels/` (c02 is a single MP4: `git rm media/carousels/c02-kitchen-myths.mp4`). Then check the slots (Mon, Wed, Fri 9:00 AM ET).
+
+Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no scheduled carousel, take the first `rendered` or `todo` row in `state/carousels.md`: research and verify 5 myths (todo rows), pick Pexels backgrounds, render the slides as **photos** with `node pipeline/carousel.mjs … both` (Instagram 1080x1350 and TikTok 1080x1920; **no video and no music**, Rizky went back to photo carousels on 6 Oct 2026), look at a contact sheet, write captions and sources, commit and push, then schedule the Instagram carousel post and the TikTok photo post from the raw `main` image URLs. At most one new carousel per run. Keep Instagram and TikTok at 9 or fewer scheduled posts in total (videos + carousels); if full, skip and try next run. Carousels are not posted to YouTube.
 
 ## Step 3 — Close out
 
-- Append to `docs/run-log.md`: date (Asia/Jakarta), what was scheduled, what was produced, estimated spend (count of high/medium stills, clips), any problem.
+- Append to `docs/run-log.md`: date (Asia/Jakarta), what was scheduled, what was produced, estimated spend (count of high/medium stills, clips), any problem. The entry always has one line for videos and **one line for carousels** (which carousel is scheduled next and for when, or why none was made).
 - Commit and push.
 - Final message in Indonesian, 3–6 lines, casual and human (no report tone): which videos got scheduled and when (in WIB), the next empty slot, any MP4 Rizky must upload by hand, and any blocker (credits, balance, failed fact-check).
 
