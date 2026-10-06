@@ -74,3 +74,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - **2026-10-05 11:00 WIB** — Scheduled run. ffmpeg present. Preflight green (fal 200, LTX reachable, ElevenLabs 200 with about 44,970 characters left, Pexels 200). `list_posts` showed the expected 14 scheduled posts (c02 carousel x2, heinz, pot-lid, iron, hair-dryer x3), no stale read.
   - Housekeeping: trash-can-vents and pillow-law-tag confirmed sent on all 3 channels, rows `posted`, MP4s removed.
   - Produced nothing: Mon 5 to Thu 8 Oct 7 PM ET are all filled and the 72-hour window ends before Fri 9 Oct 7 PM. Next empty slot: Fri 9 Oct 7 PM ET (o-14 zipper-lock-tab, Sat 10 Oct 06:00 WIB). Spend: 0.
+- **2026-10-06 11:00 WIB** — Scheduled run. ffmpeg present. `list_posts` showed the expected scheduled posts (pot-lid, iron, hair-dryer x3 channels), no stale read.
+  - Housekeeping: heinz-57-tap-spot confirmed sent on all 3 channels, row `posted`, MP4 removed.
+  - Produced nothing: Tue 6 to Thu 8 Oct 7 PM ET are filled and the 72-hour window ends before Fri 9 Oct 7 PM. Next empty slot: Fri 9 Oct 7 PM ET (o-14 zipper-lock-tab, Sat 10 Oct 06:00 WIB). Spend: 0.
