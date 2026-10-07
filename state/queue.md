@@ -30,7 +30,7 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | o-11 | pot-lid-hole | Small hole in a pot or slow-cooker lid | posted | 64.93 | Tue 6 Oct 2026 7 PM | produced 2 Oct, scheduled on all 3 channels; topic note corrected (some slow cookers do have a probe hole) · kitchen · myth-bust · docs/topics-october.md; moved 3 Oct from Mon 5 Oct 7 PM when the channel went to 1 video a day |
 | o-12 | iron-button-groove | Notch at the tip of an iron's soleplate | scheduled | 66.84 | Wed 7 Oct 2026 7 PM | produced 3 Oct, scheduled on all 3 channels; LTX t03 warped after 2.6 s so trimmed; laundry · hack · docs/topics-october.md; moved 3 Oct from Tue 6 Oct 7 PM when the channel went to 1 video a day |
 | o-13 | hair-dryer-plug-block | Chunky block on a hair dryer plug | scheduled | 76.84 | Thu 8 Oct 2026 7 PM | produced 3 Oct, scheduled on all 3 channels (planned Wed 7 Oct 12 PM); bathroom · safety · docs/topics-october.md; moved 3 Oct from Tue 6 Oct 12 PM when the channel went to 1 video a day |
-| o-14 | zipper-lock-tab | Fold-down tab on a jeans zipper | todo | | Fri 9 Oct 2026 7 PM | clothing · hack · docs/topics-october.md |
+| o-14 | zipper-lock-tab | Fold-down tab on a jeans zipper | rendered | 76.70 | Fri 9 Oct 2026 7 PM | clothing · hack · docs/topics-october.md |
 | o-15 | mattress-handles | Handles on the side of a mattress | todo | | Sat 10 Oct 2026 7 PM | bedroom · myth-bust · docs/topics-october.md |
 | o-16 | vacuum-suction-valve | Sliding vent on a vacuum hose handle | todo | | Sun 11 Oct 2026 7 PM | cleaning · hack · docs/topics-october.md |
 | o-17 | toothbrush-indicator-bristles | Blue bristles on a toothbrush | todo | | Mon 12 Oct 2026 7 PM | bathroom · convenience · docs/topics-october.md |

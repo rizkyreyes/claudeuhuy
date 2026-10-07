@@ -1,0 +1,21 @@
+{
+  "slug": "zipper-lock-tab",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "If your zipper keeps sliding down, you're leaving it unlocked. You're walking across a parking lot, and you feel it. The zipper on your jeans is creeping open, again. So you zip it up, and a minute later, it slides right back down. Stay with me, because the fix takes one second, and it's already built into the zipper. Look at the little pull tab. When it stands up, the slider moves freely. But fold that tab down flat against the zipper, and something clicks into place. So what is it? Inside the slider, there's a tiny pin. Here's exactly how it works. When the tab lies flat, the pin sits between the teeth, and the slider can't slide. Lift the tab, and the pin lifts out of the way, so the zipper moves. Pull the tab, and it unlocks itself. Let go, and it locks itself. That's called an auto-lock slider, and most zippers on clothes have one. Now here's the part that surprised me. Those pins can wear down. If you keep forcing the slider while the tab is flat, you grind the pin's edge smooth, and the lock stops working. So next time you zip up, don't just pull and walk away. Lay the tab flat, and let the pin do its job. What's a small detail on something you own that you've always wondered about? Comment it, and it might be the next episode."
+    }
+  ]
+}
