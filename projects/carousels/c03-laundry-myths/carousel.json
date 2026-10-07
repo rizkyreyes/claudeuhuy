@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 laundry myths you're probably still falling for", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/cold.jpg", "myth": "Cold water doesn't get clothes clean.",
+      "fact": "With a cold-water detergent, cold does fine on most loads. Heating the water is about 90% of the energy a load uses. Oily stains are the exception.",
+      "source": "ENERGY STAR and U.S. Department of Energy" },
+    { "type": "myth", "bg": "bg/detergent.jpg", "myth": "More detergent means cleaner clothes.",
+      "fact": "Extra detergent doesn't clean better. It leaves residue on your clothes and buildup in the machine, and too many suds cushion clothes so they rub less.",
+      "source": "Consumer Reports" },
+    { "type": "myth", "bg": "bg/lint.jpg", "myth": "A little lint in the dryer is harmless.",
+      "fact": "Federal estimates count about 15,500 dryer fires a year, and not cleaning is the leading cause. Empty the lint filter every load.",
+      "source": "U.S. CPSC and U.S. Fire Administration" },
+    { "type": "myth", "bg": "bg/label.jpg", "myth": "A \"Dry Clean\" tag means you can never wash it.",
+      "fact": "Under the FTC rule a label only has to list one safe method. \"Dry Clean Only\" is the warning that washing will damage it. Plain \"Dry Clean\" isn't.",
+      "source": "Federal Trade Commission, Care Labeling Rule" },
+    { "type": "myth", "bg": "bg/overload.jpg", "myth": "Stuffing the washer full saves time.",
+      "fact": "Clothes that can't tumble don't rub clean, and the detergent may not dissolve well. Leave room for the load to move, about 80% full.",
+      "source": "Tom's Guide laundry guide" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["ENERGY STAR and U.S. Department of Energy", "Consumer Reports: laundry detergent", "U.S. CPSC and U.S. Fire Administration", "FTC Care Labeling Rule"] }
+  ]
+}
