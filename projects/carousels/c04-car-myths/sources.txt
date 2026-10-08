@@ -1,0 +1,7 @@
+c04-car-myths sources (checked 8 Oct 2026 by web search; excerpts only)
+1. Warm-up: DOE Clean Cities / NPS idle-free guidance: idle cut-off about 30 seconds, best way to warm up is to drive at moderate speed. https://www.nps.gov/articles/idlefree.htm ; https://afdc.energy.gov/uploads/publication/idling_personal_vehicles.pdf
+2. Idling >10 s uses more fuel than restart: DOE Vehicle Technologies Office / Argonne. https://www.energy.gov/eere/vehicles/articles/fotw-1239-may-23-2022-idling-engine-little-10-seconds-will-use-more-fuel ; https://www.energy.gov/sites/default/files/2021-12/ES-ConsumerGuide-Vehicle-Idling-508.pdf
+3. Premium gas: AAA testing found no consistent difference in horsepower, fuel economy or emissions in engines designed for regular (reported via AAA coverage; FTC says the same). Wording kept to "no consistent gain" and "check your manual". https://www.eastidahonews.com/?p=283279
+4. Oil: Ford 2010 maintenance-myths statement, 5,000-7,500 miles; most owner's manuals 5,000 or 7,500 (Scientific American). https://www.scientificamerican.com/article/oil-change-truths
+5. Tire pressure: sidewall shows maximum pressure; recommended cold pressure is on the placard, usually driver's door jamb (FMVSS 110). https://www.govinfo.gov/content/pkg/FR-2002-11-18/pdf/02-28682.pdf
+Photos (Pexels, free commercial use, no faces or brands): 9779281 cover; 1409999 engine; 34611427 idle (dashboard); 28641279 refuelling; 13065693 oil (gloved hand); 6603957 tire; 29089904 end.

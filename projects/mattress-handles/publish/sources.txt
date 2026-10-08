@@ -1,0 +1,9 @@
+mattress-handles: sources (checked 8 Oct 2026 by web search; publisher pages not opened, claims locked from concordant search excerpts)
+LOCKED: handles are for positioning the mattress on its foundation, not for lifting; Simmons: carrying by the handles may tear the fabric; Serta: "Handles are designed to position the mattress only"; handles stitched into the cover are not strong enough for the full weight; Simmons advises bagging/boxing and carrying on its side.
+  - Mental Floss, "Why Don't Mattresses Come With Handles Anymore?": https://www.mentalfloss.com/culture/design/why-dont-mattresses-have-handles-anymore
+  - Simmons warranty page: https://simmons.com/pages/warranty
+  - Furniture Today (2003 reader piece: some beds too heavy for flimsy handles; handles removed so shoppers know the mattress doesn't need turning): https://www.furnituretoday.com/business-news/readers-have-a-real-grasp-of-mattress-handles-issue
+  - BedTimes Oct 2024 (no-flip mattresses became popular, consumers no longer needed to turn beds): https://onlinedigeditions.com/article/Profile/4860107/831833/article.html
+CUT: "handles date from two-sided mattresses that had to be flipped" (starting note), not directly confirmed; script only says no-flip designs took over so nobody needed to turn the bed.
+Stock (Pexels, free commercial use): 7464106 https://www.pexels.com/video/men-carrying-a-couch-7464106/ (s01, cropped to a man's back, no clear face) ; 36991696 https://www.pexels.com/video/cozy-modern-bedroom-interior-with-plush-bedding-36991696/ (s02) ; 17041569 https://www.pexels.com/video/a-bed-with-a-white-comforter-and-pillows-17041569/ (s03)
+AI-generated illustrative, not a real person/event: t01, t02, t03, t04, t05, t06, t08, t09, t10, t11 (stills); t03 and t04 clips (LTX).

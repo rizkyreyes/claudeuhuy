@@ -1,0 +1,21 @@
+{
+  "slug": "mattress-handles",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Those handles on the side of your mattress were never meant for carrying it. You're dragging a mattress down the hallway, fingers hooked through the fabric loops, and one rips right off. Hang on, because the real job of those handles is something you'll use the next time you make the bed. Here's the problem. A mattress is heavy and never sits straight on its base, so makers stitched handles into the sides. But here's the catch. They're sewn into the cover, and that stitching can't hold the full weight. Simmons says the handles are there to help you position the mattress on its foundation. And it warns that carrying it by them may tear the fabric. Serta is even blunter: handles are designed to position the mattress only. So that's the job: nudge it, square it up. But if they're not for lifting, why do so many mattresses have none at all? Here's the part nobody mentions. No-flip designs took over, so nobody needed to turn the bed anymore, and the flimsy handles stopped being worth it. So how do you actually move one? Simmons says to bag it or box it, and carry it on its side. So slide it, don't lift it. Tell me one weird little thing in your house you can't explain, and it might be the next episode."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 car myths you're probably still falling for", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/warmup.jpg", "myth": "Your car needs several minutes to warm up.",
+      "fact": "Modern engines warm up fastest by driving gently. Idling for about 30 seconds is plenty, even in the cold.",
+      "source": "U.S. Department of Energy, Clean Cities" },
+    { "type": "myth", "bg": "bg/idle.jpg", "myth": "Idling uses less gas than turning the engine off.",
+      "fact": "Idle for more than 10 seconds and you burn more fuel than if you shut the engine off and restarted it.",
+      "source": "U.S. Department of Energy, Argonne National Laboratory" },
+    { "type": "myth", "bg": "bg/premium.jpg", "myth": "Premium gas gives a regular engine more power.",
+      "fact": "If your car is built for regular, premium gets you no consistent gain in power, mileage or emissions. Check your owner's manual.",
+      "source": "AAA fuel testing" },
+    { "type": "myth", "bg": "bg/oil.jpg", "myth": "You have to change your oil every 3,000 miles.",
+      "fact": "That interval fit older oils. Most owner's manuals now say 5,000 to 7,500 miles, and some say more. Follow your manual.",
+      "source": "Ford maintenance guidance, Scientific American" },
+    { "type": "myth", "bg": "bg/tire.jpg", "myth": "Fill your tires to the number on the tire.",
+      "fact": "The number on the sidewall is the tire's maximum pressure. Your car's recommended pressure is on the sticker in the driver's door jamb.",
+      "source": "Federal tire placard rule (FMVSS 110)" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["U.S. DOE Clean Cities: idling guidance", "U.S. DOE / Argonne: idling vs restarting", "AAA premium gasoline testing", "Ford maintenance myths; Scientific American", "FMVSS 110 tire placard"] }
+  ]
+}
