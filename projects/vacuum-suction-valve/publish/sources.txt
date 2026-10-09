@@ -1,0 +1,9 @@
+vacuum-suction-valve: sources (checked 9 Oct 2026 by web search; manufacturer/patent pages read via search excerpts)
+LOCKED: the slider uncovers a small hole in the handle that lets room air in, which lowers suction at the nozzle (Google Patents US8650709 and related suction-control patents: a bleed valve admits ambient air into the airflow, so suction at the floor tool drops; a bleed valve helps clean delicate items such as curtains without fabric lodging in the floor tool). Bissell support page: turning the variable suction valve down makes drapes and other delicate surfaces easier to clean, and also helps on high pile carpet.
+  - https://patents.google.com/patent/US8650709
+  - https://patents.google.com/patent/US4961245
+  - https://www.bissell.com/powerglide-pet-vacuum-with-suctionchannel-technology-1305/suction-valve-features-powerglide-w-suctionchannel-technology
+CUT: starting-note claim about a specific manual (Simplicity); script keeps it general ("a slider over a hole in the handle"). Not claimed: that every vacuum has one.
+Stock (Pexels, free commercial use): 9473230 https://www.pexels.com/video/a-red-vacuum-cleaner-on-a-rug-9473230/ (s01) ; 9472818 https://www.pexels.com/video/a-vacuum-cleaner-is-being-used-to-clean-the-carpet-9472818/ (s02). Both person-free.
+AI-generated illustrative, not a real person/event: t01, t02, t03, t04, t05, t06 (stills; t01 and t05 also LTX clips).
+LTX: t01 sharp until ~4 s then the slider deforms (trimmed to 4 s); t05 sharp.

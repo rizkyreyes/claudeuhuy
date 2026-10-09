@@ -1,0 +1,21 @@
+{
+  "slug": "vacuum-suction-valve",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That little slider on your vacuum hose handle turns the suction down. You're vacuuming the curtains, and the whole panel slams against the nozzle and won't let go. Stay with me, because the fix for that is simpler than you'd think. Here's the problem. A vacuum is built to pull hard enough for carpet, which is way too much for thin fabric. So makers cut a small hole in the handle and put a slider over it. Slide it open, and room air rushes in through that hole. But why would that weaken the suction? Here's the part that makes it click. The motor can only pull so much air through the machine. Whatever comes in through the side hole is air that isn't being pulled through the nozzle, so the grip on the fabric gets weaker. Bissell says turning down the suction makes drapes and other delicate surfaces easier to clean. And it's not just curtains. That same lower setting also helps on high pile carpet. So next time, open the slider before you touch the fabric, not after it's stuck. Tell me one weird little thing in your house you've never understood, and it might be the next episode."
+    }
+  ]
+}
