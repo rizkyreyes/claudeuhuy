@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 phone myths you're probably still falling for", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/apps.jpg", "myth": "Closing your apps saves battery.",
+      "fact": "Apple says to force quit an app only when it's frozen. Background apps are suspended, and relaunching one can use more power than leaving it be.",
+      "source": "Apple support, Craig Federighi" },
+    { "type": "myth", "bg": "bg/incog.jpg", "myth": "Incognito mode makes you anonymous.",
+      "fact": "It only stops your browser from saving history on your device. Websites, your employer or school, and your internet provider can still see your activity.",
+      "source": "Google Chrome Incognito disclaimer" },
+    { "type": "myth", "bg": "bg/drain.jpg", "myth": "Drain your battery to zero before charging.",
+      "fact": "That's old advice from other battery types. Apple says you can plug in a lithium-ion battery whenever it's convenient.",
+      "source": "Apple, lithium-ion battery guidance" },
+    { "type": "myth", "bg": "bg/night.jpg", "myth": "Charging overnight ruins your battery.",
+      "fact": "Phones have a fix for that. Apple's Optimized Battery Charging waits near 80% and finishes before you wake up, to cut time spent fully charged.",
+      "source": "Apple support: Optimized Battery Charging" },
+    { "type": "myth", "bg": "bg/bars.jpg", "myth": "More bars means faster internet.",
+      "fact": "Bars estimate how strong your link to the tower is. They don't show how busy the tower is, so full bars can still be slow.",
+      "source": "T-Mobile, Dialed In" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Apple support: force quitting apps", "Google Chrome: Incognito disclaimer", "Apple: lithium-ion batteries", "Apple support: Optimized Battery Charging", "T-Mobile: what cell phone bars mean"] }
+  ]
+}
