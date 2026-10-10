@@ -1,0 +1,21 @@
+{
+  "slug": "toothbrush-indicator-bristles",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Those blue bristles on your toothbrush are a timer. You brush every morning, and you honestly can't remember when you bought this one. Stay with me, because your brush has been answering that the whole time. Here's the problem. Bristles wear out so slowly that you never notice the day they stop working. The American Dental Association says to replace your brush about every three to four months, or sooner if the bristles get matted or frayed, because a worn brush cleans worse. But nobody keeps a calendar for a toothbrush. So the maker built one into the brush. Here's exactly how it works. Oral-B says those blue bristles fade, and when they've faded halfway to white, it's time for a new brush. So you don't check a date. You check the color. Blue means keep going. Mostly white means swap it. But here's the catch. That color is the maker's guide, not a lab test. A 2020 review of the research found little hard data on exactly when a brush should go. So if the bristles look bent or frayed before the blue fades, don't wait. Next time you're at the sink, look at that blue. It's been telling you the time all along. What's a little detail on something you own that you've never understood? Tell me in the comments and I'll dig into it."
+    }
+  ]
+}
