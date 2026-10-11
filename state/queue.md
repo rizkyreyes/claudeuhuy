@@ -34,7 +34,7 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | o-15 | mattress-handles | Handles on the side of a mattress | scheduled | 72.77 | Sat 10 Oct 2026 7 PM | produced 8 Oct, scheduled on all 3 channels (durationMs 72768); LTX t03 and t04 sharp; "flipping" history cut (unconfirmed); bedroom · myth-bust · docs/topics-october.md |
 | o-16 | vacuum-suction-valve | Sliding vent on a vacuum hose handle | scheduled | 61.33 | Sun 11 Oct 2026 7 PM | produced 9 Oct; LTX t01 slider deformed after 4 s so trimmed, t05 sharp; cleaning · hack · docs/topics-october.md |
 | o-17 | toothbrush-indicator-bristles | Blue bristles on a toothbrush | scheduled | 75.24 | Mon 12 Oct 2026 7 PM | produced 10 Oct, scheduled on all 3 channels (durationMs 75242); LTX t01 sharp; bathroom · convenience · docs/topics-october.md |
-| o-18 | rice-cooker-cup | The measuring cup that comes with a rice cooker | todo | | Tue 13 Oct 2026 7 PM | kitchen · hack · docs/topics-october.md |
+| o-18 | rice-cooker-cup | The measuring cup that comes with a rice cooker | rendered | 76.95 | Tue 13 Oct 2026 7 PM | produced 11 Oct; LTX t01 sharp, t02 sharp (hand slightly soft); stock s02 too dark so replaced with stills; kitchen · hack · docs/topics-october.md |
 | o-19 | smoke-alarm-date | Date on the back of a smoke alarm | todo | | Wed 14 Oct 2026 7 PM | bedroom · safety · docs/topics-october.md |
 | o-20 | egg-carton-pack-date | Three-digit number on an egg carton | todo | | Thu 15 Oct 2026 7 PM | packaging · hack · docs/topics-october.md |
 | o-21 | knife-hollow-edge-dimples | Oval dimples along a santoku blade | todo | | Fri 16 Oct 2026 7 PM | kitchen · convenience · docs/topics-october.md |

@@ -1,0 +1,9 @@
+LOCKED claims (verified 11 Oct 2026 via search excerpts; publisher pages not opened):
+- Zojirushi rice cup is 180 mL (about 3/4 US cup, 240 mL); measure rice with the cup that came with the cooker because the water lines are marked for it. https://www.zojirushi.com/blog/back-to-basics-how-to-measure-rice-in-a-rice-cooker-the-right-way/
+- The go (gou) is a traditional Japanese volume unit, officially set at about 180.4 mL in 1891, no longer official; rice cookers still ship with 1-go (180 mL) cups. https://en.wikipedia.org/wiki/Ge_(unit)
+- 3/4 US cup substitute and rice-cooker capacity rated in 180 mL cups: https://yum-asia.com/us/rice-cooker-capacity-guide
+- "about a third more rice" is arithmetic: 240 / 180 = 1.33.
+- "Can come out soggy" kept soft (secondary guide, not a lab test).
+CUT: Zojirushi "6 oz" label and the starting note's masu origin (not confirmed); Aroma/other brand cup sizes.
+STOCK (Pexels, no people shown): 37856645 rice cooker on counter (https://www.pexels.com/video/37856645/), 8107924 bowls of rice (https://www.pexels.com/video/8107924/). Author names not recorded by search tool.
+AI-generated illustrative, not a real person/event: r01-r06 stills (gpt-image-2; r01, r02 high), t01 and t02 clips (LTX-2.3 Fast from r04 and r02).

@@ -1,0 +1,15 @@
+{
+  "slug": "rice-cooker-cup",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": { "stability": 0.5, "similarity_boost": 0.85, "style": 0.3, "speed": 1, "use_speaker_boost": true },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "The little cup that came with your rice cooker isn't a real cup. You scoop two cups of rice, fill the water to the line, and somehow it still comes out a little off. Keep watching, because the fix is something you can do tonight with a measuring cup you already own. Here's the problem. Your kitchen measuring cup holds 240 milliliters. The plastic one from the rice cooker box holds 180. That's about three quarters of a US cup. So why is it that size? Nobody mentions this part. It's a rice cup, based on an old Japanese unit called the go, which was officially set at about 180 milliliters back in 1891. Rice cookers are still built around it. But that's not even the part that trips people up. Here's exactly how it goes wrong. Zojirushi says to measure your rice with the cup that came with the cooker, because the water lines inside the pot are marked for that size. Grab a regular US cup instead, and you're putting in about a third more rice than the line expects. So the ratio is off, and the rice can come out soggy. Now the fix. If you've lost the little cup, a three quarter US measuring cup is the same size. Next time your rice turns out wrong, don't blame the cooker. Check the cup. Got a weird little detail in your kitchen you've never understood? Comment it, and it could be the next episode."
+    }
+  ]
+}
