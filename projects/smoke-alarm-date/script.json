@@ -1,0 +1,15 @@
+{
+  "slug": "smoke-alarm-date",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": { "stability": 0.5, "similarity_boost": 0.85, "style": 0.3, "speed": 1, "use_speaker_boost": true },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Flip your smoke alarm over. There's an expiration date on the back, and most people have never looked. You're in bed, the hallway is dark, and that little green light has been blinking for years, so you figure it's fine. But why would a smoke alarm expire? It doesn't spoil like milk. Stay with me, because the last part is the reason I'd check mine tonight. Here's what happens inside. Dust, humidity and plain age wear down the sensing chamber and the electronics. A fresh battery doesn't fix that. So the alarm slowly gets worse at its one job, and nothing about it looks different. Here's exactly how you tell. Look for a date printed on the back or the side. That's the day it was made, not the day you put it up. The U.S. Fire Administration says to replace the alarm ten years after that date. But that's not even the scary part. An old alarm may still beep when you press the test button, and still be slow to notice real smoke. Now the number that got me. The National Fire Protection Association studied home fire deaths from 2012 to 2016. Almost three out of five happened in homes with no smoke alarm, or one that didn't work. So the blinking light isn't a promise. The date is. What's a little label in your house you've never read? Comment it, and it could be the next episode."
+    }
+  ]
+}
