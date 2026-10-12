@@ -39,7 +39,7 @@ Status values: `todo` → `rendered` (MP4 in `media/`, waiting for Buffer) → `
 | o-20 | egg-carton-pack-date | Three-digit number on an egg carton | todo | | Thu 15 Oct 2026 7 PM | packaging · hack · docs/topics-october.md |
 | o-21 | knife-hollow-edge-dimples | Oval dimples along a santoku blade | todo | | Fri 16 Oct 2026 7 PM | kitchen · convenience · docs/topics-october.md |
 | o-22 | he-detergent-logo | "HE" logo on laundry detergent | todo | | Sat 17 Oct 2026 7 PM | laundry · hack · docs/topics-october.md |
-| o-23 | bottle-cap-teeth | Crimped teeth on a metal bottle cap | todo | | Sun 18 Oct 2026 7 PM | packaging · history · docs/topics-october.md |
+| o-23 | bottle-cap-teeth | Crimped teeth on a metal bottle cap | todo | | Sun 18 Oct 2026 7 PM | packaging · history · docs/topics-october.md · **METHOD TEST: follow docs/beat-plan-method.md (Rizky, 12 Oct)** |
 | o-24 | running-shoe-extra-eyelet | Extra eyelet at the top of running shoes | todo | | Mon 19 Oct 2026 7 PM | clothing · hack · docs/topics-october.md |
 | o-25 | spaghetti-spoon-hole | Hole in the middle of a spaghetti spoon | todo | | Tue 20 Oct 2026 7 PM | kitchen · myth-bust · docs/topics-october.md |
 | o-26 | dustpan-comb-teeth | Row of teeth on a dustpan edge | todo | | Wed 21 Oct 2026 7 PM | cleaning · hack · docs/topics-october.md |

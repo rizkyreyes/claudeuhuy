@@ -92,6 +92,10 @@ For the chosen topic, in `projects/<slug>/`:
 9. **Deliver**: copy `final.mp4` to `media/<slug>.mp4` in the repo, set the row in `state/queue.md` to `rendered` with the exact duration (seconds, 2 decimals).
 10. **Schedule it** (the repo is public): commit and push to `main` first, then the file is at `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/<slug>.mp4`. If every channel has room (≤ 9 after adding), `create_post` for YouTube with that URL in the video's slot. If the returned asset has `durationMs` > 0, create the TikTok and Instagram posts too and mark `scheduled`. If Buffer rejects the URL or the duration is 0, delete that post and keep the row `rendered` — Rizky uploads it manually.
 
+### Beat-plan method test (row o-23, Sun 18 Oct 2026)
+
+Rizky asked on 12 Oct 2026 to use the steps from Hanif's programmatic-video article for the video in the **Sun 18 Oct** slot (row **o-23 bottle-cap-teeth**). For that row, follow **`docs/beat-plan-method.md`** on top of the steps above: speed 1.0 + `pipeline/cap-pauses.py` instead of a faster voice, a `plan.json` beat plan written before `shots.mjs`, a photoreal moving hook, the real patent drawing as a document shot, **`node ../../pipeline/lint-plan.mjs .` must print PASS before building**, final audio at -14 LUFS / true peak under -0.5 dBTP, and a 1 fps contact sheet. If o-23 is cut or moves to another day, apply the method to whichever video takes the 18 Oct slot. All other rows keep the normal steps until the 25 Oct weekly review decides.
+
 ### Remakes (rows with id `r-…` in `state/queue.md`)
 
 Rizky asked on 4 Oct 2026 to remake the videos that got fewer than 50 YouTube views, in the current style, for the last days of October. A remake row is produced like any other `todo` row when its slot comes into the 72-hour window, with these extras:
