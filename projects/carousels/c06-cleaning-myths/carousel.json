@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 cleaning myths that make your house harder to clean", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/wipes.jpg", "myth": "\"Flushable\" wipes are safe to flush.",
+      "fact": "Water utilities say to keep every wipe out of the toilet, whatever the package says. In one lab soak, toilet paper dissolved in 5 minutes and wipes barely broke down in 24 hours.",
+      "source": "NACWA, UF/IFAS Extension" },
+    { "type": "myth", "bg": "bg/vinegar.jpg", "myth": "Vinegar is safe on every surface.",
+      "fact": "It's an acid. On marble and other natural stone it can etch the surface and dull the finish, and it can break down a granite sealer.",
+      "source": "Stone and cleaning-industry guidance" },
+    { "type": "myth", "bg": "bg/mixing.jpg", "myth": "Mixing cleaners makes them stronger.",
+      "fact": "Bleach mixed with ammonia or with an acid like vinegar gives off toxic gas. Use one product at a time, and keep the room ventilated.",
+      "source": "Health Canada, CDC advice" },
+    { "type": "myth", "bg": "bg/fresh.jpg", "myth": "Air fresheners clean the air.",
+      "fact": "They don't clean it, they add fragrance chemicals to it. The odor source is still there. For airborne particles, a true HEPA air cleaner does the work.",
+      "source": "UMass Amherst EHS" },
+    { "type": "myth", "bg": "bg/disinf.jpg", "myth": "Spray, wipe right away, and it's disinfected.",
+      "fact": "Disinfectants need to stay visibly wet for the contact time on the label. Wiping it off early cuts that short.",
+      "source": "Product labels, state health departments" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["NACWA: flushable wipes", "UF/IFAS Extension: Flushable or Not", "Health Canada: never mix bleach", "UMass Amherst EHS: air fresheners", "Wisconsin DHS: disinfectant contact time"] }
+  ]
+}
