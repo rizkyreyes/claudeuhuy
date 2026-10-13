@@ -1,0 +1,64 @@
+{
+ "tips": [
+  {
+   "slug": "gas-gauge-arrow",
+   "title": "The tiny arrow on your gas gauge",
+   "text": "It points to the side your fuel door is on. No more guessing at the pump.",
+   "icon": "<path d=\"M120 390 A180 180 0 0 1 480 390\"/>\n<path d=\"M135 312 L160 322 M190 236 L208 256 M300 210 L300 236 M410 236 L392 256 M465 312 L440 322\" class=\"thin\"/>\n<path d=\"M300 390 L205 300\"/><circle cx=\"300\" cy=\"390\" r=\"18\" class=\"if\"/>\n<rect x=\"258\" y=\"440\" width=\"58\" height=\"80\" rx=\"8\"/><path d=\"M270 460 H304\" class=\"thin\"/>\n<path d=\"M316 456 H336 V500 H346\" class=\"thin\"/>\n<path d=\"M380 456 L420 480 L380 504 Z\" class=\"af\"/>"
+  },
+  {
+   "slug": "pot-handle-hole",
+   "title": "The hole in your pot handle",
+   "text": "Slide your stirring spoon through it. The drips land back in the pot, not on the stove.",
+   "icon": "<path d=\"M80 300 H390\"/><path d=\"M95 300 V430 Q95 470 135 470 H335 Q375 470 375 430 V300\"/>\n<path d=\"M390 318 H520 Q548 318 548 340 Q548 362 520 362 H390\"/>\n<circle cx=\"505\" cy=\"340\" r=\"13\" class=\"a\"/>\n<path d=\"M300 262 L568 384\"/>\n<ellipse cx=\"262\" cy=\"244\" rx=\"46\" ry=\"26\" transform=\"rotate(24 262 244)\"/>\n<path d=\"M248 300 q-9 16 0 24 q9 -8 0 -24 Z M226 338 q-7 12 0 18 q7 -6 0 -18 Z\" class=\"af\"/>"
+  },
+  {
+   "slug": "tape-measure-slot",
+   "title": "The slot in your tape measure hook",
+   "text": "Catch it on a nail or screw head and you can measure a whole wall by yourself.",
+   "icon": "<rect x=\"70\" y=\"220\" width=\"230\" height=\"230\" rx=\"44\"/><circle cx=\"185\" cy=\"335\" r=\"52\"/>\n<rect x=\"300\" y=\"396\" width=\"180\" height=\"34\" rx=\"3\"/>\n<path d=\"M330 396 V412 M360 396 V408 M390 396 V412 M420 396 V408 M450 396 V412\" class=\"thin\"/>\n<path d=\"M480 376 V448\"/>\n<path d=\"M480 392 H496\" class=\"a\"/>\n<path d=\"M548 260 V520\"/><path d=\"M548 392 H486\" class=\"a\"/><path d=\"M490 374 V410\" class=\"a\"/>"
+  },
+  {
+   "slug": "paint-can-rim",
+   "title": "Paint keeps filling the can rim?",
+   "text": "Tap a few nail holes in the groove. The paint drains back inside and the lid closes clean.",
+   "icon": "<path d=\"M150 250 H450\"/><path d=\"M150 278 H450\"/>\n<path d=\"M162 278 V470 Q162 492 184 492 H416 Q438 492 438 470 V278\"/>\n<circle cx=\"196\" cy=\"264\" r=\"7\" class=\"af\"/><circle cx=\"250\" cy=\"264\" r=\"7\" class=\"af\"/><circle cx=\"304\" cy=\"264\" r=\"7\" class=\"af\"/><circle cx=\"358\" cy=\"264\" r=\"7\" class=\"af\"/><circle cx=\"412\" cy=\"264\" r=\"7\" class=\"af\"/>\n<path d=\"M304 120 V200\" class=\"a\"/><path d=\"M286 120 H322\" class=\"a\"/><path d=\"M304 200 L298 186 M304 200 L310 186\" class=\"a thin\"/>\n<path d=\"M210 370 H390\" class=\"thin\"/>"
+  },
+  {
+   "slug": "skip-the-rinse",
+   "title": "Stop rinsing dishes before the dishwasher",
+   "text": "Just scrape the food off. Dishwasher detergent works best with a little mess to clean.",
+   "icon": "<circle cx=\"270\" cy=\"350\" r=\"175\"/><circle cx=\"270\" cy=\"350\" r=\"112\" class=\"thin\"/>\n<path d=\"M150 210 L330 330\"/><path d=\"M330 330 L372 358\" class=\"thin\"/>\n<circle cx=\"120\" cy=\"190\" r=\"9\" class=\"if\"/><circle cx=\"92\" cy=\"226\" r=\"7\" class=\"if\"/><circle cx=\"130\" cy=\"150\" r=\"6\" class=\"if\"/>\n<path d=\"M480 120 Q440 175 440 200 A40 40 0 0 0 520 200 Q520 175 480 120 Z\"/>\n<path d=\"M425 110 L540 255\" class=\"a\"/>"
+  },
+  {
+   "slug": "butter-wrapper-lines",
+   "title": "Your butter wrapper is a measuring spoon",
+   "text": "Each line on a stick marks 1 tablespoon. Just cut right on the line.",
+   "icon": "<path d=\"M80 280 L120 240 H530 L490 280 Z\"/><path d=\"M490 280 L530 240 V360 L490 400\"/>\n<rect x=\"80\" y=\"280\" width=\"410\" height=\"120\"/>\n<path d=\"M131 280 V400 M182 280 V400 M234 280 V400 M285 280 V400 M336 280 V400 M387 280 V400 M439 280 V400\" class=\"a thin\"/>\n<rect x=\"272\" y=\"80\" width=\"26\" height=\"80\" rx=\"9\" class=\"if\"/><path d=\"M272 166 H298 V236 L272 206 Z\" class=\"a\"/>"
+  },
+  {
+   "slug": "hanger-notches",
+   "title": "The notches on your hanger",
+   "text": "Hook thin straps into them so tank tops and dresses stop sliding off.",
+   "icon": "<path d=\"M300 210 V182 Q300 150 328 150 Q356 150 356 178 Q356 198 336 204\"/>\n<path d=\"M300 210 L90 350 H510 Z\"/>\n<path d=\"M160 302 L174 316 L188 296\" class=\"a\"/><path d=\"M440 302 L426 316 L412 296\" class=\"a\"/>\n<path d=\"M174 316 L200 420\" class=\"a thin\"/><path d=\"M426 316 L400 420\" class=\"a thin\"/>\n<path d=\"M200 420 Q300 470 400 420 L418 540 H182 Z\"/>"
+  },
+  {
+   "slug": "sticky-note-peel",
+   "title": "Peel sticky notes from the side",
+   "text": "Pull sideways, not up from the bottom, and the note stays flat instead of curling.",
+   "icon": "<rect x=\"130\" y=\"200\" width=\"250\" height=\"250\" rx=\"6\"/><path d=\"M130 470 H380 M130 490 H380\" class=\"thin\"/>\n<path d=\"M200 200 H430 Q450 200 450 220 V430 Q450 450 430 450 H260\" />\n<path d=\"M300 540 H520\" class=\"a\"/><path d=\"M490 512 L522 540 L490 568\" class=\"a\"/>"
+  },
+  {
+   "slug": "sheets-in-pillowcase",
+   "title": "Keep sheet sets in their own pillowcase",
+   "text": "Fold the sheets and tuck them into one of the pillowcases. The whole set stays together.",
+   "icon": "<path d=\"M470 230 H150 Q100 230 100 280 V400 Q100 450 150 450 H470\"/>\n<path d=\"M470 230 V250 M470 450 V430\" class=\"thin\"/>\n<rect x=\"320\" y=\"262\" width=\"210\" height=\"44\" rx=\"10\" class=\"a\"/>\n<rect x=\"320\" y=\"314\" width=\"210\" height=\"44\" rx=\"10\" class=\"a\"/>\n<rect x=\"320\" y=\"366\" width=\"210\" height=\"44\" rx=\"10\" class=\"a\"/>"
+  },
+  {
+   "slug": "leftovers-ring",
+   "title": "Leftovers still cold in the middle?",
+   "text": "Spread them in a ring and leave the center empty. They heat much more evenly.",
+   "icon": "<circle cx=\"300\" cy=\"320\" r=\"200\"/><circle cx=\"300\" cy=\"320\" r=\"160\" class=\"thin\"/>\n<circle cx=\"300\" cy=\"320\" r=\"102\" class=\"a\" style=\"stroke-width:58\"/>\n<circle cx=\"300\" cy=\"320\" r=\"34\" class=\"thin\" style=\"stroke-dasharray:6 14\"/>"
+  }
+ ]
+}
