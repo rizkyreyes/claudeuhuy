@@ -1,0 +1,15 @@
+{
+  "slug": "egg-carton-pack-date",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": { "stability": 0.5, "similarity_boost": 0.85, "style": 0.3, "speed": 1, "use_speaker_boost": true },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "The three-digit number on your egg carton is the day those eggs were packed. You're standing in the dairy aisle, flipping cartons open, squinting at a stamped date, and the real answer is printed on the side. Stay with me, because the last part changes how long you keep a carton. But it doesn't look like a date. It looks like a random number. Here's how it works. It counts the days of the year. January first is zero zero one. December thirty-first is three sixty-five. So a carton that says one oh one was packed in April. Look for the USDA grade shield, because on those cartons the pack date is required. Right next to it, you'll usually see a code that starts with the letter P. That's the plant that packed them. But that's not even the most useful part. Your sell-by date isn't a cliff. Kept cold in the original carton, eggs hold up for three to five weeks after you buy them, and the pack date tells you how fresh they started. So grab the carton packed most recently. Now you know what that number means. What's a little detail in your kitchen you've never understood? Comment it, and it could be the next episode."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Facts (publisher pages not opened; locked from concordant search excerpts, 13 Oct 2026):
+- Pack date = 3-digit Julian date, 001 = Jan 1, 365 = Dec 31; plant code starts with P: Farmers' Almanac https://www.farmersalmanac.com/how-fresh-are-supermarket-eggs , The Takeout https://thetakeout.com/1759945/what-egg-carton-number-code-mean , America's Test Kitchen https://www.americastestkitchen.com/cooksillustrated/articles/7222-how-long-do-eggs-last
+- Cartons with the USDA grade shield must show the pack date: K-State Appendix 3.1 https://www.k-state.edu/fns/assets/course_2/managing_microbes/appendices/Appendix_3.1.pdf , Cornell Albany https://albany.cce.cornell.edu/resources/food-product-dating
+- Best quality 3 to 5 weeks after purchase, keep cold in the original carton: Clemson HGIC https://hgic.clemson.edu/is-my-carton-of-eggs-still-good , Cornell Albany
+- Cut: the 30 vs 45 day sell-by limit (sources conflict). "One oh one = April" is arithmetic (day 101 = April 11 in a non-leap year).
+Stock (Pexels, free license): 7048632 https://www.pexels.com/video/person-opening-an-egg-carton-7048632/ ; 6288839 https://www.pexels.com/video/a-person-putting-eggs-in-a-tray-6288839/ ; 35332817 https://www.pexels.com/video/flipping-calendar-pages-in-motion-35332817/ ; 5834775 https://www.pexels.com/video/egg-tray-on-a-table-5834775/ (authors per page)
+AI-generated illustrative, not a real person/event: stills a01-a06, LTX clips t01 (from a01), t02 (from a05).
