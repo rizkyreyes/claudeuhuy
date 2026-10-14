@@ -1,0 +1,7 @@
+Claims reuse the sources locked in projects/<slug>/publish/sources.txt for toothpaste-square, pot-lid-hole, pillow-law-tag, mattress-handles and rice-cooker-cup (all already posted). Publisher pages mostly not opened; excerpts only.
+- Toothpaste eye mark: https://www.snopes.com/fact-check/false-tube-stakes/ ; https://www.colgate.com/en-us/oral-health/selecting-dental-products/what-is-a-toothpaste-color-code
+- Pot lid hole: https://www.snopes.com/articles/465956/slow-cooker-lid-hole/ ; https://blog.hamiltonbeach.com/top-10-slow-cooker-questions-answered/
+- Law tag: https://www.livescience.com/33039-why-do-mattresses-have-do-not-remove-tags.html ; https://www.wgbh.org/news/local/2018-10-09/why-do-mattresses-and-pillows-have-do-not-remove-labels
+- Mattress handles: https://simmons.com/pages/warranty ; https://www.mentalfloss.com/culture/design/why-dont-mattresses-have-handles-anymore
+- Rice cooker cup (180 mL, about 3/4 US cup): Zojirushi blog, see projects/rice-cooker-cup/publish/sources.txt
+Photos (Pexels): cover 32960958 Dương Nhân; toothpaste 7005934 Vie Studio; pot 28054208 Leticia Curvelo; pillow 6603474 Hanna Pad; mattress 9497355 Ron Lach; rice 6755626 Vlada Karpovich; end 10061386 cottonbro studio.

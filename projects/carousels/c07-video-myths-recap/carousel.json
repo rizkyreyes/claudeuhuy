@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 myths about the little details on your stuff", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/toothpaste.jpg", "myth": "The color square on a toothpaste tube tells you what's in it.",
+      "fact": "It's an eye mark. A light sensor on the packaging line reads it to find where to cut and seal the tube. The color only has to stand out.",
+      "source": "Snopes, Colgate" },
+    { "type": "myth", "bg": "bg/pot.jpg", "myth": "The hole in a pot lid is for a meat thermometer.",
+      "fact": "Usually it lets a little steam out and keeps the lid from rattling. Some slow cooker models do have a probe hole, so check your manual.",
+      "source": "Snopes, Hamilton Beach" },
+    { "type": "myth", "bg": "bg/pillow.jpg", "myth": "It's illegal to cut the tag off your pillow.",
+      "fact": "The \"do not remove\" warning is aimed at sellers, not you. Once it's yours, you can remove it.",
+      "source": "Live Science, WGBH" },
+    { "type": "myth", "bg": "bg/mattress.jpg", "myth": "Mattress handles are for carrying it.",
+      "fact": "Serta says handles are designed to position the mattress only. Simmons says carrying by the handles can tear the fabric.",
+      "source": "Serta, Simmons" },
+    { "type": "myth", "bg": "bg/rice.jpg", "myth": "The cup that comes with a rice cooker is a US cup.",
+      "fact": "It holds about 180 milliliters, roughly three quarters of a US cup. The water lines in the pot are marked for it.",
+      "source": "Zojirushi" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Snopes: toothpaste color codes", "Snopes: slow cooker lid hole", "Live Science: do not remove tags", "Simmons and Serta: mattress handles", "Zojirushi: rice cooker cup"] }
+  ]
+}
