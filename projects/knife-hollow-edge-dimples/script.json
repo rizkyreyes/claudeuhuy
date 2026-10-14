@@ -1,0 +1,15 @@
+{
+  "slug": "knife-hollow-edge-dimples",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": { "stability": 0.5, "similarity_boost": 0.85, "style": 0.3, "speed": 1, "use_speaker_boost": true },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Those dimples on your knife blade are there to stop food from sticking. You're slicing a potato, and every slice clings to the blade like it's glued on. You stop, peel it off, and start again. Stay with me, because the last part explains why your dimpled knife still sticks sometimes. The dimples are called a hollow edge. Makers say the little pockets let air slip between the blade and the food, so slices let go instead of suctioning on. But the idea is older than you'd think. The design was patented in 1928 in Sheffield, England, and the pattern is still called a Granton edge. Here's the part most people miss. It works best on wet, starchy food, like potatoes, which are the worst at sticking. And the dimples have a second job. Cutting away steel makes the blade a little thinner and lighter, so it slides through food with less drag. Now here's why yours still sticks. The best versions carve the hollows right down to the cutting edge. Plenty of knives stop short of that, so they only help a little. Even the good ones aren't stick-proof. America's Test Kitchen says a santoku is already thin, so the dimples matter less there. So next time the potato slices cling, you'll know why. What's a weird little detail in your kitchen you've never understood? Comment it, and it could be the next episode."
+    }
+  ]
+}

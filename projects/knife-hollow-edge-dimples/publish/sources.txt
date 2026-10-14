@@ -1,0 +1,10 @@
+FACTS (locked 14 Oct 2026 from search excerpts; publisher pages not opened)
+- Hollow edge = oval dimples; makers (Wusthof, Lamson) say they create air pockets that help food release: https://www.wusthof.com/en-de/products/classic-santoku-with-hollow-edge-14-cm-5-inch , https://lamsonproducts.com/faq/what-are-those-oval-indentations-in-some-knife-blades/
+- Design patented 1928 in Sheffield, England; "Granton edge" name; real Granton scallops run through the cutting edge, many imitations stop short: https://en.wikipedia.org/wiki/Kitchen_knife_indentation , https://www.mentalfloss.com/culture/design/why-do-some-chefs-knives-have-dimples
+- Not stick-proof; best on wet/starchy food; blade thinner and lighter; matters less on already-thin santoku: America's Test Kitchen https://www.americastestkitchen.com/how_tos/11005-why-do-some-knife-blades-have-hollows , Mental Floss.
+- Cut: any "X% less sticking" figure (no independent test found); script says makers claim, not proven.
+STOCK (Pexels, free commercial use)
+- s01 13152669 "Cutting potato on board" Ira Po https://www.pexels.com/video/cutting-potato-on-board-13152669/
+- s02 39564561 "Slicing potatoes for cooking preparation" Sergei Starostin https://www.pexels.com/video/slicing-potatoes-for-cooking-preparation-39564561/
+- s03 29562704 grinder (downloaded, not used) Nishant Aneja; s04 11566289 onions (downloaded, not used) Dyon Siregar
+AI (illustrative, not a real person/event): k01-k09 gpt-image-2 stills (hands only); k03, k04 LTX-2.3 Fast clips.
