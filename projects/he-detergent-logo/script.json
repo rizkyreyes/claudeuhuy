@@ -1,0 +1,21 @@
+{
+  "slug": "he-detergent-logo",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That little HE on your detergent is there to stop your washer from drowning in suds. You hit start, and the washer just keeps going. Another rinse. Then another. Stick around, because the end of this tells you how much to pour. HE stands for high efficiency. These washers use a lot less water. ENERGY STAR says a certified one uses about fourteen gallons a load, while a standard machine uses twenty. But that's the catch. Less water means the suds have nowhere to go. In an older washer, plenty of water carries the bubbles away. In an HE washer, they stay put. When it senses too many suds, it can pause, or add extra rinses. One big detergent maker says that can tack on up to twenty five minutes. Here's what the label really means. HE detergent is made to foam less, so a small amount of water can rinse it out. But the logo isn't a guarantee. Some are just regular detergents the maker decided won't harm an HE machine. And this is the part that trips people up. Even the right bottle can flood your washer if you pour too much. Too much detergent is a common cause of the suds warning, Samsung says. So check the label for that HE, and measure the cap instead of eyeballing it. Got a weird little marking on something at home? Drop it in the comments, and it might be the next episode."
+    }
+  ]
+}

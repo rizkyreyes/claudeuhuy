@@ -1,0 +1,11 @@
+he-detergent-logo sources (facts locked 15 Oct 2026 from search excerpts; publisher pages not opened)
+- HE = high efficiency; HE detergent is low-sudsing; in a low-water HE washer the suds stay behind; machine adds extra rinses when it senses suds (Tide says up to 25 minutes); soap-film residue on simpler machines (Reviewed.com); some HE-logo detergents are just regular ones the maker decided won't harm an HE washer (Reviewed.com): https://tide.com/en-us/washing-machine-101/how-to-use-an-he-washer/high-efficiency-washer , https://laundry.reviewed.com/news/with-new-detergent-tide-turns-on-sudsy-soaps
+- Samsung: SUDS on the display = over-sudsing detected, washer pauses; usually too much or the wrong detergent: https://www.samsung.com/lb/support/home-appliances/what-does-the-suds-mean-on-my-washing-machine-display/
+- Whirlpool/Maytag SUD/SD code pages (suds routine): https://producthelp.whirlpool.com/Laundry/Washers/Product_Info/Washer_Product_Assistance/What_does_the_%22SUD%22_or_%22SD%22_Error_Code_mean
+- ENERGY STAR certified full-size washer about 14 gallons per load vs 20 for a standard machine: https://www.energystar.gov/products/clothes_washers (other sources give 13 vs 23; script uses the ENERGY STAR pair)
+- Cut: Armand Hammer "too many suds" quote not opened separately; no percentages or damage claims.
+Stock (Pexels, free commercial use):
+- s01 6843727 hands washing clothes in a basin: https://www.pexels.com/video/a-close-up-video-of-a-person-washing-cloths-in-a-basin-6843727/
+- s02 10566659 hands placing detergent bottle in a hamper (from 2.5 s): https://www.pexels.com/video/a-person-placing-a-bottle-of-laundry-detergent-in-a-hamper-10566659/
+AI-generated illustrative, not a real person/event: h01, h02 (+LTX clip), h03, h04, h05, h06, h07, h08, h09 (+LTX clip). The "HE" badge is on a generic unbranded bottle.
+LTX check: h09 pour clip sharp; h02 suds clip sharp.
