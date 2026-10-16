@@ -1,0 +1,10 @@
+bottle-cap-teeth sources (facts locked 16 Oct 2026 from search excerpts; publisher pages not opened; patents.google.com and Wikipedia are blocked in the run environment)
+- William Painter, crown cork, 1892, Baltimore; first cap 24 teeth, later 21; corrugated-flange edge, thin cork disc lined with paper so metal doesn't touch the drink; earlier stoppers (cork, wire, rubber) leaked: https://www.invent.org/inductees/william-painter , https://en.wikipedia.org/wiki/Bottle_cap , https://allaboutbeer.com/article/bottle-openers/ , https://www.crowncork.com/about/history
+- Patent number is disputed between sources (468,226 NIHF and All About Beer, 468,258 Wikipedia and Brookston); the script gives only the year 1892 and no number. All issued 2 Feb 1892.
+- "21 is a multiple of three" explanation comes from a cap maker blog (https://www.lqpclosures.com/news/do-you-know-why-beer-caps-have-21-teeth-62489852.html); a skeptical article says no primary documentation (https://www.archyde.com/the-science-behind-the-21-teeth-of-soda-and-beer-bottle-caps/). Script says it comes mostly from cap makers and could not be proven.
+- Cut: patent number, any ISO claim, how many caps are made per year.
+- No real patent drawing used: patent hosts unreachable from the run environment, and a document is never generated. The method's document beat was skipped for this reason.
+Stock (Pexels, free commercial use):
+- s04 40033690 automated packaging machine in factory, no people or readable text: https://www.pexels.com/video/automated-packaging-machine-in-factory-40033690/
+AI-generated illustrative, not a real person/event: a01-a10 (plain unbranded caps, no text), t01 and t02 are LTX clips made from a01 and a09. The 1890s workshop (a05) is an imagined empty room.
+LTX check: t01 opener and cap pop sharp, cap deformed mid-flight after about 4 s (trimmed, sped up 2.4x, only the first 1.2 s used); t02 finger on teeth sharp, no warping.

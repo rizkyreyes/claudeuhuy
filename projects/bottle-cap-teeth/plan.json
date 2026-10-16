@@ -1,0 +1,188 @@
+{
+ "beats": [
+  {
+   "beat": "B1 hook",
+   "from": null,
+   "job": "event",
+   "register": "photoreal",
+   "hero": "cap popping off the bottle",
+   "framing": "hands",
+   "shots": [
+    "t01"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B2 teeth",
+   "from": "That's",
+   "job": "recognition",
+   "register": "still",
+   "hero": "the ruffled teeth",
+   "framing": "macro",
+   "shots": [
+    "a02",
+    "a03"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B3 count",
+   "from": "Count",
+   "job": "instruction",
+   "register": "photoreal",
+   "hero": "finger on the teeth",
+   "framing": "hands",
+   "shots": [
+    "t02"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B4 stay",
+   "from": "Stay",
+   "job": "promise",
+   "register": "still",
+   "hero": "two caps side by side",
+   "framing": "medium",
+   "shots": [
+    "a10",
+    "a03",
+    "a08"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B5 problem",
+   "from": "Back",
+   "job": "setup",
+   "register": "still",
+   "hero": "the old workshop",
+   "framing": "wide",
+   "shots": [
+    "a05"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B6 stoppers",
+   "from": "stoppers",
+   "job": "problem",
+   "register": "still",
+   "hero": "the old cork stoppers",
+   "framing": "close",
+   "shots": [
+    "a04"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B7 inventor",
+   "from": "Then",
+   "job": "turn",
+   "register": "still",
+   "hero": "the Baltimore workshop",
+   "framing": "wide",
+   "shots": [
+    "a05",
+    "s04",
+    "a07"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B8 design",
+   "from": "It",
+   "job": "explanation",
+   "register": "still",
+   "hero": "the cork-lined cap",
+   "framing": "macro",
+   "shots": [
+    "a03",
+    "a02",
+    "a06"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B9 grip",
+   "from": "Those",
+   "job": "mechanism",
+   "register": "still",
+   "hero": "teeth gripping the glass lip",
+   "framing": "close",
+   "shots": [
+    "a02",
+    "a07"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B10 twist",
+   "from": "Here's",
+   "job": "reveal",
+   "register": "still",
+   "hero": "the two cap sizes",
+   "framing": "medium",
+   "shots": [
+    "a09",
+    "a10",
+    "a02",
+    "a03"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B11 why",
+   "from": "So",
+   "job": "question",
+   "register": "still",
+   "hero": "the pile of caps",
+   "framing": "macro",
+   "shots": [
+    "a08",
+    "a03"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B12 doubt",
+   "from": "But",
+   "job": "caveat",
+   "register": "still",
+   "hero": "the old workbench",
+   "framing": "wide",
+   "shots": [
+    "a05",
+    "a06"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B13 solid",
+   "from": "What's",
+   "job": "payoff",
+   "register": "still",
+   "hero": "the sealed bottle",
+   "framing": "close",
+   "shots": [
+    "a08",
+    "a07",
+    "a01"
+   ],
+   "onscreen": []
+  },
+  {
+   "beat": "B14 cta",
+   "from": "Got",
+   "job": "ask",
+   "register": "still",
+   "hero": "finger on a cap",
+   "framing": "hands",
+   "shots": [
+    "a09",
+    "a10"
+   ],
+   "onscreen": []
+  }
+ ]
+}

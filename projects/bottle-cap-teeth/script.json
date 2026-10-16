@@ -1,0 +1,21 @@
+{
+  "slug": "bottle-cap-teeth",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Hear that pop? That's twenty one tiny teeth letting go of a bottle. Count them on the next cap you pull off. Stay with me, because that number used to be different, and the reason is weirder than you'd think. Back in the eighteen eighties, fizzy drinks had a problem. The stoppers were a mess of corks, wire and rubber, and they leaked. Corks dried out and shrank. Then in eighteen ninety two, a Baltimore inventor named William Painter patented the crown cork. It was a small metal lid with a ruffled edge and a thin cork disc inside, backed with paper so the metal never touched the drink. Those ruffles are the teeth. They get crimped down over the lip of the glass, and that grip holds the pressure in. Here's the twist. Painter's first cap had twenty four teeth. Later versions dropped to twenty one, the count on a standard cap today. So why twenty one? You'll hear it's a multiple of three, so the grip balances. But that story mostly comes from cap makers, and I couldn't find a paper trail that proves it. What's solid is the count, and a design that has barely changed in over a hundred and thirty years. Got a weird little detail at home? Drop it in the comments, and it might be the next episode."
+    }
+  ]
+}
