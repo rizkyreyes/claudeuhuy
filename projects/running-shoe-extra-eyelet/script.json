@@ -1,0 +1,21 @@
+{
+  "slug": "running-shoe-extra-eyelet",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Your running shoe has an extra hole at the top, and it stops your heel from slipping. You're two miles into a run, and with every step your heel lifts a little inside the shoe. It rubs, and you can feel it. Stay with me, because the fix takes less than a minute and it's already built into your shoe. But almost everyone laces right past that last hole. It's called a heel lock, or a runner's loop. Here's exactly how it works. Lace up normally until you reach the second to last hole. Then thread each lace up through the last hole on its own side, and leave a small loop. Now here's the part people miss. Cross the laces, and feed each end through the loop on the opposite side. Pull, and those loops cinch the top of the shoe snug around your ankle. That's what pins your heel down. And that's not even the best part. A heel that slides around is what rubs blisters and wears out the back of the shoe. So one extra lace trick can save you a sore heel. If it still slips, the shoe may just be the wrong fit. So next time you lace up, use that last hole. Is there a small detail on your stuff you've never understood? Put it in the comments, and it could be the next episode."
+    }
+  ]
+}
