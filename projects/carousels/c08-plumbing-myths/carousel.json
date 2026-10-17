@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 plumbing myths that cost homeowners money", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/ice.jpg", "myth": "Ice cubes sharpen your garbage disposal blades.",
+      "fact": "Most disposals don't have sharp blades at all. Lugs on a spinning plate push food against a grinding ring. Ice may knock some stuck bits loose, but it doesn't sharpen anything.",
+      "source": "Moen disposal myths" },
+    { "type": "myth", "bg": "bg/hot.jpg", "myth": "Run hot water with the disposal to cut grease.",
+      "fact": "Use cold water. It keeps fats solid so they get ground up and flushed along. Hot water can let grease slide further down the pipes, where it can clog later.",
+      "source": "Moen disposal myths" },
+    { "type": "myth", "bg": "bg/heater.jpg", "myth": "A water heater needs no maintenance.",
+      "fact": "Sediment settles in the bottom of the tank over time and can cut efficiency and shorten its life. Plumbers recommend flushing it about once a year.",
+      "source": "Plumbing industry guidance" },
+    { "type": "myth", "bg": "bg/toilet.jpg", "myth": "Drop-in tank tablets keep your toilet clean for free.",
+      "fact": "Plumbers say chlorine tablets can slowly wear out the rubber flapper and seals in the tank, and a shrinking tablet can jam the flush valve.",
+      "source": "Plumbers quoted by Apartment Therapy" },
+    { "type": "myth", "bg": "bg/freeze.jpg", "myth": "Pipes only freeze when the whole house is cold.",
+      "fact": "Pipes in garages, attics, crawl spaces and exterior walls can freeze even when the house is warm. On a hard-freeze night, open the cabinets under sinks and let a faucet drip.",
+      "source": "National Weather Service guidance via local news" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Moen: garbage disposal myths", "Service Experts: plumbing myths", "Apartment Therapy: DIY plumbing mistakes", "AP and local news: frozen pipe tips"] }
+  ]
+}

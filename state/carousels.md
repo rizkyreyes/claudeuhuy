@@ -14,7 +14,7 @@ Themes are starting points. Verify every myth on the day, swap out any you can't
 | c05 | c05-tech-myths | Phone and computer myths | posted | Mon 12 Oct 2026 9 AM | scheduled 9 Oct on Instagram + TikTok (7 photos each; myths: closing apps, incognito, drain to zero, overnight charging, signal bars) |
 | c06 | c06-cleaning-myths | Cleaning myths | posted | Wed 14 Oct 2026 9 AM | scheduled 12 Oct on Instagram + TikTok (7 photos each; myths: flushable wipes, vinegar on stone, mixing cleaners, air fresheners, disinfectant contact time); ideas: newspaper for streak-free glass, vinegar cleans every surface, air fresheners clean the air, "flushable" wipes are safe to flush |
 | c07 | c07-video-myths-recap | Myths we busted this month | posted | Fri 16 Oct 2026 9 AM | scheduled 14 Oct on Instagram + TikTok (7 photos each; myths: toothpaste square, pot lid hole, pillow tag, mattress handles, rice cooker cup) · only myths whose videos already posted (toothpaste square, pot lid hole, pillow tag, spaghetti spoon, party cup lines, recycling arrows...) |
-| c08 | | (research a new theme) | todo | Mon 19 Oct 2026 9 AM | |
+| c08 | c08-plumbing-myths | Plumbing myths | scheduled | Mon 19 Oct 2026 9 AM | scheduled 17 Oct on Instagram + TikTok (7 photos each; myths: ice on disposal, hot water with disposal, water heater maintenance, tank tablets, pipes freezing) |
 | c09 | | (research a new theme) | todo | Wed 21 Oct 2026 9 AM | |
 | c10 | | (research a new theme) | todo | Fri 23 Oct 2026 9 AM | |
 | c11 | | (research a new theme) | todo | Mon 26 Oct 2026 9 AM | |
