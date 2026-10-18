@@ -96,6 +96,29 @@ For the chosen topic, in `projects/<slug>/`:
 
 Rizky asked on 12 Oct 2026 to use the steps from Hanif's programmatic-video article for the video in the **Sun 18 Oct** slot (row **o-23 bottle-cap-teeth**). For that row, follow **`docs/beat-plan-method.md`** on top of the steps above: speed 1.0 + `pipeline/cap-pauses.py` instead of a faster voice, a `plan.json` beat plan written before `shots.mjs`, a photoreal moving hook, the real patent drawing as a document shot, **`node ../../pipeline/lint-plan.mjs .` must print PASS before building**, final audio at -14 LUFS / true peak under -0.5 dBTP, and a 1 fps contact sheet. If o-23 is cut or moves to another day, apply the method to whichever video takes the 18 Oct slot. All other rows keep the normal steps until the 25 Oct weekly review decides.
 
+### TikTok short-cut test (videos in the Wed 21 Oct to Tue 27 Oct slots)
+
+Rizky, 18 Oct 2026: TikTok viewers watch about 9.5 s (14%) of our 70–78 s videos, so for one week TikTok gets its own **short cut**. YouTube and Instagram keep the full video. For every video whose slot is Wed 21, Thu 22, Fri 23, Sat 24, Sun 25, Mon 26 or Tue 27 Oct 2026 (7 PM ET), after the full video is rendered:
+
+1. `projects/<slug>/tt/script.json`: same voice, model and settings as the full script, **95–120 words (about 30–40 s)**. The first sentence is the full video's hook, word for word. Then the core reason, at most one curiosity reloop, and end on the one comment CTA (no "stay to the end" line, there is no time for it). Only facts already locked for the full video; nothing new.
+2. Voice: `node ../../../pipeline/tts.mjs script.json assets/vo` inside `tt/` (about 600–700 extra ElevenLabs characters).
+3. Copy the b-roll: `mkdir -p tt/assets && cp -r assets/broll assets/footage tt/assets/` (no new AI images or clips), plus `vendor/`. Write `tt/shots.mjs`: 9–13 cues, a cut every 2.5–4 s, the same opening rule (second angle inside 2 s, the builder enforces it).
+4. Build, check and render as in Step 6–7 but inside `tt/` (paths one level deeper: `node ../../../pipeline/build-broll.mjs .`), final encode at -14 LUFS (`-af "loudnorm=I=-14:TP=-1.0:LRA=11"`). Contact sheet. Copy to `media/<slug>-tt.mp4`.
+5. Schedule: YouTube and Instagram use `media/<slug>.mp4` as usual; the **TikTok post uses `media/<slug>-tt.mp4`**. Check its `durationMs` matches the short cut. TikTok caption: same as the full video's TikTok caption.
+6. Queue row notes: add `TikTok short cut <seconds> s`. Clean-up: when all 3 posts are `sent`, `git rm` both MP4s.
+7. Run log: full and short-cut durations, ElevenLabs characters used.
+
+The weekly review on **Sun 1 Nov** compares these 7 TikTok posts with the 14 TikTok videos before them (average watch time in seconds and %, views, likes, comments) and recommends keeping or dropping short cuts. Until Rizky decides, videos after Tue 27 Oct go back to one version for all three platforms.
+
+### Repost: rice cooker (Sun 15 Nov 2026)
+
+Rice cooker (o-18, 13 Oct) was the best video of October on all three platforms. Row `rp-01` reposts it on **Sun 15 Nov 2026 7 PM ET** (`T19:00:00-05:00`, EST) on **YouTube and Instagram only**: no TikTok, because TikTok already blocked one of our posts as spam and an identical re-upload is the riskiest there; TikTok gets no video that day. Do not produce a new video for that slot. When the slot enters the 72-hour window:
+
+1. Restore the original file: `git show 5549f90:media/rice-cooker-cup.mp4 > media/rice-cooker-cup-repost.mp4` (76.95 s, unchanged; the hook stays exactly as it was).
+2. New YouTube title, clearly different from the first one ("Why Does a Rice Cooker Come With a Weird Little Cup?"); keep the "isn't a real cup" idea, for example "Your Rice Cooker Cup Isn't a Real Cup #shorts". Score two options with vidIQ if available, keep the higher. Fresh description and follow line in the style of `docs/vidiq-captions.md`, same facts as `projects/rice-cooker-cup/publish/captions.md`. Fresh Instagram caption too.
+3. Thumbnail: reuse `thumbnails/2026-10-13-rice-cooker-cup.jpg`, copy it to `thumbnails/2026-11-15-rice-cooker-cup-repost.jpg`.
+4. Schedule, mark the row `scheduled`, and after both posts are `sent`, `git rm` the MP4. The weekly review after 15 Nov compares the repost's first 7 days with the original's.
+
 ### Remakes (rows with id `r-…` in `state/queue.md`)
 
 Rizky asked on 4 Oct 2026 to remake the videos that got fewer than 50 YouTube views, in the current style, for the last days of October. A remake row is produced like any other `todo` row when its slot comes into the 72-hour window, with these extras:
@@ -106,11 +129,11 @@ Rizky asked on 4 Oct 2026 to remake the videos that got fewer than 50 YouTube vi
 - Don't delete, edit or re-schedule the original posts. Don't mention in the video or captions that it's a remake.
 - Keep the planned slot (Thu 29, Fri 30, Sat 31 Oct, 7 PM ET). Don't pull a remake forward to fill an earlier slot; if the row above it was cut, use a `spare` row for that slot.
 
-## Step 2B — Carousels (Instagram + TikTok, Mon/Wed/Fri 9 AM ET)
+## Step 2B — Carousels (TikTok only, Mon/Wed/Fri 9 AM ET)
 
-**This step runs on every run, whether or not Step 2 produced a video.** First do the carousel housekeeping: for every `scheduled` row in `state/carousels.md` whose two posts (Instagram + TikTok) show `sent`, set the row to `posted` and `git rm -r` its folder in `media/carousels/` (c02 is a single MP4: `git rm media/carousels/c02-kitchen-myths.mp4`). Then check the slots (Mon, Wed, Fri 9:00 AM ET).
+**This step runs on every run, whether or not Step 2 produced a video.** First do the carousel housekeeping: for every `scheduled` row in `state/carousels.md` whose TikTok post shows `sent` (rows before c08 also had an Instagram post), set the row to `posted` and `git rm -r` its folder in `media/carousels/` (c02 is a single MP4: `git rm media/carousels/c02-kitchen-myths.mp4`). Then check the slots (Mon, Wed, Fri 9:00 AM ET).
 
-Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no scheduled carousel, take the first `rendered` or `todo` row in `state/carousels.md`: research and verify 5 myths (todo rows), pick Pexels backgrounds, render the slides as **photos** with `node pipeline/carousel.mjs … both` (Instagram 1080x1350 and TikTok 1080x1920; **no video and no music**, Rizky went back to photo carousels on 6 Oct 2026), look at a contact sheet, write captions and sources, commit and push, then schedule the Instagram carousel post and the TikTok photo post from the raw `main` image URLs. At most one new carousel per run. Keep Instagram and TikTok at 9 or fewer scheduled posts in total (videos + carousels); if full, skip and try next run. Carousels are not posted to YouTube.
+Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no scheduled carousel, take the first `rendered` or `todo` row in `state/carousels.md`: research and verify 5 myths (todo rows), pick Pexels backgrounds, render the slides as **photos** with `node pipeline/carousel.mjs … tt` (TikTok 1080x1920 only; **no video and no music**, Rizky went back to photo carousels on 6 Oct 2026), look at a contact sheet, write captions and sources, commit and push, then schedule the TikTok photo post from the raw `main` image URLs. **No Instagram carousels from 18 Oct 2026** (Rizky: 0 to 3 views there vs about 300 on TikTok); never create one. At most one new carousel per run. Keep TikTok at 9 or fewer scheduled posts in total (videos + carousels); if full, skip and try next run. Carousels are not posted to YouTube.
 
 ## Step 3 — Close out
 
@@ -121,3 +144,5 @@ Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no sched
 ## Topic rules
 
 A topic = a small, visible detail on an everyday object whose hidden purpose surprises people (hook shape: "Why does X have Y?"). It must have a verifiable reason from a reliable source. No two consecutive videos from the same room or with the same payoff type. Myths get debunked, never repeated as fact. Add new topics to `docs/topics.md` with sources before scripting them.
+
+From 18 Oct 2026 (Rizky): the niche also covers things people use every day outside the house, such as the car, game consoles and electronics, and "you've been doing it wrong" myths about them (premium gas, warming up the car). Prefer topics that already went viral elsewhere (see the "Viral-proven topics" section of `docs/topics-october.md`). Never show a brand logo, a real person, or a real crime; generic shapes only for consoles and cars.

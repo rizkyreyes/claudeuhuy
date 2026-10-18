@@ -113,3 +113,11 @@ Always compare **winners against weak videos**: hook line, first 2 seconds of vi
    - Which video did best and why you think so. Which did worst and why.
    - What you changed for next week (max 2 things) and what you expect to see.
    - Anything Rizky needs to do (for example, send the TikTok follower count, or check a setting).
+
+
+## Open tests (check every week until closed)
+
+- **TikTok short cut** (videos in the 21–27 Oct slots, ROUTINE.md): on Sun 1 Nov compare those 7 TikTok posts with the 14 TikTok videos before them (avg watch s and %, views, likes, comments). Recommend keep or drop; Rizky decides.
+- **Beat-plan method** (o-23 bottle-cap-teeth, 18 Oct): compare with the videos around it on Sun 25 Oct.
+- **Instagram carousels stopped** 18 Oct: no action, just stop reporting IG carousel numbers.
+- **Rice cooker repost** (rp-01, Sun 15 Nov, YouTube + Instagram): in the next review, compare its first 7 days with the original's (o-18, 13 Oct).
