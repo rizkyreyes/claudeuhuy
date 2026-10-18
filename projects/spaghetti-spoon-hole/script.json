@@ -1,0 +1,21 @@
+{
+  "slug": "spaghetti-spoon-hole",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "The hole in your spaghetti spoon isn't really a measuring tool. You've seen the trick. Push dry noodles through the hole, and that's one serving. Hang on to the end, because that trick is only half true, and the true half is the part you'll actually use. It went viral in 2016, from a post on Imgur. Then Food Network and Today repeated it. But here's what nobody checked. There's no standard spaghetti spoon. Snopes looked into it and rated the claim a mixture of true and false. Some spoons have a hole that fits about one serving. Others have a tiny hole that couldn't measure anything. So what is the hole for? Mostly, draining. Lift the noodles out, and the water runs through instead of dripping all over your stove. That's the real job. But there's one more piece. A dietitian told Snopes that gathering the noodles loosely gets you about one serving, and squeezing them tight gets you a bit more. And a serving is two ounces of dry spaghetti, about one cup cooked. That's the number to trust, not the hole. So next time you grab that spoon, use it to drain, and keep the two ounces in your head. Got a detail on something you own that you've never figured out? Tell me below, and I'll dig into it."
+    }
+  ]
+}
