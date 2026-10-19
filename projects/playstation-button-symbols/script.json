@@ -1,0 +1,21 @@
+{
+  "slug": "playstation-button-symbols",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "The four shapes on a PlayStation controller aren't random. Each one means something. When Sony was designing the first PlayStation, other game companies labeled their buttons with letters. Designer Teiyu Goto wanted something players could remember at a glance. So he picked shapes. Stay with me, because two of them mean the opposite of what you'd guess, and it explains a weird difference between Japan and America. Start with the triangle. It stands for a point of view, your head, the direction you're looking. Then the square. That one is a sheet of paper, which is why it opens menus and documents. But here's the part that got me. The circle and the X are simply yes and no. In Japan, a circle means correct, and an X means wrong. So Japanese games used circle to confirm, and X to cancel. Then the console came west, and it flipped. Here, you press X to say yes. A player in Japan would read that as pressing no. So that little shape under your thumb has a meaning nobody ever told you. Next time you pick up the controller, look at those four shapes. Got something you own that you've always wondered about? Comment it below, and it might be my next episode."
+    }
+  ]
+}

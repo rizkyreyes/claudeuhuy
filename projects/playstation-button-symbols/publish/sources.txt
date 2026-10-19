@@ -1,0 +1,7 @@
+FACTS (locked from search excerpts 19 Oct 2026; publisher pages not opened; accounts are translations of Teiyu Goto's 2010 Famitsu interview)
+- Other companies used letters or colors; Goto chose symbols; triangle = viewpoint/direction, square = sheet of paper (menus, documents), circle and X = yes and no: Gizmodo https://gizmodo.com/5622157/what-do-the-playstations-circle-x-square-and-triangle-buttons-mean ; Engadget https://www.engadget.com/2010-08-25-ps1-designer-on-the-fight-for-controller-handles-what-the-butto.html ; Gematsu https://gematsu.com/2010/08/playstations-iconic-face-buttons-explained
+- Japan: circle = correct (maru), X = wrong (batsu); Japanese games confirm with circle, Western releases confirm with X: Kill Screen https://www.killscreen.com/semiotics-controller-design/ ; VGC https://videogameschronicle.com/news/after-26-years-ps5-will-make-x-its-default-select-button-in-japan
+- CUT: button colors (not confirmed in excerpts), PS5 Japan change, release year.
+MEDIA
+- AI-generated illustrative stills a01-a08 (generic unbranded controller shapes, not a real person/event) and LTX clips l01, l02 (from a02, a04).
+- Pexels stock (hands only): 7774567 (s01) https://www.pexels.com/video/a-person-pressing-the-buttons-of-a-game-controller-7774567/ ; 8757863 (s02) https://www.pexels.com/video/person-pressing-a-game-controller-8757863/ ; 7241002 (s03) https://www.pexels.com/video/close-up-view-of-person-using-game-controller-7241002/ ; 30301759 (s04) https://www.pexels.com/video/hands-playing-video-game-on-controller-30301759/
