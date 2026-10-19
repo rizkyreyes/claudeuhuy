@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 food storage myths that trip up almost everyone", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/hot.jpg", "myth": "Hot food has to cool off before it goes in the fridge.",
+      "fact": "It's fine to put hot food straight in the fridge. The catch is size: split big batches into shallow containers, about 2 inches deep, so they chill fast. Get leftovers cold within 2 hours.",
+      "source": "CDC and USDA guidance via extension services" },
+    { "type": "myth", "bg": "bg/freeze.jpg", "myth": "Freezing kills the bacteria in your food.",
+      "fact": "Freezing at 0°F puts bacteria on pause. It doesn't wipe them out, and they wake up when the food thaws. A USDA study found about 10% of Campylobacter on chicken survived a week frozen.",
+      "source": "USDA FSIS, via K-State Extension" },
+    { "type": "myth", "bg": "bg/burn.jpg", "myth": "Freezer-burned food is unsafe to eat.",
+      "fact": "Freezer burn is air drying out the surface. It hurts taste and texture, not safety. Trim off the dry spots, or toss it if it's heavily burned and you don't like the quality.",
+      "source": "USDA FSIS, via K-State Extension" },
+    { "type": "myth", "bg": "bg/smell.jpg", "myth": "If it smells fine, it's fine.",
+      "fact": "The bacteria that make people sick usually don't change how food smells, tastes or looks. The nose mostly catches spoilage bacteria. Time and temperature are what you can trust.",
+      "source": "USDA FSIS and CSPI" },
+    { "type": "myth", "bg": "bg/left.jpg", "myth": "Leftovers are good for a week.",
+      "fact": "USDA says cooked leftovers keep 3 to 4 days in the fridge, as long as the fridge is at 40°F or below. After that, freeze them or toss them.",
+      "source": "USDA, via university extension" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["USDA FSIS: Freezing and Food Safety", "K-State Extension: Freezing Your Food", "CDC / extension: handling leftovers safely", "CSPI: can you smell if food is safe"] }
+  ]
+}
