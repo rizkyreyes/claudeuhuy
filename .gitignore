@@ -9,3 +9,10 @@ projects/carousels/*/bg/
 projects/carousels/*/work/
 projects/*/render.log
 projects/*/.hyperframes/
+projects/*/tt/assets/
+projects/*/tt/vendor/
+projects/*/tt/index.html
+projects/*/tt/out.mp4
+projects/*/tt/final.mp4
+projects/*/tt/.hyperframes/
+projects/*/tt/render.log
