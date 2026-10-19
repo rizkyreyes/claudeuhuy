@@ -42,7 +42,7 @@ const broll = buildBroll({ SHOTS, TOTAL, proj });
 tl.push(...broll.tl);
 const { caps, tlLines } = buildCaptions(VO, VO_START, emphasis);
 tl.push(...tlLines);
-const typo = buildTypography({ VO, VO_START, proj, slams, counters, emphasis });
+const typo = buildTypography({ VO, VO_START, proj, slams, counters, emphasis, payoff: TYPO ? shotsMod.payoff || null : null });
 tl.push(...typo.tl);
 
 const rootHTML = [...broll.html, `<div id="topfade"></div>`, `<div id="scrim"></div>`, ...typo.html].join("\n  ");

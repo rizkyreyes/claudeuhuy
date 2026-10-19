@@ -1,0 +1,88 @@
+{
+ "_note": "Typography sound effects (pipeline/typo.mjs). All generated for this channel with the ElevenLabs sound-effects API (18-19 Oct 2026), no third-party audio. len = seconds, hit = seconds from file start to the loudest transient, which typo.mjs lines up with the on-screen hit. Families: whoosh/impact/ticks/pop each have 3 variants, one variant per family is picked per video from the slug so videos rotate; hook-<payoff> plays on the first moment only.",
+ "hook-hack": {
+  "len": 0.15,
+  "hit": 0.013,
+  "peak_db": -5.0
+ },
+ "hook-history": {
+  "len": 0.306,
+  "hit": 0.018,
+  "peak_db": -5.0
+ },
+ "hook-manufacturing": {
+  "len": 0.192,
+  "hit": 0.025,
+  "peak_db": -5.0
+ },
+ "hook-myth": {
+  "len": 0.657,
+  "hit": 0.006,
+  "peak_db": -5.0
+ },
+ "hook-safety": {
+  "len": 0.382,
+  "hit": 0.267,
+  "peak_db": -5.0
+ },
+ "impact": {
+  "len": 0.88,
+  "hit": 0.159,
+  "peak_db": -6.2
+ },
+ "impact2": {
+  "len": 0.88,
+  "hit": 0.005,
+  "peak_db": -6.2
+ },
+ "impact3": {
+  "len": 0.216,
+  "hit": 0.005,
+  "peak_db": -6.2
+ },
+ "pop": {
+  "len": 0.48,
+  "hit": 0.01,
+  "peak_db": -1.9
+ },
+ "pop2": {
+  "len": 0.244,
+  "hit": 0.214,
+  "peak_db": -1.9
+ },
+ "pop3": {
+  "len": 0.321,
+  "hit": 0.135,
+  "peak_db": -1.9
+ },
+ "ticks": {
+  "len": 0.675,
+  "hit": 0.029,
+  "peak_db": -7.4
+ },
+ "ticks2": {
+  "len": 0.643,
+  "hit": 0.166,
+  "peak_db": -7.4
+ },
+ "ticks3": {
+  "len": 0.68,
+  "hit": 0.126,
+  "peak_db": -7.4
+ },
+ "whoosh": {
+  "len": 0.6,
+  "hit": 0.132,
+  "peak_db": -4.6
+ },
+ "whoosh2": {
+  "len": 0.249,
+  "hit": 0.083,
+  "peak_db": -4.6
+ },
+ "whoosh3": {
+  "len": 0.357,
+  "hit": 0.18,
+  "peak_db": -4.6
+ }
+}

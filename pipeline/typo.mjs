@@ -5,8 +5,11 @@
 //        big two-line text in the upper middle; the LAST line is in the accent color; the frame dims behind it
 //   export const counters = [{ word: "180", nth: 1, to: 180, unit: "ML", dur: 1.5 }];
 //        a number that counts up to `to` and lands on the spoken word, unit underneath
-// Sound: each moment gets a matching effect from pipeline/sfx (ElevenLabs-generated, ours to use):
+// Sound: each moment gets a matching effect from pipeline/sfx (ElevenLabs-generated, ours to use; manifest sfx.json):
 //   slam = whoosh into an impact, counter = fast ticks then an impact on the spoken number, emphasis word = soft pop.
+//   Each family has 3 variants; one variant per family is picked per video from the slug, so videos rotate but a
+//   video stays consistent. The FIRST moment (the hook) gets a payoff sound instead of the impact (Rizky, 19 Oct 2026):
+//   export const payoff = "myth-bust";   // from the queue row tag: myth-bust | history | safety | hack | convenience | manufacturing
 // How many (Rizky, 18 Oct 2026: "not too few, not too many", fit it to the video), enforced below:
 //   videos of 45 s or more: 3–6 moments (slams + counters), the first one inside the first 4 s (the hook claim),
 //   at least 5 s between moments, 5–12 emphasis words; shorter cuts: 2–4 moments, at least 2 s apart.
@@ -19,7 +22,7 @@ const fx = (n) => +(+n).toFixed(3);
 const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9]/g, "");
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-export function buildTypography({ VO, VO_START, proj, slams = [], counters = [], emphasis = [] }) {
+export function buildTypography({ VO, VO_START, proj, slams = [], counters = [], emphasis = [], payoff = null }) {
   if (!slams.length && !counters.length && !emphasis.length) return { css: "", html: [], tl: [] };
   // the font travels with the project so the renderer can load it
   const fontSrc = path.join(path.dirname(new URL(import.meta.url).pathname), "fonts", "ArchivoBlack-Regular.ttf");
@@ -45,10 +48,20 @@ export function buildTypography({ VO, VO_START, proj, slams = [], counters = [],
   // ---- sound effects travel with the project like the font
   const sfxDir = path.join(path.dirname(new URL(import.meta.url).pathname), "sfx");
   fs.mkdirSync(path.join(proj, "assets/sfx"), { recursive: true });
-  for (const f of ["whoosh", "impact", "ticks", "pop"]) fs.copyFileSync(path.join(sfxDir, `${f}.wav`), path.join(proj, `assets/sfx/${f}.wav`));
-  const LEN = { whoosh: 0.6, impact: 0.88, ticks: 0.68, pop: 0.48 };
+  const MAN = JSON.parse(fs.readFileSync(path.join(sfxDir, "sfx.json"), "utf8"));
+  const slug = path.basename(path.resolve(proj));
+  const hash = (str) => { let h = 2166136261; for (const ch of str) h = Math.imul(h ^ ch.charCodeAt(0), 16777619) >>> 0; return h; };
+  const pick = (fam) => { const v = hash(slug + ":" + fam) % 3; return v === 0 ? fam : `${fam}${v + 1}`; };
+  const HOOK = { "myth-bust": "hook-myth", history: "hook-history", safety: "hook-safety", hack: "hook-hack", convenience: "hook-hack", manufacturing: "hook-manufacturing" };
+  const P = { whoosh: pick("whoosh"), impact: pick("impact"), ticks: pick("ticks"), pop: pick("pop"), hook: payoff && HOOK[payoff] };
+  if (payoff && !P.hook) throw new Error(`typography: unknown payoff "${payoff}" (use ${Object.keys(HOOK).join(", ")})`);
+  for (const f of new Set(Object.values(P).filter(Boolean))) fs.copyFileSync(path.join(sfxDir, `${f}.wav`), path.join(proj, `assets/sfx/${f}.wav`));
   let sfxN = 0;
-  const sfx = (name, t, vol) => `<audio id="sfx-${sfxN}" src="assets/sfx/${name}.wav" data-start="${fx(Math.max(0, t))}" data-duration="${LEN[name]}" data-track-index="${40 + sfxN++}" data-volume="${vol}"></audio>`;
+  // `at` is when the HIT of the sound should land; the file starts `hit` seconds earlier
+  const sfx = (fam, at, vol) => { const name = P[fam], m = MAN[name]; return `<audio id="sfx-${sfxN}" src="assets/sfx/${name}.wav" data-start="${fx(Math.max(0, at - m.hit))}" data-duration="${m.len}" data-track-index="${40 + sfxN++}" data-volume="${vol}"></audio>`; };
+  const first = moments[0];
+  const hitSfx = (t, vol) => (P.hook && Math.abs(t - first) < 0.01 ? sfx("hook", t + 0.02, 0.55) : sfx("impact", t + 0.02, vol));
+  console.log(`typography sounds for ${slug}: ${Object.values(P).filter(Boolean).join(", ")}`);
 
   const html = [`<div id="tdim" class="clip" data-start="0" data-duration="${fx(VO_START + VO.duration + 1.2)}" data-track-index="8"></div>`];
   const tl = [`tl.set("#tdim",{opacity:0},0);`];
@@ -57,7 +70,7 @@ export function buildTypography({ VO, VO_START, proj, slams = [], counters = [],
     const { t } = at(s.word, s.nth);
     const dur = s.dur ?? 1.2, id = `slam-${i}`;
     const lines = s.lines.map((l, k) => `<div class="sl${k === s.lines.length - 1 ? " acc" : ""}" id="${id}-l${k}">${esc(l)}</div>`).join("");
-    html.push(sfx("whoosh", t - 0.22, 0.35), sfx("impact", t, 0.5));
+    html.push(sfx("whoosh", t - 0.1, 0.35), hitSfx(t, 0.5));
     html.push(`<div class="slam clip" id="${id}" data-start="${fx(t - 0.02)}" data-duration="${fx(dur + 0.25)}" data-track-index="9">${lines}</div>`);
     tl.push(`tl.to("#tdim",{opacity:0.5,duration:0.12,ease:"power1.out"},${fx(t - 0.02)});`);
     s.lines.forEach((_, k) => tl.push(`tl.fromTo("#${id}-l${k}",{opacity:0,scale:1.7,y:-30,rotation:${k % 2 ? 2 : -2}},{opacity:1,scale:1,y:0,rotation:0,duration:0.22,ease:"back.out(2.6)"},${fx(t + k * 0.09)});`));
@@ -71,7 +84,7 @@ export function buildTypography({ VO, VO_START, proj, slams = [], counters = [],
     const dur = c.dur ?? 1.5, id = `cnt-${i}`, steps = 14, start = fx(t - 0.55);
     const vals = Array.from({ length: steps + 1 }, (_, k) => Math.round((c.to * (1 - Math.pow(1 - k / steps, 3)))));
     const nums = vals.map((v, k) => `<span class="cn" id="${id}-n${k}">${v.toLocaleString("en-US")}</span>`).join("");
-    html.push(sfx("ticks", start, 0.32), sfx("impact", t, 0.42));
+    html.push(sfx("ticks", start + MAN[P.ticks].hit, 0.32), hitSfx(t, 0.42));
     html.push(`<div class="counter clip" id="${id}" data-start="${start}" data-duration="${fx(t - start + dur + 0.2)}" data-track-index="10"><div class="cnum">${nums}</div>${c.unit ? `<div class="cunit">${esc(c.unit)}</div>` : ""}</div>`);
     tl.push(`tl.to("#tdim",{opacity:0.45,duration:0.12},${start});`);
     tl.push(`tl.fromTo("#${id}",{opacity:0,scale:0.7},{opacity:1,scale:1,duration:0.18,ease:"back.out(2)"},${start});`);
@@ -88,7 +101,7 @@ export function buildTypography({ VO, VO_START, proj, slams = [], counters = [],
   const EM = new Set(emphasis.map(norm));
   for (const w of VO.words) {
     const t = fx(VO_START + w.start);
-    if (EM.has(norm(w.text)) && !moments.some((m) => Math.abs(m - t) < 0.8)) html.push(sfx("pop", t - 0.02, 0.22));
+    if (EM.has(norm(w.text)) && !moments.some((m) => Math.abs(m - t) < 0.8)) html.push(sfx("pop", t + 0.02, 0.22));
   }
 
   const css = `

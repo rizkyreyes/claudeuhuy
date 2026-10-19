@@ -104,7 +104,10 @@ Rizky approved the demo on 18 Oct 2026 ("much better"). From the **Wed 28 Oct 7 
 export const emphasis = ["real", "180", "three", "quarters", "third"];          // caption words shown bigger, yellow, with a soft pop
 export const slams = [{ word: "not", lines: ["NOT A", "REAL CUP"], dur: 1.2 }];   // big 2-line text, last line yellow; whoosh + impact
 export const counters = [{ word: "180", to: 180, unit: "ML", dur: 1.5 }];        // number counts up and lands on the spoken word; ticks + impact
+export const payoff = "myth-bust";   // the payoff tag from the queue row: myth-bust | history | safety | hack | convenience | manufacturing
 ```
+
+Sound (Rizky, 19 Oct 2026, "middle way"): every sound family (whoosh, impact, ticks, pop) has 3 variants in `pipeline/sfx/` (manifest `sfx.json`). The builder picks one variant per family from the slug, so each video sounds a little different but stays consistent inside itself, and plays a **payoff sound on the first moment (the hook)** instead of the impact: myth-bust = wrong-answer buzzer, history = typewriter, safety = alert beep, hack/convenience = satisfying click, manufacturing = machine stamp. Always set `payoff` from the row's tag; nothing else to choose. Never add other audio files.
 
 How many: Rizky said not too few and not too many, fitted to the video. The builder enforces it: **3–6 moments** (slams + counters) for a 60–75 s video, the **first on the hook claim inside the first 4 s**, at least **5 s apart**, and **5–12 emphasis words**. Pick the moments where the story turns: the hook claim, the reveal, each key spoken number (max 2 counters), the payoff. Slam lines are 1–3 words each, max 2 lines, ALL CAPS, true to what is being said at that moment; never put the CTA in a slam. Every number on screen must be spoken. In the contact sheet check that no slam or counter covers the object for more than about 1.5 s and nothing sits in the right 140 px or under the captions. If the build throws a typography error, fix the plan, never remove the layer. Log the moment count in the run log.
 
