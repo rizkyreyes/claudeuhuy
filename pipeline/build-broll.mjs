@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { fx, makeTA, buildCaptions, buildBroll, renderPage } from "./gen-shared.mjs";
+import { buildTypography } from "./typo.mjs";
 
 const proj = path.resolve(process.argv[2] || ".");
 const meta = JSON.parse(fs.readFileSync(path.join(proj, "assets/vo/audio_meta.json"), "utf8"));
@@ -15,7 +16,11 @@ const TA = makeTA(VO, VO_START);
 const TOTAL = fx(VO_START + VO.duration + 1.2);
 if (TOTAL > 179) throw new Error(`total ${TOTAL}s exceeds the 2:59 ceiling`);
 
-const { title, cues } = await import(pathToFileURL(path.join(proj, "shots.mjs")).href);
+const shotsMod = await import(pathToFileURL(path.join(proj, "shots.mjs")).href);
+const { title, cues } = shotsMod;
+// optional typography layer (pipeline/typo.mjs); TYPO=0 builds the plain version for comparison
+const TYPO = process.env.TYPO !== "0";
+const emphasis = TYPO ? shotsMod.emphasis || [] : [], slams = TYPO ? shotsMod.slams || [] : [], counters = TYPO ? shotsMod.counters || [] : [];
 // cues: [[cueWord|null, shotId, "clip"?, { zoom, focus }?], ...] — chained: each cue is the next occurrence after the previous one
 //   zoom/focus (stills only): crop in on the subject, e.g. { zoom: 1.5, focus: "50% 20%" }. Crop clips with crop.mjs instead.
 let t = -1;
@@ -35,11 +40,13 @@ for (let i = 1; i < SHOTS.length; i++) if (SHOTS[i].at <= SHOTS[i - 1].at) throw
 const tl = [];
 const broll = buildBroll({ SHOTS, TOTAL, proj });
 tl.push(...broll.tl);
-const { caps, tlLines } = buildCaptions(VO, VO_START);
+const { caps, tlLines } = buildCaptions(VO, VO_START, emphasis);
 tl.push(...tlLines);
+const typo = buildTypography({ VO, VO_START, proj, slams, counters, emphasis });
+tl.push(...typo.tl);
 
-const rootHTML = [...broll.html, `<div id="topfade"></div>`, `<div id="scrim"></div>`].join("\n  ");
-const page = renderPage({ W, H, BG, INK, MUTED, ACCENT, DIM, TOTAL, bodyHTML: "", rootHTML, tl, caps, VO, VO_START, title });
+const rootHTML = [...broll.html, `<div id="topfade"></div>`, `<div id="scrim"></div>`, ...typo.html].join("\n  ");
+const page = renderPage({ W, H, BG, INK, MUTED, ACCENT, DIM, TOTAL, extraCSS: typo.css, bodyHTML: "", rootHTML, tl, caps, VO, VO_START, title });
 fs.writeFileSync(path.join(proj, "index.html"), page);
 const longest = SHOTS.map((s, i) => fx((SHOTS[i + 1]?.at ?? TOTAL) - s.at));
-console.log(`wrote index.html  total=${TOTAL}s  shots=${SHOTS.length} (clips ${SHOTS.filter((s) => s.clip).length})  longest hold=${Math.max(...longest)}s  tweens=${tl.length}`);
+console.log(`wrote index.html  total=${TOTAL}s  shots=${SHOTS.length} (clips ${SHOTS.filter((s) => s.clip).length})  longest hold=${Math.max(...longest)}s  tweens=${tl.length}  typography: ${emphasis.length} emphasis, ${slams.length} slams, ${counters.length} counters`);

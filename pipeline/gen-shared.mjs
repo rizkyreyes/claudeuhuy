@@ -38,7 +38,9 @@ export function makeMotion(tl) {
  * popping in on the frame it is spoken. A word stays up until the next word starts; if the narrator pauses for
  * more than 0.7 s it clears 0.3 s after the word ends, so nothing hangs over a silent beat.
  */
-export function buildCaptions(VO, VO_START) {
+export function buildCaptions(VO, VO_START, emphasis = []) {
+  // emphasis: words (case/punctuation-insensitive) shown bigger in the accent color with a stronger pop (typography layer)
+  const EM = new Set(emphasis.map((e) => norm(String(e))));
   const caps = [], tlLines = [];
   const words = VO.words.filter((w) => String(w.text || "").trim());
   words.forEach((w, i) => {
@@ -47,8 +49,11 @@ export function buildCaptions(VO, VO_START) {
     const spokenEnd = VO_START + Math.max(w.end, w.start + 0.12);
     const nextStart = nx ? VO_START + nx.start - 0.03 : Infinity;
     const en = fx(nextStart - spokenEnd > 0.7 ? spokenEnd + 0.3 : nextStart);
-    caps.push(`<div class="cap clip" id="cap-${i}" data-start="${st}" data-duration="${fx(en - st)}" data-track-index="7"><span class="capbox">${esc(w.text.trim())}</span></div>`);
-    tlLines.push(`tl.fromTo("#cap-${i}",{opacity:0,scale:0.84},{opacity:1,scale:1,duration:0.09,ease:"back.out(2)"},${st});`);
+    const em = EM.has(norm(w.text));
+    caps.push(`<div class="cap clip" id="cap-${i}" data-start="${st}" data-duration="${fx(en - st)}" data-track-index="7"><span class="capbox${em ? " em" : ""}">${esc(w.text.trim())}</span></div>`);
+    tlLines.push(em
+      ? `tl.fromTo("#cap-${i}",{opacity:0,scale:1.35,rotation:-3},{opacity:1,scale:1,rotation:0,duration:0.16,ease:"back.out(3)"},${st});`
+      : `tl.fromTo("#cap-${i}",{opacity:0,scale:0.84},{opacity:1,scale:1,duration:0.09,ease:"back.out(2)"},${st});`);
     // hard-hide when the next word starts: some render paths ignore data-duration and stack old captions
     tlLines.push(`tl.set("#cap-${i}",{opacity:0},${en});`);
   });
@@ -139,6 +144,7 @@ body{font-family:Inter,system-ui,sans-serif;color:${INK};-webkit-font-smoothing:
 #scrim{position:absolute;left:0;right:0;bottom:0;height:720px;z-index:90;background:linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0.55) 45%,rgba(0,0,0,0.82) 100%)}
 #topfade{position:absolute;left:0;right:0;top:0;height:260px;z-index:90;background:linear-gradient(to bottom,rgba(0,0,0,0.35),rgba(0,0,0,0))}
 .cap{z-index:100}
+.capbox.em{color:#FFD43B;font-size:1.18em;background:rgba(8,10,14,0.78)}
 ${extraCSS}
 </style></head><body>
 <div id="root" data-composition-id="main" data-start="0" data-duration="${TOTAL}" data-width="${W}" data-height="${H}">
