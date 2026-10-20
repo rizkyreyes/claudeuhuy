@@ -1,0 +1,21 @@
+{
+  "slug": "wine-bottle-punt",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "The dent in the bottom of your wine bottle says nothing about the wine. It's called a punt, and it started with hand-blown glass. Glassblowers pushed the rough seam on the bottom up into the bottle, so it could stand level with no sharp point of glass underneath. Today, machines make the bottles, so for most wine the punt is mostly tradition. But sparkling wine bottles hold a lot of pressure, and the punt helps spread it out. A deeper dent doesn't mean better wine. Wine Spectator says it tells you nothing about quality. What's one little thing on your stuff that you've always wondered about? Comment it, and it might be the next episode."
+    }
+  ]
+}
