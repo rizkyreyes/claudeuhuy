@@ -1,0 +1,21 @@
+{
+  "slug": "washer-debris-filter-door",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That little door at the bottom of your front-load washer hides the part that keeps it draining. Behind it is a filter. But what is it catching? Every cycle, coins, hairclips, lint and hair escape your pockets and your laundry, and the filter grabs them before they reach the drain pump. When it clogs, the washer can't drain properly. So unplug it, put a towel and a tub on the floor, pull the emergency drain hose if your model has one, then turn the filter counterclockwise. Samsung's guidance for Australia says to clean it five or six times a year. Got a small detail on something you own that you can't explain? Drop it in the comments."
+    }
+  ]
+}

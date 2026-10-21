@@ -1,0 +1,21 @@
+{
+  "slug": "washer-debris-filter-door",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That little door at the bottom of your front-load washer hides the part that keeps it draining. You've probably never opened it. Stay with me, because one step near the end is the one that keeps your floor dry. Your clothes come out soaking wet, and the drum is sitting there full of dirty water. Behind that small panel is a filter. But what is it catching? Here's the piece you're missing. Every cycle, little things escape your pockets and your laundry. Coins. Hairclips. Lint and hair. They get swept toward the drain pump, and the filter grabs them first so they never reach it. So when it clogs, the water can't leave, and the washer can't drain properly. Now here's how you check it. Unplug the washer first. Put a towel and a tub on the floor, then open the panel. Many models have a small emergency drain hose, so pull it out and let the water run into the tub. That's the step that keeps your floor dry. Then turn the filter counterclockwise and pull it out. Samsung's guidance for Australia says to do this five or six times a year. Rinse it, screw it back in tight, and you're done. It's a catch tray for everything your laundry loses. Got a small detail on something you own that you can't explain? Drop it in the comments, and I'll dig into it next."
+    }
+  ]
+}

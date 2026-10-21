@@ -1,0 +1,7 @@
+Facts (search excerpts, publisher pages not opened):
+- Samsung support, debris filter: https://www.samsung.com/ie/support/home-appliances/how-do-i-clean-the-debris-filter-in-my-front-loading-samsung-washing-machine (lint, coins, hairclips, hair get trapped; clogged filter = may not drain properly; unplug, towel and bucket, emergency drain hose, turn filter counterclockwise)
+- Samsung AU pump filter: https://www.samsung.com/au/support/home-appliances/how-to-clean-the-pump-filter/ (clean 5-6 times a year)
+- Sears Home Services: https://www.searshomeservices.com/blog/finding-and-cleaning-a-washing-machine-filter
+Cut: hot-water warning, any claim about coin damage or repair costs. Script says "many models have" an emergency hose.
+Stock (Pexels, free): 8103673 person picking up coins (https://www.pexels.com/video/person-picking-up-coins-8103673/), 4159572 water stream bucket (https://www.pexels.com/video/water-stream-bathroom-bucket-4159572/), 8084896 (unused in final cut). Hands only, no faces.
+AI-generated illustrative, not a real person/event: stills a01-a10 (gpt-image-2), LTX clips t01, t02.
