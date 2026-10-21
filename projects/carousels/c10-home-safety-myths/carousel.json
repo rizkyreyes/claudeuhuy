@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 home safety myths that can actually cause trouble", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/grease.jpg", "myth": "Water puts out a grease fire.",
+      "fact": "Water can explode on contact with hot grease and spread the fire. Turn off the heat and slide a metal lid over the pan. Don't move the pan, and don't use a glass lid. If it's spreading, get out and call 911.",
+      "source": "Minnesota State Fire Chiefs Association" },
+    { "type": "myth", "bg": "bg/tornado.jpg", "myth": "Open your windows during a tornado to equalize the pressure.",
+      "fact": "The National Weather Service says this just wastes valuable time. It won't stop a tornado from ripping off a roof or throwing debris into your home. Go to shelter instead.",
+      "source": "National Weather Service, via University of Illinois Extension" },
+    { "type": "myth", "bg": "bg/smoke.jpg", "myth": "A smoke alarm is good as long as you swap the battery.",
+      "fact": "The alarm itself wears out. Replace it 10 years after the date it was made, which is printed on the back, not the day you bought it. Test it every month.",
+      "source": "NFPA guidance" },
+    { "type": "myth", "bg": "bg/co.jpg", "myth": "Carbon monoxide alarms have to go down near the floor.",
+      "fact": "Height isn't the key. CO mixes through the air at about the same weight as the air itself. What matters is coverage: one on every level of the home and outside each sleeping area.",
+      "source": "CPSC and City of Madison Fire Department" },
+    { "type": "myth", "bg": "bg/light.jpg", "myth": "Lightning never strikes the same place twice.",
+      "fact": "It strikes the same spot all the time, especially tall, pointy, isolated things. The National Weather Service says the Empire State Building gets hit about 23 times a year.",
+      "source": "National Weather Service" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Minnesota State Fire Chiefs Association: kitchen fire safety", "NWS via University of Illinois Extension: tornado myths", "NFPA: smoke alarm replacement and testing", "CPSC: CO alarm placement", "NWS: lightning myths"] }
+  ]
+}

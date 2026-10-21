@@ -18,7 +18,7 @@ Themes are starting points. Verify every myth on the day, swap out any you can't
 | c07 | c07-video-myths-recap | Myths we busted this month | posted | Fri 16 Oct 2026 9 AM | scheduled 14 Oct on Instagram + TikTok (7 photos each; myths: toothpaste square, pot lid hole, pillow tag, mattress handles, rice cooker cup) · only myths whose videos already posted (toothpaste square, pot lid hole, pillow tag, spaghetti spoon, party cup lines, recycling arrows...) |
 | c08 | c08-plumbing-myths | Plumbing myths | scheduled | Mon 19 Oct 2026 9 AM | Instagram post deleted 18 Oct by Claude at Rizky's request (IG carousels stopped), TikTok only; scheduled 17 Oct on Instagram + TikTok (7 photos each; myths: ice on disposal, hot water with disposal, water heater maintenance, tank tablets, pipes freezing) |
 | c09 | c09-food-storage-myths | Food storage myths | scheduled | Wed 21 Oct 2026 9 AM | scheduled 19 Oct on TikTok only (7 photos; myths: hot food in fridge, freezing kills bacteria, freezer burn, smell test, leftovers 3-4 days) |
-| c10 | | (research a new theme) | todo | Fri 23 Oct 2026 9 AM | |
+| c10 | c10-home-safety-myths | Home safety myths | rendered | Fri 23 Oct 2026 9 AM | produced 21 Oct, TikTok only (7 photos; myths: water on grease fire, open windows in a tornado, smoke alarm battery vs 10-year life, CO alarm height, lightning twice) |
 | c11 | | (research a new theme) | todo | Mon 26 Oct 2026 9 AM | |
 | c12 | | (research a new theme) | todo | Wed 28 Oct 2026 9 AM | |
 | c13 | | (research a new theme) | todo | Fri 30 Oct 2026 9 AM | Halloween eve: a spooky-house or safety myths theme could fit |
