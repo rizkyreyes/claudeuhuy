@@ -1,0 +1,21 @@
+{
+  "slug": "brogue-shoe-holes",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Those holes in your dress shoes were supposedly made for walking through a bog. You've probably looked right past them a hundred times. Picture a farmer in Ireland or Scotland, wading across soggy ground in a plain working shoe made of untanned hide. The story goes that the holes let the water drain right back out. Stick around, because the true part of this is better than the legend. Shoes like that are called brogues, from a Gaelic word for shoe. But here's the piece nobody tells you. Descriptions of the original brogues don't mention any holes at all. So nobody can really prove the bog story. What we do know is that the holes used to go all the way through the leather, and some say that helped a wet shoe dry faster. Now look at your own pair. On most of them, the holes only go through the outer layer. Behind that is solid leather, so they can't drain anything. The job is gone, and the pattern stayed. So those holes are probably a leftover from a working shoe that got dressed up. What's one little thing on your stuff that you've always wondered about? Comment it, and it might be the next episode."
+    }
+  ]
+}

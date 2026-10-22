@@ -1,0 +1,28 @@
+// [cue word (next occurrence after previous cue), shot id, kind, { zoom, focus }]
+export const title = "Brogue Shoe Holes";
+export const cues = [
+  [null, "a01", null, { focus: "50% 35%" }],
+  ["dress", "a01", null, { zoom: 1.6, focus: "55% 40%" }],
+  ["walking", "s03", "clip"],
+  ["You've", "s01", "clip"],
+  ["Picture", "a03", null, { zoom: 1.2, focus: "50% 60%" }],
+  ["wading", "t02", "clip"],
+  ["untanned", "a04", null, { zoom: 1.2, focus: "50% 40%" }],
+  ["story", "s05", "clip"],
+  ["water", "a06", null, { zoom: 1.2, focus: "50% 45%" }],
+  ["Stick", "a07", null, { zoom: 1.3, focus: "50% 30%" }],
+  ["Shoes", "a02", null, { zoom: 1.2, focus: "50% 55%" }],
+  ["Gaelic", "a01", null, { zoom: 1.3, focus: "50% 45%" }],
+  ["But", "a05", null, { zoom: 1.2, focus: "50% 40%" }],
+  ["Descriptions", "a04", null, { zoom: 1.5, focus: "40% 35%" }],
+  ["So", "s03", "clip"],
+  ["What", "s04", "clip"],
+  ["Now", "t01", "clip"],
+  ["On", "a05", null, { zoom: 1.5, focus: "50% 45%" }],
+  ["Behind", "a02", null, { zoom: 1.6, focus: "60% 70%" }],
+  ["The", "a07", null, { zoom: 1.5, focus: "70% 35%" }],
+  ["So", "a01", null, { zoom: 1.3, focus: "50% 40%" }],
+  ["dressed", "s02", "clip"],
+  ["What's", "a06", null, { zoom: 1.4, focus: "40% 40%" }],
+  ["Comment", "a07", null, { zoom: 1.2, focus: "50% 35%" }],
+];
