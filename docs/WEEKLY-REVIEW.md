@@ -121,3 +121,5 @@ Always compare **winners against weak videos**: hook line, first 2 seconds of vi
 - **Beat-plan method** (o-23 bottle-cap-teeth, 18 Oct): compare with the videos around it on Sun 25 Oct.
 - **Instagram carousels stopped** 18 Oct: no action, just stop reporting IG carousel numbers.
 - **Rice cooker repost** (rp-01, Sun 15 Nov, YouTube + Instagram): in the next review, compare its first 7 days with the original's (o-18, 13 Oct).
+
+- **Manual uploads from Sat 24 Oct 2026**: Buffer has no metrics for these videos. Use vidIQ for YouTube (channel videos / video stats) and Instagram (ig_profile_reels for @hidden.in.yourhome); ask Rizky in the final message for each video's TikTok and Facebook views and average watch time. Report what you have; mark the rest "n/a, asked Rizky".

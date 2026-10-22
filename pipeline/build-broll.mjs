@@ -15,6 +15,8 @@ const VO_START = 0.35;
 const TA = makeTA(VO, VO_START);
 const TOTAL = fx(VO_START + VO.duration + 1.2);
 if (TOTAL > 179) throw new Error(`total ${TOTAL}s exceeds the 2:59 ceiling`);
+// Rizky, 22 Oct 2026: every video over 1 minute. ALLOW_SHORT=1 only for demos and tests, never for a video that ships.
+if (TOTAL < 62 && process.env.ALLOW_SHORT !== "1") throw new Error(`total ${TOTAL}s is under 62 s; every video must be over 1 minute. Add one true, sourced sentence and regenerate the voice (never pad with silence).`);
 
 const shotsMod = await import(pathToFileURL(path.join(proj, "shots.mjs")).href);
 const { title, cues } = shotsMod;

@@ -6,6 +6,8 @@ Work in this repository, on the `main` branch (commit and push straight to `main
 
 **Target from Mon 5 Oct 2026: 1 video a day, every day at 7:00 PM ET** (changed by Rizky on 3 Oct 2026; planned topic per slot in `state/queue.md`). If the run prompt still says "2 videos a day" or "up to 3 videos", this file wins: one video a day.
 
+**From the Sat 24 Oct 2026 slot on, Rizky uploads every VIDEO by hand on all platforms (YouTube, TikTok, Instagram, Facebook)** (Rizky, 22 Oct 2026). Do **not** create video posts in Buffer any more; make an upload kit instead (see "Manual upload kit" under Step 2). Buffer is still used for the TikTok photo carousels (Step 2B). Every video must be **longer than 1 minute** (target 65–75 s, the builder refuses anything under 62 s).
+
 **Never** print, log or commit an API key. Never invent facts, numbers or quotes. Never depict a real, identifiable person.
 
 ---
@@ -25,6 +27,7 @@ which ffmpeg ffprobe; ls /opt/pw-browsers/*/chrome-linux/chrome 2>/dev/null
 
 - If ElevenLabs or fal fail → do not produce. Log the failure in `docs/run-log.md`, push, and end with a short Indonesian message telling Rizky which credential is not reaching the environment.
 - Pexels/Pixabay failing is not fatal (fall back to AI stills), but log it.
+- **Buffer being unavailable is not fatal from 24 Oct 2026**: videos no longer need it (manual upload kit). Produce the videos anyway; skip only the carousel scheduling and log it.
 - If the VidIQ tools (`vidiq_*`) are available in this run, call `vidiq_balance` (free). Under 100 credits: skip title scoring this run. If VidIQ isn't connected at all, just follow `docs/vidiq-captions.md`.
 - ElevenLabs is pay-as-you-go. If `curl -s https://api.elevenlabs.io/v1/user/subscription` shows fewer than 2,500 characters left (`character_limit - character_count`), produce only what fits and tell Rizky to top up.
 
@@ -33,6 +36,8 @@ which ffmpeg ffprobe; ls /opt/pw-browsers/*/chrome-linux/chrome 2>/dev/null
 If today's date in **Asia/Jakarta is a Sunday**, do the weekly review **before** Step 1: open `docs/WEEKLY-REVIEW.md` and follow its Steps 1–5 (numbers from Buffer and VidIQ, scoring, diagnosis, at most 2 changes written into `docs/playbook.md`, report in `docs/weekly/`, follower snapshot in `docs/metrics-history.md`), then commit and push. Then re-read `docs/playbook.md` and continue with Step 1, so today's videos already use the updated rules. Put the weekly summary (casual Indonesian, 5–10 lines) at the top of your final message, before the usual daily summary. On other days skip this step.
 
 ## Step 1 — Buffer housekeeping (always, before producing)
+
+From Sat 24 Oct 2026 Buffer only holds the TikTok carousels and the last Buffer-scheduled videos (slots up to Fri 23 Oct). For video rows from the Sat 24 Oct slot on there are no Buffer posts: a row is `ready` once its upload kit is pushed; set it to `posted` on the first run after its slot (Rizky uploads it at 06:00 WIB), and `git rm media/<slug>.mp4` on the first run 7 days after its slot (he may download late). Never delete a file in `thumbnails/`. The rules below still apply to the older Buffer posts and to carousels.
 
 Buffer organization **"My organization"** `6ab28b6ea45657d8dd17cfc3`. Channels (Rizky switched Instagram to Facebook on 28 Sep and back to Instagram on 29 Sep 2026; the Instagram id changed. Never post to Facebook. If a channel id below is missing from `list_channels`, stop scheduling and tell Rizky):
 
@@ -60,7 +65,7 @@ Match each draft to a row in `state/queue.md` with status `rendered` by video du
 
 **Even when no video is needed, do not stop here: Step 2B (carousels) still has to run.** On 5 and 6 Oct 2026 the run found no video to make, logged "produced nothing" and skipped the carousel check, so carousel c03 was never made.
 
-Count the video slots from now through the next 72 hours (3 days, **max 3 slots, one per day at 7 PM ET**; carousels share the Buffer limit, see Step 2B) that don't have a `scheduled` or `rendered` video yet. Produce that many videos, **at most 2 per run**, taking `todo` rows top to bottom. Usually that's 1, and some days 0. If a run ends early, schedule what's finished; the next run catches up. If a topic's key fact can't be verified, mark the row `cut` with the reason and use the first `spare` row instead. If no `todo` or `spare` rows are left, research new topics (see "Topic rules") and add them to `docs/topics-october.md` with sources.
+Count the video slots from now through the next 72 hours (3 days, **max 3 slots, one per day at 7 PM ET**) that don't have a `scheduled`, `rendered` or `ready` video yet. Produce that many videos, **at most 2 per run**, taking `todo` rows top to bottom. Usually that's 1, and some days 0. If a run ends early, schedule what's finished; the next run catches up. If a topic's key fact can't be verified, mark the row `cut` with the reason and use the first `spare` row instead. If no `todo` or `spare` rows are left, research new topics (see "Topic rules") and add them to `docs/topics-october.md` with sources.
 
 For the chosen topic, in `projects/<slug>/`:
 
@@ -83,22 +88,46 @@ For the chosen topic, in `projects/<slug>/`:
    ffmpeg -i out.mp4 -c:v libx264 -preset slow -crf 21 -maxrate 8M -bufsize 16M -c:a aac -b:a 192k -movflags +faststart final.mp4
    ```
    If `final.mp4` > 30 MB, re-encode two-pass to about 28 MB (keeps the repo small). Verify with ffprobe (1080x1920, 30 fps, h264/aac) and extract ~12 frames into a contact sheet and look at it: the first 2 seconds move and cut to a second angle, the object fills the frame, captions readable (one big word at a time in a dark box, never two words stacked), b-roll matches the words, no black frames, no garbled text in images.
-8a. **Thumbnail** (Rizky uploads it by hand after the video posts; style chosen 3 Oct 2026: red circle on the detail, red arrow, 2–3 word label). Write `projects/<slug>/thumb.json` (format and field notes at the top of `pipeline/thumbnail.mjs`): `image` = the cleanest still of the detail from `assets/broll/` (no captions, no hands covering it), `point` = where the detail is in that image in %, `zoom` 1.2–1.6, `ring` = circle size in px, `label` = 2–3 words in capitals, max 20 characters, true to the video (it names what the detail is or does: "NOT BROKEN", "STEAM VENT", "FOR BUTTONS"; never a claim the video doesn't make). Then:
+8a. **Thumbnail. From the Sat 24 Oct 2026 slot on use the NEW style: `node ../../pipeline/thumb2.mjs thumb2.json ../../thumbnails/<YYYY-MM-DD>-<slug>.jpg`** (format at the top of `pipeline/thumb2.mjs`). **Style: `"sticker"`, chosen by Rizky on 22 Oct 2026 (option B)**: full-bleed photo of the detail, the hook as black type on two tilted boxes, first box white and second box yellow, usually the same words as the video's first slam (1–2 lines, max 10 characters a line, ALL CAPS, true to the video); no arrow, no red tag, no brand line. Pick a still where the detail is big and clear in the middle, `zoom` 1.2–1.5. Do not use the other styles in that file unless Rizky asks. Look at it before pushing. The old style below is kept only for reference (style chosen 3 Oct 2026: red circle on the detail, red arrow, 2–3 word label). Write `projects/<slug>/thumb.json` (format and field notes at the top of `pipeline/thumbnail.mjs`): `image` = the cleanest still of the detail from `assets/broll/` (no captions, no hands covering it), `point` = where the detail is in that image in %, `zoom` 1.2–1.6, `ring` = circle size in px, `label` = 2–3 words in capitals, max 20 characters, true to the video (it names what the detail is or does: "NOT BROKEN", "STEAM VENT", "FOR BUTTONS"; never a claim the video doesn't make). Then:
    ```bash
    node ../../pipeline/thumbnail.mjs thumb.json ../../thumbnails/<YYYY-MM-DD>-<slug>.jpg     # date = the ET day of the video's slot
    ```
    Look at the JPG: the circle is on the detail, the label fits inside the frame, nothing important is in the top or bottom fifth. Fix `point`/`ring`/`label` and re-run if not. Commit it. **Never delete files in `thumbnails/`** (the media clean-up in Step 1 does not touch them). Mention the file name in the closing summary.
-8. **Captions**: write `publish/captions.md` following `docs/vidiq-captions.md`. If VidIQ is connected and has credits, score two title versions with `vidiq_score_title` and keep the higher; note both scores in captions.md.
+8. **Captions**: from the Sat 24 Oct 2026 slot on, the upload kit (`publish/upload-kit.md`, see "Manual upload kit") replaces this step and has **no hashtags** (that overrides the hashtag layers in `docs/vidiq-captions.md`; everything else in that file still applies). Older slots: write `publish/captions.md` following `docs/vidiq-captions.md`. If VidIQ is connected and has credits, score two title versions with `vidiq_score_title` and keep the higher; note both scores in captions.md.
 9. **Deliver**: copy `final.mp4` to `media/<slug>.mp4` in the repo, set the row in `state/queue.md` to `rendered` with the exact duration (seconds, 2 decimals).
-10. **Schedule it** (the repo is public): commit and push to `main` first, then the file is at `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/<slug>.mp4`. If every channel has room (≤ 9 after adding), `create_post` for YouTube with that URL in the video's slot. If the returned asset has `durationMs` > 0, create the TikTok and Instagram posts too and mark `scheduled`. If Buffer rejects the URL or the duration is 0, delete that post and keep the row `rendered` — Rizky uploads it manually.
+10. **From the Sat 24 Oct 2026 slot on: make the upload kit (next section) instead of scheduling.** For older slots only: **Schedule it** (the repo is public): commit and push to `main` first, then the file is at `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/<slug>.mp4`. If every channel has room (≤ 9 after adding), `create_post` for YouTube with that URL in the video's slot. If the returned asset has `durationMs` > 0, create the TikTok and Instagram posts too and mark `scheduled`. If Buffer rejects the URL or the duration is 0, delete that post and keep the row `rendered` — Rizky uploads it manually.
+
+### Manual upload kit (every video from the Sat 24 Oct 2026 slot on)
+
+Rizky uploads by hand on YouTube, TikTok, Instagram and Facebook at the slot time (7 PM ET = 06:00 WIB the next morning). **The first one is o-29 brogue-shoe-holes, made by the Fri 23 Oct run and uploaded Sat 24 Oct at 09:00 WIB (Fri 10 PM ET)**, an extra slot on the same WIB morning as the last Buffer video (washer, 06:00 WIB); Rizky asked for that on 22 Oct 2026. From the Sat 24 Oct 7 PM ET slot (Sun 25 Oct 06:00 WIB) on it is one video a day again; the queue rows were moved one day earlier. For each video:
+
+1. **Length:** the final MP4 must be over 1 minute (target 65–75 s). `build-broll.mjs` refuses a total under 62 s; if that happens, add one sentence that is true and sourced, regenerate the voice and rebuild. Never pad with silence.
+2. **`projects/<slug>/publish/upload-kit.md`**, all text plain casual US English, **no hashtags anywhere, no emojis, no em dashes**:
+   - `Title:` one title for every platform, under 70 characters, curiosity without lying (score two with vidIQ if available, keep the higher, note both scores).
+   - `YouTube description:` 2–3 short sentences.
+   - `Caption (TikTok, Instagram, Facebook):` 2–3 sentences ending in the comment question from the video's CTA.
+   - `Post at:` the slot in WIB.
+3. **Thumbnail** with `pipeline/thumb2.mjs`, style `sticker`, into `thumbnails/<date>-<slug>.jpg` (step 8a).
+4. Copy `final.mp4` to `media/<slug>.mp4`, set the queue row to `ready` with the exact duration, commit and push.
+5. **Final message of every run:** for each `ready` video whose slot is within the next 36 hours, give Rizky a block like this (links must be the raw URLs so they download on a phone):
+   ```
+   📅 Upload <day> <date> jam 06.00 WIB
+   Video: https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/<slug>.mp4
+   Thumbnail: https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/thumbnails/<date>-<slug>.jpg
+   Judul: <title>
+   Caption: <caption>
+   Deskripsi YouTube: <description>
+   ```
+   (The 📅 is the only emoji allowed, it is in the message to Rizky, not in the content.) On TikTok and Instagram he turns on the AI-generated label; on YouTube he ticks "altered or synthetic content".
+6. No video posts in Buffer for these slots. Carousels keep going through Buffer (Step 2B).
 
 ### Beat-plan method test (row o-23, Sun 18 Oct 2026)
 
 Rizky asked on 12 Oct 2026 to use the steps from Hanif's programmatic-video article for the video in the **Sun 18 Oct** slot (row **o-23 bottle-cap-teeth**). For that row, follow **`docs/beat-plan-method.md`** on top of the steps above: speed 1.0 + `pipeline/cap-pauses.py` instead of a faster voice, a `plan.json` beat plan written before `shots.mjs`, a photoreal moving hook, the real patent drawing as a document shot, **`node ../../pipeline/lint-plan.mjs .` must print PASS before building**, final audio at -14 LUFS / true peak under -0.5 dBTP, and a 1 fps contact sheet. If o-23 is cut or moves to another day, apply the method to whichever video takes the 18 Oct slot. All other rows keep the normal steps until the 25 Oct weekly review decides.
 
-### Typography layer with sound effects (every video from the Wed 28 Oct 2026 slot on)
+### Typography layer with sound effects (every video from the Sat 24 Oct 2026 slot on)
 
-Rizky approved the demo on 18 Oct 2026 ("much better"). From the **Wed 28 Oct 7 PM ET** video on (v-04 and everything after it, remakes included; not the TikTok short cuts of 21–27 Oct), every `shots.mjs` also exports a typography plan. `pipeline/build-broll.mjs` reads it through `pipeline/typo.mjs` (format and rules at the top of that file) and adds the matching sound effects from `pipeline/sfx/` by itself:
+Rizky approved the demo on 18 Oct 2026 ("much better"). From the **Sat 24 Oct 7 PM ET** video on (moved up from 28 Oct by Rizky on 22 Oct 2026; o-29 brogue-shoe-holes is remade with it, and everything after it, remakes included), every `shots.mjs` also exports a typography plan. `pipeline/build-broll.mjs` reads it through `pipeline/typo.mjs` (format and rules at the top of that file) and adds the matching sound effects from `pipeline/sfx/` by itself:
 
 ```js
 export const emphasis = ["real", "180", "three", "quarters", "third"];          // caption words shown bigger, yellow, with a soft pop
@@ -111,7 +140,9 @@ Sound (Rizky, 19 Oct 2026, "middle way"): every sound family (whoosh, impact, ti
 
 How many: Rizky said not too few and not too many, fitted to the video. The builder enforces it: **3–6 moments** (slams + counters) for a 60–75 s video, the **first on the hook claim inside the first 4 s**, at least **5 s apart**, and **5–12 emphasis words**. Pick the moments where the story turns: the hook claim, the reveal, each key spoken number (max 2 counters), the payoff. Slam lines are 1–3 words each, max 2 lines, ALL CAPS, true to what is being said at that moment; never put the CTA in a slam. Every number on screen must be spoken. In the contact sheet check that no slam or counter covers the object for more than about 1.5 s and nothing sits in the right 140 px or under the captions. If the build throws a typography error, fix the plan, never remove the layer. Log the moment count in the run log.
 
-### TikTok short-cut test (videos in the Wed 21 Oct to Tue 27 Oct slots)
+### TikTok short-cut test (ENDED 22 Oct 2026: only the Wed 21, Thu 22 and Fri 23 Oct videos got short cuts)
+
+Rizky decided on 22 Oct 2026 that every video must be over 1 minute on every platform, so **no more short cuts** from the Sat 24 Oct slot on. The 1 Nov review still compares those three TikTok short cuts with the full-length TikTok videos before them. The original instructions, for the record:
 
 Rizky, 18 Oct 2026: TikTok viewers watch about 9.5 s (14%) of our 70–78 s videos, so for one week TikTok gets its own **short cut**. YouTube and Instagram keep the full video. For every video whose slot is Wed 21, Thu 22, Fri 23, Sat 24, Sun 25, Mon 26 or Tue 27 Oct 2026 (7 PM ET), after the full video is rendered:
 
@@ -154,7 +185,7 @@ Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no sched
 
 - Append to `docs/run-log.md`: date (Asia/Jakarta), what was scheduled, what was produced, estimated spend (count of high/medium stills, clips), any problem. The entry always has one line for videos and **one line for carousels** (which carousel is scheduled next and for when, or why none was made).
 - Commit and push.
-- Final message in Indonesian, 3–6 lines, casual and human (no report tone): which videos got scheduled and when (in WIB), the next empty slot, any MP4 Rizky must upload by hand, and any blocker (credits, balance, failed fact-check).
+- Final message in Indonesian, 3–6 lines, casual and human (no report tone): which videos got scheduled and when (in WIB), the next empty slot, the upload-kit blocks for every `ready` video due in the next 36 hours (see "Manual upload kit"), any MP4 Rizky must upload by hand, and any blocker (credits, balance, failed fact-check).
 
 ## Topic rules
 
