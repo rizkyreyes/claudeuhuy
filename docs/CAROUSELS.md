@@ -2,7 +2,7 @@
 
 Photo carousels between the videos, decided with Rizky on 30 Sep 2026. **History:** c01 was a photo carousel. c02 (5 Oct) went out as a slideshow video with music because Rizky wanted a background track. On 6 Oct 2026 he decided to go **back to photos** from c03 on. So: no video, no music. `pipeline/slideshow.mjs` and `pipeline/music/` stay in the repo but are not used.
 
-- **Platforms: TikTok only (photo post)** from 18 Oct 2026. Rizky stopped Instagram carousels: they got 0 to 3 views each while TikTok carousels got about 300. Not YouTube, not Instagram.
+- **Platforms: TikTok only (photo post)** from 18 Oct 2026, **posted by hand by Rizky from 23 Oct 2026 (no Buffer; ROUTINE.md Step 2B gives him the links and caption)**. Rizky stopped Instagram carousels: they got 0 to 3 views each while TikTok carousels got about 300. Not YouTube, not Instagram.
 - **When:** Monday, Wednesday, Friday at **9:00 AM ET** (`T09:00:00-04:00` in October; -05:00 from 1 Nov). That's 20:00 WIB. First one: Fri 2 Oct 2026.
 - **No @handle anywhere in a carousel** (Rizky, 30 Sep 2026): not on the slides, not in the closing line, not in the captions. The slide footer shows only "Hidden In Your Home".
 - **Format:** 7 slides. Slide 1 cover, slides 2–6 one myth each (MYTH struck through, then FACT and a short source line), slide 7 closing question + follow line + sources. TikTok 1080x1920 (9:16) only (Instagram 4:5 is no longer rendered). Text on the image is fine for carousels. The "no text in the middle of the screen" rule is for videos only.
@@ -17,9 +17,9 @@ Photo carousels between the videos, decided with Rizky on 30 Sep 2026. **History
 4. **Backgrounds:** one photo per slide from Pexels (`node pipeline/stock.mjs search "<query>" photo`, then download `<url>?auto=compress&cs=tinysrgb&w=1400`). Portrait if possible. No faces, no readable brand names or logos. Put them in `projects/carousels/<id>-<slug>/bg/` (don't commit them). Make a contact sheet and look at it before rendering.
 5. **Render:** `node pipeline/carousel.mjs projects/carousels/<id>-<slug>/carousel.json media/carousels/<id>-<slug> tt`. Look at a contact sheet of slides 1, 2 and 7: text readable, nothing cut off, no brand names.
 6. **Captions** in `projects/carousels/<id>-<slug>/captions.md`:
-   - TikTok: one short teaser line, then 4–5 hashtags ending `#fyp`.
+   - TikTok: one or two short teaser lines, **no hashtags** (Rizky, 22–23 Oct 2026).
 7. **Sources** in `projects/carousels/<id>-<slug>/sources.txt` (fact → source URL, photo ids).
-8. **Commit and push** to `main`, then schedule from the raw URLs `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/carousels/<id>-<slug>/tt/01.jpg` … `07.jpg`:
+8. **Commit and push** to `main`. (Until 23 Oct 2026 the run then scheduled from the raw URLs; now ROUTINE.md Step 2B sends Rizky the links instead) `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/carousels/<id>-<slug>/tt/01.jpg` … `07.jpg`:
    - TikTok `6ab28e9cea19ca0bdeb5efbd`: assets = the 7 `tt` images in order, no extra metadata.
    - `mode: customScheduled`, `schedulingType: automatic`, `dueAt` = the carousel slot.
    - Check the created post lists 7 image assets. If Buffer rejects the TikTok photo post, log it and tell Rizky (do not fall back to Instagram).

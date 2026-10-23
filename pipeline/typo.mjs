@@ -69,7 +69,10 @@ export function buildTypography({ VO, VO_START, proj, slams = [], counters = [],
   slams.forEach((s, i) => {
     const { t } = at(s.word, s.nth);
     const dur = s.dur ?? 1.2, id = `slam-${i}`;
-    const lines = s.lines.map((l, k) => `<div class="sl${k === s.lines.length - 1 ? " acc" : ""}" id="${id}-l${k}">${esc(l)}</div>`).join("");
+    // shrink the type for long lines so each line stays on ONE line inside the 860 px text column (22 Oct: "WORK SHOE / DRESSED UP" wrapped to 4 lines)
+    const longest = Math.max(...s.lines.map((l) => String(l).length));
+    const fs_ = Math.round(Math.min(150, 860 / (0.78 * longest)));
+    const lines = s.lines.map((l, k) => `<div class="sl${k === s.lines.length - 1 ? " acc" : ""}" id="${id}-l${k}" style="font-size:${fs_}px;white-space:nowrap">${esc(l)}</div>`).join("");
     html.push(sfx("whoosh", t - 0.1, 0.35), hitSfx(t, 0.5));
     html.push(`<div class="slam clip" id="${id}" data-start="${fx(t - 0.02)}" data-duration="${fx(dur + 0.25)}" data-track-index="9">${lines}</div>`);
     tl.push(`tl.to("#tdim",{opacity:0.5,duration:0.12,ease:"power1.out"},${fx(t - 0.02)});`);

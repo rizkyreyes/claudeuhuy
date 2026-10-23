@@ -123,3 +123,4 @@ Always compare **winners against weak videos**: hook line, first 2 seconds of vi
 - **Rice cooker repost** (rp-01, Sun 15 Nov, YouTube + Instagram): in the next review, compare its first 7 days with the original's (o-18, 13 Oct).
 
 - **Manual uploads from Sat 24 Oct 2026**: Buffer has no metrics for these videos. Use vidIQ for YouTube (channel videos / video stats) and Instagram (ig_profile_reels for @hidden.in.yourhome); ask Rizky in the final message for each video's TikTok and Facebook views and average watch time. Report what you have; mark the rest "n/a, asked Rizky".
+- **No Buffer from 23 Oct 2026**: carousels are posted by hand too. For TikTok carousels and videos ask Rizky for views (TikTok app > post > Analytics); YouTube and Instagram from vidIQ.

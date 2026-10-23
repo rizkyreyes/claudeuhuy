@@ -6,7 +6,9 @@ Work in this repository, on the `main` branch (commit and push straight to `main
 
 **Target from Mon 5 Oct 2026: 1 video a day, every day at 7:00 PM ET** (changed by Rizky on 3 Oct 2026; planned topic per slot in `state/queue.md`). If the run prompt still says "2 videos a day" or "up to 3 videos", this file wins: one video a day.
 
-**From the Sat 24 Oct 2026 slot on, Rizky uploads every VIDEO by hand on all platforms (YouTube, TikTok, Instagram, Facebook)** (Rizky, 22 Oct 2026). Do **not** create video posts in Buffer any more; make an upload kit instead (see "Manual upload kit" under Step 2). Buffer is still used for the TikTok photo carousels (Step 2B). Every video must be **longer than 1 minute** (target 65–75 s, the builder refuses anything under 62 s).
+**Buffer is not used at all any more (Rizky, 23 Oct 2026, evening): never call `create_post` or `edit_post`, for videos or carousels.** Videos and carousels both go out as manual upload kits; Rizky posts them himself. The last Buffer posts (washer, 23 Oct) were deleted from Buffer and turned into a manual kit.
+
+**From the Sat 24 Oct 2026 slot on, Rizky uploads every VIDEO by hand on all platforms (YouTube, TikTok, Instagram, Facebook)** (Rizky, 22 Oct 2026). Do **not** create video posts in Buffer any more; make an upload kit instead (see "Manual upload kit" under Step 2). Carousels are manual too (Step 2B). Every video must be **longer than 1 minute** (target 65–75 s, the builder refuses anything under 62 s).
 
 **Never** print, log or commit an API key. Never invent facts, numbers or quotes. Never depict a real, identifiable person.
 
@@ -27,7 +29,7 @@ which ffmpeg ffprobe; ls /opt/pw-browsers/*/chrome-linux/chrome 2>/dev/null
 
 - If ElevenLabs or fal fail → do not produce. Log the failure in `docs/run-log.md`, push, and end with a short Indonesian message telling Rizky which credential is not reaching the environment.
 - Pexels/Pixabay failing is not fatal (fall back to AI stills), but log it.
-- **Buffer being unavailable is not fatal from 24 Oct 2026**: videos no longer need it (manual upload kit). Produce the videos anyway; skip only the carousel scheduling and log it.
+- **Buffer is not needed at all from 23 Oct 2026** (manual upload kits only). Do not stop or skip anything if Buffer is unavailable. You may still use `list_posts` / metrics read-only for older posts in the weekly review.
 - If the VidIQ tools (`vidiq_*`) are available in this run, call `vidiq_balance` (free). Under 100 credits: skip title scoring this run. If VidIQ isn't connected at all, just follow `docs/vidiq-captions.md`.
 - ElevenLabs is pay-as-you-go. If `curl -s https://api.elevenlabs.io/v1/user/subscription` shows fewer than 2,500 characters left (`character_limit - character_count`), produce only what fits and tell Rizky to top up.
 
@@ -35,7 +37,11 @@ which ffmpeg ffprobe; ls /opt/pw-browsers/*/chrome-linux/chrome 2>/dev/null
 
 If today's date in **Asia/Jakarta is a Sunday**, do the weekly review **before** Step 1: open `docs/WEEKLY-REVIEW.md` and follow its Steps 1–5 (numbers from Buffer and VidIQ, scoring, diagnosis, at most 2 changes written into `docs/playbook.md`, report in `docs/weekly/`, follower snapshot in `docs/metrics-history.md`), then commit and push. Then re-read `docs/playbook.md` and continue with Step 1, so today's videos already use the updated rules. Put the weekly summary (casual Indonesian, 5–10 lines) at the top of your final message, before the usual daily summary. On other days skip this step.
 
-## Step 1 — Buffer housekeeping (always, before producing)
+## Step 1 — Housekeeping (always, before producing)
+
+From 23 Oct 2026 nothing is scheduled in Buffer. Housekeeping is by date: a `ready` video or carousel becomes `posted` on the first run after its slot (Rizky posts it by hand), and its media (`media/<slug>.mp4`, or the carousel folder) is `git rm`-ed on the first run 7 days after its slot. Never delete files in `thumbnails/`. The older Buffer rules below are kept only for the record.
+
+### (old) Buffer housekeeping
 
 From Sat 24 Oct 2026 Buffer only holds the TikTok carousels and the last Buffer-scheduled videos (slots up to Fri 23 Oct). For video rows from the Sat 24 Oct slot on there are no Buffer posts: a row is `ready` once its upload kit is pushed; set it to `posted` on the first run after its slot (Rizky uploads it at 06:00 WIB), and `git rm media/<slug>.mp4` on the first run 7 days after its slot (he may download late). Never delete a file in `thumbnails/`. The rules below still apply to the older Buffer posts and to carousels.
 
@@ -119,7 +125,7 @@ Rizky uploads by hand on YouTube, TikTok, Instagram and Facebook at the slot tim
    Deskripsi YouTube: <description>
    ```
    (The 📅 is the only emoji allowed, it is in the message to Rizky, not in the content.) On TikTok and Instagram he turns on the AI-generated label; on YouTube he ticks "altered or synthetic content".
-6. No video posts in Buffer for these slots. Carousels keep going through Buffer (Step 2B).
+6. No posts in Buffer at all.
 
 ### Beat-plan method test (row o-23, Sun 18 Oct 2026)
 
@@ -175,11 +181,19 @@ Rizky asked on 4 Oct 2026 to remake the videos that got fewer than 50 YouTube vi
 - Don't delete, edit or re-schedule the original posts. Don't mention in the video or captions that it's a remake.
 - Keep the planned slot (Thu 29, Fri 30, Sat 31 Oct, 7 PM ET). Don't pull a remake forward to fill an earlier slot; if the row above it was cut, use a `spare` row for that slot.
 
-## Step 2B — Carousels (TikTok only, Mon/Wed/Fri 9 AM ET)
+## Step 2B — Carousels (TikTok only, Mon/Wed/Fri 9 AM ET = 20:00 WIB, manual from 23 Oct 2026)
 
-**This step runs on every run, whether or not Step 2 produced a video.** First do the carousel housekeeping: for every `scheduled` row in `state/carousels.md` whose TikTok post shows `sent` (rows before c08 also had an Instagram post), set the row to `posted` and `git rm -r` its folder in `media/carousels/` (c02 is a single MP4: `git rm media/carousels/c02-kitchen-myths.mp4`). Then check the slots (Mon, Wed, Fri 9:00 AM ET).
+**This step runs on every run, whether or not Step 2 produced a video.** Housekeeping: a `ready` carousel becomes `posted` on the first run after its slot; `git rm -r` its folder in `media/carousels/` on the first run 7 days after its slot.
 
-Follow `docs/CAROUSELS.md`. If a carousel slot in the next 72 hours has no scheduled carousel, take the first `rendered` or `todo` row in `state/carousels.md`: research and verify 5 myths (todo rows), pick Pexels backgrounds, render the slides as **photos** with `node pipeline/carousel.mjs … tt` (TikTok 1080x1920 only; **no video and no music**, Rizky went back to photo carousels on 6 Oct 2026), look at a contact sheet, write captions and sources, commit and push, then schedule the TikTok photo post from the raw `main` image URLs. **No Instagram carousels from 18 Oct 2026** (Rizky: 0 to 3 views there vs about 300 on TikTok); never create one. At most one new carousel per run. Keep TikTok at 9 or fewer scheduled posts in total (videos + carousels); if full, skip and try next run. Carousels are not posted to YouTube.
+Follow `docs/CAROUSELS.md` for research, writing and rendering (photos with `node pipeline/carousel.mjs … tt`, TikTok 1080x1920 only, no video, no music, no Instagram). If a carousel slot in the next 72 hours has no `ready` carousel, take the first `todo` row in `state/carousels.md`, make it, commit and push, set the row to `ready`. **Do not schedule it in Buffer** (Rizky, 23 Oct 2026). At most one new carousel per run.
+
+In the final message of every run, for each `ready` carousel whose slot is within the next 36 hours, give Rizky a block like:
+```
+🖼️ Carousel TikTok <day> <date> jam 20.00 WIB
+Foto 1–7: https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/carousels/<id>-<slug>/tt/01.jpg … 07.jpg (list all 7 links)
+Caption: <TikTok caption, no hashtags>
+```
+TikTok photo post: pick the 7 photos in order, paste the caption, turn on the AI-generated label.
 
 ## Step 3 — Close out
 
