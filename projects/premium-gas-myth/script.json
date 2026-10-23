@@ -1,0 +1,21 @@
+{
+  "slug": "premium-gas-myth",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Premium gas won't do a thing for a car that runs on regular. You know the moment. You're at the pump, the premium button is right there, and it feels like the smart choice for your car. Stay with me, because the last part decides whether you're wasting money tonight. Back in 2016, AAA put that idea to the test. They filled cars built for regular with ordinary eighty-seven octane, then with ninety-three premium. And here's what nobody expects. The premium gave them no extra horsepower. No better fuel economy. No fewer tailpipe emissions. Nothing. So why does it feel like it should help? Because higher octane sounds like better gas. But octane isn't a quality score. It measures how well fuel resists knocking, and an engine built for regular doesn't knock on regular. AAA estimated that drivers wasted over two point one billion dollars in a single year on premium their cars didn't need. Now here's the catch. If your owner's manual says premium is required, you pay for it. And if it only recommends it, regular may cost you a little power. So the rule is simple. Check the manual, not the pump. What's a weird little thing on your car that you've always wondered about? Comment it, and it might be the next episode."
+    }
+  ]
+}
