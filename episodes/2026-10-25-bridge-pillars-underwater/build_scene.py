@@ -141,11 +141,47 @@ def water_mat(name):
     bp = nt.nodes.new("ShaderNodeBump"); bp.inputs["Strength"].default_value = 0.12; nt.links.new(n.outputs["Fac"], bp.inputs["Height"])
     nt.links.new(bp.outputs["Normal"], b.inputs["Normal"])          # small ripples break up mirror reflections
     return m
+PH_DIR = os.path.abspath(os.path.join(HERE, "..", "..", "pipeline3d", "assets", "polyhaven"))
+PH = json.load(open(os.path.join(PH_DIR, "manifest.json"))) if os.path.exists(os.path.join(PH_DIR, "manifest.json")) else None
+def ph_mat(name, side, side_size, top=None, top_size=2.0, top_hsv=(0.5, 1.0, 1.0), value=1.0):
+    """World-space box-projected Poly Haven PBR: side faces = side asset, upward faces = top asset (if given)."""
+    m, nt, b = new_mat(name); L = nt.links
+    g = nt.nodes.new("ShaderNodeNewGeometry")
+    def tset(asset, size):
+        mp = nt.nodes.new("ShaderNodeMapping"); mp.inputs["Scale"].default_value = (1 / size,) * 3; L.new(g.outputs["Position"], mp.inputs["Vector"])
+        out = {}
+        for mapname, k, col in (("Diffuse", "col", True), ("Rough", "rough", False), ("nor_gl", "nrm", False)):
+            t = nt.nodes.new("ShaderNodeTexImage"); t.image = bpy.data.images.load(os.path.join(PH_DIR, asset, PH[asset][mapname]), check_existing=True)
+            if not col: t.image.colorspace_settings.name = "Non-Color"
+            t.projection = "BOX"; t.projection_blend = 0.25; L.new(mp.outputs["Vector"], t.inputs["Vector"]); out[k] = t.outputs["Color"]
+        return out
+    sd = tset(side, side_size); col, rough, nrm = sd["col"], sd["rough"], sd["nrm"]
+    if top:
+        tp = tset(top, top_size)
+        hs = nt.nodes.new("ShaderNodeHueSaturation"); hs.inputs["Hue"].default_value, hs.inputs["Saturation"].default_value, hs.inputs["Value"].default_value = top_hsv
+        L.new(tp["col"], hs.inputs["Color"])
+        sn = nt.nodes.new("ShaderNodeSeparateXYZ"); L.new(g.outputs["Normal"], sn.inputs[0])
+        up = nt.nodes.new("ShaderNodeMath"); up.operation = "GREATER_THAN"; up.inputs[1].default_value = 0.5; L.new(sn.outputs[2], up.inputs[0])
+        def mix(a, c):
+            mx = nt.nodes.new("ShaderNodeMix"); mx.data_type = "RGBA"; L.new(up.outputs[0], mx.inputs["Factor"]); L.new(a, mx.inputs[6]); L.new(c, mx.inputs[7]); return mx.outputs[2]
+        col, rough, nrm = mix(col, hs.outputs["Color"]), mix(rough, tp["rough"]), mix(nrm, tp["nrm"])
+    if value != 1.0:
+        hv = nt.nodes.new("ShaderNodeHueSaturation"); hv.inputs["Value"].default_value = value; L.new(col, hv.inputs["Color"]); col = hv.outputs["Color"]
+    L.new(col, b.inputs["Base Color"])
+    bw = nt.nodes.new("ShaderNodeRGBToBW"); L.new(rough, bw.inputs[0]); L.new(bw.outputs[0], b.inputs["Roughness"])
+    nm = nt.nodes.new("ShaderNodeNormalMap"); L.new(nrm, nm.inputs["Color"]); L.new(nm.outputs["Normal"], b.inputs["Normal"])
+    return m
 GOLD, CYAN, RED = (0.98, 0.74, 0.27), (0.30, 0.92, 1.0), (1.0, 0.30, 0.24)
 M_WATER = water_mat("RiverWater")
-M_MUD = soil("SoftMud", (0.12, 0.08, 0.05), (0.22, 0.15, 0.09), 1.2)
-M_FIRM = soil("FirmGround", (0.24, 0.19, 0.13), (0.36, 0.29, 0.20), 0.7, stones=0.12)
-M_GRASS = soil("Bank", (0.10, 0.18, 0.05), (0.20, 0.28, 0.08), 0.9)
+if PH:      # laptop: real scanned textures
+    M_MUD = ph_mat("SoftMud", "brown_mud_dry", 1.3, value=0.6)
+    M_FIRM = ph_mat("FirmGround", "red_laterite_soil_stones", 2.0, value=0.95)
+    M_GRASS = ph_mat("Bank", "excavated_soil_wall", 2.0, top="leafy_grass", top_size=2.0, top_hsv=(0.5, 1.2, 0.9))
+else:       # cloud: procedural fallback
+    M_MUD = soil("SoftMud", (0.12, 0.08, 0.05), (0.22, 0.15, 0.09), 1.2)
+    M_FIRM = soil("FirmGround", (0.24, 0.19, 0.13), (0.36, 0.29, 0.20), 0.7, stones=0.12)
+    M_GRASS = soil("Bank", (0.10, 0.18, 0.05), (0.20, 0.28, 0.08), 0.9)
+print("soil materials:", "Poly Haven" if PH else "procedural")
 M_SHEET = flat("SheetPile", (0.30, 0.31, 0.33), 0.45, 0.85, GOLD, 2.0, noise=0.25)
 M_FRAME = flat("FrameSteel", (0.85, 0.55, 0.06), 0.4, 0.2, GOLD, 3.0)
 M_PILE = flat("Pile", (0.45, 0.45, 0.46), 0.6, 0.0, GOLD, 2.0, noise=0.15)
@@ -561,6 +597,10 @@ for fr in range(1, FRAMES + 1):
     setvis(CLAY, fr, cv <= 0.001); rec(CLAY, "scale", 2, fr, max(0.002, cv)); rec(CLAY, '["glow"]', -1, fr, pulse(t, C["clay"], 0.6, 0.8))
     # finished deck span lands on the new pillar
     dz = seg(t, T_DECK0, T_DECK1, 9.0, 0.0, out3); setvis(DECK_MID, fr, t < T_DECK0); rec(DECK_MID, "location", 2, fr, dz)
+# side deck back halves: only in the hook and the final pull-back (in the close section shots they read as floating slabs)
+for d in DECK:
+    for o in (d[0], d[2]):
+        setvis(o, 1, False); setvis(o, F(C["first"]), True); setvis(o, F(T_DECK0 - 0.8), False)
 write_tracks(); TRACKS.clear()
 
 # ---------- camera (location + tracked target) ----------

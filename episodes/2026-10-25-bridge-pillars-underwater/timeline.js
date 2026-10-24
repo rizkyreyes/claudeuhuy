@@ -22,7 +22,7 @@ const kf = (layerId, prop, keys) => edits.push({ type: "setFxPropertyKeyframes",
     easing: e === "hold" ? { type: "hold" } : e === "lin" ? { type: "linear" } : { type: "cubicBezier", x1: 0.2, y1: 0, x2: 0.1, y2: 1 } })) });
 
 function text(str, x, y, w, h, size, color, font = DISPLAY, opts = {}) {
-  const x0 = Math.max(60, x - w / 2), x1 = Math.min(950, x + w / 2); x = (x0 + x1) / 2; w = x1 - x0;   // keep inside the platform safe area
+  if (!opts.local) { const x0 = Math.max(60, x - w / 2), x1 = Math.min(950, x + w / 2); x = (x0 + x1) / 2; w = x1 - x0; }   // keep inside the platform safe area (labels use group-local coords)
   return { type: "Text", id: id(), name: opts.name || `Type - ${str.replace(/\n/g, " ")}`, blendMode: "normal",
     activeRange: R(0, 1000), transform: T([x, y], [w / 2, h / 2]),
     sourceText: { text: str, ...font, fontSize: size, fillColor: color, applyStroke: !!opts.stroke, strokeColor: INK, strokeWidth: opts.stroke || 0,
@@ -37,6 +37,7 @@ function rect(name, w, h, color, opts = {}) {
 const TITLES = [];
 function show(layer, t0, t1, style = "pop", sfx = null) {
   layer.activeRange = R(ms(t0), ms(t1 - t0));
+  if (!layer.sourceText.applyStroke) Object.assign(layer.sourceText, { applyStroke: true, strokeWidth: layer.sourceText.fontSize < 80 ? 8 : 6 });   // legible over sky and water
   const d = ms(t1 - t0);
   if (style === "pop") { kf(layer.id, "scaleX", [[0, 72], [160, 106], [260, 100]]); kf(layer.id, "scaleY", [[0, 72], [160, 106], [260, 100]]); }
   if (style === "slam") { kf(layer.id, "scaleX", [[0, 165], [150, 96], [240, 100]]); kf(layer.id, "scaleY", [[0, 165], [150, 96], [240, 100]]); }
@@ -66,16 +67,21 @@ const SAFE = { top: 200, bottom: 1500, right: 950, left: 60 };
 const TOP_Y = 352;            // type band centre (y 202-502 for two-line titles)
 function tracked(label, anchorName, t0, t1, dx, dy, color = GOLD, sfx = "pop") {
   const g = { type: "Group", id: id(), name: `Label - ${label}`, blendMode: "normal", activeRange: R(ms(t0), ms(t1 - t0)), transform: T([0, 0]), layers: [] };
-  const tw = Math.max(220, label.length * 30 + 60), th = 64;
+  const tw = Math.max(220, label.length * 33 + 70), th = 64;
   let minX = 1e9, maxX = -1e9, minY = 1e9, maxY = -1e9;
   for (let t = t0; t <= t1; t += 0.2) { const p = A(anchorName, t); minX = Math.min(minX, p[0]); maxX = Math.max(maxX, p[0]); minY = Math.min(minY, p[1]); maxY = Math.max(maxY, p[1]); }
   if (dx > 0 && maxX + dx + tw > SAFE.right) dx = -dx; else if (dx < 0 && minX + dx - tw < SAFE.left) dx = -dx;
   if (dy < 0 && minY + dy - th < 520) dy = -dy; else if (dy > 0 && maxY + dy + th > 1300) dy = -dy;
-  const len = Math.hypot(dx, dy), rot = Math.atan2(dy, dx) * 180 / Math.PI;
+  // left edge of the label relative to the anchor, kept inside the safe box for the whole time the anchor moves
+  const lo = SAFE.left + 10 - minX, hi = SAFE.right - 10 - tw - maxX;
+  let o = dx < 0 ? dx - tw : dx;
+  o = lo <= hi ? Math.max(lo, Math.min(hi, o)) : (lo + hi) / 2;
+  const ex = Math.max(o, Math.min(o + tw, 0)) === 0 ? 0 : (o > 0 ? o : o + tw);    // leader ends on the near edge of the pill
+  const len = Math.max(1, Math.hypot(ex, dy)), rot = Math.atan2(dy, ex) * 180 / Math.PI;
   const dot = rect(`${label} dot`, 18, 18, color, { anchor: [9, 9], round: 9 });
   const line = rect(`${label} leader`, len, 4, color, { anchor: [0, 2], rot });
-  const txt = text(label, dx + (dx < 0 ? -tw / 2 : tw / 2), dy, tw, th, 40, color, BODY, { tracking: 60, name: `${label} text` });
-  const pill = rect(`${label} backing`, tw, th, [0, 0, 0, 0.55], { pos: [dx + (dx < 0 ? -tw : 0), dy], anchor: [0, th / 2], round: 14 });
+  const txt = text(label, o + tw / 2, dy, tw, th, 40, color, BODY, { tracking: 60, name: `${label} text`, local: true });
+  const pill = rect(`${label} backing`, tw, th, [0, 0, 0, 0.55], { pos: [o, dy], anchor: [0, th / 2], round: 14 });
   for (const l of [txt, pill, line, dot]) { l.activeRange = R(0, ms(t1 - t0)); g.layers.push(l); }
   const d = ms(t1 - t0);
   kf(dot.id, "scaleX", [[0, 0], [160, 100]]); kf(dot.id, "scaleY", [[0, 0], [160, 100]]);
@@ -175,9 +181,9 @@ sound("slurp", C.clay, 0.5);
 const rec = [["WATER OUT", C.keep, CYAN], ["BUILD DRY", C.build, GOLD]];
 rec.forEach(([s, t, col], i) => show(text(s, 540, 300 + i * 150, 900, 150, 140, col), t, C.follow - 0.1, "slam", "impact"));
 sound("clank", EV.deck_land, 0.7); sound("down", C.build - 0.2, 0.4);
-// B19 CTA
-show(text("FOLLOW", 540, 330, 800, 200, 160, GOLD), C.follow, C.end_t, "slam", "ping");
-show(text("HIDDEN IN YOUR HOME", 540, 470, 860, 80, 46, WHITE, BODY, { tracking: 110 }), C.follow + 0.25, C.end_t, "rise", "pop");
+// B19 CTA: a question to the viewer (comments), no channel name
+show(text("WOULD YOU\nWORK DOWN THERE?", 540, TOP_Y, 980, 300, 100, WHITE), C.would, C.end_t, "slam", "whoosh");
+show(text("TELL ME IN THE COMMENTS", 540, TOP_Y + 215, 900, 80, 50, GOLD, BODY, { tracking: 60 }), C.tell, C.end_t, "rise", "ping");
 
 // ================= CAPTIONS (word groups, bottom zone) =================
 const W = VOM.scenes[0].words.map(w => ({ t: w.text, s: w.start + VO, e: w.end + VO }));
@@ -214,7 +220,7 @@ const audioLayers = [];
 let aid = 2000;
 audioLayers.push({ type: "Audio", id: aid++, name: "VO - Liam (Eleven v4 Turbo)", windowMs: VO_MS,
   activeRange: R(ms(VO), Math.min(DUR - ms(VO), VO_MS)), sourceRange: R(0, Math.min(DUR - ms(VO), VO_MS)),
-  sourceIntrinsicDuration: VO_MS, source: { assetId: "vo" }, volume: 0.86, captionsEnabled: false });
+  sourceIntrinsicDuration: VO_MS, source: { assetId: "vo2" }, volume: 0.86, captionsEnabled: false });
 audioLayers.push({ type: "Audio", id: aid++, name: "Bed - ambient pad", windowMs: 76000, activeRange: R(0, DUR), sourceRange: R(0, DUR),
   sourceIntrinsicDuration: 76000, source: { assetId: "sfx-pad-bed" }, volume: 0.30, captionsEnabled: false });
 sound("river", 0.0, 0.32);                                    // river ambience under the hook
@@ -226,7 +232,9 @@ for (const a of audio.sort((x, y) => x.start - y.start)) {
     sourceRange: R(0, dur), sourceIntrinsicDuration: f.ms, source: { assetId: "sfx-" + f.file }, volume: +(a.vol * (+process.env.SFX_GAIN || 1)).toFixed(3), captionsEnabled: false });
 }
 const video = { type: "Video", id: 1, name: "Blender render - cofferdam cutaway", blendMode: "normal", activeRange: R(0, DUR), sourceRange: R(0, Math.min(DUR, RENDER_MS)),
-  sourceIntrinsicDuration: RENDER_MS, volume: 0, transform: T([0, 0]), source: { assetId: RENDER_ID, fit: "contain" } };
+  sourceIntrinsicDuration: RENDER_MS, volume: 0, transform: T([540, 960], [540, 960]), source: { assetId: RENDER_ID, fit: "contain" } };
+// slow push-in over the CTA (the render's last frame is held for the longer closing question)
+for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.would), 100, "lin"], [DUR, 108, "lin"]]);
 const docPath = path.join(D, "editable.json");
 const doc = fs.existsSync(docPath) ? JSON.parse(fs.readFileSync(docPath, "utf8"))
   : { width: 1080, height: 1920, fps: FPS, duration: 0, composition: { id: "main", layers: [] } };   // skeleton: copy the laptop template over it

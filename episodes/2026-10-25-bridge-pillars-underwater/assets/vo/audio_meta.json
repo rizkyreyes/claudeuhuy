@@ -4,11 +4,11 @@
  "scenes": [
   {
    "id": "vo",
-   "text": "How do you build a bridge pillar in the middle of a river? You make the river leave. Let's cut one open. First, a steel frame is set in place. Around it, steel sheets go in, starting at the corners. Their edges lock, and a vibrating hammer drives them into the riverbed. This steel box is a cofferdam. Water pushes hard on every side, so the frame holds the walls apart. Next, they dig out the soft mud and drive piles into firmer ground. But you can't pump it dry yet. Water would push up from below. So they pour concrete underwater, through a pipe. The pipe's end stays buried in fresh concrete, so the concrete rises and pushes the water up. This is the seal. On one Kentucky bridge, it was fifteen feet thick. Its weight holds the floor down. Once it hardens, the pumps switch on, and the water drops. The crew stands on dry concrete, below the river. They pour the footing, and the pillar rises out of the water. Then the sheets are pulled, and the river closes back in. The Romans did this with two rings of wooden posts packed with clay. Same idea. Keep the water out, build in the dry. Follow for the next thing we cut open.",
+   "text": "How do you build a bridge pillar in the middle of a river? You make the river leave. Let's cut one open. First, a steel frame is set in place. Around it, steel sheets go in, starting at the corners. Their edges lock, and a vibrating hammer drives them into the riverbed. This steel box is a cofferdam. Water pushes hard on every side, so the frame holds the walls apart. Next, they dig out the soft mud and drive piles into firmer ground. But you can't pump it dry yet. Water would push up from below. So they pour concrete underwater, through a pipe. The pipe's end stays buried in fresh concrete, so the concrete rises and pushes the water up. This is the seal. On one Kentucky bridge, it was fifteen feet thick. Its weight holds the floor down. Once it hardens, the pumps switch on, and the water drops. The crew stands on dry concrete, below the river. They pour the footing, and the pillar rises out of the water. Then the sheets are pulled, and the river closes back in. The Romans did this with two rings of wooden posts packed with clay. Same idea. Keep the water out, build in the dry. Would you work down there, with a river right over your head? Tell me in the comments.",
    "wav": "vo.wav",
-   "duration": 69.6,
+   "duration": 72.77,
    "speechStart": 0,
-   "speechEnd": 69.68,
+   "speechEnd": 72.85,
    "words": [
     {
      "id": "w0",
@@ -1253,52 +1253,106 @@
      "end": 67.84
     },
     {
-     "id": "w207",
-     "text": "Follow",
-     "start": 67.92,
-     "end": 68.16
+     "id": "c0",
+     "text": "Would",
+     "start": 68.05,
+     "end": 68.21
     },
     {
-     "id": "w208",
-     "text": "for",
-     "start": 68.2,
-     "end": 68.24
+     "id": "c1",
+     "text": "you",
+     "start": 68.29,
+     "end": 68.37
     },
     {
-     "id": "w209",
+     "id": "c2",
+     "text": "work",
+     "start": 68.49,
+     "end": 68.61
+    },
+    {
+     "id": "c3",
+     "text": "down",
+     "start": 68.73,
+     "end": 68.85
+    },
+    {
+     "id": "c4",
+     "text": "there,",
+     "start": 68.97,
+     "end": 69.33
+    },
+    {
+     "id": "c5",
+     "text": "with",
+     "start": 69.41,
+     "end": 69.49
+    },
+    {
+     "id": "c6",
+     "text": "a",
+     "start": 69.57,
+     "end": 69.65
+    },
+    {
+     "id": "c7",
+     "text": "river",
+     "start": 69.73,
+     "end": 70.05
+    },
+    {
+     "id": "c8",
+     "text": "right",
+     "start": 70.21,
+     "end": 70.37
+    },
+    {
+     "id": "c9",
+     "text": "over",
+     "start": 70.45,
+     "end": 70.61
+    },
+    {
+     "id": "c10",
+     "text": "your",
+     "start": 70.69,
+     "end": 70.85
+    },
+    {
+     "id": "c11",
+     "text": "head?",
+     "start": 70.97,
+     "end": 71.57
+    },
+    {
+     "id": "c12",
+     "text": "Tell",
+     "start": 71.65,
+     "end": 71.73
+    },
+    {
+     "id": "c13",
+     "text": "me",
+     "start": 71.81,
+     "end": 71.85
+    },
+    {
+     "id": "c14",
+     "text": "in",
+     "start": 71.89,
+     "end": 71.93
+    },
+    {
+     "id": "c15",
      "text": "the",
-     "start": 68.32,
-     "end": 68.36
+     "start": 71.97,
+     "end": 72.05
     },
     {
-     "id": "w210",
-     "text": "next",
-     "start": 68.4,
-     "end": 68.56
-    },
-    {
-     "id": "w211",
-     "text": "thing",
-     "start": 68.64,
-     "end": 68.72
-    },
-    {
-     "id": "w212",
-     "text": "we",
-     "start": 68.8,
-     "end": 68.88
-    },
-    {
-     "id": "w213",
-     "text": "cut",
-     "start": 68.96,
-     "end": 69.04
-    },
-    {
-     "id": "w214",
-     "text": "open.",
-     "start": 69.2,
-     "end": 69.68
+     "id": "c16",
+     "text": "comments.",
+     "start": 72.29,
+     "end": 72.85
     }
    ]
   }

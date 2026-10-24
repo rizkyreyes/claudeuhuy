@@ -28,7 +28,7 @@ curl -s -o /dev/null -w "%{http_code}\n" https://api.elevenlabs.io/v1/voices/TX3
 Verify every claim on reputable sources (official, Wikipedia + its citations, engineering bodies, manufacturers). If sources disagree, drop the specific number/name. Write `episodes/<YYYY-MM-DD>-<slug>/sources.txt` (claim → URL).
 
 ## Step 3 — Script and voice
-- `script.json` in the episode folder (format: `pipeline3d/example-door-lock/script.json`): hook complete in 2 s, one continuous take, about 225–245 words, one CTA "Follow for the next thing we cut open." (or a close variant).
+- `script.json` in the episode folder (format: `pipeline3d/example-door-lock/script.json`): hook complete in 2 s, one continuous take, about 225–245 words, the script ENDS with a CTA that is a question to the viewer about the topic, answerable in one comment (e.g. "Would you work down there, with a river right over your head? Tell me in the comments."). Never "follow", never the channel name.
 - Voice: run `node pipeline/tts.mjs <episode>/script.json <episode>/assets/vo` with `voiceId TX3LPaxmHKxFdv7VOQHJ`, `modelId eleven_v4_turbo`, `language en` in script.json. Target take 70–76 s. If outside, add/cut words and re-record (at most 2 extra takes; v4 Turbo ignores `speed`). Keep `vo.wav`, `vo.mp3`, `audio_meta.json`.
 
 ## Step 4 — Beat plan

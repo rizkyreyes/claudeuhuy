@@ -153,7 +153,7 @@ sound("down", C.shrank);
 // B16 recap: three slams on the words
 const rec = [["5 PINS", C.five2, GOLD], ["1 LINE", C.line, CYAN], ["1 KEY", C.key3, WHITE]];
 rec.forEach(([s, t, col], i) => show(text(s, 520, 300 + i * 140, 840, 140, 132, col), t, C.follow - 0.1, "slam", "impact"));
-// B17 CTA
+// B17 CTA  (OLD STYLE, do not copy: from 25 Oct the CTA is a question to the viewer + "TELL ME IN THE COMMENTS", no channel name; see docs/3d-playbook.md and episodes/2026-10-25-bridge-pillars-underwater/timeline.js B19)
 show(text("FOLLOW", 520, 330, 800, 200, 160, GOLD), C.follow, C.end, "slam", "ping");
 show(text("HIDDEN IN YOUR HOME", 520, 470, 860, 80, 46, WHITE, BODY, { tracking: 110 }), C.follow + 0.25, C.end, "rise", "pop");
 

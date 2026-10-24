@@ -9,7 +9,8 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 - Topic must have evergreen proof (old uploads still getting views) and be buildable procedurally in a Blender Python script.
 
 ## Script and voice
-- Hook complete in the first 2 seconds (a question or the situation). One continuous take. ~3 words/s; v4 Turbo talks fast: 235 words ≈ 74 s.
+- Hook complete in the first 2 seconds (a question or the situation).
+- **CTA = a question to the viewer** (Rizky, 24 Oct 2026): the last line asks something about the topic that people can answer in one comment, then "Tell me in the comments." Example: "Would you work down there, with a river right over your head?" No "follow" line, and **never the channel name** (no "Hidden In Your Home" on screen or in the VO). On screen: the question as the closing title (Anton, white) + "TELL ME IN THE COMMENTS" (Poppins, gold). One continuous take. ~3 words/s; v4 Turbo talks fast: 235 words ≈ 74 s.
 - ElevenLabs model **`eleven_v4_turbo`**, voice **Liam** (voiceId `TX3LPaxmHKxFdv7VOQHJ`, "Liam - Energetic, Social Media Creator"), language `en`. v4 Turbo ignores the `speed` setting: fix length by adding/cutting words, never by speeding up audio.
 - Word-level timestamps from `/with-timestamps`. Every animation cue is a WORD, resolved as "next occurrence after the previous cue".
 - Facts: verify on reputable sources before writing; if sources disagree, drop the specific claim (e.g. door lock: "a father and son named Yale", no patent year). Log sources in the episode's `sources.txt`.
@@ -34,7 +35,8 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 - Quiet ambient pad under everything. Mix target −16 to −14 LUFS, true peak ≤ −1 dBTP. A mono VO reads ~3 LU hotter in the stereo mix.
 
 ## Cover / thumbnail
-- 1080x1920. Research-backed style: extreme close-up of the mechanism, one strong contrast colour (red), 2–3 word title in Anton. Keep title + subject inside the central **3:4 crop (y 240–1680)** so the profile grid shows it whole. No brand line, no caption tag on the cover.
+- 1080x1920. Make it a **curiosity contrast**, not a plain label (Rizky rejected "UNDER THE RIVER" as flat): show the paradox in the picture (e.g. crew standing dry below a red river-level line) and title it as a surprise or question ("BONE DRY / UNDERWATER?!", "WORKING / UNDER A RIVER"). Offer 2 options.
+- Research-backed style: extreme close-up of the mechanism, one strong contrast colour (red), 2–3 word title in Anton. Keep title + subject inside the central **3:4 crop (y 240–1680)** so the profile grid shows it whole. No brand line, no caption tag on the cover.
 
 ## Publishing (Buffer) — per-platform US peak slot for that weekday (ET)
 | Day | TikTok | Instagram Reels | YouTube Shorts |
