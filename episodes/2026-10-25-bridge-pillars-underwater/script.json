@@ -1,0 +1,13 @@
+{
+ "slug": "how-bridge-pillars-are-built-underwater",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "How do you build a bridge pillar in the middle of a river? You make the river leave. Let's cut one open. First, a steel frame is set in place. Around it, steel sheets go in, starting at the corners. Their edges lock, and a vibrating hammer drives them into the riverbed. This steel box is a cofferdam. Water pushes hard on every side, so the frame holds the walls apart. Next, they dig out the soft mud and drive piles into firmer ground. But you can't pump it dry yet. Water would push up from below. So they pour concrete underwater, through a pipe. The pipe's end stays buried in fresh concrete, so the concrete rises and pushes the water up. This is the seal. On one Kentucky bridge, it was fifteen feet thick. Its weight holds the floor down. Once it hardens, the pumps switch on, and the water drops. The crew stands on dry concrete, below the river. They pour the footing, and the pillar rises out of the water. Then the sheets are pulled, and the river closes back in. The Romans did this with two rings of wooden posts packed with clay. Same idea. Keep the water out, build in the dry. Follow for the next thing we cut open."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

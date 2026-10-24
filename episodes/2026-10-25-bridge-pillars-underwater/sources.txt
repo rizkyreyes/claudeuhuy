@@ -1,0 +1,34 @@
+Episode 3d-02 bridge-pillars-underwater: claim -> source. Page fetch was blocked in the cloud run (WebFetch and curl to
+wikipedia.org / pilebuck.com refused), so claims were locked from concordant search-result excerpts of these pages.
+
+- Cofferdam = an enclosure built in water so the inside can be pumped out and work done in the dry
+  -> https://en.wikipedia.org/wiki/Cofferdam ; https://www.dictionary.com/browse/cofferdam
+- Sequence for a bridge-pier cofferdam: set the template/frame, drive the sheeting, excavate, bracing, seal, dewater, build the foundation, remove bracing, pull the sheeting
+  -> https://wsdot.wa.gov/eesc/bridge/WBES/2017/Session6/6A2-Garlich.pdf ; https://engineering.purdue.edu/CEM/people/Personal/Halpin/Sim/Examples/cofferdams.htm
+- Steel sheet piles are set starting at the corners and meeting at the centre of each side
+  -> https://engineering.purdue.edu/CEM/people/Personal/Halpin/Sim/Examples/cofferdams.htm
+- Sheet piles interlock (water control depends on the seal and the sheet pile interlocks); driven to form a tight bulkhead
+  -> https://wsdot.wa.gov/eesc/bridge/WBES/2017/Session6/6A2-Garlich.pdf ; https://codot.gov/business/designsupport/cdot-construction-specifications/2021-construction-specifications/2021-specs-book/2021-division-500
+- Vibratory hammers drive steel sheet piles
+  -> https://us.diesekogroup.com/sheet-piling-equipment-guide/ ; https://tore.tuhh.de/handle/11420/2915 (vibratory driving research)
+- Loads are unbalanced water + submerged soil pressure; wales pass the load to struts (the frame holds the walls apart)
+  -> https://pilebuck.com/?p=8775 ; https://mdotwiki.state.mi.us/construction/index.php/704_-_Steel_Sheet_Piling_and_Cofferdams
+- Soft sediment is removed (pre-dredging) inside the cofferdam
+  -> https://engineering.purdue.edu/CEM/people/Personal/Halpin/Sim/Examples/cofferdams.htm ; https://www.lejeune.marines.mil/News/Article/Article/3435564/cofferdam-keeps-crew-cruising-through-concrete-placements/
+- Foundation piles below the seal (piles + seal friction resist uplift)
+  -> https://pilebuck.com/?p=8924 (Chapter 12 Cofferdams and Seal Courses)
+- Seal concrete keeps water from seeping in from underneath the sheet piling; placed underwater by tremie; dewater after it cures
+  -> https://www.slideshare.net/slideshow/lesson4-15752340/15752340 (University of Washington) ; https://pilebuck.com/?p=8924
+- Tremie: concrete fed through a vertical pipe whose lower end stays immersed in fresh concrete, so concrete rising from the bottom displaces the water
+  -> https://en.wikipedia.org/wiki/Tremie ; https://www.designingbuildings.co.uk/wiki/Underwater_foundations
+- Seal thick enough that its weight resists uplift from water pressure
+  -> https://pilebuck.com/?p=8924
+- "On one Kentucky bridge, the seal was fifteen feet thick": Ledbetter Bridge (Paducah, KY), 15 ft thick concrete tremie seal
+  -> https://cjmahan.com/project/project-ledbetter-bridge-substructure/
+- Sheets are pulled after the work (crane + vibrating unit on Thames Tideway; WSDOT sequence ends with pulling the sheeting)
+  -> https://www.tideway.london/media/7196/chambers-wharf-cofferdam-removal-february-2025.pdf ; https://wsdot.wa.gov/eesc/bridge/WBES/2017/Session6/6A2-Garlich.pdf
+- Romans: cofferdam of a double ring of piles with clay packed between (Roman bridge at Rochester, Medway)
+  -> https://rbt.org.uk/bridges/historical-bridges/the-roman-bridge/ ; https://rochesterbridgetrust.org.uk/wp-content/uploads/2023/10/LAB1-Chapter-Aiv-Working-with-Water-DIGITAL.pdf
+
+Cut (sources disagree or unverified): Cyrus/Euphrates 539 BC story, Trajan's Bridge date, Sant'Angelo "1,800 years" claim,
+Ledbetter 65 ft sheet length, any depth or pressure numbers. Sheets are sometimes cut off and left in place: not said, the script only says "pulled".
