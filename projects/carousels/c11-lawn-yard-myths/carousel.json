@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 lawn and yard myths that quietly hurt your grass and trees", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/mow.jpg", "myth": "Cut the grass short so you can mow less often.",
+      "fact": "Extension guides say never take off more than about a third of the blade in one mowing. Cutting too short stresses the lawn. For tall fescue, that means keeping it around 3 to 4 inches.",
+      "source": "University of Maryland and University of Georgia Extension" },
+    { "type": "myth", "bg": "bg/clip.jpg", "myth": "Leaving grass clippings on the lawn causes thatch.",
+      "fact": "It doesn't. Extension guides say clippings break down and return nutrients to the soil. Thatch builds up from other things, and a thick layer can actually keep clippings from reaching the soil.",
+      "source": "Extension grasscycling guides" },
+    { "type": "myth", "bg": "bg/water.jpg", "myth": "A little water every day keeps a lawn healthy.",
+      "fact": "Frequent light watering encourages shallow roots. Wisconsin Extension says lawns need about 1 inch a week, from rain or sprinklers, and watering more often than once a week keeps roots shallow.",
+      "source": "University of Wisconsin Extension" },
+    { "type": "myth", "bg": "bg/leaves.jpg", "myth": "You have to rake every fall leaf off the lawn.",
+      "fact": "Mowing leaves into small pieces works too. A thick, wet mat of whole leaves is what smothers grass, but a light layer is fine. Michigan State research found mulching leaves helped the lawn.",
+      "source": "University of Minnesota and Michigan State University Extension" },
+    { "type": "myth", "bg": "bg/mulch.jpg", "myth": "Piling mulch high around a tree is good for it.",
+      "fact": "A mulch volcano holds moisture against the bark. Extension guides say 2 to 4 inches is plenty, and it should be spread wide and kept from touching the trunk.",
+      "source": "University of Vermont, University of Illinois and University of Kentucky Extension" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["UMD and UGA Extension: mowing height, one-third rule", "Extension grasscycling guides: clippings and thatch", "UW Extension: lawn watering", "UMN and MSU Extension: mulching leaves", "UVM, Illinois and Kentucky Extension: mulch volcanoes"] }
+  ]
+}
