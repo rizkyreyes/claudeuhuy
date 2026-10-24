@@ -16,3 +16,12 @@ projects/*/tt/out.mp4
 projects/*/tt/final.mp4
 projects/*/tt/.hyperframes/
 projects/*/tt/render.log
+
+# 3D pipeline (from 24 Oct 2026): big assets and renders stay out of git
+pipeline3d/assets/
+episodes/*/assets/polyhaven/
+episodes/*/frames*/
+episodes/*/*.blend
+episodes/*/*.blend1
+episodes/*/render*.mp4
+episodes/*/proxy*

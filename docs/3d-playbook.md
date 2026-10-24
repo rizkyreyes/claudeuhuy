@@ -1,0 +1,49 @@
+# 3D explainer playbook (from 24 Oct 2026)
+
+Hidden In Your Home switched from b-roll videos to **3D cross-section explainers made in Blender** (Rizky, 24 Oct 2026). These rules come from producing the first two 3D videos (road layers, door lock) and from Rizky's feedback. They override older docs where they conflict.
+
+## Format
+- Vertical 1080x1920, 30 fps, **about 75 s** (target 70–78 s). English narration, US audience.
+- One topic per day. Scope is broad: "how it works" AND "how it's built" (household objects, construction, infrastructure, machines). Not only things in the home.
+- Register: the hero is always a **3D cross-section / cutaway** rendered in Blender Cycles: dark studio backdrop for objects, real-world terrain (Poly Haven CC0 textures, HDRI) for construction.
+- Topic must have evergreen proof (old uploads still getting views) and be buildable procedurally in a Blender Python script.
+
+## Script and voice
+- Hook complete in the first 2 seconds (a question or the situation). One continuous take. ~3 words/s; v4 Turbo talks fast: 235 words ≈ 74 s.
+- ElevenLabs model **`eleven_v4_turbo`**, voice **Liam** (voiceId `TX3LPaxmHKxFdv7VOQHJ`, "Liam - Energetic, Social Media Creator"), language `en`. v4 Turbo ignores the `speed` setting: fix length by adding/cutting words, never by speeding up audio.
+- Word-level timestamps from `/with-timestamps`. Every animation cue is a WORD, resolved as "next occurrence after the previous cue".
+- Facts: verify on reputable sources before writing; if sources disagree, drop the specific claim (e.g. door lock: "a father and son named Yale", no patent year). Log sources in the episode's `sources.txt`.
+
+## Visual rules
+- Beat plan first (PLAN.md): job → hero → type → SFX per beat, cues are words. No dead air > 1.2 s.
+- Blender 5.2, Cycles. Gotchas: easing helpers must clamp (an unclamped `p*p` once sent pins to z=-486); Blender 5 ignores the CONSTANT keyframe preference (use separate objects/booleans for hold states); parent with identity inverse at the origin; hair-particle "NOR" rotation maps the instance's local +Y to the surface normal; particles on a moving emitter need their own hide keys.
+- Final render: 24 samples + OptiX denoise, adaptive threshold 0.03, motion blur OFF (it multiplies render time). Stills for checks at 25–50 %.
+
+## Typography (Tesseract)
+- Fonts: **Anton** (display titles, counters) and **Poppins ExtraBold** (captions, labels). In Tesseract, Poppins resolves as family `Poppins`, style `ExtraBold`.
+- Palette: white, gold `#FABD45`, cyan `#4DEBFF` (the glowing technical line), red `#FF4D3D` (failure/danger).
+- Kinetic titles land on their word (slam / pop / rise) with a sound. Counters only for numbers the narration says.
+- Part labels: dot + leader line + label, **tracked to the 3D part** with per-frame projected coordinates exported from Blender; labels flip side automatically to stay on screen.
+- Captions: 1–3 word groups, gold for key terms. **Drop a caption while a title already shows the same words** (numbers and spelled-out forms count as the same).
+
+## Platform safe area (TikTok / Reels / Shorts UI)
+- Keep all text inside x 60–950 and y 200–1500. Captions sit at y ≈ 1320–1470, x 70–950. Labels never cross x 950.
+
+## Sound
+- Every typography entrance gets a matching accent (pop, impact, whoosh, tick, ping). Every mechanical event gets foley (clicks timed to the simulation, scrapes, thuds, clunks). Important failure beats ("jammed", "too high") get a strong stinger (deny thud + metal clunk).
+- Quiet ambient pad under everything. Mix target −16 to −14 LUFS, true peak ≤ −1 dBTP. A mono VO reads ~3 LU hotter in the stereo mix.
+
+## Cover / thumbnail
+- 1080x1920. Research-backed style: extreme close-up of the mechanism, one strong contrast colour (red), 2–3 word title in Anton. Keep title + subject inside the central **3:4 crop (y 240–1680)** so the profile grid shows it whole. No brand line, no caption tag on the cover.
+
+## Publishing (Buffer) — per-platform US peak slot for that weekday (ET)
+| Day | TikTok | Instagram Reels | YouTube Shorts |
+|---|---|---|---|
+| Mon | 1 PM | 7 PM | 8 PM |
+| Tue | 6 AM | 7 PM | 8 PM |
+| Wed | 10 PM | 12 PM | 7 PM |
+| Thu | 1 PM | 9 AM | 7 PM |
+| Fri | 6 PM | 10 PM | 4 PM |
+| Sat | 5 PM | 9 PM | 7 PM |
+| Sun | 9 AM | 9 PM | 7 PM |
+Offset −04:00 until 31 Oct 2026, −05:00 from 1 Nov 2026. Buffer free plan: max 10 scheduled posts per channel. Nothing is published without Rizky's "setuju" on the final video + caption.

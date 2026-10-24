@@ -1,0 +1,13 @@
+{
+ "slug": "how-a-door-lock-works",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "How does your key know it's your door? Let's cut a lock in half. This is the cylinder. The outer shell never moves. The plug inside is the part that turns. Drilled through both are five tiny chambers. Each holds a spring, a top pin, and a bottom pin. The springs push down, so every top pin crosses the gap between the plug and the shell. That gap is called the shear line. While even one pin crosses it, the plug is jammed. Nothing turns. Now slide the key in. Each cut on the blade has its own depth, and lifts its pin to its own height. Watch the gaps. With the right key, the split in every stack lands exactly on the shear line. All five, at the same time. Now the plug turns. A cam on the back pulls the bolt, and the door opens. Turn it back, and the springs snap the pins down again, locked. Try the wrong key. One pin sits just a little too high. It crosses the line, and the lock stays shut. The idea is about four thousand years old. Ancient Egyptians built it out of wood. In the eighteen hundreds, a father and son named Yale shrank it to fit in your pocket. So that's the whole trick. Five pins, one line, and one key cut to match. Follow for the next thing we cut open."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
