@@ -9,7 +9,7 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 - Topic must have evergreen proof (old uploads still getting views) and be buildable procedurally in a Blender Python script.
 
 ## Script and voice
-- Hook complete in the first 2 seconds (a question or the situation).
+- **Hook = always a question** (Rizky, 24 Oct 2026): the first sentence asks the question the video answers ("How do you build a bridge pillar in the middle of a river?"), complete in the first 2 seconds, shown as the opening title.
 - **CTA = a question to the viewer** (Rizky, 24 Oct 2026): the last line asks something about the topic that people can answer in one comment, then "Tell me in the comments." Example: "Would you work down there, with a river right over your head?" No "follow" line, and **never the channel name** (no "Hidden In Your Home" on screen or in the VO). On screen: the question as the closing title (Anton, white) + "TELL ME IN THE COMMENTS" (Poppins, gold). One continuous take. ~3 words/s; v4 Turbo talks fast: 235 words ≈ 74 s.
 - ElevenLabs model **`eleven_v4_turbo`**, voice **Liam** (voiceId `TX3LPaxmHKxFdv7VOQHJ`, "Liam - Energetic, Social Media Creator"), language `en`. v4 Turbo ignores the `speed` setting: fix length by adding/cutting words, never by speeding up audio.
 - Word-level timestamps from `/with-timestamps`. Every animation cue is a WORD, resolved as "next occurrence after the previous cue".
