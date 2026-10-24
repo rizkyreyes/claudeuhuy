@@ -1,0 +1,21 @@
+{
+  "slug": "child-resistant-cap-test",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "Your cleaner's push-and-turn cap was tested on real preschoolers. You know the moment. The cap won't budge, and you're pressing down so hard your thumb hurts. Stay with me, because the way that cap gets tested is stranger than you'd guess. Back in 1970, Congress passed the Poison Prevention Packaging Act. It calls for child-resistant caps on medicines and certain household chemicals that can poison a small child. But a rule like that needs proof. So they wrote an actual test. Here's exactly how it works. Testers take a group of fifty kids, aged about three and a half to four and a quarter, and give each one the package. They get five minutes to open it alone. To pass, at least eighty-five percent of the kids have to fail. And that's not even the hardest part. Over ten minutes in total, at least eighty percent still can't get in. But there's one more group they test, and it isn't kids. Adults. At least ninety percent of adults have to be able to open it. So that stiff cap isn't broken. It's the narrow gap between a four-year-old and you. And child-resistant isn't child-proof, so keep it out of reach. What's an everyday thing in your house you've always wondered about? Tell me in the comments, and I'll dig into it."
+    }
+  ]
+}
