@@ -6,7 +6,7 @@ Slots per platform come from the table in `docs/3d-playbook.md` for the target d
 | # | target day (ET) | slug | topic | status | episode | notes |
 |---|---|---|---|---|---|---|
 | 3d-00 | Sat 24 Oct 2026 | road-layers | How roads are built in layers | done (test) | local only | first 15 s Blender test, not posted |
-| 3d-01 | Sat 24 Oct 2026 | door-lock | How keys really work (pin tumbler) | rendered | local (Door-Lock-3D) | Buffer: TikTok 5 PM, YT 7 PM, IG 9 PM ET |
+| 3d-01 | Sat 24 Oct 2026 | door-lock | How keys really work (pin tumbler) | scheduled | local (Door-Lock-3D); media/door-lock.mp4 | Buffer 24 Oct ET: TikTok 5 PM (6adc8e263d5b27036b7cbd04), YT 7 PM (6adc8e270b5343d0707b026e), IG 9 PM (6adc8e286887a2efc1b074d6); cover = last 2 frames, thumbnailOffset 75220; remove media file after 1 Nov |
 | 3d-02 | Sun 25 Oct 2026 | bridge-pillars-underwater | How bridge pillars are built underwater (cofferdam) | todo | | |
 | 3d-03 | Mon 26 Oct 2026 | escalator-steps | Why escalator steps stay flat | todo | | |
 | 3d-04 | Tue 27 Oct 2026 | undersea-tunnel | How they build tunnels under the sea (TBM) | todo | | |
