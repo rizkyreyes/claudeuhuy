@@ -1,0 +1,21 @@
+{
+  "slug": "rearview-mirror-tab",
+  "mode": "explainer",
+  "voiceId": "uKGPYP2uuyRQv8SeFre0",
+  "modelId": "eleven_v4_turbo",
+  "language": "en",
+  "seed": 42,
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.85,
+    "style": 0.3,
+    "speed": 1,
+    "use_speaker_boost": true
+  },
+  "scenes": [
+    {
+      "id": "vo",
+      "text": "That little tab under your rearview mirror is a night mode. You know the moment. It's dark, a truck is right behind you, and its headlights blast straight into your eyes. Stay with me, because that tab does something clever, and most people never touch it. Here's the piece nobody mentions. Your mirror isn't a flat sheet. It's a wedge of glass, thicker at one edge, with a silver coating on the back. The silver is the bright part. It's what you look at all day. But the glass in front reflects a little too, only about four percent of the light. Now here's exactly how the trick works. Flip the tab, and the whole mirror tilts. The bright silver swings up toward the dark ceiling, and that plain front glass lines up with the road behind you. So the headlights bounce off glass that only returns about four percent of their light, and the glare drops way down. You can still see the car behind you, just without the sting. But there's a catch. Flip it back when the sun comes up, because that dim view is meant for night. Many newer cars skip the tab and use glass that darkens by itself. So next time a truck rides your bumper, reach up and flip it. What's a button or switch in your car you've never understood? Comment it, and it might be the next episode."
+    }
+  ]
+}
