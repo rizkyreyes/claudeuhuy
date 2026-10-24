@@ -1,0 +1,13 @@
+{
+ "slug": "why-escalator-steps-stay-flat",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Why do escalator steps stay flat the whole way up? Every step rides on two hidden tracks. Let's cut one open. A chain loop runs down each side. At the top, a motor turns gears, and the gears pull the chains. Every step is attached to them. Look at one step from the side. It has two pairs of wheels. The front wheels are hooked to the chain. The back wheels just follow, rolling in a second track. Here's the trick. The two tracks aren't the same shape. Wherever the chain goes, the second track holds the back wheels at the right height, so the top of the step stays level. Near the top, both tracks level off. The steps line up flat, and the grooves in each step slide into the next one. That's why the stairs seem to melt into the floor. Then they reach the comb plate. Its teeth ride inside those grooves, so the gap stays tiny. The handrail is its own loop, driven to match the speed of the steps. Underneath, the empty steps loop back down to start again. One of the first, a ride at Coney Island in 1896, had no steps at all. It was a moving ramp. And escalator was once a brand name. In 1950, Otis lost it, because it had become an everyday word. Do you walk up the escalator, or just stand and ride? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

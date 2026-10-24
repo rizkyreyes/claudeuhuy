@@ -1,0 +1,33 @@
+Episode 3d-03 escalator-steps: claim -> source. Page fetch was blocked in this cloud run (WebFetch to wikipedia.org and
+howstuffworks.com failed DNS), so claims were locked from concordant search-result excerpts of these pages.
+
+- A pair of chain loops runs the length of the escalator; the steps are attached to them
+  -> https://science.howstuffworks.com/transport/engines-equipment/escalator1.htm ; https://wonderopolis.org/wonder/how-do-escalators-work
+- A motor at the top turns the drive gear(s) that pull the chains
+  -> https://science.howstuffworks.com/transport/engines-equipment/escalator1.htm ; https://encyclopedia.com/education/culture-magazines/escalator
+- Each step has two sets of wheels; the set near the top of the step is connected to the chain and pulled by the drive gear,
+  the other set glides along its own track, following behind
+  -> https://science.howstuffworks.com/transport/engines-equipment/escalator1.htm
+- The tracks are spaced/positioned so each step always remains level; the position of the tracks controls the step's orientation
+  -> https://science.howstuffworks.com/transport/engines-equipment/escalator1.htm ; https://www.positioniseverything.net/tech-in-plain-sight-escalators/
+- At the top and bottom the tracks level off to horizontal, flattening the stairway; each step has grooves so it fits together
+  with the steps in front of and behind it during this flattening
+  -> https://science.howstuffworks.com/transport/engines-equipment/escalator1.htm
+- Comb plates at the landings have teeth that mesh with the grooves in the steps; a clearance between cleats and comb teeth is kept
+  small to limit objects getting caught
+  -> https://patents.google.com/patent/US4126218 ; https://patents.google.com/patent/US5255771A ; https://www.untappedcities.com/cities-101-the-first-working-escalator-was-installed-in-coney-island-brooklyn/
+- Handrail moves in the same direction and at (practically) the same speed as the steps (code allows ~2 % deviation), driven from the drive gear
+  -> https://www.mesj.ukim.edu.mk/journals/article/download/21/22 ; https://encyclopedia.com/education/culture-magazines/escalator
+- The step chain is a loop: steps return underneath to the bottom (orientation on the return run NOT stated: sources disagree)
+  -> https://science.howstuffworks.com/transport/engines-equipment/escalator1.htm ; https://patents.google.com/patent/US5020654
+- Jesse Reno's "inclined elevator" ran as a novelty ride at the Old Iron Pier, Coney Island, in 1896 (two weeks); it was a
+  conveyor-like belt with cast-iron cleats, not steps
+  -> https://hagley.org/node/3634 ; https://www.6sqft.com/the-worlds-first-escalator-was-installed-in-coney-island-120-years-ago/ ; https://en.wikipedia.org/wiki/Escalator
+  (said "one of the first", not "the first": Reno's 1892 patent and earlier unbuilt patents make "first" arguable)
+- "Escalator" was a registered trademark (Seeberger, assigned to Otis); in 1950 the US Patent Office cancelled it as generic
+  (Haughton Elevator Co. v. Seeberger, 85 USPQ 80), partly citing Otis's own generic use
+  -> https://www.agip.com/News/en/articles/23506 ; https://www.retailbrew.com/stories/2022/08/18/tools-of-the-trade-how-escalators-helped-retail-move-up ; https://en.wikipedia.org/wiki/Escalator
+
+Dropped (sources disagree or unverified): Reno patent year (1891 vs 1892), Reno ride incline (25 degrees vs 25 % grade),
+75,000 riders, "30 degree standard" angle, Otis trademark year (1900 vs 1910/1911), steps travelling upside down on the return,
+typical speeds. The scene geometry (30 degree incline, 0.40 m pitch) is illustrative and is not stated in the voice-over.
