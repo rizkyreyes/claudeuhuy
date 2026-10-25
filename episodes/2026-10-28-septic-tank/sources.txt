@@ -1,0 +1,36 @@
+Episode 3d-05 septic-tank: claim -> source. Claims locked from concordant search-result excerpts of these pages
+(this run could not open publisher pages directly: epa.gov and others gave DNS errors from the cloud box).
+
+- A conventional septic system is a buried, watertight tank (concrete, fiberglass or polyethylene) plus a drainfield
+  -> https://www.epa.gov/septic/how-your-septic-system-works ; https://19january2025snapshot.epa.gov/septic/how-septic-systems-work
+- In the tank, solids settle to the bottom as sludge; oil and grease float to the top as scum; the liquid between is effluent
+  -> https://www.epa.gov/septic/how-your-septic-system-works ; https://www.alabamapublichealth.gov/baldwin/septic-tank-maintenance.html ;
+     https://fonddulac.extension.wisc.edu/files/2010/09/Care-and-Maintenace-of-a-Septic-System.pdf
+- Inlet baffle directs the incoming flow downward and calms it so it does not disturb the scum and sludge layers
+  -> https://www.onsiteinstaller.com/editorial/2020/10/theres-nothing-baffling-about-tank-inlet-and-outlet-features ;
+     https://www.pumper.com/editorial/2013/11/not_so_baffling_after_all ; https://patents.google.com/patent/US4363732
+- Anaerobic bacteria in the tank decompose some solids; more solids collect than they can digest, so the tank must be pumped
+  -> https://www.deschutes.org/sites/default/files/fileattachments/community_development/page/11743/septic_system_guide.pdf ;
+     https://www.epa.gov/septic/how-your-septic-system-works
+- A working tank is always full up to the outlet pipe; incoming wastewater displaces an equal volume out to the drainfield
+  -> https://inspectapedia.com/septic/Septic_Tank_Sewage_Levels.php ; https://www.scorpionsepticservices.com/blog/monitoring-your-septic-tank-fill-line-for-system-health ;
+     https://homebuddy.blog/septic-tank-water-level-guide  (contractor / reference sites, consistent with EPA's "effluent exits the tank into the drainfield")
+- T-shaped outlet (and compartments) keep sludge and scum from leaving the tank
+  -> https://www.epa.gov/septic/how-your-septic-system-works
+- Drainfield: trenches with perforated pipe in gravel (porous material), covered with soil
+  -> https://en.wikipedia.org/wiki/Septic_drain_field ; https://actat.wvu.edu/files/d/f3a176fd-1fa9-4985-84d7-9f473ca1fb77/gravelless-chamber-sytems.pdf ;
+     https://www.deschutes.org/sites/default/files/fileattachments/community_development/page/775/es-standard_drainfield.pdf
+- Most treatment happens in the soil: wastewater percolates down and the soil removes harmful bacteria, viruses and nutrients
+  before it reaches groundwater
+  -> https://www.alabamapublichealth.gov/baldwin/septic-tank-maintenance.html ; https://19january2021snapshot.epa.gov/septic/how-your-septic-system-works_.html
+- Tanks are typically pumped every three to five years (EPA SepticSmart)
+  -> https://www.epa.gov/archive/epa/newsreleases/septicsmart-week-sept-19-23-epa-urges-maintenance-septic-systems-protect-health.html ;
+     https://www.homeserve.com/blog/home-improvement/pump-septic-tank-frequency/
+- History: Mouras, France, around 1860, waste into a sealed (masonry/concrete) tank; opened years later it was almost free of solids
+  -> https://www.h2g2.com/edited_entry/A873876 ; https://www.metrorod.co.uk/news/earth-thought-i-know-septic-tank/ ;
+     https://franco.wiki/fr/Fosse_Mouras.html ; https://tardishire.co.uk/?p=4611 ; https://openjournals.library.sydney.edu.au/SUES/article/view/2129/2423
+
+Cut (sources disagree or are weak): share of US homes on septic (EPA says ~20% in 2015, ~25% in older releases),
+Mouras's first name (Jean-Louis vs John), years until opening (10 vs 12), patent date and country (1881 France vs England),
+scum/sludge pumping thresholds in inches (vary by state), "grease kills bacteria" (contradicted), additives claims.
+Not said: any tank size, depth or gallon capacity.

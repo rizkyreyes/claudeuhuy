@@ -1,0 +1,13 @@
+{
+ "slug": "why-septic-tanks-never-fill-up",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Why doesn't a septic tank ever fill up? Because it's already full. Let's cut it open. Wastewater from the house runs into a buried tank. A baffle turns the flow downward, so it doesn't churn up the tank. Then it sits, and gravity sorts it. Heavy solids sink to the bottom as sludge. Grease and oils float to the top as scum. In between is a layer of clear liquid. Bacteria in there, with no oxygen, slowly break down some of the solids. Now here's the trick. The liquid always sits right at the outlet pipe. So every gallon that flows in pushes one gallon out. A T-shaped outlet draws from the middle, so the scum and sludge stay behind. That liquid runs into the drainfield, perforated pipes laid in gravel trenches under the lawn. It trickles down through the soil, and the soil does most of the cleaning, filtering out germs before it reaches the groundwater. But the bacteria can't eat everything. Sludge slowly builds up, so every three to five years, a truck pumps it out. Around 1860, a Frenchman named Mouras ran his waste into a sealed tank. Years later he opened it, and it was almost free of solids. Is your home on septic, or on the sewer? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
