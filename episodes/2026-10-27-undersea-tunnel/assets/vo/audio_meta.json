@@ -1,0 +1,1336 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "How do you dig a tunnel under the sea without the sea coming in? It's a machine that builds the tunnel as it digs. Let's cut it open. Up front, a giant cutting wheel turns slowly. Steel discs roll over the rock and crush it into chips. But under the sea, the ground is soaked. Open the face, and water rushes in. So the chamber behind the wheel is filled with pressurized slurry. It pushes back on the mud and water, so the face holds. The muck mixes in and gets pumped to the surface, cleaned, and sent back. Behind it sits a steel tube, the shield. Inside, an arm picks up curved concrete pieces and bolts them into a ring. Then hydraulic jacks push off that new ring, and the machine shoves itself forward. Dig, build a ring, push. Over and over. Every piece has a rubber gasket around its edge. Squeezed tight, they keep the sea out. Grout fills the gap behind the rings. Under the English Channel, eleven boring machines did the job. They stayed in one layer of chalky rock that barely lets water through. In 1990, the two sides finally met. Then the British machines were steered into the rock and buried. Would you ride a train under the sea? Tell me in the comments.",
+   "wav": "vo.wav",
+   "duration": 74.72,
+   "speechStart": 0,
+   "speechEnd": 74.8,
+   "words": [
+    {
+     "id": "w0",
+     "text": "How",
+     "start": 0,
+     "end": 0.2
+    },
+    {
+     "id": "w1",
+     "text": "do",
+     "start": 0.24,
+     "end": 0.3
+    },
+    {
+     "id": "w2",
+     "text": "you",
+     "start": 0.32,
+     "end": 0.453
+    },
+    {
+     "id": "w3",
+     "text": "dig",
+     "start": 0.48,
+     "end": 0.613
+    },
+    {
+     "id": "w4",
+     "text": "a",
+     "start": 0.64,
+     "end": 0.72
+    },
+    {
+     "id": "w5",
+     "text": "tunnel",
+     "start": 0.8,
+     "end": 1.136
+    },
+    {
+     "id": "w6",
+     "text": "under",
+     "start": 1.2,
+     "end": 1.44
+    },
+    {
+     "id": "w7",
+     "text": "the",
+     "start": 1.52,
+     "end": 1.6
+    },
+    {
+     "id": "w8",
+     "text": "sea",
+     "start": 1.68,
+     "end": 2.08
+    },
+    {
+     "id": "w9",
+     "text": "without",
+     "start": 2.24,
+     "end": 2.4
+    },
+    {
+     "id": "w10",
+     "text": "the",
+     "start": 2.48,
+     "end": 2.56
+    },
+    {
+     "id": "w11",
+     "text": "sea",
+     "start": 2.68,
+     "end": 2.8
+    },
+    {
+     "id": "w12",
+     "text": "coming",
+     "start": 2.96,
+     "end": 3.12
+    },
+    {
+     "id": "w13",
+     "text": "in?",
+     "start": 3.2,
+     "end": 3.84
+    },
+    {
+     "id": "w14",
+     "text": "It's",
+     "start": 3.88,
+     "end": 4
+    },
+    {
+     "id": "w15",
+     "text": "a",
+     "start": 4.04,
+     "end": 4.08
+    },
+    {
+     "id": "w16",
+     "text": "machine",
+     "start": 4.32,
+     "end": 4.56
+    },
+    {
+     "id": "w17",
+     "text": "that",
+     "start": 4.68,
+     "end": 4.8
+    },
+    {
+     "id": "w18",
+     "text": "builds",
+     "start": 4.92,
+     "end": 5.12
+    },
+    {
+     "id": "w19",
+     "text": "the",
+     "start": 5.2,
+     "end": 5.28
+    },
+    {
+     "id": "w20",
+     "text": "tunnel",
+     "start": 5.32,
+     "end": 5.68
+    },
+    {
+     "id": "w21",
+     "text": "as",
+     "start": 5.8,
+     "end": 5.92
+    },
+    {
+     "id": "w22",
+     "text": "it",
+     "start": 6,
+     "end": 6.08
+    },
+    {
+     "id": "w23",
+     "text": "digs.",
+     "start": 6.12,
+     "end": 6.907
+    },
+    {
+     "id": "w24",
+     "text": "Let's",
+     "start": 6.933,
+     "end": 7.04
+    },
+    {
+     "id": "w25",
+     "text": "cut",
+     "start": 7.12,
+     "end": 7.2
+    },
+    {
+     "id": "w26",
+     "text": "it",
+     "start": 7.24,
+     "end": 7.28
+    },
+    {
+     "id": "w27",
+     "text": "open.",
+     "start": 7.36,
+     "end": 8.08
+    },
+    {
+     "id": "w28",
+     "text": "Up",
+     "start": 8.16,
+     "end": 8.32
+    },
+    {
+     "id": "w29",
+     "text": "front,",
+     "start": 8.56,
+     "end": 8.88
+    },
+    {
+     "id": "w30",
+     "text": "a",
+     "start": 8.96,
+     "end": 9.04
+    },
+    {
+     "id": "w31",
+     "text": "giant",
+     "start": 9.12,
+     "end": 9.44
+    },
+    {
+     "id": "w32",
+     "text": "cutting",
+     "start": 9.52,
+     "end": 9.84
+    },
+    {
+     "id": "w33",
+     "text": "wheel",
+     "start": 9.96,
+     "end": 10.08
+    },
+    {
+     "id": "w34",
+     "text": "turns",
+     "start": 10.24,
+     "end": 10.56
+    },
+    {
+     "id": "w35",
+     "text": "slowly.",
+     "start": 10.72,
+     "end": 11.573
+    },
+    {
+     "id": "w36",
+     "text": "Steel",
+     "start": 11.707,
+     "end": 11.84
+    },
+    {
+     "id": "w37",
+     "text": "discs",
+     "start": 12,
+     "end": 12.32
+    },
+    {
+     "id": "w38",
+     "text": "roll",
+     "start": 12.4,
+     "end": 12.64
+    },
+    {
+     "id": "w39",
+     "text": "over",
+     "start": 12.76,
+     "end": 12.88
+    },
+    {
+     "id": "w40",
+     "text": "the",
+     "start": 12.92,
+     "end": 12.96
+    },
+    {
+     "id": "w41",
+     "text": "rock",
+     "start": 13.04,
+     "end": 13.36
+    },
+    {
+     "id": "w42",
+     "text": "and",
+     "start": 13.44,
+     "end": 13.52
+    },
+    {
+     "id": "w43",
+     "text": "crush",
+     "start": 13.6,
+     "end": 13.92
+    },
+    {
+     "id": "w44",
+     "text": "it",
+     "start": 14,
+     "end": 14.08
+    },
+    {
+     "id": "w45",
+     "text": "into",
+     "start": 14.2,
+     "end": 14.32
+    },
+    {
+     "id": "w46",
+     "text": "chips.",
+     "start": 14.4,
+     "end": 15.24
+    },
+    {
+     "id": "w47",
+     "text": "But",
+     "start": 15.28,
+     "end": 15.52
+    },
+    {
+     "id": "w48",
+     "text": "under",
+     "start": 15.64,
+     "end": 15.76
+    },
+    {
+     "id": "w49",
+     "text": "the",
+     "start": 15.88,
+     "end": 16
+    },
+    {
+     "id": "w50",
+     "text": "sea,",
+     "start": 16.16,
+     "end": 16.36
+    },
+    {
+     "id": "w51",
+     "text": "the",
+     "start": 16.4,
+     "end": 16.48
+    },
+    {
+     "id": "w52",
+     "text": "ground",
+     "start": 16.64,
+     "end": 16.8
+    },
+    {
+     "id": "w53",
+     "text": "is",
+     "start": 16.92,
+     "end": 17.04
+    },
+    {
+     "id": "w54",
+     "text": "soaked.",
+     "start": 17.12,
+     "end": 17.92
+    },
+    {
+     "id": "w55",
+     "text": "Open",
+     "start": 18,
+     "end": 18.08
+    },
+    {
+     "id": "w56",
+     "text": "the",
+     "start": 18.16,
+     "end": 18.24
+    },
+    {
+     "id": "w57",
+     "text": "face,",
+     "start": 18.44,
+     "end": 18.72
+    },
+    {
+     "id": "w58",
+     "text": "and",
+     "start": 18.8,
+     "end": 18.88
+    },
+    {
+     "id": "w59",
+     "text": "water",
+     "start": 19.08,
+     "end": 19.28
+    },
+    {
+     "id": "w60",
+     "text": "rushes",
+     "start": 19.4,
+     "end": 19.68
+    },
+    {
+     "id": "w61",
+     "text": "in.",
+     "start": 19.76,
+     "end": 20.4
+    },
+    {
+     "id": "w62",
+     "text": "So",
+     "start": 20.52,
+     "end": 20.64
+    },
+    {
+     "id": "w63",
+     "text": "the",
+     "start": 20.72,
+     "end": 20.8
+    },
+    {
+     "id": "w64",
+     "text": "chamber",
+     "start": 20.88,
+     "end": 21.2
+    },
+    {
+     "id": "w65",
+     "text": "behind",
+     "start": 21.32,
+     "end": 21.6
+    },
+    {
+     "id": "w66",
+     "text": "the",
+     "start": 21.68,
+     "end": 21.76
+    },
+    {
+     "id": "w67",
+     "text": "wheel",
+     "start": 21.88,
+     "end": 22
+    },
+    {
+     "id": "w68",
+     "text": "is",
+     "start": 22.08,
+     "end": 22.32
+    },
+    {
+     "id": "w69",
+     "text": "filled",
+     "start": 22.44,
+     "end": 22.56
+    },
+    {
+     "id": "w70",
+     "text": "with",
+     "start": 22.64,
+     "end": 22.8
+    },
+    {
+     "id": "w71",
+     "text": "pressurized",
+     "start": 22.92,
+     "end": 23.6
+    },
+    {
+     "id": "w72",
+     "text": "slurry.",
+     "start": 23.68,
+     "end": 24.52
+    },
+    {
+     "id": "w73",
+     "text": "It",
+     "start": 24.56,
+     "end": 24.64
+    },
+    {
+     "id": "w74",
+     "text": "pushes",
+     "start": 24.72,
+     "end": 25.12
+    },
+    {
+     "id": "w75",
+     "text": "back",
+     "start": 25.2,
+     "end": 25.36
+    },
+    {
+     "id": "w76",
+     "text": "on",
+     "start": 25.4,
+     "end": 25.44
+    },
+    {
+     "id": "w77",
+     "text": "the",
+     "start": 25.52,
+     "end": 25.6
+    },
+    {
+     "id": "w78",
+     "text": "mud",
+     "start": 25.64,
+     "end": 25.76
+    },
+    {
+     "id": "w79",
+     "text": "and",
+     "start": 25.84,
+     "end": 25.92
+    },
+    {
+     "id": "w80",
+     "text": "water,",
+     "start": 26.12,
+     "end": 26.4
+    },
+    {
+     "id": "w81",
+     "text": "so",
+     "start": 26.44,
+     "end": 26.48
+    },
+    {
+     "id": "w82",
+     "text": "the",
+     "start": 26.56,
+     "end": 26.64
+    },
+    {
+     "id": "w83",
+     "text": "face",
+     "start": 26.72,
+     "end": 26.96
+    },
+    {
+     "id": "w84",
+     "text": "holds.",
+     "start": 27.4,
+     "end": 27.893
+    },
+    {
+     "id": "w85",
+     "text": "The",
+     "start": 27.947,
+     "end": 28
+    },
+    {
+     "id": "w86",
+     "text": "muck",
+     "start": 28.04,
+     "end": 28.32
+    },
+    {
+     "id": "w87",
+     "text": "mixes",
+     "start": 28.44,
+     "end": 28.72
+    },
+    {
+     "id": "w88",
+     "text": "in",
+     "start": 28.8,
+     "end": 28.96
+    },
+    {
+     "id": "w89",
+     "text": "and",
+     "start": 29.04,
+     "end": 29.12
+    },
+    {
+     "id": "w90",
+     "text": "gets",
+     "start": 29.24,
+     "end": 29.36
+    },
+    {
+     "id": "w91",
+     "text": "pumped",
+     "start": 29.44,
+     "end": 29.6
+    },
+    {
+     "id": "w92",
+     "text": "to",
+     "start": 29.68,
+     "end": 29.76
+    },
+    {
+     "id": "w93",
+     "text": "the",
+     "start": 29.8,
+     "end": 29.84
+    },
+    {
+     "id": "w94",
+     "text": "surface,",
+     "start": 29.92,
+     "end": 30.56
+    },
+    {
+     "id": "w95",
+     "text": "cleaned,",
+     "start": 30.72,
+     "end": 31.173
+    },
+    {
+     "id": "w96",
+     "text": "and",
+     "start": 31.227,
+     "end": 31.28
+    },
+    {
+     "id": "w97",
+     "text": "sent",
+     "start": 31.4,
+     "end": 31.52
+    },
+    {
+     "id": "w98",
+     "text": "back.",
+     "start": 31.88,
+     "end": 32.373
+    },
+    {
+     "id": "w99",
+     "text": "Behind",
+     "start": 32.507,
+     "end": 32.64
+    },
+    {
+     "id": "w100",
+     "text": "it",
+     "start": 32.76,
+     "end": 32.88
+    },
+    {
+     "id": "w101",
+     "text": "sits",
+     "start": 32.933,
+     "end": 33.04
+    },
+    {
+     "id": "w102",
+     "text": "a",
+     "start": 33.12,
+     "end": 33.2
+    },
+    {
+     "id": "w103",
+     "text": "steel",
+     "start": 33.28,
+     "end": 33.68
+    },
+    {
+     "id": "w104",
+     "text": "tube,",
+     "start": 34,
+     "end": 34.36
+    },
+    {
+     "id": "w105",
+     "text": "the",
+     "start": 34.4,
+     "end": 34.48
+    },
+    {
+     "id": "w106",
+     "text": "shield.",
+     "start": 34.56,
+     "end": 35.32
+    },
+    {
+     "id": "w107",
+     "text": "Inside,",
+     "start": 35.36,
+     "end": 36.053
+    },
+    {
+     "id": "w108",
+     "text": "an",
+     "start": 36.107,
+     "end": 36.16
+    },
+    {
+     "id": "w109",
+     "text": "arm",
+     "start": 36.24,
+     "end": 36.48
+    },
+    {
+     "id": "w110",
+     "text": "picks",
+     "start": 36.56,
+     "end": 36.72
+    },
+    {
+     "id": "w111",
+     "text": "up",
+     "start": 36.8,
+     "end": 36.96
+    },
+    {
+     "id": "w112",
+     "text": "curved",
+     "start": 37.04,
+     "end": 37.36
+    },
+    {
+     "id": "w113",
+     "text": "concrete",
+     "start": 37.44,
+     "end": 37.92
+    },
+    {
+     "id": "w114",
+     "text": "pieces",
+     "start": 38.12,
+     "end": 38.32
+    },
+    {
+     "id": "w115",
+     "text": "and",
+     "start": 38.44,
+     "end": 38.56
+    },
+    {
+     "id": "w116",
+     "text": "bolts",
+     "start": 38.64,
+     "end": 38.88
+    },
+    {
+     "id": "w117",
+     "text": "them",
+     "start": 38.96,
+     "end": 39.04
+    },
+    {
+     "id": "w118",
+     "text": "into",
+     "start": 39.16,
+     "end": 39.28
+    },
+    {
+     "id": "w119",
+     "text": "a",
+     "start": 39.32,
+     "end": 39.36
+    },
+    {
+     "id": "w120",
+     "text": "ring.",
+     "start": 39.44,
+     "end": 40.12
+    },
+    {
+     "id": "w121",
+     "text": "Then",
+     "start": 40.16,
+     "end": 40.48
+    },
+    {
+     "id": "w122",
+     "text": "hydraulic",
+     "start": 40.56,
+     "end": 41.04
+    },
+    {
+     "id": "w123",
+     "text": "jacks",
+     "start": 41.12,
+     "end": 41.52
+    },
+    {
+     "id": "w124",
+     "text": "push",
+     "start": 41.64,
+     "end": 41.76
+    },
+    {
+     "id": "w125",
+     "text": "off",
+     "start": 41.84,
+     "end": 42
+    },
+    {
+     "id": "w126",
+     "text": "that",
+     "start": 42.08,
+     "end": 42.16
+    },
+    {
+     "id": "w127",
+     "text": "new",
+     "start": 42.24,
+     "end": 42.4
+    },
+    {
+     "id": "w128",
+     "text": "ring,",
+     "start": 42.6,
+     "end": 42.827
+    },
+    {
+     "id": "w129",
+     "text": "and",
+     "start": 42.853,
+     "end": 42.88
+    },
+    {
+     "id": "w130",
+     "text": "the",
+     "start": 42.92,
+     "end": 42.96
+    },
+    {
+     "id": "w131",
+     "text": "machine",
+     "start": 43.24,
+     "end": 43.52
+    },
+    {
+     "id": "w132",
+     "text": "shoves",
+     "start": 43.6,
+     "end": 43.84
+    },
+    {
+     "id": "w133",
+     "text": "itself",
+     "start": 43.92,
+     "end": 44.32
+    },
+    {
+     "id": "w134",
+     "text": "forward.",
+     "start": 44.72,
+     "end": 45.2
+    },
+    {
+     "id": "w135",
+     "text": "Dig,",
+     "start": 45.52,
+     "end": 45.88
+    },
+    {
+     "id": "w136",
+     "text": "build",
+     "start": 45.92,
+     "end": 46.08
+    },
+    {
+     "id": "w137",
+     "text": "a",
+     "start": 46.12,
+     "end": 46.16
+    },
+    {
+     "id": "w138",
+     "text": "ring,",
+     "start": 46.24,
+     "end": 47.067
+    },
+    {
+     "id": "w139",
+     "text": "push.",
+     "start": 47.333,
+     "end": 47.64
+    },
+    {
+     "id": "w140",
+     "text": "Over",
+     "start": 47.68,
+     "end": 48.08
+    },
+    {
+     "id": "w141",
+     "text": "and",
+     "start": 48.2,
+     "end": 48.32
+    },
+    {
+     "id": "w142",
+     "text": "over.",
+     "start": 48.4,
+     "end": 49.16
+    },
+    {
+     "id": "w143",
+     "text": "Every",
+     "start": 49.2,
+     "end": 49.44
+    },
+    {
+     "id": "w144",
+     "text": "piece",
+     "start": 49.52,
+     "end": 49.76
+    },
+    {
+     "id": "w145",
+     "text": "has",
+     "start": 49.84,
+     "end": 49.92
+    },
+    {
+     "id": "w146",
+     "text": "a",
+     "start": 50.08,
+     "end": 50.107
+    },
+    {
+     "id": "w147",
+     "text": "rubber",
+     "start": 50.133,
+     "end": 50.4
+    },
+    {
+     "id": "w148",
+     "text": "gasket",
+     "start": 50.44,
+     "end": 50.8
+    },
+    {
+     "id": "w149",
+     "text": "around",
+     "start": 50.92,
+     "end": 51.04
+    },
+    {
+     "id": "w150",
+     "text": "its",
+     "start": 51.12,
+     "end": 51.2
+    },
+    {
+     "id": "w151",
+     "text": "edge.",
+     "start": 51.28,
+     "end": 51.96
+    },
+    {
+     "id": "w152",
+     "text": "Squeezed",
+     "start": 52,
+     "end": 52.4
+    },
+    {
+     "id": "w153",
+     "text": "tight,",
+     "start": 52.68,
+     "end": 53.013
+    },
+    {
+     "id": "w154",
+     "text": "they",
+     "start": 53.067,
+     "end": 53.12
+    },
+    {
+     "id": "w155",
+     "text": "keep",
+     "start": 53.24,
+     "end": 53.36
+    },
+    {
+     "id": "w156",
+     "text": "the",
+     "start": 53.44,
+     "end": 53.52
+    },
+    {
+     "id": "w157",
+     "text": "sea",
+     "start": 53.64,
+     "end": 53.76
+    },
+    {
+     "id": "w158",
+     "text": "out.",
+     "start": 53.84,
+     "end": 54.56
+    },
+    {
+     "id": "w159",
+     "text": "Grout",
+     "start": 54.64,
+     "end": 54.96
+    },
+    {
+     "id": "w160",
+     "text": "fills",
+     "start": 55.04,
+     "end": 55.28
+    },
+    {
+     "id": "w161",
+     "text": "the",
+     "start": 55.32,
+     "end": 55.36
+    },
+    {
+     "id": "w162",
+     "text": "gap",
+     "start": 55.44,
+     "end": 55.68
+    },
+    {
+     "id": "w163",
+     "text": "behind",
+     "start": 55.8,
+     "end": 56.08
+    },
+    {
+     "id": "w164",
+     "text": "the",
+     "start": 56.12,
+     "end": 56.16
+    },
+    {
+     "id": "w165",
+     "text": "rings.",
+     "start": 56.2,
+     "end": 57
+    },
+    {
+     "id": "w166",
+     "text": "Under",
+     "start": 57.04,
+     "end": 57.2
+    },
+    {
+     "id": "w167",
+     "text": "the",
+     "start": 57.28,
+     "end": 57.36
+    },
+    {
+     "id": "w168",
+     "text": "English",
+     "start": 57.52,
+     "end": 57.68
+    },
+    {
+     "id": "w169",
+     "text": "Channel,",
+     "start": 57.76,
+     "end": 58.373
+    },
+    {
+     "id": "w170",
+     "text": "eleven",
+     "start": 58.507,
+     "end": 58.88
+    },
+    {
+     "id": "w171",
+     "text": "boring",
+     "start": 58.96,
+     "end": 59.2
+    },
+    {
+     "id": "w172",
+     "text": "machines",
+     "start": 59.32,
+     "end": 59.68
+    },
+    {
+     "id": "w173",
+     "text": "did",
+     "start": 59.76,
+     "end": 59.84
+    },
+    {
+     "id": "w174",
+     "text": "the",
+     "start": 59.88,
+     "end": 59.92
+    },
+    {
+     "id": "w175",
+     "text": "job.",
+     "start": 60,
+     "end": 60.68
+    },
+    {
+     "id": "w176",
+     "text": "They",
+     "start": 60.72,
+     "end": 60.88
+    },
+    {
+     "id": "w177",
+     "text": "stayed",
+     "start": 60.92,
+     "end": 61.12
+    },
+    {
+     "id": "w178",
+     "text": "in",
+     "start": 61.24,
+     "end": 61.36
+    },
+    {
+     "id": "w179",
+     "text": "one",
+     "start": 61.48,
+     "end": 61.6
+    },
+    {
+     "id": "w180",
+     "text": "layer",
+     "start": 61.72,
+     "end": 61.84
+    },
+    {
+     "id": "w181",
+     "text": "of",
+     "start": 61.92,
+     "end": 62.08
+    },
+    {
+     "id": "w182",
+     "text": "chalky",
+     "start": 62.24,
+     "end": 62.48
+    },
+    {
+     "id": "w183",
+     "text": "rock",
+     "start": 62.56,
+     "end": 62.8
+    },
+    {
+     "id": "w184",
+     "text": "that",
+     "start": 62.92,
+     "end": 63.04
+    },
+    {
+     "id": "w185",
+     "text": "barely",
+     "start": 63.12,
+     "end": 63.44
+    },
+    {
+     "id": "w186",
+     "text": "lets",
+     "start": 63.52,
+     "end": 63.76
+    },
+    {
+     "id": "w187",
+     "text": "water",
+     "start": 63.92,
+     "end": 64.08
+    },
+    {
+     "id": "w188",
+     "text": "through.",
+     "start": 64.4,
+     "end": 64.773
+    },
+    {
+     "id": "w189",
+     "text": "In",
+     "start": 64.827,
+     "end": 64.88
+    },
+    {
+     "id": "w190",
+     "text": "1990,",
+     "start": 64.92,
+     "end": 65.813
+    },
+    {
+     "id": "w191",
+     "text": "the",
+     "start": 65.867,
+     "end": 65.92
+    },
+    {
+     "id": "w192",
+     "text": "two",
+     "start": 66,
+     "end": 66.24
+    },
+    {
+     "id": "w193",
+     "text": "sides",
+     "start": 66.28,
+     "end": 66.72
+    },
+    {
+     "id": "w194",
+     "text": "finally",
+     "start": 66.8,
+     "end": 67.2
+    },
+    {
+     "id": "w195",
+     "text": "met.",
+     "start": 67.52,
+     "end": 67.88
+    },
+    {
+     "id": "w196",
+     "text": "Then",
+     "start": 67.92,
+     "end": 68.24
+    },
+    {
+     "id": "w197",
+     "text": "the",
+     "start": 68.32,
+     "end": 68.4
+    },
+    {
+     "id": "w198",
+     "text": "British",
+     "start": 68.56,
+     "end": 68.72
+    },
+    {
+     "id": "w199",
+     "text": "machines",
+     "start": 68.84,
+     "end": 69.12
+    },
+    {
+     "id": "w200",
+     "text": "were",
+     "start": 69.2,
+     "end": 69.36
+    },
+    {
+     "id": "w201",
+     "text": "steered",
+     "start": 69.44,
+     "end": 69.76
+    },
+    {
+     "id": "w202",
+     "text": "into",
+     "start": 69.84,
+     "end": 70
+    },
+    {
+     "id": "w203",
+     "text": "the",
+     "start": 70.08,
+     "end": 70.16
+    },
+    {
+     "id": "w204",
+     "text": "rock",
+     "start": 70.4,
+     "end": 70.64
+    },
+    {
+     "id": "w205",
+     "text": "and",
+     "start": 70.76,
+     "end": 70.88
+    },
+    {
+     "id": "w206",
+     "text": "buried.",
+     "start": 70.96,
+     "end": 71.733
+    },
+    {
+     "id": "w207",
+     "text": "Would",
+     "start": 71.787,
+     "end": 71.84
+    },
+    {
+     "id": "w208",
+     "text": "you",
+     "start": 71.92,
+     "end": 72
+    },
+    {
+     "id": "w209",
+     "text": "ride",
+     "start": 72.08,
+     "end": 72.16
+    },
+    {
+     "id": "w210",
+     "text": "a",
+     "start": 72.24,
+     "end": 72.32
+    },
+    {
+     "id": "w211",
+     "text": "train",
+     "start": 72.48,
+     "end": 72.64
+    },
+    {
+     "id": "w212",
+     "text": "under",
+     "start": 72.72,
+     "end": 72.88
+    },
+    {
+     "id": "w213",
+     "text": "the",
+     "start": 72.96,
+     "end": 73.04
+    },
+    {
+     "id": "w214",
+     "text": "sea?",
+     "start": 73.36,
+     "end": 73.733
+    },
+    {
+     "id": "w215",
+     "text": "Tell",
+     "start": 73.787,
+     "end": 73.84
+    },
+    {
+     "id": "w216",
+     "text": "me",
+     "start": 73.88,
+     "end": 73.92
+    },
+    {
+     "id": "w217",
+     "text": "in",
+     "start": 73.96,
+     "end": 74
+    },
+    {
+     "id": "w218",
+     "text": "the",
+     "start": 74.04,
+     "end": 74.08
+    },
+    {
+     "id": "w219",
+     "text": "comments.",
+     "start": 74.32,
+     "end": 74.8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "slug": "how-undersea-tunnels-are-built",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "How do you dig a tunnel under the sea without the sea coming in? It's a machine that builds the tunnel as it digs. Let's cut it open. Up front, a giant cutting wheel turns slowly. Steel discs roll over the rock and crush it into chips. But under the sea, the ground is soaked. Open the face, and water rushes in. So the chamber behind the wheel is filled with pressurized slurry. It pushes back on the mud and water, so the face holds. The muck mixes in and gets pumped to the surface, cleaned, and sent back. Behind it sits a steel tube, the shield. Inside, an arm picks up curved concrete pieces and bolts them into a ring. Then hydraulic jacks push off that new ring, and the machine shoves itself forward. Dig, build a ring, push. Over and over. Every piece has a rubber gasket around its edge. Squeezed tight, they keep the sea out. Grout fills the gap behind the rings. Under the English Channel, eleven boring machines did the job. They stayed in one layer of chalky rock that barely lets water through. In 1990, the two sides finally met. Then the British machines were steered into the rock and buried. Would you ride a train under the sea? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

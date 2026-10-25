@@ -1,0 +1,40 @@
+Episode 3d-04 undersea-tunnel: claim -> source. Claims locked from concordant search-result excerpts of these pages
+(this run did not open publisher pages directly).
+
+- A TBM builds the tunnel lining as it advances: the segment erector places precast concrete segments in a ring;
+  the machine does not dig while a ring is being built
+  -> https://t2d.sa.gov.au/construction/tunnel-boring-machine ; https://crosscut.com/2013/07/diggng-it-tunnel-geeks-watching-bertha ;
+     https://patents.google.com/patent/US3859810A
+- The rotating cutterhead digs with cutting teeth and disc cutters; disc cutters roll over the rock, are pressed against the face
+  and crush it, cracks join up and chips break off
+  -> https://t2d.sa.gov.au/construction/tunnel-boring-machine ; https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2615083 ;
+     https://www.engineering.org.cn/engi/EN/1159834608697140017
+- "Turns slowly": full-scale tests show low cutterhead RPM breaks rock better (no RPM number is said in the VO)
+  -> https://nff.no/wp-content/uploads/sites/2/2020/04/15-Vassenden.pdf
+- Slurry shield: pressurized bentonite/clay suspension in the excavation chamber counteracts earth and groundwater pressure and
+  supports the face; used in unstable ground with high groundwater pressure; muck mixes into the slurry and is pumped to a
+  separation plant on the surface, which cleans the slurry so it is recycled
+  -> https://tunnel.ita-aites.org/en/how-to-go-underground/construction-methods/mechanized-tunnelling/slurry-shield ;
+     https://trenchlesspedia.com/definition/2552/slurry-tunnel-boring-machine-slurry-tbm ; https://tunnelpro.it/en/slurry-tbm
+- Segments are erected inside the tail shield; hydraulic thrust jacks push on the newly built ring to move the machine forward
+  -> https://www.mydigitalpublication.com/article/Design%2C+Manufacturing+and+Construction+of+Precast+Concrete+Tunnel+Segments/4402305/770950/article.html ;
+     https://link.springer.com/article/10.1007/s10706-023-02518-1 ; https://crosscut.com/2013/07/diggng-it-tunnel-geeks-watching-bertha
+- An annular void is left between the segments and the ground; it is filled with grout
+  -> https://link.springer.com/article/10.1007/s10706-023-02518-1 ; https://concrete.org/portals/0/files/pdf/webinars/ws_S18_Bakhshi.pdf
+- Gaskets (EPDM rubber) frame each segment; the concrete is virtually watertight, the joints are what must be sealed; gaskets
+  only work in compression; bolts compress them
+  -> https://legacy.csce.ca/elf/apps/CONFERENCEVIEWER/conferences/2018/pdfs/Paper_GC5_0607023944.pdf ;
+     https://www.si-eng.org/post/gaskets-for-tunnel-segments ; https://www.mdpi.com/2076-3417/12/9/4556/html
+- Channel Tunnel: 11 TBMs in total
+  -> https://wol.jw.org/en/wol/d/r1/lp-e/101994486 ; https://www.discoveryuk.com/?p=23587015
+- Channel Tunnel drives kept within the chalk marl, which is nearly impermeable and relatively easy to dig
+  -> https://geolsoc.org.uk/GeositesChannelTunnel ; https://www.vinci-construction-projets.com/es/realisations/tunnel-sous-la-manche/
+- Service tunnel breakthrough (the two sides met): 1 December 1990
+  -> https://tunneltalk.com/Channel-Tunnel-Dec10-20-years-on.php ; https://www.24-7pressrelease.com/press-release/179853/eurotunnel-celebrates-20-year-anniversary-of-linking-england-and-france
+- When the drives met, the French TBMs were dismantled; the British ones were diverted into the rock and buried/abandoned
+  -> https://mirror2.polsri.ac.id/wiki/wp/c/Channel_Tunnel.htm (Wikipedia mirror) ; https://www.robbinstbm.com/projects/the-channel-tunnel/
+
+Dropped (sources disagree or unverified): undersea length (37.9 vs 38 vs 39 km), depth below seabed (35/40/45/75 m figures vary),
+breakthrough misalignment (358 mm vs "30 cm" vs 36 cm), any RPM, thrust or water-pressure numbers, which machine types the
+Channel Tunnel drives used (the VO does not say they were slurry machines). The scene shows a generic slurry TBM; ring size
+and segment count are illustrative and are not stated in the voice-over. No real person is named or shown.
