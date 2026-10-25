@@ -168,7 +168,7 @@ show(text("STEERED\nINTO THE ROCK", 540, TOP_Y, 980, 300, 116, WHITE), C.steered
 show(text("BURIED", 540, TOP_Y, 900, 200, 190, RED), C.buried, C.would - 0.1, "slam", "deny");
 sound("earth", C.buried + 0.3, 0.6);
 // B16 CTA: a question to the viewer (comments), no channel name
-show(text("WOULD YOU RIDE A TRAIN\nUNDER THE SEA?", 540, TOP_Y, 980, 300, 100, WHITE), C.would, C.end, "slam", "whoosh");
+show(text("WOULD YOU RIDE A TRAIN\nUNDER THE SEA?", 540, TOP_Y, 980, 300, 84, WHITE), C.would, C.end, "slam", "whoosh");
 show(text("TELL ME IN THE COMMENTS", 540, TOP_Y + 215, 900, 80, 50, GOLD, BODY, { tracking: 60 }), C.tell, C.end, "rise", "ping");
 
 // ================= CAPTIONS (word groups, bottom zone) =================
@@ -221,7 +221,7 @@ for (const a of audio.sort((x, y) => x.start - y.start)) {
 const video = { type: "Video", id: 1, name: "Blender render - TBM cutaway", blendMode: "normal", activeRange: R(0, DUR), sourceRange: R(0, Math.min(DUR, RENDER_MS)),
   sourceIntrinsicDuration: RENDER_MS, volume: 0, transform: T([540, 960], [540, 960]), source: { assetId: RENDER_ID, fit: "contain" } };
 // slow push-in over the CTA
-for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.do), 100, "lin"], [DUR, 106, "lin"]]);
+for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.would), 100, "lin"], [DUR, 106, "lin"]]);
 const docPath = path.join(D, "editable.json");
 const doc = fs.existsSync(docPath) ? JSON.parse(fs.readFileSync(docPath, "utf8"))
   : { width: 1080, height: 1920, fps: FPS, duration: 0, composition: { id: "main", layers: [] } };   // skeleton: copy the laptop template over it
