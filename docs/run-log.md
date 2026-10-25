@@ -236,3 +236,7 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - Final render RTX 4060, 24 samples, OptiX, ~1.1 s/frame, 2295 frames in ~45 min; render.mp4 crf 14.
 - Tesseract: fixed "2 PAIRS OF WHEELS" overflowing its box (116 → 100 px), "TEETH IN THE GROOVES" label pointed at an off-screen anchor (now 260 px inside the comb), pad bed range capped at its 76 s length. Export 76.5 s, -15.4 LUFS, true peak -1.4 dBTP, no black frames.
 - Covers: A "WHERE DO / THE STAIRS GO?" (frame 1110) and B "ALWAYS / LEVEL?!" (frame 1040, level line moved onto the tread). Sent to Rizky for approval; nothing scheduled yet.
+
+## 2026-10-25 (laptop) 3d-03 escalator-steps
+- Morning task rendered (2295 frames, ~1.3 s/frame) and assembled (76.5 s, -15.4 LUFS). Rizky: "setuju A". Upload file re-encoded to 48 MB (crf 21) to stay under GitHub 50 MB.
+- Scheduled in Buffer for Mon 26 Oct ET: TikTok 1 PM, Instagram 7 PM, YouTube 8 PM.
