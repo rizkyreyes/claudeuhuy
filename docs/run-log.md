@@ -229,3 +229,10 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Blender: 4 rounds of CPU stills. Fixed: overexposure (lights, reflection world, slab and body materials), hook camera hugging the cladding (now looks up the steps from the bottom landing), drive pulley hiding the gear (smaller), motor floating below the truss (moved inside between the runs, horizontal belt), chain hidden behind the wheels (moved outboard, taller plates), underneath shot not showing the return run. 8 stills in `checks/`.
   - vidIQ titles: "Why Do Escalator Steps Stay Flat the Whole Way Up? #shorts" 95 (kept) vs "Every Escalator Step Rides on Two Hidden Tracks #shorts" 87 (10 credits). One youtube_search call failed on the tool's own schema (no credits shown used).
   - Open issues: no GPU preview here, so check motion on the laptop (chain array sliding on its curve, wheel spin, the cladding slide at 7.0 s, steps hiding cleanly for the 1896 belt at 59.6–65.0 s). 50 of 95 caption groups dropped as title duplicates. Glass balustrade still catches a bright reflection in some shots. `sfx/` is generated on the laptop (`node synth_sfx.js`), not committed.
+
+## 2026-10-25 (laptop, morning run) 3d-03 escalator-steps
+- Runpod: no pods. Poly Haven not used by this scene.
+- 15 GPU check stills at 50 % (OptiX): scene clean, no script fixes needed. Note: `--out checks_local` (relative) made Blender write to C:\checks_local; pass an absolute --out path next time.
+- Final render RTX 4060, 24 samples, OptiX, ~1.1 s/frame, 2295 frames in ~45 min; render.mp4 crf 14.
+- Tesseract: fixed "2 PAIRS OF WHEELS" overflowing its box (116 → 100 px), "TEETH IN THE GROOVES" label pointed at an off-screen anchor (now 260 px inside the comb), pad bed range capped at its 76 s length. Export 76.5 s, -15.4 LUFS, true peak -1.4 dBTP, no black frames.
+- Covers: A "WHERE DO / THE STAIRS GO?" (frame 1110) and B "ALWAYS / LEVEL?!" (frame 1040, level line moved onto the tread). Sent to Rizky for approval; nothing scheduled yet.

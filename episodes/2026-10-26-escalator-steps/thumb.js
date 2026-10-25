@@ -24,7 +24,7 @@ const SETS = {
   A: [text("WHERE DO", 540, 360, 1000, 200, 200, WHITE), text("THE STAIRS GO?", 540, 545, 1000, 160, 140, RED),
       ...ring("Flatten ring", 560, 900, 760, 360, RED)],
   B: [text("ALWAYS", 540, 360, 1000, 200, 210, WHITE), text("LEVEL?!", 540, 545, 1000, 160, 160, RED),
-      rect("Level line", 446, 912, 420, 12, RED), rect("Level line outline", 446, 912, 428, 20, INK)],
+      rect("Level line", 452, 921, 300, 12, RED), rect("Level line outline", 452, 921, 308, 20, INK)],
 };
 const L = [...SETS[OPT], rect("Title shade", 540, 452, 1080, 420, SHADE), img];
 const f = path.join(__dirname, "editable-thumb.json");

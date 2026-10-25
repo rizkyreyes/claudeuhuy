@@ -107,7 +107,7 @@ tracked("DRIVE GEAR", "gear", C.gears, C.every - 0.15, 150, -150, GOLD);
 sound("clunk", C.gears, 0.55); sound("rattle", C.pull, 0.4);
 show(text("EVERY STEP\nRIDES THE CHAIN", 540, TOP_Y, 980, 300, 108, WHITE), C.every, C.look - 0.12, "slam", "impact");
 // B5 one step, two pairs of wheels
-show(text("2 PAIRS OF WHEELS", 540, TOP_Y, 980, 200, 116, WHITE), C.two2, C.front - 0.1, "slam", "impact");
+show(text("2 PAIRS OF WHEELS", 540, TOP_Y, 980, 200, 100, WHITE), C.two2, C.front - 0.1, "slam", "impact");
 sound("roll", C.look, 0.3);
 tracked("FRONT WHEELS", "hero_fw", C.front, C.back - 0.12, 140, -170, GOLD);
 sound("rattle", C.chain2, 0.35);
@@ -141,7 +141,8 @@ show(text("MELTS INTO\nTHE FLOOR", 540, TOP_Y, 980, 300, 116, WHITE), C.melt, C.
 EV.comb_clack.filter(t => t > C.near && t < C.handrail).forEach((t, i) => sound("clack", t, 0.22 + 0.06 * (i % 2)));
 // B8 comb plate
 show(text("COMB PLATE", 540, TOP_Y, 900, 200, 150, GOLD), C.comb, C.teeth - 0.1, "slam", "impact");
-tracked("TEETH IN THE GROOVES", "comb", C.teeth, C.handrail - 0.15, -150, -170, GOLD);
+TL.anchors.comb_in = TL.anchors.comb.map(([x, y]) => [x - 260, y]);   // comb anchor sits on the frame edge in the macro; point at the teeth inside it
+tracked("TEETH IN THE GROOVES", "comb_in", C.teeth, C.handrail - 0.15, -150, -170, GOLD);
 show(text("TINY GAP", 540, TOP_Y, 900, 200, 150, WHITE), C.gap, C.handrail - 0.1, "slam", "impact");
 // B9 handrail
 tracked("HANDRAIL", "handrail", C.handrail, C.underneath - 0.15, 150, -150, GOLD);
@@ -212,7 +213,7 @@ let aid = 2000;
 audioLayers.push({ type: "Audio", id: aid++, name: "VO - Liam (Eleven v4 Turbo)", windowMs: VO_MS,
   activeRange: R(ms(VO), Math.min(DUR - ms(VO), VO_MS)), sourceRange: R(0, Math.min(DUR - ms(VO), VO_MS)),
   sourceIntrinsicDuration: VO_MS, source: { assetId: "vo" }, volume: 0.86, captionsEnabled: false });
-audioLayers.push({ type: "Audio", id: aid++, name: "Bed - ambient pad", windowMs: 76000, activeRange: R(0, DUR), sourceRange: R(0, DUR),
+audioLayers.push({ type: "Audio", id: aid++, name: "Bed - ambient pad", windowMs: 76000, activeRange: R(0, Math.min(DUR, 76000)), sourceRange: R(0, Math.min(DUR, 76000)),
   sourceIntrinsicDuration: 76000, source: { assetId: "sfx-pad-bed" }, volume: 0.30, captionsEnabled: false });
 for (let t = 0; t < DUR / 1000; t += 7.8) sound("hum", t, t < 6 ? 0.26 : 0.18);       // escalator machine hum under everything
 const used = new Set();
