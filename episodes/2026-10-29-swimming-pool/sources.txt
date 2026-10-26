@@ -1,0 +1,38 @@
+Episode 3d-06 swimming-pool: claim -> source. Claims locked from concordant search-result excerpts of these pages
+(this run could not open publisher pages directly: wikipedia.org and others gave DNS errors from the cloud box).
+
+- Build order of a gunite / shotcrete pool: layout + excavation, steel (rebar) cage incl. steps and benches, plumbing rough-in
+  through the steel before the concrete, gunite/shotcrete sprayed at high velocity onto the steel and troweled smooth,
+  curing kept moist, waterline tile + coping, interior plaster finish, then filled
+  -> https://ssgpools.com/gunite-pools-your-complete-resource-guide/ ; https://projul.com/blog/construction-pool-spa-construction-guide/ ;
+     https://www.cotality.com/resources/gunite-swimming-pools-wildfire-damage-recovery-and-resilience ; https://projul.com/blog/construction-swimming-pool-aquatic-facility-guide
+- The hole is over-dug beyond the shell (room for plumbing, rebar and shotcrete)
+  -> https://projul.com/blog/construction-pool-spa-construction-guide/
+- Gunite = dry mix (water added at the nozzle), shotcrete = wet mix
+  -> https://ssgpools.com/gunite-pools-your-complete-resource-guide/ ; https://en.wikipedia.org/wiki/Shotcrete ; https://cameo.mfa.org/wiki/Gunite
+- Concrete is strong in compression and weak in tension; steel rebar carries the tension
+  -> https://en.wikipedia.org/wiki/Rebar ; https://practical.engineering/blog/2018/8/1/why-does-concrete-need-reinforcement
+- Main drain at the deep end + skimmer at the waterline (suction), pump pushes water through the filter, return jets send it back
+  -> https://en.wikipedia.org/wiki/Pool_skimmer ; https://www.riverpoolsandspas.com/blog/how-do-pool-pump-and-filter-systems-work ;
+     https://www.swimuniversity.com/pool-anatomy/ ; https://poolonomics.com/parts-of-a-pool/
+- Plaster is the layer that makes the shell watertight; bare concrete is porous and lets moisture seep through slowly
+  -> https://bluehaven.com/?p=14360 ; https://www.troublefreepool.com/goto/post?id=2173433
+- An empty pool can be lifted ("popped") out of the ground by buoyancy when groundwater is high
+  -> https://degenkolb.com/ideas/when-swimming-pools-pop/ ; https://www.envistaforensics.com/knowledge-center/insights/articles/floating-swimming-pools-part-i/ ;
+     https://geoprac.net/2015/08/florida-pool-pushed-out-of-ground-after-heavy-rains/
+- A hydrostatic relief valve (often in the main drain) opens and lets groundwater in when the outside pressure is higher
+  -> https://watershapes.com/singing-the-relief-valve-blues/ ; https://www.sunplay.com/blog/faqs-hydrostatic-relief-plugs/ ; https://www.1stdirectpools.com/1-5-hydro-relief-valve-abs/
+- History: Carl Akeley (taxidermist, Field Columbian Museum, Chicago) developed the cement gun to replaster the museum's facade;
+  patent No. 991814 (1911 most cited), "gunite" coined later. "Over a hundred years ago" is true for every date in the sources.
+  -> https://en.wikipedia.org/wiki/Shotcrete ; https://en.wikipedia.org/wiki/Carl_Akeley ; https://shotcrete.org/wp-content/uploads/2020/05/2017Fal_Morgan-Bernard.pdf ;
+     https://shotcrete.org/wp-content/uploads/2020/05/2015Sum_Samuels-Drakeley.pdf ; https://watershapes.com/?p=30671
+
+Cut (sources disagree or are weak): the year of the first use (1907 vs 1910-11 vs 1895), patent year (1908 vs 1911), the claim that
+Akeley used sprayed concrete for taxidermy (contradicted), curing time (28 days vs 7-10 days), shell thicknesses, build time in weeks,
+turnover hours, pressure-test psi. Not said: any pool size, depth or gallon figure (sizes in the scene are illustrative).
+
+Cover photos (Pexels licence, free for commercial use, no attribution required; logged for provenance):
+- cover/photo_A.jpg: "Swimming pool in garden of cottage" by Wendy Wei, https://www.pexels.com/photo/swimming-pool-in-garden-of-cottage-5306735/
+- cover/photo_B.jpg: "Abandoned empty pools" by Mary Se, https://www.pexels.com/photo/abandoned-empty-pools-24789775/
+Textures + HDRI: Poly Haven CC0 (grass_ground, excavated_soil_wall, brushed_concrete, blue_floor_tiles_01, kloofendal_48d_partly_cloudy_puresky).
+vidIQ research: outliers for "how a swimming pool is built" (Shorts): e.g. "How swimming pools are built #engineering #3d" 131x breakout (1 week old).

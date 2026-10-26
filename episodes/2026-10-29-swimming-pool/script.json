@@ -1,0 +1,13 @@
+{
+ "slug": "how-a-swimming-pool-is-built",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "How is a backyard swimming pool actually built? Let's cut one open. First, a crew digs the hole a little bigger than the pool. Next comes a cage of steel bars, across the floor, up the walls and into the steps. Concrete is great at being squeezed, but it cracks when it's pulled, so the steel takes the pulling. Then the plumbing: a main drain at the deep end, a skimmer at the waterline, and return jets. Now the fun part. A hose blasts concrete onto the steel. Dry mix is gunite, wet mix is shotcrete, and the crew smooths the shell by hand. Then it's kept wet while it cures. Tile goes on at the waterline, coping caps the edge, and plaster seals the inside, because bare concrete slowly lets water seep through. Fill it up, and the loop starts. The pump pulls water through the drain and skimmer, pushes it through the filter, and sends it back out the jets. Here's the scary part. Drain a pool when the groundwater is high, and it can float out of the ground. That's why many pools have a relief valve that lets groundwater in. And that concrete gun? A taxidermist named Carl Akeley built it over a hundred years ago, to replaster a museum in Chicago. Would you pick a concrete pool or an above-ground one? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
