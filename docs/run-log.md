@@ -263,3 +263,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 ## 2026-10-26 (laptop) 3d-05 septic-tank
 - No Runpod pods running. GPU checks: 14+9 stills at 50 %. Fixes: 'buried tank' shot (7.7-9 s) cut the tank in half, now a wider shot with house, inlet pipe and whole tank (frames 200-285 re-rendered); FROM THE HOUSE label ends before the camera swings to the baffle; GRAVEL label moved below the trenches so it clears PERFORATED PIPE; cover A red line levelled (-0.4 deg).
 - Final render 2213 frames on RTX 4060 (~2 s/frame, ~75 min). Septic.mp4 1080x1920 30 fps 73.77 s, -15.7 LUFS integrated, true peak -1.0 dBTP. Covers A (ALWAYS / FULL?!) and B (IT NEVER / FILLS UP?!) rendered. Waiting for Rizky's setuju.
+
+## 2026-10-26 (laptop) 3d-05 septic-tank
+- Morning task ran at 19:09 WIB (app opened late), rendered + assembled by 20:30. Rizky: "setuju a". Scheduled Wed 28 Oct ET: IG 12 PM, YT 7 PM, TikTok 10 PM.
