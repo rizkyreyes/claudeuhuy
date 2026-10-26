@@ -36,9 +36,9 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 
 ## Cover / thumbnail
 - **Cover photo = a REAL photo of the subject, not a frame from the video** (Rizky, 26 Oct 2026). Search Pexels first, then Pixabay (`pipeline/stock.mjs`, portrait). Pick a sharp, well-lit photo where the object fills the frame and reads at thumbnail size. Only free-licence stock (Pexels / Pixabay licence, commercial use OK); no identifiable faces, no readable brand logos or watermarks; never AI-generated. Save it as `<episode>/cover/photo_A.jpg` and `photo_B.jpg` (two different photos), and log photographer + page URL in `sources.txt`. If no usable real photo exists, fall back to a Blender frame and say so in `cover.md`.
-- Then just add the words: Anton title (white line + red line), dark gradient behind the text only if needed for contrast; no rings or diagrams unless they make the paradox clearer.
+- Then just add the words: **Poppins ExtraBold** title, a more modern font than Anton (Rizky, 26 Oct 2026); in Tesseract family `Poppins`, style `ExtraBold`, ALL CAPS, tracking about -10, white line ~150 px + red line ~112 px, 10 px black stroke (white line + red line), dark gradient behind the text only if needed for contrast; no rings or diagrams unless they make the paradox clearer.
 - 1080x1920. Make it a **curiosity contrast**, not a plain label (Rizky rejected "UNDER THE RIVER" as flat): show the paradox in the picture (e.g. crew standing dry below a red river-level line) and title it as a surprise or question ("BONE DRY / UNDERWATER?!", "WORKING / UNDER A RIVER"). Offer 2 options.
-- Research-backed style: extreme close-up of the mechanism, one strong contrast colour (red), 2–3 word title in Anton. Keep title + subject inside the central **3:4 crop (y 240–1680)** so the profile grid shows it whole. No brand line, no caption tag on the cover.
+- Research-backed style: extreme close-up of the mechanism, one strong contrast colour (red), 2–3 word title in Poppins ExtraBold (not Anton). Keep title + subject inside the central **3:4 crop (y 240–1680)** so the profile grid shows it whole. No brand line, no caption tag on the cover.
 
 ## Publishing (Buffer) — per-platform US peak slot for that weekday (ET)
 | Day | TikTok | Instagram Reels | YouTube Shorts |
