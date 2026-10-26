@@ -99,7 +99,7 @@ show(text("IT'S ALREADY FULL", 540, TOP_Y, 980, 200, 116, CYAN), C.already - 0.0
 // B2 cut open: the front wall drops away
 sound("riser", C.lets, 0.35, 1.05); sound("slab", C.open + 0.35, 0.55); sound("whoosh", C.open, 0.45, 0.25);
 // B3 inlet + baffle
-tracked("FROM THE HOUSE", "inlet", C.house - 0.1, C.baffle - 0.15, 0, -170, WHITE);
+tracked("FROM THE HOUSE", "inlet", C.house - 0.1, C.buried + 0.5, 0, -170, WHITE);   // ends before the camera swings to the baffle and the inlet leaves frame
 show(text("BURIED TANK", 540, TOP_Y, 980, 200, 124, WHITE), C.buried, C.baffle - 0.1, "slam", "impact");
 sound("flush", C.wastewater - 0.2, 0.45);
 tracked("BAFFLE", "baffle", C.baffle, C.then - 0.15, 150, -150, GOLD);
@@ -133,7 +133,7 @@ show(text("SCUM + SLUDGE\nSTAY BEHIND", 540, TOP_Y, 980, 300, 112, RED), C.scum2
 show(text("DRAINFIELD", 540, TOP_Y, 980, 200, 160, WHITE), C.drainfield, C.perforated - 0.1, "slam", "impact");
 sound("lift", EV.lid_up, 0.5);
 tracked("PERFORATED PIPE", "drainpipe", C.perforated, C.trenches + 0.2, 120, -170, GOLD);
-tracked("GRAVEL", "gravel", C.gravel, C.lawn - 0.1, -150, -150, WHITE);
+tracked("GRAVEL", "gravel", C.gravel, C.lawn - 0.1, -150, 170, WHITE);   // below the trenches so it clears the PERFORATED PIPE pill
 show(text("UNDER THE LAWN", 540, TOP_Y, 980, 200, 116, WHITE), C.lawn, C.trickles - 0.1, "rise", null);
 sound("slab", EV.lid_down + 0.5, 0.5);
 // B9 soil filters the water, germs stop, clean water reaches the groundwater

@@ -1,4 +1,4 @@
-// Cover thumbnail (1080x1920) for Shorts / TikTok / Reels. Usage: OPT=A|B node thumb.js  (writes editable-thumb.json)
+﻿// Cover thumbnail (1080x1920) for Shorts / TikTok / Reels. Usage: OPT=A|B node thumb.js  (writes editable-thumb.json)
 // A: image asset "thumbA" = Blender frame 915 (tank cut open, level line at the outlet), red line on the level, title at the top.
 // B: image asset "thumbB" = Blender frame 1150 (layers + arrows into the T outlet), red ring on the tee.
 // Everything sits inside the 3:4 profile-grid crop (y 240-1680). No brand line, no caption tag.
@@ -22,7 +22,7 @@ const img = { type: "Image", id: 1, name: "Render", blendMode: "normal", activeR
 // positions from the projected anchors (frame 915: level (858, 852); frame 1150: tee (679, 931))
 const SETS = {
   A: [text("ALWAYS", 540, 360, 1000, 220, 220, WHITE), text("FULL?!", 540, 540, 1000, 180, 170, RED),
-      rect("Level line", 540, 850, 1000, 12, RED, 0, 1.5), rect("Level line outline", 540, 850, 1008, 20, INK, 0, 1.5),
+      rect("Level line", 540, 852, 1000, 12, RED, 0, -0.4), rect("Level line outline", 540, 852, 1008, 20, INK, 0, -0.4),
       rect("Title shade", 540, 450, 1080, 420, SHADE)],
   B: [text("IT NEVER", 540, 350, 1000, 200, 200, WHITE), text("FILLS UP?!", 540, 530, 1000, 160, 150, RED),
       ...ring("Tee ring", 680, 930, 260, 330, RED), rect("Title shade", 540, 440, 1080, 420, SHADE)],
