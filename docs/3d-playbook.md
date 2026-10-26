@@ -10,7 +10,7 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 
 ## Script and voice
 - **Hook = always a question** (Rizky, 24 Oct 2026): the first sentence asks the question the video answers ("How do you build a bridge pillar in the middle of a river?"), complete in the first 2 seconds, shown as the opening title.
-- **CTA = a question to the viewer** (Rizky, 24 Oct 2026): the last line asks something about the topic that people can answer in one comment, then "Tell me in the comments." Example: "Would you work down there, with a river right over your head?" No "follow" line, and **never the channel name** (no "Hidden In Your Home" on screen or in the VO). On screen: the question as the closing title (Anton, white) + "TELL ME IN THE COMMENTS" (Poppins, gold). One continuous take. ~3 words/s; v4 Turbo talks fast: 235 words ≈ 74 s.
+- **CTA = a question to the viewer** (Rizky, 24 Oct 2026): the last line asks something about the topic that people can answer in one comment, then "Tell me in the comments." Example: "Would you work down there, with a river right over your head?" No "follow" line, and **never the channel name** (no "Hidden In Your Home" on screen or in the VO). On screen: the question as the closing title (Poppins ExtraBold, white) + "TELL ME IN THE COMMENTS" (Poppins, gold). One continuous take. ~3 words/s; v4 Turbo talks fast: 235 words ≈ 74 s.
 - ElevenLabs model **`eleven_v4_turbo`**, voice **Liam** (voiceId `TX3LPaxmHKxFdv7VOQHJ`, "Liam - Energetic, Social Media Creator"), language `en`. v4 Turbo ignores the `speed` setting: fix length by adding/cutting words, never by speeding up audio.
 - Word-level timestamps from `/with-timestamps`. Every animation cue is a WORD, resolved as "next occurrence after the previous cue".
 - Facts: verify on reputable sources before writing; if sources disagree, drop the specific claim (e.g. door lock: "a father and son named Yale", no patent year). Log sources in the episode's `sources.txt`.
@@ -21,7 +21,7 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 - Final render: 24 samples + OptiX denoise, adaptive threshold 0.03, motion blur OFF (it multiplies render time). Stills for checks at 25–50 %.
 
 ## Typography (Tesseract)
-- Fonts: **Anton** (display titles, counters) and **Poppins ExtraBold** (captions, labels). In Tesseract, Poppins resolves as family `Poppins`, style `ExtraBold`.
+- Fonts: **Poppins ExtraBold for everything** (titles, counters, captions, labels, covers). Anton is retired (Rizky, 26 Oct 2026: "biar semua seragam", more modern). In Tesseract: family `Poppins`, style `ExtraBold`. In `timeline.js` set `const DISPLAY = { fontFamily: "Poppins", fontStyle: "ExtraBold" }` and scale the old Anton sizes by about 0.75 (Poppins is much wider; e.g. 170 -> 128, 118 -> 88), tracking about -10 on titles, then check every title fits its box on 1-2 lines in the filmstrip. Do not import Anton any more.
 - Palette: white, gold `#FABD45`, cyan `#4DEBFF` (the glowing technical line), red `#FF4D3D` (failure/danger).
 - Kinetic titles land on their word (slam / pop / rise) with a sound. Counters only for numbers the narration says.
 - Part labels: dot + leader line + label, **tracked to the 3D part** with per-frame projected coordinates exported from Blender; labels flip side automatically to stay on screen.

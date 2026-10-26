@@ -40,6 +40,7 @@ Verify every claim on reputable sources (official, Wikipedia + its citations, en
 - If Blender installed: render 6–8 CPU stills across the beats (`/opt/blender/blender -b -P build_scene.py -- --stills <frames> --pct 25 --samples 8 --out checks/` with Cycles on CPU), **look at them** (open the PNGs), fix what is wrong (pieces in wrong places, objects never hidden, camera framing, empty sky), re-render. Commit the final small stills in `checks/` (≤ 8 PNGs at 25 %).
 
 ## Step 6 — Typography, captions and sound
+- All on-screen type is Poppins ExtraBold (playbook Typography; set DISPLAY to Poppins and scale old Anton sizes by ~0.75).
 - `<episode>/timeline.js` adapted from `pipeline3d/example-door-lock/timeline.js`: titles on their words, counters, tracked part labels, captions (1–3 words, safe area, title-duplicate captions dropped), SFX on every type entrance and mechanical event, pad bed, mix targets.
 - `<episode>/synth_sfx.js` for any new foley the scene needs (adapt `synth_lock.js` / `synth_fx.js`).
 - Cover: find two REAL photos of the subject (Pexels, then Pixabay via `pipeline/stock.mjs`; free licence, no faces, no logos, not AI), download them to `<episode>/cover/photo_A.jpg` / `photo_B.jpg`, credit them in `sources.txt`. `<episode>/thumb.js` (asset ids `thumbA`/`thumbB` = those photos, cropped to 1080x1920) + `cover.md`: the 2–3 word title per option in Poppins ExtraBold (not Anton) (playbook cover rules, 3:4 safe crop). Only if no usable real photo exists, use a Blender frame and say why.
