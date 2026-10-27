@@ -1,0 +1,38 @@
+Episode 3d-07 elevator-brakes: claim -> source. Claims locked from concordant search-result excerpts of these pages
+(this run could not open publisher pages directly: wikipedia.org and howstuffworks.com gave DNS errors from the cloud box).
+
+- A traction elevator hangs from several parallel steel hoist ropes; codes require at least three for traction elevators
+  -> https://www.dir.ca.gov/Title8/3042.html (Cal. Code of Regs. Title 8 §3042: "minimum number of hoisting ropes ... three for traction elevators")
+     https://regulations.justia.com/states/california/title-8/division-1/chapter-4/subchapter-6/group-ii/article-8/section-3042
+- The ropes are built many times stronger than the load (minimum factor of safety = rope breaking strength / static load, about 7.6-11.9
+  depending on speed; 8.60 for passenger elevators at 200 ft/min). Spoken only as "many times stronger", no number.
+  -> https://www.dir.ca.gov/Title8/3042.html (Table 3042E1) ; https://elevatorworld.com/article/building-suspense/
+- A counterweight balances the car (car weight plus part of the rated load), so the motor only moves the difference
+  -> https://science.howstuffworks.com/transport/engines-equipment/elevator3.htm ; https://www.scribd.com/doc/305720343/basic-elevator-components
+- The machine brake is spring-applied and electrically released: springs hold it on, a solenoid/electromagnet pulls it off,
+  so losing power sets the brake
+  -> https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/5228364 ; https://www.hilliardcorp.com/braking-systems-elevator-modernization/ ;
+     https://www.kebamerica.com/blog/spring-set-brakes-how-it-works/
+- Overspeed governor: a sheave with its own governor rope looped from the machine room to a tension pulley in the pit, connected to the car;
+  centrifugal flyweights swing out when the car goes too fast and trip the governor, which grips/stops the governor rope
+  -> https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8931598 ; https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9033111 ;
+     https://patents.google.com/patent/US9033111
+- The stopped governor rope pulls the safety linkage on the moving car, which drives wedges against the guide rails; the car moving down
+  relative to the wedges makes them bite harder (self-tightening), so the car stops on the rails without the hoist ropes
+  -> https://patents.google.com/patent/US5159995 ; https://data.epo.org/publication-server/rest/v1.2/patents/EP0432634NWB1/document.html ;
+     https://www.firgelliauto.com/blogs/mechanisms/elevator-safety-gear (mechanism only; its numbers are not used)
+- Pit buffers stop a car or counterweight that goes past its normal limit: spring buffers (slower elevators) and oil buffers (faster)
+  -> https://patents.google.com/patent/US5238088A/en ; https://patents.google.com/patent/US3857555A ; https://patents.google.com/patent/US2744587A/en
+- History: in 1854, at the Exhibition of the Industry of All Nations (New York Crystal Palace), mechanic Elisha Otis rode his safety hoist
+  platform up high in front of a crowd and had the rope cut; a wagon spring snapped into ratchet teeth on the guide rails and the platform held
+  -> https://en.wikipedia.org/wiki/Elisha_Otis ; https://www.britannica.com/topic/Elisha-Otis ; https://www.asme.org/topics-resources/content/elisha-graves-otis ;
+     https://www.guinnessworldrecords.com/world-records/72451-first-safety-elevator-lift
+
+Cut (sources disagree or are weak): the "All safe, gentlemen" quote (reported, not verified), what cut the rope (ax / knife / saber),
+how far the platform dropped (inches vs two feet), whether P. T. Barnum staged it, the 1853 vs 1854 demo year (1854 used: Crystal Palace
+run May-Oct 1854 is the common account), 115 % trip speed, rope counts beyond "at least three", the 40 % counterweight figure.
+No people are depicted: the 1854 platform rides empty, Otis appears only as a name on screen.
+
+Cover photos (Pexels licence, free commercial use, no faces, no logos, not AI):
+- cover/photo_A.jpg: "A stainless steel narrow elevator" by Max Vakhtbovych -> https://www.pexels.com/photo/a-stainless-steel-narrow-elevator-7722159/
+- cover/photo_B.jpg: "Industrial elevator shaft with luminous lighting" by Simeon Maryska -> https://www.pexels.com/photo/industrial-elevator-shaft-with-luminous-lighting-31786111/
