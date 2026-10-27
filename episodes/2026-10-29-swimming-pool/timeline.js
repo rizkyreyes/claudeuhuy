@@ -211,7 +211,7 @@ const audioLayers = [];
 let aid = 2000;
 audioLayers.push({ type: "Audio", id: aid++, name: "VO - Liam (Eleven v4 Turbo)", windowMs: VO_MS,
   activeRange: R(ms(VO), Math.min(DUR - ms(VO), VO_MS)), sourceRange: R(0, Math.min(DUR - ms(VO), VO_MS)),
-  sourceIntrinsicDuration: VO_MS, source: { assetId: "vo" }, volume: 0.86, captionsEnabled: false });
+  sourceIntrinsicDuration: VO_MS, source: { assetId: "vo" }, volume: 0.82, captionsEnabled: false });
 audioLayers.push({ type: "Audio", id: aid++, name: "Bed - ambient pad", windowMs: 76000, activeRange: R(0, Math.min(DUR, 76000)), sourceRange: R(0, Math.min(DUR, 76000)),
   sourceIntrinsicDuration: 76000, source: { assetId: "sfx-pad-bed" }, volume: 0.30, captionsEnabled: false });
 const used = new Set();
@@ -224,7 +224,7 @@ for (const a of audio.sort((x, y) => x.start - y.start)) {
 const video = { type: "Video", id: 1, name: "Blender render - pool cutaway", blendMode: "normal", activeRange: R(0, DUR), sourceRange: R(0, Math.min(DUR, RENDER_MS)),
   sourceIntrinsicDuration: RENDER_MS, volume: 0, transform: T([540, 960], [540, 960]), source: { assetId: RENDER_ID, fit: "contain" } };
 // slow push-in over the CTA
-for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.is), 100, "lin"], [DUR, 106, "lin"]]);
+for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.would), 100, "lin"], [DUR, 106, "lin"]]);
 const docPath = path.join(D, "editable.json");
 const doc = fs.existsSync(docPath) ? JSON.parse(fs.readFileSync(docPath, "utf8"))
   : { width: 1080, height: 1920, fps: FPS, duration: 0, composition: { id: "main", layers: [] } };   // skeleton: copy the laptop template over it
