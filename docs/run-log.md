@@ -283,3 +283,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 
 ## 2026-10-27 (laptop) 3d-06 swimming-pool
 - Morning task ran 22:29 WIB, render done 23:25, assembled. First episode with Poppins everywhere + real stock photo covers. Rizky: "setuju B". Scheduled Thu 29 Oct ET: IG 9 AM, TikTok 1 PM, YT 7 PM.
+
+## 2026-10-27 schedule change (Rizky)
+- Thu 29 Oct left empty. 3d-06 pool moved to Fri 30 Oct ET (YT 4 PM, TikTok 6 PM, IG 10 PM). Queue shifted: 3d-07 elevator -> Sat 31 Oct, 3d-08 tower crane -> Sun 1 Nov (US DST ends: ET = UTC-5 from 1 Nov).
