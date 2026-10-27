@@ -50,4 +50,5 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 | Fri | 6 PM | 10 PM | 4 PM |
 | Sat | 5 PM | 9 PM | 7 PM |
 | Sun | 9 AM | 9 PM | 7 PM |
+**One video per ET day, never two** (Rizky, 27 Oct 2026). Before scheduling, list the scheduled posts in Buffer; if the target day already has a video, move the new one (and the rest of the queue) to the next free day. Days Rizky blocks stay empty: **Thu 29 Oct 2026 = no posts**.
 Offset −04:00 until 31 Oct 2026, −05:00 from 1 Nov 2026. Buffer free plan: max 10 scheduled posts per channel. Nothing is published without Rizky's "setuju" on the final video + caption.
