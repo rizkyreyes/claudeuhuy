@@ -280,3 +280,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - GPU checks: 22 + 10 + 2 stills at 50 %. Fixes: water-table "off" value -20 sat inside the ground block (cyan band + void under the CTA pull-back) -> -100, ground block deeper/wider (z -60, x +-60); beam studio: camera pulled back so the pull arrows stay in frame, beam concrete darker grey and key light 1500 -> 650 W (was blown white).
 - timeline.js: CTA push-in used a missing cue `C.is` (null keyframe time, apply failed) -> `C.would`; VO gain 0.86 -> 0.82 (true peak was -0.8 dBTP).
 - Final render 2213 frames on RTX 4060 (~1.6 s/frame, ~60 min). Pool.mp4 1080x1920 30 fps 73.77 s, -15.9 LUFS integrated, true peak -1.2 dBTP. Covers A and B composed (real Pexels photos). Waiting for Rizky's setuju.
+
+## 2026-10-27 (laptop) 3d-06 swimming-pool
+- Morning task ran 22:29 WIB, render done 23:25, assembled. First episode with Poppins everywhere + real stock photo covers. Rizky: "setuju B". Scheduled Thu 29 Oct ET: IG 9 AM, TikTok 1 PM, YT 7 PM.
