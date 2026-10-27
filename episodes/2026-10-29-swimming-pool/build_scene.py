@@ -185,7 +185,7 @@ def ground_mat(name):
     nrm = mix_col(nt, isg.outputs[0], soil["nrm"], grass["nrm"])
     nm = nt.nodes.new("ShaderNodeNormalMap"); L.new(nrm, nm.inputs["Color"]); L.new(nm.outputs["Normal"], b.inputs["Normal"])
     # water table: soil below the level turns dark blue and glows cyan a little
-    gw = nt.nodes.new("ShaderNodeValue"); gw.name = "WaterTable"; gw.outputs[0].default_value = -20.0; GW_NODES.append(gw)
+    gw = nt.nodes.new("ShaderNodeValue"); gw.name = "WaterTable"; gw.outputs[0].default_value = -100.0; GW_NODES.append(gw)
     wob = nt.nodes.new("ShaderNodeTexNoise"); wob.inputs["Scale"].default_value = 1.2; L.new(pos, wob.inputs["Vector"])
     zz = nt.nodes.new("ShaderNodeMath"); zz.operation = "MULTIPLY_ADD"; zz.inputs[1].default_value = 0.25
     L.new(wob.outputs["Fac"], zz.inputs[0]); L.new(sp.outputs[2], zz.inputs[2])
@@ -240,7 +240,7 @@ M_GLASS, _ = mat("CabGlass", (0.15, 0.2, 0.25), 0.1, 0.0)
 M_HEDGE, _ = mat("Hedge", (0.06, 0.20, 0.05), 0.8, 0.0, GOLD, 18)
 M_FENCE, _ = mat("Fence", (0.55, 0.42, 0.30), 0.7, 0.0, GOLD, 6)
 # Set C
-M_BEAM, B_BEAM = mat("Beam", (0.62, 0.61, 0.57), 0.85, 0.0, RED, 18, 0.5)
+M_BEAM, B_BEAM = mat("Beam", (0.40, 0.39, 0.36), 0.85, 0.0, RED, 18, 0.5)
 M_STUDIO, _ = mat("StudioFloor", (0.05, 0.055, 0.06), 0.6)
 M_SQZ, B_SQZ = mat("SqueezeArrows", GOLD, 0.4, 0.0, GOLD); B_SQZ.inputs["Emission Strength"].default_value = 4.0
 M_PULL, B_PULL = mat("PullArrows", RED, 0.4, 0.0, RED); B_PULL.inputs["Emission Strength"].default_value = 4.0
@@ -370,7 +370,7 @@ P_OUT[0] = (P_OUT[0][0], 0.0); P_OUT[-1] = (P_OUT[-1][0], 0.0)
 P_HOLE = offset_line(P_SMOOTH, SH + 0.32); P_HOLE[0] = (P_HOLE[0][0], 0.0); P_HOLE[-1] = (P_HOLE[-1][0], 0.0)
 P_PL = offset_line(P_IN, -0.035); P_PL[0] = (P_PL[0][0], 0.0); P_PL[-1] = (P_PL[-1][0], 0.0)   # plaster inner face
 PYO, PYH = PY + SH, PY + SH + 0.32                       # back of the shell, back of the hole
-GX0, GX1, GY1, GZ0 = -30.0, 30.0, 24.0, -26.0
+GX0, GX1, GY1, GZ0 = -60.0, 60.0, 24.0, -60.0
 X_PAD = 8.6                                              # equipment pad centre
 POOL = bpy.data.objects.new("PoolGroup", None); CL.objects.link(POOL)       # lifts out of the ground on "float"
 
@@ -649,7 +649,7 @@ for j, (x, y, z) in enumerate([(-2.2, PY - 0.08, -0.5), (1.8, PY - 0.08, -0.5)])
 
 # ---------- the scary part: groundwater rises, the empty pool floats up; then the relief valve ----------
 T_GW0, T_GW1 = C["groundwater"] - 0.2, C["high"] + 0.4
-gw = PW([(0, -20.0), (T_GW0 - 0.01, -20.0), (T_GW0, -6.5), (T_GW1, -0.9), (T_B0 - 0.01, -0.9), (T_B0, -20.0)])
+gw = PW([(0, -100.0), (T_GW0 - 0.01, -100.0), (T_GW0, -6.5), (T_GW1, -0.9), (T_B0 - 0.01, -0.9), (T_B0, -100.0)])   # -100 = off (below the ground block)
 for n in GW_NODES: bake_value(n, [gw(t) for t in TS])
 T_FL0, T_FL1 = C["float"] - 0.1, C["ground"] + 0.5
 lift = PW([(0, 0.0), (T_FL0, 0.0), (T_FL1, 1.7)])
@@ -790,8 +790,8 @@ SHOTS = [  # (time, cam, target, lens[, "cut"])
     (C["floor"] - 0.2, (1.5, -7.5, 0.9), (2.2, 1.2, -2.2), 24),
     (C["walls"] - 0.1, (3.5, -7.5, 1.4), (4.6, 1.4, -1.3), 24),
     (C["steps"] + 0.15, (-4.0, -6.0, 0.9), (-4.5, 1.0, -0.7), 24),
-    (T_BEAM0, (OC + 0.5, -5.4, 1.5), (OC, 0.0, 0.2), 20, "cut"),
-    (C["steel2"], (OC + 0.3, -4.8, 1.1), (OC, 0.0, 0.2), 22),
+    (T_BEAM0, (OC + 0.5, -6.2, 1.5), (OC, 0.0, 0.2), 22, "cut"),
+    (C["steel2"], (OC + 0.3, -6.4, 1.4), (OC, 0.0, 0.2), 22),
     (T_BEAM1, (1.5, -13.5, 1.8), (2.0, 0.8, -1.3), 22, "cut"),
     (C["drain"] - 0.2, (3.2, -5.8, -0.9), (3.3, 0.5, -2.4), 24),
     (C["skimmer"] - 0.2, (5.0, -5.4, 0.6), (5.4, 0.3, -0.4), 24),
@@ -856,7 +856,7 @@ def target(name, loc):
     o = bpy.data.objects.new(name, None); scene.collection.objects.link(o); o.location = loc; return o
 area("SectionFill", (0.0, -12.0, 1.0), 10.0, 1200, (0.9, 0.95, 1.0), target("LT_Section", (0, 0, -1.5)))     # lights the cut face (the sun is behind it)
 area("PadFill", (9.0, -6.0, 3.0), 4.0, 500, (1.0, 0.95, 0.9), target("LT_Pad", (8.6, 0.5, 0.4)))
-area("C_Key", (OC - 3.0, -5.0, 4.0), 4.0, 1500, (1.0, 0.95, 0.88), target("LT_C", (OC, 0, 0.2)))
+area("C_Key", (OC - 3.0, -5.0, 4.0), 4.0, 650, (1.0, 0.95, 0.88), target("LT_C", (OC, 0, 0.2)))
 area("CamFill", (0, 0, 0), 2.5, 60, (1.0, 0.96, 0.9), TGT).parent = cam
 
 # ---------- render settings ----------
