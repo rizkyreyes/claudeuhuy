@@ -154,7 +154,7 @@ sound("impact", EV.grind[1], 0.5);
 show(text("STILL NOT\nENOUGH?", 540, TOP_Y, 980, 300, 104, RED), C.still, C.buffers - 0.1, "slam", "riser");
 show(text("BUFFERS", 540, TOP_Y, 980, 200, 120, WHITE), C.buffers, C.catch2 + 0.4, "slam", "impact");
 tracked("SPRING", "spring_buffer", C.springs2, C.this - 0.1, -150, -150, GOLD, "pop");
-tracked("OIL PISTON", "oil_buffer", C.oil, C.this - 0.1, 150, -150, CYAN, "pop");
+tracked("OIL PISTON", "oil_buffer", C.oil, C.this - 0.1, 150, -300, CYAN, "pop");   // higher than SPRING: both flip left and would share a row
 sound("boing", EV.land, 0.55); sound("hiss", C.oil + 0.2, 0.3);
 // B9 history: 1854, New York, Elisha Otis (name only, no likeness), the rope cut, the platform held
 sound("whoosh", EV.set_b[0], 0.5, 0.25);
@@ -208,8 +208,8 @@ let aid = 2000;
 audioLayers.push({ type: "Audio", id: aid++, name: "VO - Liam (Eleven v4 Turbo)", windowMs: VO_MS,
   activeRange: R(ms(VO), Math.min(DUR - ms(VO), VO_MS)), sourceRange: R(0, Math.min(DUR - ms(VO), VO_MS)),
   sourceIntrinsicDuration: VO_MS, source: { assetId: "vo" }, volume: 0.82, captionsEnabled: false });
-audioLayers.push({ type: "Audio", id: aid++, name: "Bed - ambient pad", windowMs: 78000, activeRange: R(0, Math.min(DUR, 78000)), sourceRange: R(0, Math.min(DUR, 78000)),
-  sourceIntrinsicDuration: 78000, source: { assetId: "sfx-pad-bed" }, volume: 0.30, captionsEnabled: false });
+audioLayers.push({ type: "Audio", id: aid++, name: "Bed - ambient pad", windowMs: 76000, activeRange: R(0, Math.min(DUR, 76000)), sourceRange: R(0, Math.min(DUR, 76000)),
+  sourceIntrinsicDuration: 76000, source: { assetId: "sfx-pad-bed" }, volume: 0.30, captionsEnabled: false });
 const used = new Set();
 for (const a of audio.sort((x, y) => x.start - y.start)) {
   const f = SFXF[a.name]; used.add(f.file);
