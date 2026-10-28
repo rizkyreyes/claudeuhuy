@@ -301,3 +301,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - Note: `--out checks_local` (relative) wrote the stills to C:\checks_local; pass an absolute path. An empty C:\checks_local folder is left behind (removal blocked by the safety check; Rizky can delete it).
 - timeline.js: pad-bed windows 78 s -> 76 s (laptop pad file is 76.0 s); OIL PISTON label raised (dy -300) because it flipped left onto the SPRING label's row.
 - Final render 2297 frames on RTX 4060 (~0.8 s/frame, ~31 min). Elevator.mp4 1080x1920 30 fps 76.57 s, -15.7 LUFS integrated, true peak -1.2 dBTP. Covers A and B composed (Pexels photos). Buffer checked: Sat 31 Oct ET free, 6 posts scheduled. Waiting for Rizky's setuju.
+
+## 2026-10-28 (laptop) 3d-07 elevator-brakes
+- Morning task ran 19:12 WIB. Rizky asked for a follow line in every CTA: recorded "If you found this useful, don't forget to follow." as a pickup, spliced after the question, held the last frame 2.7 s, titles FOUND THIS USEFUL? / FOLLOW FOR MORE. 79.3 s, -15.7 LUFS. "setuju b". Scheduled Sat 31 Oct ET: TikTok 5 PM, YT 7 PM, IG 9 PM.
