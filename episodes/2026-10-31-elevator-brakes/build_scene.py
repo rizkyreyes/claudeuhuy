@@ -573,8 +573,8 @@ for o, side, vel, ph in SPARKS:
     for ax in range(3): bake(o, "scale", ax, scl)
 
 # ---------- Set B: 1854-style hoisting platform (x = 2000) ----------
-box("B_Floor", OX - 9, OX + 9, -7, 7, -0.25, 0.0, M_DARKW)
-box("B_BackWall", OX - 9, OX + 9, 4.0, 4.3, 0.0, 14.0, M_DARKW)
+box("B_Floor", OX - 18, OX + 18, -16, 7, -0.25, 0.0, M_DARKW)
+box("B_BackWall", OX - 18, OX + 18, 4.0, 4.3, 0.0, 26.0, M_DARKW)
 PH = 9.6
 for s in (-1, 1):
     box(f"B_Post{s}", OX + s * 1.05, OX + s * 1.27, -0.13, 0.13, 0.0, PH, M_WOOD)
@@ -641,7 +641,7 @@ SHOTS = [  # (time, cam(x, y, z), target(x, y, z), lens[, "cut"]); a z may be a 
     (C["car4"] - 0.1, (-0.6, -3.6, CZ(0.1)), (-0.4, 0.0, CZ(-0.3)), 26),
     (T_PIT, (0.8, -7.4, 1.8), (0.9, 0.0, 0.2), 24, "cut"),
     (C["oil"] - 0.2, (1.6, -6.4, 1.2), (1.3, 0.0, -0.1), 26),
-    (T_B0, (OX - 4.5, -12.0, 4.0), (OX, 0.0, 4.2), 24, "cut"),
+    (T_B0, (OX - 4.0, -10.5, 4.0), (OX, 0.0, 4.4), 26, "cut"),
     (C["new"], (OX - 3.6, -8.5, PZ(2.4)), (OX, 0.0, PZ(1.2)), 24),
     (C["cut2"] - 0.4, (OX - 2.4, -3.6, PZ(2.3)), (OX - 0.7, 0.0, PZ(1.65)), 28),
     (C["held"] + 0.1, (OX - 3.2, -5.0, PZ(2.5)), (OX - 0.3, 0.0, PZ(1.4)), 26),
