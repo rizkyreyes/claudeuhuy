@@ -168,8 +168,11 @@ sound("twang", EV.cut_b - 0.02, 0.65); sound("ratchet", EV.cut_b + 0.1, 0.6);
 tracked("WAGON SPRING", "b_spring", EV.cut_b + 0.15, C.do - 0.1, 150, -150, GOLD, null);
 show(text("IT HELD", 540, TOP_Y, 980, 200, 128, GOLD), C.held - 0.05, C.do - 0.1, "slam", "impact");
 // B10 CTA: a question to the viewer (comments), no channel name
-show(text("ELEVATOR\nOR STAIRS?", 540, TOP_Y, 980, 300, 100, WHITE), C.do, C.end, "slam", "whoosh");
-show(text("TELL ME IN THE COMMENTS", 540, TOP_Y + 215, 900, 80, 50, GOLD, BODY, { tracking: 60 }), C.tell, C.end, "rise", "ping");
+show(text("ELEVATOR\nOR STAIRS?", 540, TOP_Y, 980, 300, 100, WHITE), C.do, C.found - 0.1, "slam", "whoosh");
+show(text("TELL ME IN THE COMMENTS", 540, TOP_Y + 215, 900, 80, 50, GOLD, BODY, { tracking: 60 }), C.tell, C.found - 0.1, "rise", "ping");
+// fixed closing follow line (playbook, 28 Oct)
+show(text("FOUND THIS\nUSEFUL?", 540, TOP_Y, 980, 300, 100, WHITE), C.found, C.end, "slam", "pop");
+show(text("FOLLOW FOR MORE", 540, TOP_Y + 215, 900, 80, 56, GOLD, BODY, { tracking: 60 }), C.follow, C.end, "rise", "ping");
 sound("motor", C.do + 0.1, 0.18);
 
 // ================= CAPTIONS (word groups, bottom zone) =================
@@ -207,7 +210,7 @@ const audioLayers = [];
 let aid = 2000;
 audioLayers.push({ type: "Audio", id: aid++, name: "VO - Liam (Eleven v4 Turbo)", windowMs: VO_MS,
   activeRange: R(ms(VO), Math.min(DUR - ms(VO), VO_MS)), sourceRange: R(0, Math.min(DUR - ms(VO), VO_MS)),
-  sourceIntrinsicDuration: VO_MS, source: { assetId: "vo" }, volume: 0.82, captionsEnabled: false });
+  sourceIntrinsicDuration: VO_MS, source: { assetId: "vo2" }, volume: 0.82, captionsEnabled: false });
 audioLayers.push({ type: "Audio", id: aid++, name: "Bed - ambient pad", windowMs: 76000, activeRange: R(0, Math.min(DUR, 76000)), sourceRange: R(0, Math.min(DUR, 76000)),
   sourceIntrinsicDuration: 76000, source: { assetId: "sfx-pad-bed" }, volume: 0.30, captionsEnabled: false });
 const used = new Set();
