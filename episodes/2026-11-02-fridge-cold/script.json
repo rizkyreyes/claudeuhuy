@@ -1,0 +1,13 @@
+{
+ "slug": "how-a-fridge-makes-cold",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "How does your fridge make cold? Here's the twist: it doesn't. It moves heat out. Let's cut it open. Hidden in the walls is one sealed loop of tubing, filled with a refrigerant, a fluid that boils at very low temperatures. At the bottom sits the compressor. It squeezes the refrigerant gas, and squeezing makes it hot. The hot gas flows into the coils on the back, the condenser. There it dumps its heat into your kitchen and turns into a liquid. That's why the back of your fridge feels warm. Next, the liquid is forced through a very thin tube. Past it, the pressure drops, and low pressure makes a liquid boil much colder. So in the freezer, inside the evaporator coils, the refrigerant boils below freezing. Boiling soaks up heat, so it pulls the warmth out of the air. A fan blows that cold air around, and a small flap lets some down into the fridge. The gas heads back to the compressor, and the loop starts again. A thermostat switches it on and off. One hidden trick: frost builds up on the cold coils, so a heater melts it now and then. The water drains to a pan under the fridge, where the warmth dries it up. So your fridge is a heat pump, pushing heat out all day long. Did you know the back of your fridge was a heater? Tell me in the comments. If you found this useful, don't forget to follow."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

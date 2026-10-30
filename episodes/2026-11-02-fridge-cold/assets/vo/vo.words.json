@@ -1,0 +1,1490 @@
+[
+ {
+  "id": "w0",
+  "text": "How",
+  "start": 0,
+  "end": 0.2
+ },
+ {
+  "id": "w1",
+  "text": "does",
+  "start": 0.24,
+  "end": 0.38
+ },
+ {
+  "id": "w2",
+  "text": "your",
+  "start": 0.4,
+  "end": 0.64
+ },
+ {
+  "id": "w3",
+  "text": "fridge",
+  "start": 0.68,
+  "end": 0.96
+ },
+ {
+  "id": "w4",
+  "text": "make",
+  "start": 1.04,
+  "end": 1.28
+ },
+ {
+  "id": "w5",
+  "text": "cold?",
+  "start": 1.52,
+  "end": 2.24
+ },
+ {
+  "id": "w6",
+  "text": "Here's",
+  "start": 2.32,
+  "end": 2.48
+ },
+ {
+  "id": "w7",
+  "text": "the",
+  "start": 2.56,
+  "end": 2.64
+ },
+ {
+  "id": "w8",
+  "text": "twist:",
+  "start": 2.68,
+  "end": 3.36
+ },
+ {
+  "id": "w9",
+  "text": "it",
+  "start": 3.48,
+  "end": 3.6
+ },
+ {
+  "id": "w10",
+  "text": "doesn't.",
+  "start": 3.72,
+  "end": 4.4
+ },
+ {
+  "id": "w11",
+  "text": "It",
+  "start": 4.48,
+  "end": 4.56
+ },
+ {
+  "id": "w12",
+  "text": "moves",
+  "start": 4.64,
+  "end": 4.96
+ },
+ {
+  "id": "w13",
+  "text": "heat",
+  "start": 5.16,
+  "end": 5.36
+ },
+ {
+  "id": "w14",
+  "text": "out.",
+  "start": 5.44,
+  "end": 6.08
+ },
+ {
+  "id": "w15",
+  "text": "Let's",
+  "start": 6.16,
+  "end": 6.32
+ },
+ {
+  "id": "w16",
+  "text": "cut",
+  "start": 6.4,
+  "end": 6.48
+ },
+ {
+  "id": "w17",
+  "text": "it",
+  "start": 6.52,
+  "end": 6.56
+ },
+ {
+  "id": "w18",
+  "text": "open.",
+  "start": 6.64,
+  "end": 7.28
+ },
+ {
+  "id": "w19",
+  "text": "Hidden",
+  "start": 7.4,
+  "end": 7.52
+ },
+ {
+  "id": "w20",
+  "text": "in",
+  "start": 7.56,
+  "end": 7.6
+ },
+ {
+  "id": "w21",
+  "text": "the",
+  "start": 7.68,
+  "end": 7.76
+ },
+ {
+  "id": "w22",
+  "text": "walls",
+  "start": 7.96,
+  "end": 8.16
+ },
+ {
+  "id": "w23",
+  "text": "is",
+  "start": 8.28,
+  "end": 8.4
+ },
+ {
+  "id": "w24",
+  "text": "one",
+  "start": 8.48,
+  "end": 8.72
+ },
+ {
+  "id": "w25",
+  "text": "sealed",
+  "start": 8.8,
+  "end": 9.12
+ },
+ {
+  "id": "w26",
+  "text": "loop",
+  "start": 9.2,
+  "end": 9.28
+ },
+ {
+  "id": "w27",
+  "text": "of",
+  "start": 9.36,
+  "end": 9.44
+ },
+ {
+  "id": "w28",
+  "text": "tubing,",
+  "start": 9.52,
+  "end": 10.16
+ },
+ {
+  "id": "w29",
+  "text": "filled",
+  "start": 10.24,
+  "end": 10.32
+ },
+ {
+  "id": "w30",
+  "text": "with",
+  "start": 10.4,
+  "end": 10.48
+ },
+ {
+  "id": "w31",
+  "text": "a",
+  "start": 10.52,
+  "end": 10.56
+ },
+ {
+  "id": "w32",
+  "text": "refrigerant,",
+  "start": 10.68,
+  "end": 11.44
+ },
+ {
+  "id": "w33",
+  "text": "a",
+  "start": 11.52,
+  "end": 11.6
+ },
+ {
+  "id": "w34",
+  "text": "fluid",
+  "start": 11.76,
+  "end": 11.92
+ },
+ {
+  "id": "w35",
+  "text": "that",
+  "start": 12.04,
+  "end": 12.16
+ },
+ {
+  "id": "w36",
+  "text": "boils",
+  "start": 12.24,
+  "end": 12.56
+ },
+ {
+  "id": "w37",
+  "text": "at",
+  "start": 12.68,
+  "end": 12.8
+ },
+ {
+  "id": "w38",
+  "text": "very",
+  "start": 12.88,
+  "end": 13.12
+ },
+ {
+  "id": "w39",
+  "text": "low",
+  "start": 13.2,
+  "end": 13.36
+ },
+ {
+  "id": "w40",
+  "text": "temperatures.",
+  "start": 13.44,
+  "end": 14.347
+ },
+ {
+  "id": "w41",
+  "text": "At",
+  "start": 14.373,
+  "end": 14.4
+ },
+ {
+  "id": "w42",
+  "text": "the",
+  "start": 14.48,
+  "end": 14.56
+ },
+ {
+  "id": "w43",
+  "text": "bottom",
+  "start": 14.64,
+  "end": 15.04
+ },
+ {
+  "id": "w44",
+  "text": "sits",
+  "start": 15.08,
+  "end": 15.28
+ },
+ {
+  "id": "w45",
+  "text": "the",
+  "start": 15.32,
+  "end": 15.36
+ },
+ {
+  "id": "w46",
+  "text": "compressor.",
+  "start": 15.56,
+  "end": 16.32
+ },
+ {
+  "id": "w47",
+  "text": "It",
+  "start": 16.4,
+  "end": 16.48
+ },
+ {
+  "id": "w48",
+  "text": "squeezes",
+  "start": 16.52,
+  "end": 16.96
+ },
+ {
+  "id": "w49",
+  "text": "the",
+  "start": 17.04,
+  "end": 17.08
+ },
+ {
+  "id": "w50",
+  "text": "refrigerant",
+  "start": 17.12,
+  "end": 17.68
+ },
+ {
+  "id": "w51",
+  "text": "gas,",
+  "start": 17.88,
+  "end": 18.16
+ },
+ {
+  "id": "w52",
+  "text": "and",
+  "start": 18.28,
+  "end": 18.4
+ },
+ {
+  "id": "w53",
+  "text": "squeezing",
+  "start": 18.44,
+  "end": 18.96
+ },
+ {
+  "id": "w54",
+  "text": "makes",
+  "start": 19.04,
+  "end": 19.12
+ },
+ {
+  "id": "w55",
+  "text": "it",
+  "start": 19.2,
+  "end": 19.28
+ },
+ {
+  "id": "w56",
+  "text": "hot.",
+  "start": 19.6,
+  "end": 19.96
+ },
+ {
+  "id": "w57",
+  "text": "The",
+  "start": 20,
+  "end": 20.08
+ },
+ {
+  "id": "w58",
+  "text": "hot",
+  "start": 20.2,
+  "end": 20.32
+ },
+ {
+  "id": "w59",
+  "text": "gas",
+  "start": 20.4,
+  "end": 20.72
+ },
+ {
+  "id": "w60",
+  "text": "flows",
+  "start": 20.88,
+  "end": 21.04
+ },
+ {
+  "id": "w61",
+  "text": "into",
+  "start": 21.12,
+  "end": 21.2
+ },
+ {
+  "id": "w62",
+  "text": "the",
+  "start": 21.28,
+  "end": 21.36
+ },
+ {
+  "id": "w63",
+  "text": "coils",
+  "start": 21.44,
+  "end": 21.68
+ },
+ {
+  "id": "w64",
+  "text": "on",
+  "start": 21.76,
+  "end": 21.84
+ },
+ {
+  "id": "w65",
+  "text": "the",
+  "start": 21.92,
+  "end": 22
+ },
+ {
+  "id": "w66",
+  "text": "back,",
+  "start": 22.2,
+  "end": 22.44
+ },
+ {
+  "id": "w67",
+  "text": "the",
+  "start": 22.48,
+  "end": 22.56
+ },
+ {
+  "id": "w68",
+  "text": "condenser.",
+  "start": 22.68,
+  "end": 23.48
+ },
+ {
+  "id": "w69",
+  "text": "There",
+  "start": 23.52,
+  "end": 23.92
+ },
+ {
+  "id": "w70",
+  "text": "it",
+  "start": 24,
+  "end": 24.08
+ },
+ {
+  "id": "w71",
+  "text": "dumps",
+  "start": 24.16,
+  "end": 24.32
+ },
+ {
+  "id": "w72",
+  "text": "its",
+  "start": 24.4,
+  "end": 24.56
+ },
+ {
+  "id": "w73",
+  "text": "heat",
+  "start": 24.64,
+  "end": 24.72
+ },
+ {
+  "id": "w74",
+  "text": "into",
+  "start": 24.8,
+  "end": 24.96
+ },
+ {
+  "id": "w75",
+  "text": "your",
+  "start": 25.04,
+  "end": 25.12
+ },
+ {
+  "id": "w76",
+  "text": "kitchen",
+  "start": 25.2,
+  "end": 25.6
+ },
+ {
+  "id": "w77",
+  "text": "and",
+  "start": 25.68,
+  "end": 25.76
+ },
+ {
+  "id": "w78",
+  "text": "turns",
+  "start": 25.88,
+  "end": 26.08
+ },
+ {
+  "id": "w79",
+  "text": "into",
+  "start": 26.16,
+  "end": 26.24
+ },
+ {
+  "id": "w80",
+  "text": "a",
+  "start": 26.28,
+  "end": 26.32
+ },
+ {
+  "id": "w81",
+  "text": "liquid.",
+  "start": 26.68,
+  "end": 27.12
+ },
+ {
+  "id": "w82",
+  "text": "That's",
+  "start": 27.2,
+  "end": 27.36
+ },
+ {
+  "id": "w83",
+  "text": "why",
+  "start": 27.4,
+  "end": 27.44
+ },
+ {
+  "id": "w84",
+  "text": "the",
+  "start": 27.52,
+  "end": 27.68
+ },
+ {
+  "id": "w85",
+  "text": "back",
+  "start": 27.8,
+  "end": 27.92
+ },
+ {
+  "id": "w86",
+  "text": "of",
+  "start": 27.96,
+  "end": 28
+ },
+ {
+  "id": "w87",
+  "text": "your",
+  "start": 28.08,
+  "end": 28.16
+ },
+ {
+  "id": "w88",
+  "text": "fridge",
+  "start": 28.24,
+  "end": 28.48
+ },
+ {
+  "id": "w89",
+  "text": "feels",
+  "start": 28.56,
+  "end": 28.8
+ },
+ {
+  "id": "w90",
+  "text": "warm.",
+  "start": 29.16,
+  "end": 29.56
+ },
+ {
+  "id": "w91",
+  "text": "Next,",
+  "start": 29.6,
+  "end": 30.04
+ },
+ {
+  "id": "w92",
+  "text": "the",
+  "start": 30.08,
+  "end": 30.16
+ },
+ {
+  "id": "w93",
+  "text": "liquid",
+  "start": 30.28,
+  "end": 30.4
+ },
+ {
+  "id": "w94",
+  "text": "is",
+  "start": 30.48,
+  "end": 30.64
+ },
+ {
+  "id": "w95",
+  "text": "forced",
+  "start": 30.8,
+  "end": 30.96
+ },
+ {
+  "id": "w96",
+  "text": "through",
+  "start": 31.04,
+  "end": 31.12
+ },
+ {
+  "id": "w97",
+  "text": "a",
+  "start": 31.28,
+  "end": 31.32
+ },
+ {
+  "id": "w98",
+  "text": "very",
+  "start": 31.36,
+  "end": 31.68
+ },
+ {
+  "id": "w99",
+  "text": "thin",
+  "start": 31.84,
+  "end": 32
+ },
+ {
+  "id": "w100",
+  "text": "tube.",
+  "start": 32.32,
+  "end": 32.68
+ },
+ {
+  "id": "w101",
+  "text": "Past",
+  "start": 32.72,
+  "end": 33.04
+ },
+ {
+  "id": "w102",
+  "text": "it,",
+  "start": 33.12,
+  "end": 33.307
+ },
+ {
+  "id": "w103",
+  "text": "the",
+  "start": 33.333,
+  "end": 33.36
+ },
+ {
+  "id": "w104",
+  "text": "pressure",
+  "start": 33.44,
+  "end": 33.76
+ },
+ {
+  "id": "w105",
+  "text": "drops,",
+  "start": 34.08,
+  "end": 34.453
+ },
+ {
+  "id": "w106",
+  "text": "and",
+  "start": 34.507,
+  "end": 34.56
+ },
+ {
+  "id": "w107",
+  "text": "low",
+  "start": 34.64,
+  "end": 34.8
+ },
+ {
+  "id": "w108",
+  "text": "pressure",
+  "start": 35,
+  "end": 35.2
+ },
+ {
+  "id": "w109",
+  "text": "makes",
+  "start": 35.28,
+  "end": 35.36
+ },
+ {
+  "id": "w110",
+  "text": "a",
+  "start": 35.52,
+  "end": 35.653
+ },
+ {
+  "id": "w111",
+  "text": "liquid",
+  "start": 35.787,
+  "end": 35.92
+ },
+ {
+  "id": "w112",
+  "text": "boil",
+  "start": 36,
+  "end": 36.32
+ },
+ {
+  "id": "w113",
+  "text": "much",
+  "start": 36.4,
+  "end": 36.64
+ },
+ {
+  "id": "w114",
+  "text": "colder.",
+  "start": 36.68,
+  "end": 37.4
+ },
+ {
+  "id": "w115",
+  "text": "So",
+  "start": 37.44,
+  "end": 37.52
+ },
+ {
+  "id": "w116",
+  "text": "in",
+  "start": 37.56,
+  "end": 37.6
+ },
+ {
+  "id": "w117",
+  "text": "the",
+  "start": 37.68,
+  "end": 37.76
+ },
+ {
+  "id": "w118",
+  "text": "freezer,",
+  "start": 37.84,
+  "end": 38.44
+ },
+ {
+  "id": "w119",
+  "text": "inside",
+  "start": 38.48,
+  "end": 38.8
+ },
+ {
+  "id": "w120",
+  "text": "the",
+  "start": 38.88,
+  "end": 38.92
+ },
+ {
+  "id": "w121",
+  "text": "evaporator",
+  "start": 38.96,
+  "end": 39.52
+ },
+ {
+  "id": "w122",
+  "text": "coils,",
+  "start": 39.6,
+  "end": 40.187
+ },
+ {
+  "id": "w123",
+  "text": "the",
+  "start": 40.213,
+  "end": 40.24
+ },
+ {
+  "id": "w124",
+  "text": "refrigerant",
+  "start": 40.36,
+  "end": 40.88
+ },
+ {
+  "id": "w125",
+  "text": "boils",
+  "start": 40.92,
+  "end": 41.28
+ },
+ {
+  "id": "w126",
+  "text": "below",
+  "start": 41.52,
+  "end": 41.76
+ },
+ {
+  "id": "w127",
+  "text": "freezing.",
+  "start": 41.84,
+  "end": 42.6
+ },
+ {
+  "id": "w128",
+  "text": "Boiling",
+  "start": 42.64,
+  "end": 43.12
+ },
+ {
+  "id": "w129",
+  "text": "soaks",
+  "start": 43.2,
+  "end": 43.44
+ },
+ {
+  "id": "w130",
+  "text": "up",
+  "start": 43.52,
+  "end": 43.6
+ },
+ {
+  "id": "w131",
+  "text": "heat,",
+  "start": 43.68,
+  "end": 44.12
+ },
+ {
+  "id": "w132",
+  "text": "so",
+  "start": 44.16,
+  "end": 44.24
+ },
+ {
+  "id": "w133",
+  "text": "it",
+  "start": 44.32,
+  "end": 44.4
+ },
+ {
+  "id": "w134",
+  "text": "pulls",
+  "start": 44.52,
+  "end": 44.68
+ },
+ {
+  "id": "w135",
+  "text": "the",
+  "start": 44.72,
+  "end": 44.8
+ },
+ {
+  "id": "w136",
+  "text": "warmth",
+  "start": 44.88,
+  "end": 45.2
+ },
+ {
+  "id": "w137",
+  "text": "out",
+  "start": 45.28,
+  "end": 45.36
+ },
+ {
+  "id": "w138",
+  "text": "of",
+  "start": 45.4,
+  "end": 45.44
+ },
+ {
+  "id": "w139",
+  "text": "the",
+  "start": 45.52,
+  "end": 45.6
+ },
+ {
+  "id": "w140",
+  "text": "air.",
+  "start": 45.68,
+  "end": 46.293
+ },
+ {
+  "id": "w141",
+  "text": "A",
+  "start": 46.347,
+  "end": 46.4
+ },
+ {
+  "id": "w142",
+  "text": "fan",
+  "start": 46.48,
+  "end": 46.8
+ },
+ {
+  "id": "w143",
+  "text": "blows",
+  "start": 46.88,
+  "end": 47.12
+ },
+ {
+  "id": "w144",
+  "text": "that",
+  "start": 47.24,
+  "end": 47.36
+ },
+ {
+  "id": "w145",
+  "text": "cold",
+  "start": 47.48,
+  "end": 47.6
+ },
+ {
+  "id": "w146",
+  "text": "air",
+  "start": 47.68,
+  "end": 47.76
+ },
+ {
+  "id": "w147",
+  "text": "around,",
+  "start": 47.92,
+  "end": 48.347
+ },
+ {
+  "id": "w148",
+  "text": "and",
+  "start": 48.373,
+  "end": 48.4
+ },
+ {
+  "id": "w149",
+  "text": "a",
+  "start": 48.56,
+  "end": 48.6
+ },
+ {
+  "id": "w150",
+  "text": "small",
+  "start": 48.64,
+  "end": 48.96
+ },
+ {
+  "id": "w151",
+  "text": "flap",
+  "start": 49.04,
+  "end": 49.36
+ },
+ {
+  "id": "w152",
+  "text": "lets",
+  "start": 49.48,
+  "end": 49.6
+ },
+ {
+  "id": "w153",
+  "text": "some",
+  "start": 49.72,
+  "end": 49.84
+ },
+ {
+  "id": "w154",
+  "text": "down",
+  "start": 49.92,
+  "end": 50.08
+ },
+ {
+  "id": "w155",
+  "text": "into",
+  "start": 50.2,
+  "end": 50.32
+ },
+ {
+  "id": "w156",
+  "text": "the",
+  "start": 50.36,
+  "end": 50.4
+ },
+ {
+  "id": "w157",
+  "text": "fridge.",
+  "start": 50.48,
+  "end": 51.16
+ },
+ {
+  "id": "w158",
+  "text": "The",
+  "start": 51.2,
+  "end": 51.28
+ },
+ {
+  "id": "w159",
+  "text": "gas",
+  "start": 51.44,
+  "end": 51.6
+ },
+ {
+  "id": "w160",
+  "text": "heads",
+  "start": 51.72,
+  "end": 51.84
+ },
+ {
+  "id": "w161",
+  "text": "back",
+  "start": 51.92,
+  "end": 52.08
+ },
+ {
+  "id": "w162",
+  "text": "to",
+  "start": 52.12,
+  "end": 52.16
+ },
+ {
+  "id": "w163",
+  "text": "the",
+  "start": 52.2,
+  "end": 52.24
+ },
+ {
+  "id": "w164",
+  "text": "compressor,",
+  "start": 52.32,
+  "end": 52.907
+ },
+ {
+  "id": "w165",
+  "text": "and",
+  "start": 52.933,
+  "end": 52.96
+ },
+ {
+  "id": "w166",
+  "text": "the",
+  "start": 53.04,
+  "end": 53.12
+ },
+ {
+  "id": "w167",
+  "text": "loop",
+  "start": 53.24,
+  "end": 53.36
+ },
+ {
+  "id": "w168",
+  "text": "starts",
+  "start": 53.48,
+  "end": 53.6
+ },
+ {
+  "id": "w169",
+  "text": "again.",
+  "start": 53.68,
+  "end": 54.36
+ },
+ {
+  "id": "w170",
+  "text": "A",
+  "start": 54.4,
+  "end": 54.48
+ },
+ {
+  "id": "w171",
+  "text": "thermostat",
+  "start": 54.56,
+  "end": 55.12
+ },
+ {
+  "id": "w172",
+  "text": "switches",
+  "start": 55.24,
+  "end": 55.44
+ },
+ {
+  "id": "w173",
+  "text": "it",
+  "start": 55.52,
+  "end": 55.6
+ },
+ {
+  "id": "w174",
+  "text": "on",
+  "start": 55.68,
+  "end": 55.76
+ },
+ {
+  "id": "w175",
+  "text": "and",
+  "start": 55.8,
+  "end": 55.84
+ },
+ {
+  "id": "w176",
+  "text": "off.",
+  "start": 55.92,
+  "end": 56.64
+ },
+ {
+  "id": "w177",
+  "text": "One",
+  "start": 56.72,
+  "end": 56.8
+ },
+ {
+  "id": "w178",
+  "text": "hidden",
+  "start": 56.88,
+  "end": 57.12
+ },
+ {
+  "id": "w179",
+  "text": "trick:",
+  "start": 57.2,
+  "end": 57.8
+ },
+ {
+  "id": "w180",
+  "text": "frost",
+  "start": 57.84,
+  "end": 58.24
+ },
+ {
+  "id": "w181",
+  "text": "builds",
+  "start": 58.36,
+  "end": 58.52
+ },
+ {
+  "id": "w182",
+  "text": "up",
+  "start": 58.56,
+  "end": 58.64
+ },
+ {
+  "id": "w183",
+  "text": "on",
+  "start": 58.72,
+  "end": 58.8
+ },
+ {
+  "id": "w184",
+  "text": "the",
+  "start": 58.84,
+  "end": 58.88
+ },
+ {
+  "id": "w185",
+  "text": "cold",
+  "start": 58.96,
+  "end": 59.2
+ },
+ {
+  "id": "w186",
+  "text": "coils,",
+  "start": 59.28,
+  "end": 59.8
+ },
+ {
+  "id": "w187",
+  "text": "so",
+  "start": 59.84,
+  "end": 59.92
+ },
+ {
+  "id": "w188",
+  "text": "a",
+  "start": 60.08,
+  "end": 60.107
+ },
+ {
+  "id": "w189",
+  "text": "heater",
+  "start": 60.133,
+  "end": 60.48
+ },
+ {
+  "id": "w190",
+  "text": "melts",
+  "start": 60.56,
+  "end": 60.72
+ },
+ {
+  "id": "w191",
+  "text": "it",
+  "start": 60.8,
+  "end": 60.88
+ },
+ {
+  "id": "w192",
+  "text": "now",
+  "start": 60.96,
+  "end": 61.04
+ },
+ {
+  "id": "w193",
+  "text": "and",
+  "start": 61.08,
+  "end": 61.12
+ },
+ {
+  "id": "w194",
+  "text": "then.",
+  "start": 61.2,
+  "end": 61.72
+ },
+ {
+  "id": "w195",
+  "text": "The",
+  "start": 61.76,
+  "end": 61.84
+ },
+ {
+  "id": "w196",
+  "text": "water",
+  "start": 61.92,
+  "end": 62.16
+ },
+ {
+  "id": "w197",
+  "text": "drains",
+  "start": 62.24,
+  "end": 62.48
+ },
+ {
+  "id": "w198",
+  "text": "to",
+  "start": 62.56,
+  "end": 62.64
+ },
+ {
+  "id": "w199",
+  "text": "a",
+  "start": 62.8,
+  "end": 62.88
+ },
+ {
+  "id": "w200",
+  "text": "pan",
+  "start": 62.96,
+  "end": 63.04
+ },
+ {
+  "id": "w201",
+  "text": "under",
+  "start": 63.12,
+  "end": 63.28
+ },
+ {
+  "id": "w202",
+  "text": "the",
+  "start": 63.36,
+  "end": 63.44
+ },
+ {
+  "id": "w203",
+  "text": "fridge,",
+  "start": 63.52,
+  "end": 63.88
+ },
+ {
+  "id": "w204",
+  "text": "where",
+  "start": 63.92,
+  "end": 64
+ },
+ {
+  "id": "w205",
+  "text": "the",
+  "start": 64.08,
+  "end": 64.16
+ },
+ {
+  "id": "w206",
+  "text": "warmth",
+  "start": 64.28,
+  "end": 64.56
+ },
+ {
+  "id": "w207",
+  "text": "dries",
+  "start": 64.6,
+  "end": 64.8
+ },
+ {
+  "id": "w208",
+  "text": "it",
+  "start": 64.88,
+  "end": 64.96
+ },
+ {
+  "id": "w209",
+  "text": "up.",
+  "start": 65.04,
+  "end": 65.56
+ },
+ {
+  "id": "w210",
+  "text": "So",
+  "start": 65.6,
+  "end": 65.92
+ },
+ {
+  "id": "w211",
+  "text": "your",
+  "start": 66,
+  "end": 66.16
+ },
+ {
+  "id": "w212",
+  "text": "fridge",
+  "start": 66.2,
+  "end": 66.4
+ },
+ {
+  "id": "w213",
+  "text": "is",
+  "start": 66.48,
+  "end": 66.56
+ },
+ {
+  "id": "w214",
+  "text": "a",
+  "start": 66.64,
+  "end": 66.72
+ },
+ {
+  "id": "w215",
+  "text": "heat",
+  "start": 66.8,
+  "end": 66.88
+ },
+ {
+  "id": "w216",
+  "text": "pump,",
+  "start": 66.92,
+  "end": 67.413
+ },
+ {
+  "id": "w217",
+  "text": "pushing",
+  "start": 67.467,
+  "end": 67.68
+ },
+ {
+  "id": "w218",
+  "text": "heat",
+  "start": 67.8,
+  "end": 67.92
+ },
+ {
+  "id": "w219",
+  "text": "out",
+  "start": 68,
+  "end": 68.24
+ },
+ {
+  "id": "w220",
+  "text": "all",
+  "start": 68.32,
+  "end": 68.48
+ },
+ {
+  "id": "w221",
+  "text": "day",
+  "start": 68.56,
+  "end": 68.72
+ },
+ {
+  "id": "w222",
+  "text": "long.",
+  "start": 69.04,
+  "end": 69.4
+ },
+ {
+  "id": "w223",
+  "text": "Did",
+  "start": 69.44,
+  "end": 69.52
+ },
+ {
+  "id": "w224",
+  "text": "you",
+  "start": 69.6,
+  "end": 69.68
+ },
+ {
+  "id": "w225",
+  "text": "know",
+  "start": 69.76,
+  "end": 69.84
+ },
+ {
+  "id": "w226",
+  "text": "the",
+  "start": 69.92,
+  "end": 70
+ },
+ {
+  "id": "w227",
+  "text": "back",
+  "start": 70.08,
+  "end": 70.16
+ },
+ {
+  "id": "w228",
+  "text": "of",
+  "start": 70.24,
+  "end": 70.32
+ },
+ {
+  "id": "w229",
+  "text": "your",
+  "start": 70.4,
+  "end": 70.48
+ },
+ {
+  "id": "w230",
+  "text": "fridge",
+  "start": 70.56,
+  "end": 70.8
+ },
+ {
+  "id": "w231",
+  "text": "was",
+  "start": 70.84,
+  "end": 70.88
+ },
+ {
+  "id": "w232",
+  "text": "a",
+  "start": 71.04,
+  "end": 71.067
+ },
+ {
+  "id": "w233",
+  "text": "heater?",
+  "start": 71.093,
+  "end": 71.72
+ },
+ {
+  "id": "w234",
+  "text": "Tell",
+  "start": 71.76,
+  "end": 71.92
+ },
+ {
+  "id": "w235",
+  "text": "me",
+  "start": 71.96,
+  "end": 72
+ },
+ {
+  "id": "w236",
+  "text": "in",
+  "start": 72.04,
+  "end": 72.08
+ },
+ {
+  "id": "w237",
+  "text": "the",
+  "start": 72.12,
+  "end": 72.16
+ },
+ {
+  "id": "w238",
+  "text": "comments.",
+  "start": 72.56,
+  "end": 73
+ },
+ {
+  "id": "w239",
+  "text": "If",
+  "start": 73.04,
+  "end": 73.12
+ },
+ {
+  "id": "w240",
+  "text": "you",
+  "start": 73.16,
+  "end": 73.2
+ },
+ {
+  "id": "w241",
+  "text": "found",
+  "start": 73.28,
+  "end": 73.36
+ },
+ {
+  "id": "w242",
+  "text": "this",
+  "start": 73.44,
+  "end": 73.6
+ },
+ {
+  "id": "w243",
+  "text": "useful,",
+  "start": 73.72,
+  "end": 74.187
+ },
+ {
+  "id": "w244",
+  "text": "don't",
+  "start": 74.213,
+  "end": 74.32
+ },
+ {
+  "id": "w245",
+  "text": "forget",
+  "start": 74.44,
+  "end": 74.56
+ },
+ {
+  "id": "w246",
+  "text": "to",
+  "start": 74.64,
+  "end": 74.72
+ },
+ {
+  "id": "w247",
+  "text": "follow.",
+  "start": 74.88,
+  "end": 75.28
+ }
+]
