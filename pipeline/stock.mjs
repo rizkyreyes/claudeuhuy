@@ -12,8 +12,12 @@
 // file used in publish/sources.txt (source + page URL + author) so provenance is always answerable.
 import fs from "node:fs"; import path from "node:path";
 
-const PEXELS = process.env.PEXELS_KEY || null;
-const PIXABAY = process.env.PIXABAY_KEY || null;
+// Keys may also live in ~/.config/hyperframe-pro/.env (PEXELS_KEY=..., PIXABAY_KEY=...), same file as ELEVENLABS_API_KEY.
+let FILEENV = "";
+try { FILEENV = fs.readFileSync(path.join(process.env.USERPROFILE || process.env.HOME || "", ".config/hyperframe-pro/.env"), "utf8"); } catch {}
+const fromFile = (k) => (FILEENV.match(new RegExp("^" + k + "=(\\S+)", "m")) || [])[1] || null;
+const PEXELS = process.env.PEXELS_KEY || fromFile("PEXELS_KEY");
+const PIXABAY = process.env.PIXABAY_KEY || fromFile("PIXABAY_KEY");
 
 async function pexels(q, kind) {
   const base = kind === "photo" ? "https://api.pexels.com/v1/search" : "https://api.pexels.com/videos/search";

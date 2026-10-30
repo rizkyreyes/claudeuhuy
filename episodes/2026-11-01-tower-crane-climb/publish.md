@@ -2,9 +2,9 @@
 
 Nothing is posted until Rizky says "setuju" on the final video + caption. One video per ET day: check Buffer for Sun 1 Nov first.
 
-## YouTube title (vidIQ was down when this was written, so no score)
-- **How Tower Cranes Build Themselves Taller #shorts** (kept: matches the hook, plain and searchable)
-- How Does a Tower Crane Lift Itself Higher? #shorts (backup)
+## YouTube title (vidIQ scored, short-form)
+- **How Does a Tower Crane Lift Itself Higher? #shorts**: 95 (kept)
+- How Tower Cranes Build Themselves Taller #shorts: 89 (backup)
 
 ## Caption (all platforms)
 A tower crane starts small: a mobile crane stands up the base, a few mast sections, the cab, the jib and the counterweights. Then it grows with the building. A climbing frame wraps around the mast, the operator balances the jib, a new mast section is hooked, and hydraulic rams lift the whole top of the crane to open a one-section gap. The section slides in, gets locked, the rams let go, and the crane is taller. The jib can't swing during a climb, steel ties anchor the mast to the building, and some cranes even climb inside the elevator shaft. Would you work in that cab, high above the city?

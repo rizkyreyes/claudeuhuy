@@ -138,7 +138,11 @@ M_WIND, B_WIND = mat("Wind", (0.30, 0.90, 1.0), 0.3, 0.0, CYAN); B_WIND.inputs["
 M_TRUCK, _ = mat("Truck", (0.80, 0.20, 0.08), 0.5, 0.4)
 M_TIRE, _ = mat("Tire", (0.03, 0.03, 0.03), 0.9)
 M_BOOM, _ = mat("Boom", (0.85, 0.30, 0.10), 0.45, 0.5)
-M_CITY, _ = mat("City", (0.05, 0.07, 0.10), 0.7, 0.0, (1.0, 0.8, 0.5), 3)
+M_CITY, _ = mat("City", (0.085, 0.10, 0.14), 0.75, 0.0, (1.0, 0.8, 0.5), 3)
+M_CITY2, _ = mat("City2", (0.12, 0.11, 0.11), 0.8, 0.0, (1.0, 0.8, 0.5), 4)
+M_CITY3, _ = mat("City3", (0.07, 0.09, 0.13), 0.7, 0.0, (1.0, 0.8, 0.5), 3)
+M_WIN, _ = mat("WindowDark", (0.02, 0.03, 0.05), 0.15, 0.6)
+M_WINLIT, B_WINLIT = mat("WindowLit", (1.0, 0.85, 0.6), 0.4, 0.0, (1.0, 0.78, 0.45)); B_WINLIT.inputs["Emission Strength"].default_value = 1.4
 M_GLOW, B_GLOW = mat("GapGlow", (1.0, 0.8, 0.3), 0.5, 0.0, GOLD); B_GLOW.inputs["Emission Strength"].default_value = 8.0
 M_LINE, B_LINE = mat("OldTop", (0.25, 0.9, 1.0), 0.5, 0.0, CYAN); B_LINE.inputs["Emission Strength"].default_value = 6.0
 
@@ -257,9 +261,30 @@ box("Foundation", -2.6, 2.6, -2.6, 2.6, -2.5, 0.0, M_FOUND)
 box("Footing", -3.4, 3.4, -3.4, 3.4, -3.5, -2.5, M_FOUND)
 box("BuildingPad", BX0 - 0.6, BX1 + 0.6, BY0 - 0.6, BY1 + 0.6, -1.2, 0.0, M_FOUND)
 random.seed(21)
-for k in range(14):                  # distant city blocks (dark, a few warm windows)
-    x = -60 + k * 10 + random.uniform(-2, 2); h_ = random.uniform(25, 62); w_ = random.uniform(5, 9)
-    box(f"City{k}", x - w_, x + w_, 30 + random.uniform(0, 12), 38 + w_ + random.uniform(0, 8), 0, h_, M_CITY)
+def city_building(name, cx, cy, w, d, h, body):
+    """Tower with a window grid on the camera-facing (-y) and the +x/-x faces, a stepped top and rooftop plant."""
+    bm = bmesh.new(); add_box(bm, cx - w, cx + w, cy - d, cy + d, 0, h, 0)
+    if h > 40 and random.random() < 0.6: add_box(bm, cx - w * 0.7, cx + w * 0.7, cy - d * 0.7, cy + d * 0.7, h, h + random.uniform(3, 7), 0)
+    add_box(bm, cx - w * 0.3, cx + w * 0.1, cy - d * 0.3, cy + d * 0.2, h, h + 1.6, 0)
+    cols = max(3, int(w * 2 / 2.2)); rows = int((h - 3) / 3.0)
+    for r_ in range(rows):
+        for c_ in range(cols):
+            x0 = cx - w + (c_ + 0.5) * (2 * w / cols); z0 = 2.5 + r_ * 3.0
+            lit = 2 if random.random() < 0.16 else 1
+            add_box(bm, x0 - 0.65, x0 + 0.65, cy - d - 0.06, cy - d, z0, z0 + 1.7, lit)
+    for side in (-1, 1):
+        for r_ in range(rows):
+            for c_ in range(max(2, int(d * 2 / 2.4))):
+                y0 = cy - d + (c_ + 0.5) * (2 * d / max(2, int(d * 2 / 2.4))); z0 = 2.5 + r_ * 3.0
+                lit = 2 if random.random() < 0.22 else 1
+                add_box(bm, cx + side * w, cx + side * (w + 0.06), y0 - 0.6, y0 + 0.6, z0, z0 + 1.7, lit)
+    return mesh_obj(name, bm, [body, M_WIN, M_WINLIT])
+for k in range(14):                  # distant city blocks with windows
+    x = -62 + k * 10 + random.uniform(-2, 2); h_ = random.uniform(28, 64); w_ = random.uniform(4.5, 7.5); d_ = random.uniform(5, 8)
+    city_building(f"City{k}", x, 34 + random.uniform(0, 12), w_, d_, h_, (M_CITY, M_CITY2, M_CITY3)[k % 3])
+for k in range(6):                   # nearer, lower blocks fill the gaps between towers and the crane site
+    x = -52 + k * 22 + random.uniform(-3, 3)
+    city_building(f"CityNear{k}", x, 20 + random.uniform(0, 4), random.uniform(5, 8), random.uniform(5, 7), random.uniform(14, 26), (M_CITY2, M_CITY3, M_CITY)[k % 3])
 random.seed(8)
 
 def floor_prefab():
