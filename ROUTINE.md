@@ -21,7 +21,10 @@ curl -s -o /dev/null -w "%{http_code}\n" https://api.elevenlabs.io/v1/voices/TX3
 
 ## Step 1 — Pick the topic
 - Open `state/queue-3d.md`. Take the first row with status `todo` whose target day has no `prepped` episode yet. Its target day sets the publishing slots (playbook table).
-- If no `todo` rows are left, research 7 new topics (broad engineering: how it works / how it's built; evergreen proof = old uploads still getting views; vidIQ tools if connected, otherwise web search), append them to `docs/topic-bank-3d.md` and `state/queue-3d.md`, then take the first.
+- If no `todo` rows are left, research 7 new topics (broad engineering: how it works / how it's built), append them to `docs/topic-bank-3d.md` and `state/queue-3d.md`, then take the first. Selection rule (Rizky, 31 Oct 2026):
+  1. **Demand first: pick the topics people ask about most on the internet.** Evidence = search volume for "how does X work / how is X built / why doesn't X" questions (vidIQ `vidiq_keyword_research` if connected), Google "People also ask" / autocomplete, Reddit (r/explainlikeimfive, r/NoStupidQuestions, r/AskEngineers) and Quora threads. Write the evidence down per topic.
+  2. **Then check YouTube coverage** for the same question (`vidiq_youtube_search` / `vidiq_outliers`, or a web search on youtube.com): is there already a good explainer, how many views, how old, is it a 3D cutaway? Prefer high demand with no or weak/old coverage; a topic that is already well covered is fine only if old uploads still get views and our 3D cutaway angle adds something.
+  3. Record per topic in the topic bank: the question people ask, the demand evidence, the YouTube coverage found (top video, views, year), and Blender feasibility.
 - Skip a topic covered in the last 30 days.
 
 ## Step 2 — Facts
