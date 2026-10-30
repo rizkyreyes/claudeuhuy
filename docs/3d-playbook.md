@@ -52,3 +52,6 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 | Sun | 9 AM | 9 PM | 7 PM |
 **One video per ET day, never two** (Rizky, 27 Oct 2026). Before scheduling, list the scheduled posts in Buffer; if the target day already has a video, move the new one (and the rest of the queue) to the next free day. Days Rizky blocks stay empty: **Thu 29 Oct 2026 = no posts**.
 Offset −04:00 until 31 Oct 2026, −05:00 from 1 Nov 2026. Buffer free plan: max 10 scheduled posts per channel. Nothing is published without Rizky's "setuju" on the final video + caption.
+
+## Laptop scripts (pipeline3d/bin)
+`render.sh <ep> stills|final|cover <frame>`, `assemble.sh <ep>`, `publish-prep.sh <ep> A|B` (upload file + push + Buffer payloads), `buffer-plan.mjs`, `mark-scheduled.mjs`. Episode files must keep these names: build_scene.py, timeline.js (reads RENDER_ID/RENDER_MS), synth_sfx.js, publish.md (bold `...#shorts` title, `## Caption` section), cover/cover_A.png + cover_B.png.
