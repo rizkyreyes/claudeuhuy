@@ -9,7 +9,7 @@ set -euo pipefail
 EP="$(ep_dir "$1")"; OPT="$2"; cd "$EP"
 BASE="$(basename "$EP")"; SLUG="$(echo "$BASE" | cut -d- -f4-)"
 VID="${3:-$(ls -S *.mp4 | grep -v -i 'render\|upload' | head -1)}"
-COVER="$(ls cover/cover_$OPT.png previews/cover-$OPT.png 2>/dev/null | head -1)"
+COVER="$(ls cover/cover_$OPT.png previews/cover-$OPT.png 2>/dev/null | head -1 || true)"
 [ -n "$COVER" ] || { echo "no cover $OPT" >&2; exit 1; }
 D=$("$FFPROBE" -v error -show_entries format=duration -of csv=p=0 "$VID"); W=$(awk "BEGIN{print $D+2/30}")
 OUT="$REPO/media/$SLUG.mp4"
