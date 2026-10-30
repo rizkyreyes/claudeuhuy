@@ -1,0 +1,13 @@
+{
+ "slug": "tower-cranes-build-themselves",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "How does a tower crane build itself taller? Let's cut it open. It starts small. A mobile crane stands up the base, a few mast sections, the cab, the jib, and counterweights. After that, the crane grows with the building. Here's the trick. Right under the cab sits a steel climbing frame that wraps around the mast. The operator slides the trolley along the jib until the crane is balanced over the mast. Then the crane hooks one new mast section. Now the frame goes to work. Hydraulic rams push against the mast and lift the entire top of the crane, cab, jib, counterweights and all. That opens a one-section gap. The crane slides the new section in, and the crew locks it. Then the rams let go, the weight settles onto the longer mast, and the crane is taller. It repeats as the building climbs. One strict rule: the jib can't swing during a climb, because the twisting could damage the mast. As the tower rises, steel ties anchor it to the building, so the wind can't tip it. Some cranes even climb inside the building's own elevator shaft. So the machine that builds the skyscraper also builds itself. Would you work in that cab, high above the city? Tell me in the comments. If you found this useful, don't forget to follow."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

@@ -304,3 +304,10 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 
 ## 2026-10-28 (laptop) 3d-07 elevator-brakes
 - Morning task ran 19:12 WIB. Rizky asked for a follow line in every CTA: recorded "If you found this useful, don't forget to follow." as a pickup, spliced after the question, held the last frame 2.7 s, titles FOUND THIS USEFUL? / FOLLOW FOR MORE. 79.3 s, -15.7 LUFS. "setuju b". Scheduled Sat 31 Oct ET: TikTok 5 PM, YT 7 PM, IG 9 PM.
+
+## 2026-10-30 (laptop, Rizky asked for the next video) 3d-08 tower-crane-climb
+- Prepped here instead of waiting for the 01:00 WIB cloud run (queue row set to rendered so the cloud run takes the next topic). ElevenLabs 34,643 chars left before; 3 takes (85.7 s / 77.2 s / 76.2 s), final 224 words, about 3,300 characters used.
+- Facts from search excerpts (HowStuffWorks, Safe Work Australia, Liebherr, patents, Samsung C&T); page fetches not used. Cut: section height, ram capacity, locking method.
+- Scene: new studio cutaway (mast, frame, 2 rams, platform, trolley/hook, mobile crane, floors, Set B inside a core). Ties/wind and set B checked with CPU stills; GPU stills sheet OK. Final render 2320 frames on RTX 4060 (about 1.5 s/frame, 58 min). Crane.mp4 77.34 s, -16.1 LUFS, true peak about -1.8 dBFS.
+- Covers: Pexels 38520017 (A) and 30396647 (B, bottom cropped for banner text); 35981942 rejected for a brand logo. Pexels key is not on the laptop, photos came from the public CDN via the browser.
+- Open: VO line 'a one-section gap' vs the cyan ghost frame is the only gap cue; no people; vidIQ score missing. Cab box is large in close shots. Waiting for Rizky's setuju.

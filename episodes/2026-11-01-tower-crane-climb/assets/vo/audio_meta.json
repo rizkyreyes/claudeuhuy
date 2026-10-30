@@ -1,0 +1,1360 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "How does a tower crane build itself taller? Let's cut it open. It starts small. A mobile crane stands up the base, a few mast sections, the cab, the jib, and counterweights. After that, the crane grows with the building. Here's the trick. Right under the cab sits a steel climbing frame that wraps around the mast. The operator slides the trolley along the jib until the crane is balanced over the mast. Then the crane hooks one new mast section. Now the frame goes to work. Hydraulic rams push against the mast and lift the entire top of the crane, cab, jib, counterweights and all. That opens a one-section gap. The crane slides the new section in, and the crew locks it. Then the rams let go, the weight settles onto the longer mast, and the crane is taller. It repeats as the building climbs. One strict rule: the jib can't swing during a climb, because the twisting could damage the mast. As the tower rises, steel ties anchor it to the building, so the wind can't tip it. Some cranes even climb inside the building's own elevator shaft. So the machine that builds the skyscraper also builds itself. Would you work in that cab, high above the city? Tell me in the comments. If you found this useful, don't forget to follow.",
+   "wav": "vo.wav",
+   "duration": 76.16,
+   "speechStart": 0,
+   "speechEnd": 76.24,
+   "words": [
+    {
+     "id": "w0",
+     "text": "How",
+     "start": 0,
+     "end": 0.2
+    },
+    {
+     "id": "w1",
+     "text": "does",
+     "start": 0.24,
+     "end": 0.38
+    },
+    {
+     "id": "w2",
+     "text": "a",
+     "start": 0.4,
+     "end": 0.48
+    },
+    {
+     "id": "w3",
+     "text": "tower",
+     "start": 0.56,
+     "end": 0.848
+    },
+    {
+     "id": "w4",
+     "text": "crane",
+     "start": 0.88,
+     "end": 1.227
+    },
+    {
+     "id": "w5",
+     "text": "build",
+     "start": 1.28,
+     "end": 1.52
+    },
+    {
+     "id": "w6",
+     "text": "itself",
+     "start": 1.6,
+     "end": 2
+    },
+    {
+     "id": "w7",
+     "text": "taller?",
+     "start": 2.04,
+     "end": 2.72
+    },
+    {
+     "id": "w8",
+     "text": "Let's",
+     "start": 2.96,
+     "end": 3.2
+    },
+    {
+     "id": "w9",
+     "text": "cut",
+     "start": 3.28,
+     "end": 3.36
+    },
+    {
+     "id": "w10",
+     "text": "it",
+     "start": 3.4,
+     "end": 3.44
+    },
+    {
+     "id": "w11",
+     "text": "open.",
+     "start": 3.52,
+     "end": 4.08
+    },
+    {
+     "id": "w12",
+     "text": "It",
+     "start": 4.32,
+     "end": 4.48
+    },
+    {
+     "id": "w13",
+     "text": "starts",
+     "start": 4.68,
+     "end": 4.88
+    },
+    {
+     "id": "w14",
+     "text": "small.",
+     "start": 5.08,
+     "end": 5.36
+    },
+    {
+     "id": "w15",
+     "text": "A",
+     "start": 5.76,
+     "end": 5.84
+    },
+    {
+     "id": "w16",
+     "text": "mobile",
+     "start": 6,
+     "end": 6.16
+    },
+    {
+     "id": "w17",
+     "text": "crane",
+     "start": 6.24,
+     "end": 6.56
+    },
+    {
+     "id": "w18",
+     "text": "stands",
+     "start": 6.64,
+     "end": 6.96
+    },
+    {
+     "id": "w19",
+     "text": "up",
+     "start": 7,
+     "end": 7.04
+    },
+    {
+     "id": "w20",
+     "text": "the",
+     "start": 7.12,
+     "end": 7.2
+    },
+    {
+     "id": "w21",
+     "text": "base,",
+     "start": 7.4,
+     "end": 7.84
+    },
+    {
+     "id": "w22",
+     "text": "a",
+     "start": 7.88,
+     "end": 7.92
+    },
+    {
+     "id": "w23",
+     "text": "few",
+     "start": 8,
+     "end": 8.08
+    },
+    {
+     "id": "w24",
+     "text": "mast",
+     "start": 8.16,
+     "end": 8.48
+    },
+    {
+     "id": "w25",
+     "text": "sections,",
+     "start": 8.56,
+     "end": 9.2
+    },
+    {
+     "id": "w26",
+     "text": "the",
+     "start": 9.28,
+     "end": 9.36
+    },
+    {
+     "id": "w27",
+     "text": "cab,",
+     "start": 9.56,
+     "end": 10
+    },
+    {
+     "id": "w28",
+     "text": "the",
+     "start": 10.08,
+     "end": 10.16
+    },
+    {
+     "id": "w29",
+     "text": "jib,",
+     "start": 10.24,
+     "end": 10.72
+    },
+    {
+     "id": "w30",
+     "text": "and",
+     "start": 10.76,
+     "end": 10.8
+    },
+    {
+     "id": "w31",
+     "text": "counterweights.",
+     "start": 10.88,
+     "end": 11.76
+    },
+    {
+     "id": "w32",
+     "text": "After",
+     "start": 12,
+     "end": 12.24
+    },
+    {
+     "id": "w33",
+     "text": "that,",
+     "start": 12.32,
+     "end": 12.8
+    },
+    {
+     "id": "w34",
+     "text": "the",
+     "start": 12.88,
+     "end": 12.96
+    },
+    {
+     "id": "w35",
+     "text": "crane",
+     "start": 13.04,
+     "end": 13.28
+    },
+    {
+     "id": "w36",
+     "text": "grows",
+     "start": 13.36,
+     "end": 13.76
+    },
+    {
+     "id": "w37",
+     "text": "with",
+     "start": 13.84,
+     "end": 13.92
+    },
+    {
+     "id": "w38",
+     "text": "the",
+     "start": 13.96,
+     "end": 14
+    },
+    {
+     "id": "w39",
+     "text": "building.",
+     "start": 14.08,
+     "end": 14.72
+    },
+    {
+     "id": "w40",
+     "text": "Here's",
+     "start": 14.96,
+     "end": 15.2
+    },
+    {
+     "id": "w41",
+     "text": "the",
+     "start": 15.24,
+     "end": 15.28
+    },
+    {
+     "id": "w42",
+     "text": "trick.",
+     "start": 15.36,
+     "end": 15.68
+    },
+    {
+     "id": "w43",
+     "text": "Right",
+     "start": 16.16,
+     "end": 16.32
+    },
+    {
+     "id": "w44",
+     "text": "under",
+     "start": 16.4,
+     "end": 16.56
+    },
+    {
+     "id": "w45",
+     "text": "the",
+     "start": 16.6,
+     "end": 16.64
+    },
+    {
+     "id": "w46",
+     "text": "cab",
+     "start": 16.72,
+     "end": 17.04
+    },
+    {
+     "id": "w47",
+     "text": "sits",
+     "start": 17.12,
+     "end": 17.28
+    },
+    {
+     "id": "w48",
+     "text": "a",
+     "start": 17.36,
+     "end": 17.44
+    },
+    {
+     "id": "w49",
+     "text": "steel",
+     "start": 17.6,
+     "end": 17.76
+    },
+    {
+     "id": "w50",
+     "text": "climbing",
+     "start": 17.92,
+     "end": 18.24
+    },
+    {
+     "id": "w51",
+     "text": "frame",
+     "start": 18.4,
+     "end": 18.64
+    },
+    {
+     "id": "w52",
+     "text": "that",
+     "start": 18.72,
+     "end": 18.8
+    },
+    {
+     "id": "w53",
+     "text": "wraps",
+     "start": 18.88,
+     "end": 19.2
+    },
+    {
+     "id": "w54",
+     "text": "around",
+     "start": 19.32,
+     "end": 19.44
+    },
+    {
+     "id": "w55",
+     "text": "the",
+     "start": 19.52,
+     "end": 19.56
+    },
+    {
+     "id": "w56",
+     "text": "mast.",
+     "start": 19.6,
+     "end": 20.08
+    },
+    {
+     "id": "w57",
+     "text": "The",
+     "start": 20.48,
+     "end": 20.56
+    },
+    {
+     "id": "w58",
+     "text": "operator",
+     "start": 20.64,
+     "end": 21.04
+    },
+    {
+     "id": "w59",
+     "text": "slides",
+     "start": 21.2,
+     "end": 21.52
+    },
+    {
+     "id": "w60",
+     "text": "the",
+     "start": 21.6,
+     "end": 21.64
+    },
+    {
+     "id": "w61",
+     "text": "trolley",
+     "start": 21.68,
+     "end": 22
+    },
+    {
+     "id": "w62",
+     "text": "along",
+     "start": 22.08,
+     "end": 22.4
+    },
+    {
+     "id": "w63",
+     "text": "the",
+     "start": 22.48,
+     "end": 22.56
+    },
+    {
+     "id": "w64",
+     "text": "jib",
+     "start": 22.64,
+     "end": 22.88
+    },
+    {
+     "id": "w65",
+     "text": "until",
+     "start": 23,
+     "end": 23.12
+    },
+    {
+     "id": "w66",
+     "text": "the",
+     "start": 23.16,
+     "end": 23.2
+    },
+    {
+     "id": "w67",
+     "text": "crane",
+     "start": 23.28,
+     "end": 23.52
+    },
+    {
+     "id": "w68",
+     "text": "is",
+     "start": 23.6,
+     "end": 23.76
+    },
+    {
+     "id": "w69",
+     "text": "balanced",
+     "start": 23.84,
+     "end": 24.24
+    },
+    {
+     "id": "w70",
+     "text": "over",
+     "start": 24.32,
+     "end": 24.48
+    },
+    {
+     "id": "w71",
+     "text": "the",
+     "start": 24.52,
+     "end": 24.56
+    },
+    {
+     "id": "w72",
+     "text": "mast.",
+     "start": 24.64,
+     "end": 25.24
+    },
+    {
+     "id": "w73",
+     "text": "Then",
+     "start": 25.44,
+     "end": 25.76
+    },
+    {
+     "id": "w74",
+     "text": "the",
+     "start": 25.92,
+     "end": 25.96
+    },
+    {
+     "id": "w75",
+     "text": "crane",
+     "start": 26,
+     "end": 26.24
+    },
+    {
+     "id": "w76",
+     "text": "hooks",
+     "start": 26.32,
+     "end": 26.64
+    },
+    {
+     "id": "w77",
+     "text": "one",
+     "start": 26.8,
+     "end": 26.96
+    },
+    {
+     "id": "w78",
+     "text": "new",
+     "start": 27.04,
+     "end": 27.2
+    },
+    {
+     "id": "w79",
+     "text": "mast",
+     "start": 27.28,
+     "end": 27.52
+    },
+    {
+     "id": "w80",
+     "text": "section.",
+     "start": 27.6,
+     "end": 28.28
+    },
+    {
+     "id": "w81",
+     "text": "Now",
+     "start": 28.56,
+     "end": 28.8
+    },
+    {
+     "id": "w82",
+     "text": "the",
+     "start": 28.88,
+     "end": 28.96
+    },
+    {
+     "id": "w83",
+     "text": "frame",
+     "start": 29.12,
+     "end": 29.36
+    },
+    {
+     "id": "w84",
+     "text": "goes",
+     "start": 29.44,
+     "end": 29.6
+    },
+    {
+     "id": "w85",
+     "text": "to",
+     "start": 29.68,
+     "end": 29.72
+    },
+    {
+     "id": "w86",
+     "text": "work.",
+     "start": 29.76,
+     "end": 30.28
+    },
+    {
+     "id": "w87",
+     "text": "Hydraulic",
+     "start": 30.48,
+     "end": 30.96
+    },
+    {
+     "id": "w88",
+     "text": "rams",
+     "start": 31.12,
+     "end": 31.44
+    },
+    {
+     "id": "w89",
+     "text": "push",
+     "start": 31.52,
+     "end": 31.76
+    },
+    {
+     "id": "w90",
+     "text": "against",
+     "start": 31.92,
+     "end": 32.08
+    },
+    {
+     "id": "w91",
+     "text": "the",
+     "start": 32.12,
+     "end": 32.16
+    },
+    {
+     "id": "w92",
+     "text": "mast",
+     "start": 32.24,
+     "end": 32.56
+    },
+    {
+     "id": "w93",
+     "text": "and",
+     "start": 32.64,
+     "end": 32.72
+    },
+    {
+     "id": "w94",
+     "text": "lift",
+     "start": 32.8,
+     "end": 32.96
+    },
+    {
+     "id": "w95",
+     "text": "the",
+     "start": 33.04,
+     "end": 33.12
+    },
+    {
+     "id": "w96",
+     "text": "entire",
+     "start": 33.28,
+     "end": 33.68
+    },
+    {
+     "id": "w97",
+     "text": "top",
+     "start": 33.84,
+     "end": 34
+    },
+    {
+     "id": "w98",
+     "text": "of",
+     "start": 34.08,
+     "end": 34.16
+    },
+    {
+     "id": "w99",
+     "text": "the",
+     "start": 34.2,
+     "end": 34.24
+    },
+    {
+     "id": "w100",
+     "text": "crane,",
+     "start": 34.32,
+     "end": 34.96
+    },
+    {
+     "id": "w101",
+     "text": "cab,",
+     "start": 35.16,
+     "end": 35.6
+    },
+    {
+     "id": "w102",
+     "text": "jib,",
+     "start": 35.64,
+     "end": 36.16
+    },
+    {
+     "id": "w103",
+     "text": "counterweights",
+     "start": 36.32,
+     "end": 36.72
+    },
+    {
+     "id": "w104",
+     "text": "and",
+     "start": 36.8,
+     "end": 36.96
+    },
+    {
+     "id": "w105",
+     "text": "all.",
+     "start": 37.04,
+     "end": 37.36
+    },
+    {
+     "id": "w106",
+     "text": "That",
+     "start": 37.76,
+     "end": 37.92
+    },
+    {
+     "id": "w107",
+     "text": "opens",
+     "start": 38,
+     "end": 38.32
+    },
+    {
+     "id": "w108",
+     "text": "a",
+     "start": 38.4,
+     "end": 38.48
+    },
+    {
+     "id": "w109",
+     "text": "one-section",
+     "start": 38.56,
+     "end": 39.12
+    },
+    {
+     "id": "w110",
+     "text": "gap.",
+     "start": 39.2,
+     "end": 39.72
+    },
+    {
+     "id": "w111",
+     "text": "The",
+     "start": 39.92,
+     "end": 40
+    },
+    {
+     "id": "w112",
+     "text": "crane",
+     "start": 40.08,
+     "end": 40.32
+    },
+    {
+     "id": "w113",
+     "text": "slides",
+     "start": 40.48,
+     "end": 40.8
+    },
+    {
+     "id": "w114",
+     "text": "the",
+     "start": 40.84,
+     "end": 40.88
+    },
+    {
+     "id": "w115",
+     "text": "new",
+     "start": 40.96,
+     "end": 41.04
+    },
+    {
+     "id": "w116",
+     "text": "section",
+     "start": 41.12,
+     "end": 41.44
+    },
+    {
+     "id": "w117",
+     "text": "in,",
+     "start": 41.52,
+     "end": 41.84
+    },
+    {
+     "id": "w118",
+     "text": "and",
+     "start": 41.88,
+     "end": 41.92
+    },
+    {
+     "id": "w119",
+     "text": "the",
+     "start": 41.96,
+     "end": 42
+    },
+    {
+     "id": "w120",
+     "text": "crew",
+     "start": 42.08,
+     "end": 42.24
+    },
+    {
+     "id": "w121",
+     "text": "locks",
+     "start": 42.32,
+     "end": 42.56
+    },
+    {
+     "id": "w122",
+     "text": "it.",
+     "start": 42.64,
+     "end": 43.2
+    },
+    {
+     "id": "w123",
+     "text": "Then",
+     "start": 43.32,
+     "end": 43.44
+    },
+    {
+     "id": "w124",
+     "text": "the",
+     "start": 43.6,
+     "end": 43.64
+    },
+    {
+     "id": "w125",
+     "text": "rams",
+     "start": 43.68,
+     "end": 44
+    },
+    {
+     "id": "w126",
+     "text": "let",
+     "start": 44.08,
+     "end": 44.16
+    },
+    {
+     "id": "w127",
+     "text": "go,",
+     "start": 44.24,
+     "end": 44.72
+    },
+    {
+     "id": "w128",
+     "text": "the",
+     "start": 44.76,
+     "end": 44.8
+    },
+    {
+     "id": "w129",
+     "text": "weight",
+     "start": 44.88,
+     "end": 45.12
+    },
+    {
+     "id": "w130",
+     "text": "settles",
+     "start": 45.2,
+     "end": 45.44
+    },
+    {
+     "id": "w131",
+     "text": "onto",
+     "start": 45.52,
+     "end": 45.68
+    },
+    {
+     "id": "w132",
+     "text": "the",
+     "start": 45.76,
+     "end": 45.8
+    },
+    {
+     "id": "w133",
+     "text": "longer",
+     "start": 45.84,
+     "end": 46.16
+    },
+    {
+     "id": "w134",
+     "text": "mast,",
+     "start": 46.24,
+     "end": 46.72
+    },
+    {
+     "id": "w135",
+     "text": "and",
+     "start": 46.76,
+     "end": 46.8
+    },
+    {
+     "id": "w136",
+     "text": "the",
+     "start": 46.84,
+     "end": 46.88
+    },
+    {
+     "id": "w137",
+     "text": "crane",
+     "start": 46.96,
+     "end": 47.2
+    },
+    {
+     "id": "w138",
+     "text": "is",
+     "start": 47.28,
+     "end": 47.36
+    },
+    {
+     "id": "w139",
+     "text": "taller.",
+     "start": 47.467,
+     "end": 47.76
+    },
+    {
+     "id": "w140",
+     "text": "It",
+     "start": 48.16,
+     "end": 48.24
+    },
+    {
+     "id": "w141",
+     "text": "repeats",
+     "start": 48.32,
+     "end": 48.8
+    },
+    {
+     "id": "w142",
+     "text": "as",
+     "start": 48.88,
+     "end": 48.96
+    },
+    {
+     "id": "w143",
+     "text": "the",
+     "start": 49.04,
+     "end": 49.08
+    },
+    {
+     "id": "w144",
+     "text": "building",
+     "start": 49.12,
+     "end": 49.44
+    },
+    {
+     "id": "w145",
+     "text": "climbs.",
+     "start": 49.52,
+     "end": 50.28
+    },
+    {
+     "id": "w146",
+     "text": "One",
+     "start": 50.56,
+     "end": 50.72
+    },
+    {
+     "id": "w147",
+     "text": "strict",
+     "start": 50.88,
+     "end": 51.2
+    },
+    {
+     "id": "w148",
+     "text": "rule:",
+     "start": 51.28,
+     "end": 51.92
+    },
+    {
+     "id": "w149",
+     "text": "the",
+     "start": 51.96,
+     "end": 52
+    },
+    {
+     "id": "w150",
+     "text": "jib",
+     "start": 52.16,
+     "end": 52.4
+    },
+    {
+     "id": "w151",
+     "text": "can't",
+     "start": 52.48,
+     "end": 52.8
+    },
+    {
+     "id": "w152",
+     "text": "swing",
+     "start": 52.88,
+     "end": 53.2
+    },
+    {
+     "id": "w153",
+     "text": "during",
+     "start": 53.32,
+     "end": 53.44
+    },
+    {
+     "id": "w154",
+     "text": "a",
+     "start": 53.48,
+     "end": 53.52
+    },
+    {
+     "id": "w155",
+     "text": "climb,",
+     "start": 53.6,
+     "end": 54.16
+    },
+    {
+     "id": "w156",
+     "text": "because",
+     "start": 54.28,
+     "end": 54.4
+    },
+    {
+     "id": "w157",
+     "text": "the",
+     "start": 54.44,
+     "end": 54.48
+    },
+    {
+     "id": "w158",
+     "text": "twisting",
+     "start": 54.56,
+     "end": 54.96
+    },
+    {
+     "id": "w159",
+     "text": "could",
+     "start": 55.04,
+     "end": 55.12
+    },
+    {
+     "id": "w160",
+     "text": "damage",
+     "start": 55.2,
+     "end": 55.52
+    },
+    {
+     "id": "w161",
+     "text": "the",
+     "start": 55.56,
+     "end": 55.6
+    },
+    {
+     "id": "w162",
+     "text": "mast.",
+     "start": 55.68,
+     "end": 56.08
+    },
+    {
+     "id": "w163",
+     "text": "As",
+     "start": 56.56,
+     "end": 56.64
+    },
+    {
+     "id": "w164",
+     "text": "the",
+     "start": 56.72,
+     "end": 56.76
+    },
+    {
+     "id": "w165",
+     "text": "tower",
+     "start": 56.8,
+     "end": 57.12
+    },
+    {
+     "id": "w166",
+     "text": "rises,",
+     "start": 57.2,
+     "end": 57.92
+    },
+    {
+     "id": "w167",
+     "text": "steel",
+     "start": 58,
+     "end": 58.32
+    },
+    {
+     "id": "w168",
+     "text": "ties",
+     "start": 58.4,
+     "end": 58.8
+    },
+    {
+     "id": "w169",
+     "text": "anchor",
+     "start": 58.88,
+     "end": 59.12
+    },
+    {
+     "id": "w170",
+     "text": "it",
+     "start": 59.2,
+     "end": 59.28
+    },
+    {
+     "id": "w171",
+     "text": "to",
+     "start": 59.32,
+     "end": 59.36
+    },
+    {
+     "id": "w172",
+     "text": "the",
+     "start": 59.4,
+     "end": 59.44
+    },
+    {
+     "id": "w173",
+     "text": "building,",
+     "start": 59.52,
+     "end": 59.92
+    },
+    {
+     "id": "w174",
+     "text": "so",
+     "start": 60,
+     "end": 60.08
+    },
+    {
+     "id": "w175",
+     "text": "the",
+     "start": 60.12,
+     "end": 60.16
+    },
+    {
+     "id": "w176",
+     "text": "wind",
+     "start": 60.24,
+     "end": 60.48
+    },
+    {
+     "id": "w177",
+     "text": "can't",
+     "start": 60.56,
+     "end": 60.72
+    },
+    {
+     "id": "w178",
+     "text": "tip",
+     "start": 60.8,
+     "end": 60.96
+    },
+    {
+     "id": "w179",
+     "text": "it.",
+     "start": 61.04,
+     "end": 61.2
+    },
+    {
+     "id": "w180",
+     "text": "Some",
+     "start": 61.68,
+     "end": 61.84
+    },
+    {
+     "id": "w181",
+     "text": "cranes",
+     "start": 61.92,
+     "end": 62.24
+    },
+    {
+     "id": "w182",
+     "text": "even",
+     "start": 62.36,
+     "end": 62.48
+    },
+    {
+     "id": "w183",
+     "text": "climb",
+     "start": 62.56,
+     "end": 62.88
+    },
+    {
+     "id": "w184",
+     "text": "inside",
+     "start": 62.96,
+     "end": 63.44
+    },
+    {
+     "id": "w185",
+     "text": "the",
+     "start": 63.48,
+     "end": 63.52
+    },
+    {
+     "id": "w186",
+     "text": "building's",
+     "start": 63.6,
+     "end": 64
+    },
+    {
+     "id": "w187",
+     "text": "own",
+     "start": 64.12,
+     "end": 64.24
+    },
+    {
+     "id": "w188",
+     "text": "elevator",
+     "start": 64.32,
+     "end": 64.72
+    },
+    {
+     "id": "w189",
+     "text": "shaft.",
+     "start": 64.8,
+     "end": 65.44
+    },
+    {
+     "id": "w190",
+     "text": "So",
+     "start": 65.68,
+     "end": 65.92
+    },
+    {
+     "id": "w191",
+     "text": "the",
+     "start": 66.16,
+     "end": 66.2
+    },
+    {
+     "id": "w192",
+     "text": "machine",
+     "start": 66.24,
+     "end": 66.56
+    },
+    {
+     "id": "w193",
+     "text": "that",
+     "start": 66.64,
+     "end": 66.72
+    },
+    {
+     "id": "w194",
+     "text": "builds",
+     "start": 66.84,
+     "end": 67
+    },
+    {
+     "id": "w195",
+     "text": "the",
+     "start": 67.04,
+     "end": 67.12
+    },
+    {
+     "id": "w196",
+     "text": "skyscraper",
+     "start": 67.2,
+     "end": 67.84
+    },
+    {
+     "id": "w197",
+     "text": "also",
+     "start": 68.08,
+     "end": 68.4
+    },
+    {
+     "id": "w198",
+     "text": "builds",
+     "start": 68.56,
+     "end": 68.76
+    },
+    {
+     "id": "w199",
+     "text": "itself.",
+     "start": 68.8,
+     "end": 69.36
+    },
+    {
+     "id": "w200",
+     "text": "Would",
+     "start": 69.84,
+     "end": 70
+    },
+    {
+     "id": "w201",
+     "text": "you",
+     "start": 70.04,
+     "end": 70.08
+    },
+    {
+     "id": "w202",
+     "text": "work",
+     "start": 70.16,
+     "end": 70.32
+    },
+    {
+     "id": "w203",
+     "text": "in",
+     "start": 70.4,
+     "end": 70.44
+    },
+    {
+     "id": "w204",
+     "text": "that",
+     "start": 70.48,
+     "end": 70.56
+    },
+    {
+     "id": "w205",
+     "text": "cab,",
+     "start": 70.64,
+     "end": 71.2
+    },
+    {
+     "id": "w206",
+     "text": "high",
+     "start": 71.32,
+     "end": 71.44
+    },
+    {
+     "id": "w207",
+     "text": "above",
+     "start": 71.56,
+     "end": 71.68
+    },
+    {
+     "id": "w208",
+     "text": "the",
+     "start": 71.76,
+     "end": 71.84
+    },
+    {
+     "id": "w209",
+     "text": "city?",
+     "start": 71.92,
+     "end": 72.36
+    },
+    {
+     "id": "w210",
+     "text": "Tell",
+     "start": 72.56,
+     "end": 72.64
+    },
+    {
+     "id": "w211",
+     "text": "me",
+     "start": 72.72,
+     "end": 72.8
+    },
+    {
+     "id": "w212",
+     "text": "in",
+     "start": 72.84,
+     "end": 72.88
+    },
+    {
+     "id": "w213",
+     "text": "the",
+     "start": 72.92,
+     "end": 72.96
+    },
+    {
+     "id": "w214",
+     "text": "comments.",
+     "start": 73.04,
+     "end": 73.64
+    },
+    {
+     "id": "w215",
+     "text": "If",
+     "start": 73.84,
+     "end": 73.92
+    },
+    {
+     "id": "w216",
+     "text": "you",
+     "start": 73.96,
+     "end": 74
+    },
+    {
+     "id": "w217",
+     "text": "found",
+     "start": 74.08,
+     "end": 74.24
+    },
+    {
+     "id": "w218",
+     "text": "this",
+     "start": 74.32,
+     "end": 74.4
+    },
+    {
+     "id": "w219",
+     "text": "useful,",
+     "start": 74.52,
+     "end": 75.04
+    },
+    {
+     "id": "w220",
+     "text": "don't",
+     "start": 75.08,
+     "end": 75.2
+    },
+    {
+     "id": "w221",
+     "text": "forget",
+     "start": 75.28,
+     "end": 75.44
+    },
+    {
+     "id": "w222",
+     "text": "to",
+     "start": 75.52,
+     "end": 75.6
+    },
+    {
+     "id": "w223",
+     "text": "follow.",
+     "start": 75.76,
+     "end": 76.24
+    }
+   ]
+  }
+ ]
+}

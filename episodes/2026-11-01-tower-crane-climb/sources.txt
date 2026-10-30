@@ -1,0 +1,12 @@
+Tower crane climb: claims -> sources (verified 2026-10-30 from search excerpts; sources concordant on the cycle, specific numbers dropped)
+- Mobile crane erects base, mast, cab/jib, counterweights: https://science.howstuffworks.com/transport/engines-equipment/tower-crane.htm ; https://alllifting.com.au/blogs/news/how-is-a-tower-crane-erected
+- Climbing frame between slewing unit and mast, hydraulic rams lift the top, new section inserted in the gap, repeat: https://science.howstuffworks.com/transport/engines-equipment/tower-crane4.htm ; https://www.safeworkaustralia.gov.au/system/files/documents/1706/guide-to-tower-cranes-historical-122015.pdf ; https://patents.google.com/patent/US10662034
+- Counterweight/trolley moved to balance before the climb; no slewing during the climb (torsion on mast/frame): Safe Work Australia guide above; https://news.samsungcnt.com/en/?p=31047
+- Ties to the building as height grows; climbing inside a lift shaft with collars: https://liebherr.com/en-gb/tower-cranes/technologies/tower-systems-5222681
+Cut (sources disagree or unclear): section height, ram capacity, tie spacing, locking method (bolts vs pins), free-standing height limits.
+Scene is illustrative: sizes, a 3-ram-free two-ram layout and the side platform are simplified, none are spoken.
+
+Cover photos (Pexels licence, free commercial use, no faces, no readable logos, not AI; both cropped to 1080x1920):
+- A: https://www.pexels.com/photo/tower-crane-against-clear-sky-38520017/  (Vadym Alyekseyenko)
+- B: https://www.pexels.com/photo/red-tower-cranes-at-a-construction-site-30396647/  (gottapics; bottom 18 % cropped away to remove small banner text)
+Rejected: Pexels 35981942 (red brand logo on the jib).
