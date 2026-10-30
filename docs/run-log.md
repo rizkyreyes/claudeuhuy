@@ -311,3 +311,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - Scene: new studio cutaway (mast, frame, 2 rams, platform, trolley/hook, mobile crane, floors, Set B inside a core). Ties/wind and set B checked with CPU stills; GPU stills sheet OK. Final render 2320 frames on RTX 4060 (about 1.5 s/frame, 58 min). Crane.mp4 77.34 s, -16.1 LUFS, true peak about -1.8 dBFS.
 - Covers: Pexels 38520017 (A) and 30396647 (B, bottom cropped for banner text); 35981942 rejected for a brand logo. Pexels key is not on the laptop, photos came from the public CDN via the browser.
 - Open: VO line 'a one-section gap' vs the cyan ghost frame is the only gap cue; no people; vidIQ score missing. Cab box is large in close shots. Waiting for Rizky's setuju.
+
+## 2026-10-30 (laptop) tower-crane-climb
+- Approved cover A, scheduled for Sun 1 Nov 2026 (ET offset -05:00): TikTok 6ae4d6b498505e7f52267ebf, YT 6ae4d6b534702c2daac24bc3, IG 6ae4d6b634702c2daac24bf9. 77.3 s, city blocks re-rendered with windows, vidIQ title 95. Sun 1 Nov ET: TikTok 9 AM, YT 7 PM, IG 9 PM. Remove media/tower-crane-climb.mp4 after 9 Nov
