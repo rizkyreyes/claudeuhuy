@@ -1,0 +1,22 @@
+Skyscraper foundations: claims -> sources (verified 2026-10-31 from search excerpts; Wikipedia and most page fetches are blocked in the cloud run, so excerpts were cross-checked across sources; disputed numbers dropped)
+- Soil = grains with water in the pores; it compresses under load, which is why buildings settle (consolidation); piles pass through weak/soft soil to carry load deeper and reduce settlement:
+  https://newcastle.pressbooks.pub/fundamentals-of-foundation-engineering/chapter/6-5-load-transfer-mechanisms/ ; https://www.fellenius.net/papers/392%20Observations%20and%20Analysis%20of%20Wide%20Piled%20Foundations.pdf
+- Pisa: foundation only about 3 m (10 ft) deep on soft, compressible ground (silt over soft marine clay); the tilt began during construction:
+  https://www.scienceabc.com/eyeopeners/why-does-the-leaning-tower-of-pisa-lean.html ; https://civil-eng.binus.ac.id/?p=12548 ; https://www.slideshare.net/slideshow/the-leaning-tower-of-pisa-the-geotechnical-issues-and-lessons/266963854 (Burland quote on silt + clay layers)
+- Bored pile sequence: bore the hole, bentonite slurry stabilises the walls, reinforcement cage lowered, concrete placed by tremie pipe from the bottom, the denser concrete displaces the slurry up and out of the hole:
+  https://www.ffgb.be/en/techniques/piles/large-diameter-bored-piles/bored-pile-under-support-fluid ; https://www.soilmec.com/en/wp-content/uploads/sites/2/2025/08/555_Bored_Piles_2016.pdf ; https://taylorandfrancis.com/knowledge/Engineering_and_technology/Civil%2c_environmental_and_geotechnical_engineering/Tremie
+- End-bearing piles rest on a firm layer/rock (tip carries the load); friction piles carry load along the shaft where no firm layer is within reach; all piles use both to some degree:
+  https://newcastle.pressbooks.pub/fundamentals-of-foundation-engineering/chapter/6-5-load-transfer-mechanisms/ ; https://www.bricknbolt.com/blogs-and-articles/construction-guide/difference-between-end-bearing-pile-and-friction-pile
+- A pile cap / raft ties the piles into one group and spreads the load; piled raft:
+  https://www.academia.edu/Documents/in/Piled-Raft_Foundations ; https://geoprac.net/2013/08/pile-supported-raft-foundation-in-burj-khalifa/
+- "A tower can need hundreds": Burj Khalifa sits on 192 (some sources 194) bored piles: https://www.tensar.co.uk/resources/articles/a-tall-order ; https://gulfnews.com/business/property/burj-dubai-to-begin-rising-on-april-15-1.282522 ; https://geoprac.net/2013/08/pile-supported-raft-foundation-in-burj-khalifa/
+- Burj Khalifa raft about 3.7 m (about 12 ft) thick, piled raft whose piles work by skin friction in cemented calcareous ground (no bedrock nearby):
+  https://www.tensar.co.uk/resources/articles/a-tall-order ; https://civil-eng.binus.ac.id/?p=13446 ; https://avestia.com/CSEE2023_Proceedings/files/paper/ICGRE/ICGRE_106.pdf (Sundararajan: skin friction in calcisiltite) ; https://ebooks.iospress.nl/doi/10.3233/978-1-60750-031-5-3173 (Russo et al., piled raft settlement)
+- Every tall building settles a little; design limits total and especially differential (uneven) settlement (Burj Khalifa predicted settlement was in the tens of millimetres):
+  https://www.tensar.co.uk/resources/articles/a-tall-order ; https://www.fellenius.net/papers/392%20Observations%20and%20Analysis%20of%20Wide%20Piled%20Foundations.pdf
+Cut (sources disagree or single-source): pile count 192 vs 194 (said "hundreds"), pile length 43 / 47 / 50 m, pile capacity, settlement figures, cathodic protection, groundwater chemistry.
+Scene is illustrative: the soil layers, depths, pile spacing, the raft sitting on the ground surface and the generic stone bell tower are simplified; the bell tower is not a model of the real Pisa tower. Only "about ten feet" and "about twelve feet" are spoken.
+
+Cover photos (Pexels licence, free commercial use, no faces, no readable logos, not AI; both cropped to 1080x1920):
+- A: https://www.pexels.com/photo/skyscraper-with-blue-sky-in-tokyo-31369717/  (Juan Carlos Guzmán)
+- B: https://www.pexels.com/photo/residential-skyscraper-under-clear-sky-26625446/  (Fernando Martins) + our own Blender cutaway inset (frame 2026)

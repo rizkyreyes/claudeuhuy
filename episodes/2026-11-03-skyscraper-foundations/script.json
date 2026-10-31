@@ -1,0 +1,13 @@
+{
+ "slug": "skyscraper-foundations",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Why don't skyscrapers sink into the ground? Let's cut it open. Soil isn't solid. It's grains and water, and under weight, it squeezes together. Put a heavy tower on a shallow base, and the ground gives way. That's what happened in Pisa. Its foundation is only about ten feet deep, on soft clay, and it started leaning while it was still being built. So skyscrapers reach down. First, a giant drill bores a deep hole. It's filled with a thick liquid called slurry, which pushes on the walls so the hole can't cave in. A steel cage drops in. Then concrete is pumped to the bottom through a pipe. The heavy concrete rises and pushes the slurry up and out. That's one pile. A tower can need hundreds. Some piles stand on solid bedrock, like the legs of a table. When the rock is too deep, the piles hold by friction instead. The soil grips the whole length of every pile. Then a thick concrete raft ties all the piles together and spreads the load. Under the Burj Khalifa, that raft is about twelve feet thick. Here's the twist. Every tall building still sinks a little. The goal is to sink a tiny bit, and evenly. Would you trust friction to hold up a tower? Tell me in the comments. If you found this useful, don't forget to follow."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
