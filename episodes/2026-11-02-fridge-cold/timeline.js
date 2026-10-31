@@ -98,7 +98,8 @@ function tracked(label, anchorName, t0, t1, dx, dy, color = GOLD, sfx = "pop") {
 // B1 hook: the question
 show(text("HOW DOES YOUR FRIDGE\nMAKE COLD?", 540, TOP_Y, 980, 300, 80, WHITE), C.how, C.heres - 0.08, "rise", "whoosh");
 // B2 the twist
-show(text("IT DOESN'T", 540, TOP_Y, 980, 200, 120, RED), C.doesnt - 0.05, C.moves - 0.1, "slam", "deny");
+show(text("IT DOESN'T", 540, TOP_Y, 980, 200, 120, RED), C.doesnt - 0.05, C.moves - 0.1, "slam", null);
+sound("deny", C.doesnt - 0.05, 0.36);   // quieter: at the default 0.6 it clipped on top of the VO
 show(text("IT MOVES\nHEAT OUT", 540, TOP_Y, 980, 300, 108, GOLD), C.moves, C.lets - 0.1, "slam", "impact");
 sound("whoosh", C.heat, 0.35);
 // B3 cut it open: the near half slides away
@@ -218,7 +219,7 @@ for (const a of audio.sort((x, y) => x.start - y.start)) {
 const video = { type: "Video", id: 1, name: "Blender render - fridge cutaway", blendMode: "normal", activeRange: R(0, DUR), sourceRange: R(0, Math.min(DUR, RENDER_MS)),
   sourceIntrinsicDuration: RENDER_MS, volume: 0, transform: T([540, 960], [540, 960]), source: { assetId: RENDER_ID, fit: "contain" } };
 // slow push-in over the CTA
-for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.would), 100, "lin"], [DUR, 106, "lin"]]);
+for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.did), 100, "lin"], [DUR, 106, "lin"]]);
 const docPath = path.join(D, "editable.json");
 const doc = fs.existsSync(docPath) ? JSON.parse(fs.readFileSync(docPath, "utf8"))
   : { width: 1080, height: 1920, fps: FPS, duration: 0, composition: { id: "main", layers: [] } };   // skeleton: copy the laptop template over it

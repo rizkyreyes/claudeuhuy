@@ -699,4 +699,5 @@ if "--stills" in ARGS:
         scene.frame_set(fr); r.filepath = os.path.join(out, f"still_{fr:04d}.png")
         t0 = time.time(); bpy.ops.render.render(write_still=True); print("STILL", fr, round(time.time() - t0, 1))
 if "--anim" in ARGS:
+    r.use_overwrite = False                    # resume: frames already on disk are skipped
     r.filepath = os.path.join(out, "f_"); bpy.ops.render.render(animation=True)
