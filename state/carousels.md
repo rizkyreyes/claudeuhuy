@@ -21,11 +21,11 @@ Themes are starting points. Verify every myth on the day, swap out any you can't
 | c08 | c08-plumbing-myths | Plumbing myths | scheduled | Mon 19 Oct 2026 9 AM | Instagram post deleted 18 Oct by Claude at Rizky's request (IG carousels stopped), TikTok only; scheduled 17 Oct on Instagram + TikTok (7 photos each; myths: ice on disposal, hot water with disposal, water heater maintenance, tank tablets, pipes freezing) |
 | c09 | c09-food-storage-myths | Food storage myths | posted | Wed 21 Oct 2026 9 AM | scheduled 19 Oct on TikTok only (7 photos; myths: hot food in fridge, freezing kills bacteria, freezer burn, smell test, leftovers 3-4 days) |
 | c10 | c10-home-safety-myths | Home safety myths | posted | Fri 23 Oct 2026 9 AM | produced 21 Oct, TikTok only (7 photos; myths: water on grease fire, open windows in a tornado, smoke alarm battery vs 10-year life, CO alarm height, lightning twice) |
-| c11 | c11-lawn-yard-myths | Lawn and yard myths | ready | Mon 26 Oct 2026 9 AM | produced 24 Oct, TikTok only, manual (7 photos; myths: mow short, clippings cause thatch, water daily, rake every leaf, mulch volcano); `git rm -r media/carousels/c11-lawn-yard-myths` 7 days after the slot |
-| c12 | | Winter heating myths (space heaters, thermostat, fireplace) | todo | Tue 3 Nov 2026 9 AM | seasonal; c01 already did thermostat-crank + vents, pick different myths |
-| c13 | | Electricity and outlet myths | todo | Thu 5 Nov 2026 9 AM | e.g. unplugged chargers, power strips, surge protectors; sources DOE / ESFI / CPSC |
-| c14 | | Painting and DIY myths | todo | Sat 7 Nov 2026 9 AM | |
-| c15 | | Bug and pest myths | todo | Mon 9 Nov 2026 9 AM | university extension sources |
-| c16 | | Winter driving myths | todo | Wed 11 Nov 2026 9 AM | c04 did engine warm-up, skip it |
-| c17 | | (research a new theme) | todo | Fri 13 Nov 2026 9 AM | |
-| c18 | | (research a new theme) | todo | Sun 15 Nov 2026 1 PM | Sunday slot |
+| c11 | c11-lawn-yard-myths | Lawn and yard myths | scheduled | Tue 3 Nov 2026 9 AM | never posted on 26 Oct (Rizky, 1 Nov); re-used for the first revived slot, Buffer TikTok 6ae75936cd0d0de2bf82987c (7 images); `git rm -r media/carousels/c11-lawn-yard-myths` after 10 Nov |
+| c12 | | Winter heating myths (space heaters, thermostat, fireplace) | todo | Thu 5 Nov 2026 9 AM | seasonal; c01 already did thermostat-crank + vents, pick different myths |
+| c13 | | Electricity and outlet myths | todo | Sat 7 Nov 2026 9 AM | e.g. unplugged chargers, power strips, surge protectors; sources DOE / ESFI / CPSC |
+| c14 | | Painting and DIY myths | todo | Mon 9 Nov 2026 9 AM | |
+| c15 | | Bug and pest myths | todo | Wed 11 Nov 2026 9 AM | university extension sources |
+| c16 | | Winter driving myths | todo | Fri 13 Nov 2026 9 AM | c04 did engine warm-up, skip it |
+| c17 | | (research a new theme) | todo | Sun 15 Nov 2026 1 PM | |
+| c18 | | (research a new theme) | todo | Tue 17 Nov 2026 9 AM |  |
