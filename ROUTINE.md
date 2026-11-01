@@ -57,3 +57,6 @@ Verify every claim on reputable sources (official, Wikipedia + its citations, en
 - Append to `docs/run-log.md` (date, topic, take length, characters used, stills checked, open issues).
 - Commit and push to `main`.
 - Final message: short casual Indonesian summary for Rizky (3–6 lines): topic, video length, what the laptop has to do in the morning, any blocker.
+
+## Step 9 — Myth vs fact carousel (every 2 days, from 3 Nov 2026)
+Open `state/carousels.md`. If the first `todo` row's slot is within the next 60 hours and no row is `ready` for it, make that carousel exactly as `docs/CAROUSELS.md` "How to make one" steps 1-7 (5 sourced myths, `carousel.json`, Pexels backgrounds, render the 7 `tt` slides into `media/carousels/<id>-<slug>/tt/`, look at a contact sheet of slides 1, 2 and 7, `captions.md` with a 1-2 line TikTok teaser and no hashtags, `sources.txt`). Set the row to `ready`, commit and push the slides. Do **not** create a Buffer post: the morning laptop run asks Rizky and schedules it. Add one line about it to the final message.

@@ -1,5 +1,11 @@
 # Carousels: "Myth vs fact"
 
+> **Revived 1 Nov 2026 (Rizky: "2 hari sekali buat konten myth vs facts di tiktok seperti yang sudah ada").** Same 7-slide TikTok photo carousel as c01-c11, **every 2 days** next to the daily 3D video. From c12:
+> - **Slot:** every other day from Tue 3 Nov 2026, **9:00 AM ET** (`T09:00:00-05:00` until 8 Mar 2027) = 21:00 WIB; on a Sunday use **1:00 PM ET** because the Sunday 3D video is on TikTok at 9 AM. The 3D video stays the only video that day.
+> - **Who does what:** the nightly cloud run (ROUTINE.md Step 9) researches, writes, renders and pushes the slides 1-2 days before the slot and sets the row to `ready`. The morning laptop run sends Rizky a contact sheet of the 7 slides + caption; **only after "setuju carousel"** it creates the TikTok photo post in Buffer (7 images from the raw URLs, step 8 below) and sets the row to `scheduled`. This replaces the manual posting of 23 Oct.
+> - Theme choice follows the demand-first rule: themes people actually search ("is it true that…", "myths about…"), seasonal when it fits (November: heating, winter driving, Thanksgiving cooking). Never bust a myth that an upcoming 3D video (`state/queue-3d.md`) is about.
+> - Closing slide: the question + "Follow for the real reason behind everyday stuff". No @handle, no hashtags (rules below still apply).
+
 Photo carousels between the videos, decided with Rizky on 30 Sep 2026. **History:** c01 was a photo carousel. c02 (5 Oct) went out as a slideshow video with music because Rizky wanted a background track. On 6 Oct 2026 he decided to go **back to photos** from c03 on. So: no video, no music. `pipeline/slideshow.mjs` and `pipeline/music/` stay in the repo but are not used.
 
 - **Platforms: TikTok only (photo post)** from 18 Oct 2026, **posted by hand by Rizky from 23 Oct 2026 (no Buffer; ROUTINE.md Step 2B gives him the links and caption)**. Rizky stopped Instagram carousels: they got 0 to 3 views each while TikTok carousels got about 300. Not YouTube, not Instagram.
