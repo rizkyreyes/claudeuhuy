@@ -26,12 +26,13 @@ curl -s -o /dev/null -w "%{http_code}\n" https://api.elevenlabs.io/v1/voices/TX3
   2. **Then check YouTube coverage** for the same question (`vidiq_youtube_search` / `vidiq_outliers`, or a web search on youtube.com): is there already a good explainer, how many views, how old, is it a 3D cutaway? Prefer high demand with no or weak/old coverage; a topic that is already well covered is fine only if old uploads still get views and our 3D cutaway angle adds something.
   3. Record per topic in the topic bank: the question people ask, the demand evidence, the YouTube coverage found (top video, views, year), and Blender feasibility.
 - Skip a topic covered in the last 30 days.
+- In each new 7-topic batch, make about one big build a two-parter (`<slug>-p1` / `<slug>-p2` on consecutive days, playbook "Follower growth" 6). Topics requested in comments (marked in the topic bank) count as demand evidence and go first when they also pass the YouTube check.
 
 ## Step 2 — Facts
 Verify every claim on reputable sources (official, Wikipedia + its citations, engineering bodies, manufacturers). If sources disagree, drop the specific number/name. Write `episodes/<YYYY-MM-DD>-<slug>/sources.txt` (claim → URL).
 
 ## Step 3 — Script and voice
-- `script.json` in the episode folder (format: `pipeline3d/example-door-lock/script.json`): the hook is ALWAYS a question (the first sentence asks what the video answers, e.g. "How do you build a bridge pillar in the middle of a river?"), complete in 2 s, one continuous take, about 225–245 words, the script ENDS with a CTA that is a question to the viewer about the topic, answerable in one comment (e.g. "Would you work down there, with a river right over your head? Tell me in the comments."). After it, the fixed last line "If you found this useful, don't forget to follow." (count it in the 70-78 s). Never the channel name.
+- `script.json` in the episode folder (format: `pipeline3d/example-door-lock/script.json`): the hook is ALWAYS a question (the first sentence asks what the video answers, e.g. "How do you build a bridge pillar in the middle of a river?"), complete in 2 s, one continuous take, about 225–245 words, the script ENDS with a CTA that is a question to the viewer about the topic, answerable in one comment (e.g. "Would you work down there, with a river right over your head? Tell me in the comments."). After it, the follow line that names the NEXT episode (next row in `state/queue-3d.md`): "Next up: <its hook in 4-8 words>. Follow so you don't miss it." (Part 1 of a two-parter: "Part two tomorrow: ..."). Count it in the 70-78 s. Never the channel name. Playbook "Follower growth" has the series label (CUTAWAY #<queue number>) and the two-parter rule.
 - Voice: run `node pipeline/tts.mjs <episode>/script.json <episode>/assets/vo` with `voiceId TX3LPaxmHKxFdv7VOQHJ`, `modelId eleven_v4_turbo`, `language en` in script.json. Target take 70–76 s. If outside, add/cut words and re-record (at most 2 extra takes; v4 Turbo ignores `speed`). Keep `vo.wav`, `vo.mp3`, `audio_meta.json`.
 
 ## Step 4 — Beat plan
@@ -44,7 +45,7 @@ Verify every claim on reputable sources (official, Wikipedia + its citations, en
 
 ## Step 6 — Typography, captions and sound
 - All on-screen type is Poppins ExtraBold (playbook Typography; set DISPLAY to Poppins and scale old Anton sizes by ~0.75).
-- `<episode>/timeline.js` adapted from `pipeline3d/example-door-lock/timeline.js`: titles on their words, counters, tracked part labels, captions (1–3 words, safe area, title-duplicate captions dropped), SFX on every type entrance and mechanical event, pad bed, mix targets.
+- `<episode>/timeline.js` adapted from `pipeline3d/example-door-lock/timeline.js`: the "CUTAWAY #<n>" series pill over the hook, titles on their words, counters, tracked part labels, captions (1–3 words, safe area, title-duplicate captions dropped), SFX on every type entrance and mechanical event, pad bed, mix targets.
 - `<episode>/synth_sfx.js` for any new foley the scene needs (adapt `synth_lock.js` / `synth_fx.js`).
 - Cover: find two REAL photos of the subject (Pexels, then Pixabay via `pipeline/stock.mjs`; free licence, no faces, no logos, not AI), download them to `<episode>/cover/photo_A.jpg` / `photo_B.jpg`, credit them in `sources.txt`. `<episode>/thumb.js` (asset ids `thumbA`/`thumbB` = those photos, cropped to 1080x1920) + `cover.md`: the 2–3 word title per option in Poppins ExtraBold (not Anton) (playbook cover rules, 3:4 safe crop). Only if no usable real photo exists, use a Blender frame and say why.
 
