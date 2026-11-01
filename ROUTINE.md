@@ -50,7 +50,7 @@ Verify every claim on reputable sources (official, Wikipedia + its citations, en
 - Cover: find two REAL photos of the subject (Pexels, then Pixabay via `pipeline/stock.mjs`; free licence, no faces, no logos, not AI), download them to `<episode>/cover/photo_A.jpg` / `photo_B.jpg`, credit them in `sources.txt`. `<episode>/thumb.js` (asset ids `thumbA`/`thumbB` = those photos, cropped to 1080x1920) + `cover.md`: the 2–3 word title per option in Poppins ExtraBold (not Anton) (playbook cover rules, 3:4 safe crop). Only if no usable real photo exists, use a Blender frame and say why.
 
 ## Step 7 — Publishing pack (no posting)
-`<episode>/publish.md`: YouTube title (≤ 100 chars, ends `#shorts`; if vidIQ is connected score two options and keep the higher), one caption with hashtags (plain human English, no em dashes), and the three slots for the target day from the playbook table, in ET and WIB.
+`<episode>/publish.md`: YouTube title (≤ 100 chars, ends `#shorts`) that **leads with the claim, not the question** (Rizky, 1 Nov 2026): state the surprising fact and name the concrete thing, e.g. "Skyscrapers Are Held Up by Friction #shorts", not "Why Don't Skyscrapers Sink? #shorts"; no vague phrasing ("the other side of the world"); the claim must be true per sources.txt. If vidIQ is connected score two claim-style options and keep the higher, one caption with hashtags (plain human English, no em dashes), and the three slots for the target day from the playbook table, in ET and WIB.
 
 ## Step 8 — Wrap up
 - `state/queue-3d.md`: row → `prepped` with episode path and VO length.
