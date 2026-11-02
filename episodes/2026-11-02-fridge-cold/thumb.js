@@ -1,7 +1,7 @@
 // Cover (1080x1920) for Shorts / TikTok / Reels. Usage: OPT=A|B node thumb.js  (writes editable-thumb.json)
-// Real stock photos (Pexels licence, credited in sources.txt), already cropped to 1080x1920 in cover/:
-// A: image asset "thumbA" = cover/photo_A.jpg (inside a fridge: strawberries, juice, oranges; one small sticker blurred), title at the top: "IT DOESN'T / MAKE COLD?!"
-// B: image asset "thumbB" = cover/photo_B.jpg (white retro fridge against white kitchen tiles), title on the tiles: "YOUR FRIDGE / IS A HEATER?!"
+// Separate Blender hero render of the whole subject (build_cover.py, render.sh <ep> hero), not a video frame or photo:
+// A: image asset "thumbA" = cover/hero_A.png (whole closed fridge, hot glow on the wall behind), title "IT DOESN'T / MAKE COLD?!"
+// B: image asset "thumbB" = cover/hero_B.png (fridge from behind, coils glowing, heat rising), title "YOUR FRIDGE / IS A HEATER?!"
 // Poppins ExtraBold, ALL CAPS, tracking -10, 10 px black stroke. Everything sits inside the 3:4 profile-grid crop (y 240-1680).
 const fs = require("fs"), path = require("path");
 const T = (pos, anchor = [0, 0], rot = 0) => ({ anchorPoint: anchor, position: pos, scale: [100, 100], rotation: rot, opacity: 100 });

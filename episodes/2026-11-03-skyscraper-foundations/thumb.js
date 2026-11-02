@@ -1,8 +1,7 @@
 // Cover (1080x1920) for Shorts / TikTok / Reels. Usage: OPT=A|B node thumb.js  (writes editable-thumb.json)
-// Real stock photos (Pexels licence, credited in sources.txt), already cropped to 1080x1920 in cover/:
-// A: image asset "thumbA" = cover/photo_A.jpg (worm's-eye view of a glass tower over a brick corner, blue sky + cloud), title in the sky: "WHY DOESN'T / IT SINK?!"
-// B: image asset "thumbB" = cover/photo_B_inset.jpg (slim residential tower on a deep blue sky + our Blender cutaway of the raft and piles
-//    in a gold-bordered inset on the left sky, x 34-390 y 600-1100), title in the sky above it: "WHAT'S / UNDER IT?!"
+// Separate Blender hero render of the whole subject (build_cover.py, render.sh <ep> hero), not a video frame or photo:
+// A: image asset "thumbA" = cover/hero_A.png (whole tower + piles, low view), title "WHY DOESN'T / IT SINK?!"
+// B: image asset "thumbB" = cover/hero_B.png (whole tower + glowing piles, higher view), title "WHAT'S / UNDER IT?!"
 // Poppins ExtraBold, ALL CAPS, tracking -10, 10 px black stroke. Everything sits inside the 3:4 profile-grid crop (y 240-1680).
 const fs = require("fs"), path = require("path");
 const T = (pos, anchor = [0, 0], rot = 0) => ({ anchorPoint: anchor, position: pos, scale: [100, 100], rotation: rot, opacity: 100 });
