@@ -1,7 +1,7 @@
 // Cover (1080x1920) for Shorts / TikTok / Reels. Usage: OPT=A|B node thumb.js  (writes editable-thumb.json)
-// Our own Blender render (playbook 2 Nov 2026), copied by the laptop from frames_final/ (see cover.md):
-// A: image asset "thumbA" = cover/frame_A.png (frame 1000: full trapway flowing), title "IT DOESN'T PUSH / IT SUCKS?!"
-// B: image asset "thumbB" = cover/frame_B.png (frame 470: water spilling over the bend, cyan level line), title "WHY DOESN'T / IT OVERFLOW?!"
+// Separate Blender hero render of the whole toilet (build_cover.py, render.sh <ep> hero), not a video frame:
+// A: image asset "thumbA" = cover/hero_A.png (from above, water spiralling into a vortex), title "IT DOESN'T PUSH / IT SUCKS?!"
+// B: image asset "thumbB" = cover/hero_B.png (water glowing right up to the rim), title "WHY DOESN'T / IT OVERFLOW?!"
 // Poppins ExtraBold, ALL CAPS, tracking -10, 10 px black stroke. Everything sits inside the 3:4 profile-grid crop (y 240-1680).
 const fs = require("fs"), path = require("path");
 const T = (pos, anchor = [0, 0], rot = 0) => ({ anchorPoint: anchor, position: pos, scale: [100, 100], rotation: rot, opacity: 100 });
