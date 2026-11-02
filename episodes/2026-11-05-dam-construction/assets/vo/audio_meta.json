@@ -1,0 +1,1348 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "To build a dam, you first have to move the river. Let's cut the canyon open. Crews blast tunnels through the canyon walls. Hoover Dam got four. Then trucks dump rock into the river, just upstream. That's a cofferdam. Within a day, the river turns into the tunnels. A second one goes downstream, and the riverbed between them drains. Now they dig, until they hit solid bedrock. They drill deep holes and pump in liquid cement. It hardens into a hidden curtain, so water can't sneak underneath. Next, the concrete. But never all at once. Concrete heats up as it hardens. At Hoover Dam, one single pour would have taken about a hundred and twenty-five years to cool, and cracked. So it goes up in blocks. Inside each layer run thin steel pipes. Cold water pulls the heat out. Hoover hides about five hundred eighty-two miles of them. Then the pipes and gaps are filled in, so it all becomes one solid wall. Water pressure grows with depth, so the wall is thin on top and huge at the bottom. Finally, the tunnels are plugged or turned into outlets, and the river fills the valley. Would you walk across a dam that tall? Tell me in the comments. Next up: what's really inside your water heater. Follow so you don't miss it.",
+   "wav": "vo.wav",
+   "duration": 76.8,
+   "speechStart": 0,
+   "speechEnd": 76.8,
+   "words": [
+    {
+     "id": "w0",
+     "text": "To",
+     "start": 0,
+     "end": 0.12
+    },
+    {
+     "id": "w1",
+     "text": "build",
+     "start": 0.16,
+     "end": 0.4
+    },
+    {
+     "id": "w2",
+     "text": "a",
+     "start": 0.44,
+     "end": 0.48
+    },
+    {
+     "id": "w3",
+     "text": "dam,",
+     "start": 0.56,
+     "end": 1.12
+    },
+    {
+     "id": "w4",
+     "text": "you",
+     "start": 1.24,
+     "end": 1.36
+    },
+    {
+     "id": "w5",
+     "text": "first",
+     "start": 1.52,
+     "end": 1.68
+    },
+    {
+     "id": "w6",
+     "text": "have",
+     "start": 1.76,
+     "end": 1.84
+    },
+    {
+     "id": "w7",
+     "text": "to",
+     "start": 1.92,
+     "end": 2
+    },
+    {
+     "id": "w8",
+     "text": "move",
+     "start": 2.08,
+     "end": 2.32
+    },
+    {
+     "id": "w9",
+     "text": "the",
+     "start": 2.36,
+     "end": 2.4
+    },
+    {
+     "id": "w10",
+     "text": "river.",
+     "start": 2.48,
+     "end": 3.04
+    },
+    {
+     "id": "w11",
+     "text": "Let's",
+     "start": 3.28,
+     "end": 3.44
+    },
+    {
+     "id": "w12",
+     "text": "cut",
+     "start": 3.52,
+     "end": 3.6
+    },
+    {
+     "id": "w13",
+     "text": "the",
+     "start": 3.68,
+     "end": 3.76
+    },
+    {
+     "id": "w14",
+     "text": "canyon",
+     "start": 3.8,
+     "end": 4.08
+    },
+    {
+     "id": "w15",
+     "text": "open.",
+     "start": 4.16,
+     "end": 4.68
+    },
+    {
+     "id": "w16",
+     "text": "Crews",
+     "start": 4.88,
+     "end": 5.28
+    },
+    {
+     "id": "w17",
+     "text": "blast",
+     "start": 5.48,
+     "end": 5.68
+    },
+    {
+     "id": "w18",
+     "text": "tunnels",
+     "start": 5.76,
+     "end": 6.08
+    },
+    {
+     "id": "w19",
+     "text": "through",
+     "start": 6.16,
+     "end": 6.32
+    },
+    {
+     "id": "w20",
+     "text": "the",
+     "start": 6.36,
+     "end": 6.4
+    },
+    {
+     "id": "w21",
+     "text": "canyon",
+     "start": 6.48,
+     "end": 6.72
+    },
+    {
+     "id": "w22",
+     "text": "walls.",
+     "start": 6.88,
+     "end": 7.44
+    },
+    {
+     "id": "w23",
+     "text": "Hoover",
+     "start": 7.6,
+     "end": 7.84
+    },
+    {
+     "id": "w24",
+     "text": "Dam",
+     "start": 7.92,
+     "end": 8.24
+    },
+    {
+     "id": "w25",
+     "text": "got",
+     "start": 8.32,
+     "end": 8.56
+    },
+    {
+     "id": "w26",
+     "text": "four.",
+     "start": 8.64,
+     "end": 9.16
+    },
+    {
+     "id": "w27",
+     "text": "Then",
+     "start": 9.36,
+     "end": 9.68
+    },
+    {
+     "id": "w28",
+     "text": "trucks",
+     "start": 9.84,
+     "end": 10.16
+    },
+    {
+     "id": "w29",
+     "text": "dump",
+     "start": 10.24,
+     "end": 10.48
+    },
+    {
+     "id": "w30",
+     "text": "rock",
+     "start": 10.56,
+     "end": 10.88
+    },
+    {
+     "id": "w31",
+     "text": "into",
+     "start": 10.96,
+     "end": 11.12
+    },
+    {
+     "id": "w32",
+     "text": "the",
+     "start": 11.2,
+     "end": 11.24
+    },
+    {
+     "id": "w33",
+     "text": "river,",
+     "start": 11.28,
+     "end": 11.76
+    },
+    {
+     "id": "w34",
+     "text": "just",
+     "start": 11.84,
+     "end": 11.92
+    },
+    {
+     "id": "w35",
+     "text": "upstream.",
+     "start": 12,
+     "end": 12.56
+    },
+    {
+     "id": "w36",
+     "text": "That's",
+     "start": 12.88,
+     "end": 13.12
+    },
+    {
+     "id": "w37",
+     "text": "a",
+     "start": 13.2,
+     "end": 13.28
+    },
+    {
+     "id": "w38",
+     "text": "cofferdam.",
+     "start": 13.36,
+     "end": 14.2
+    },
+    {
+     "id": "w39",
+     "text": "Within",
+     "start": 14.4,
+     "end": 14.64
+    },
+    {
+     "id": "w40",
+     "text": "a",
+     "start": 14.72,
+     "end": 14.8
+    },
+    {
+     "id": "w41",
+     "text": "day,",
+     "start": 14.96,
+     "end": 15.36
+    },
+    {
+     "id": "w42",
+     "text": "the",
+     "start": 15.4,
+     "end": 15.44
+    },
+    {
+     "id": "w43",
+     "text": "river",
+     "start": 15.52,
+     "end": 15.84
+    },
+    {
+     "id": "w44",
+     "text": "turns",
+     "start": 16.04,
+     "end": 16.28
+    },
+    {
+     "id": "w45",
+     "text": "into",
+     "start": 16.32,
+     "end": 16.48
+    },
+    {
+     "id": "w46",
+     "text": "the",
+     "start": 16.56,
+     "end": 16.6
+    },
+    {
+     "id": "w47",
+     "text": "tunnels.",
+     "start": 16.64,
+     "end": 17.28
+    },
+    {
+     "id": "w48",
+     "text": "A",
+     "start": 17.44,
+     "end": 17.6
+    },
+    {
+     "id": "w49",
+     "text": "second",
+     "start": 17.76,
+     "end": 17.92
+    },
+    {
+     "id": "w50",
+     "text": "one",
+     "start": 18,
+     "end": 18.08
+    },
+    {
+     "id": "w51",
+     "text": "goes",
+     "start": 18.16,
+     "end": 18.4
+    },
+    {
+     "id": "w52",
+     "text": "downstream,",
+     "start": 18.48,
+     "end": 19.2
+    },
+    {
+     "id": "w53",
+     "text": "and",
+     "start": 19.24,
+     "end": 19.28
+    },
+    {
+     "id": "w54",
+     "text": "the",
+     "start": 19.36,
+     "end": 19.44
+    },
+    {
+     "id": "w55",
+     "text": "riverbed",
+     "start": 19.52,
+     "end": 19.92
+    },
+    {
+     "id": "w56",
+     "text": "between",
+     "start": 20.12,
+     "end": 20.32
+    },
+    {
+     "id": "w57",
+     "text": "them",
+     "start": 20.4,
+     "end": 20.48
+    },
+    {
+     "id": "w58",
+     "text": "drains.",
+     "start": 20.56,
+     "end": 21.36
+    },
+    {
+     "id": "w59",
+     "text": "Now",
+     "start": 21.6,
+     "end": 21.84
+    },
+    {
+     "id": "w60",
+     "text": "they",
+     "start": 21.92,
+     "end": 22.08
+    },
+    {
+     "id": "w61",
+     "text": "dig,",
+     "start": 22.16,
+     "end": 22.64
+    },
+    {
+     "id": "w62",
+     "text": "until",
+     "start": 22.76,
+     "end": 22.88
+    },
+    {
+     "id": "w63",
+     "text": "they",
+     "start": 22.96,
+     "end": 23.04
+    },
+    {
+     "id": "w64",
+     "text": "hit",
+     "start": 23.16,
+     "end": 23.28
+    },
+    {
+     "id": "w65",
+     "text": "solid",
+     "start": 23.36,
+     "end": 23.6
+    },
+    {
+     "id": "w66",
+     "text": "bedrock.",
+     "start": 23.68,
+     "end": 24.48
+    },
+    {
+     "id": "w67",
+     "text": "They",
+     "start": 24.56,
+     "end": 24.64
+    },
+    {
+     "id": "w68",
+     "text": "drill",
+     "start": 24.72,
+     "end": 25.04
+    },
+    {
+     "id": "w69",
+     "text": "deep",
+     "start": 25.16,
+     "end": 25.28
+    },
+    {
+     "id": "w70",
+     "text": "holes",
+     "start": 25.36,
+     "end": 25.76
+    },
+    {
+     "id": "w71",
+     "text": "and",
+     "start": 25.84,
+     "end": 25.92
+    },
+    {
+     "id": "w72",
+     "text": "pump",
+     "start": 26,
+     "end": 26.24
+    },
+    {
+     "id": "w73",
+     "text": "in",
+     "start": 26.32,
+     "end": 26.4
+    },
+    {
+     "id": "w74",
+     "text": "liquid",
+     "start": 26.48,
+     "end": 26.8
+    },
+    {
+     "id": "w75",
+     "text": "cement.",
+     "start": 26.88,
+     "end": 27.6
+    },
+    {
+     "id": "w76",
+     "text": "It",
+     "start": 27.68,
+     "end": 27.76
+    },
+    {
+     "id": "w77",
+     "text": "hardens",
+     "start": 27.84,
+     "end": 28.24
+    },
+    {
+     "id": "w78",
+     "text": "into",
+     "start": 28.32,
+     "end": 28.48
+    },
+    {
+     "id": "w79",
+     "text": "a",
+     "start": 28.56,
+     "end": 28.64
+    },
+    {
+     "id": "w80",
+     "text": "hidden",
+     "start": 28.8,
+     "end": 28.96
+    },
+    {
+     "id": "w81",
+     "text": "curtain,",
+     "start": 29.04,
+     "end": 29.44
+    },
+    {
+     "id": "w82",
+     "text": "so",
+     "start": 29.52,
+     "end": 29.68
+    },
+    {
+     "id": "w83",
+     "text": "water",
+     "start": 29.84,
+     "end": 30
+    },
+    {
+     "id": "w84",
+     "text": "can't",
+     "start": 30.08,
+     "end": 30.24
+    },
+    {
+     "id": "w85",
+     "text": "sneak",
+     "start": 30.32,
+     "end": 30.48
+    },
+    {
+     "id": "w86",
+     "text": "underneath.",
+     "start": 30.56,
+     "end": 31.44
+    },
+    {
+     "id": "w87",
+     "text": "Next,",
+     "start": 31.64,
+     "end": 32
+    },
+    {
+     "id": "w88",
+     "text": "the",
+     "start": 32.08,
+     "end": 32.16
+    },
+    {
+     "id": "w89",
+     "text": "concrete.",
+     "start": 32.28,
+     "end": 32.96
+    },
+    {
+     "id": "w90",
+     "text": "But",
+     "start": 33.08,
+     "end": 33.2
+    },
+    {
+     "id": "w91",
+     "text": "never",
+     "start": 33.28,
+     "end": 33.6
+    },
+    {
+     "id": "w92",
+     "text": "all",
+     "start": 33.68,
+     "end": 33.76
+    },
+    {
+     "id": "w93",
+     "text": "at",
+     "start": 33.84,
+     "end": 33.92
+    },
+    {
+     "id": "w94",
+     "text": "once.",
+     "start": 34,
+     "end": 34.64
+    },
+    {
+     "id": "w95",
+     "text": "Concrete",
+     "start": 34.72,
+     "end": 35.12
+    },
+    {
+     "id": "w96",
+     "text": "heats",
+     "start": 35.2,
+     "end": 35.52
+    },
+    {
+     "id": "w97",
+     "text": "up",
+     "start": 35.6,
+     "end": 35.68
+    },
+    {
+     "id": "w98",
+     "text": "as",
+     "start": 35.76,
+     "end": 35.84
+    },
+    {
+     "id": "w99",
+     "text": "it",
+     "start": 35.88,
+     "end": 35.92
+    },
+    {
+     "id": "w100",
+     "text": "hardens.",
+     "start": 36,
+     "end": 36.72
+    },
+    {
+     "id": "w101",
+     "text": "At",
+     "start": 36.8,
+     "end": 36.88
+    },
+    {
+     "id": "w102",
+     "text": "Hoover",
+     "start": 36.96,
+     "end": 37.12
+    },
+    {
+     "id": "w103",
+     "text": "Dam,",
+     "start": 37.2,
+     "end": 37.76
+    },
+    {
+     "id": "w104",
+     "text": "one",
+     "start": 37.84,
+     "end": 38.08
+    },
+    {
+     "id": "w105",
+     "text": "single",
+     "start": 38.16,
+     "end": 38.48
+    },
+    {
+     "id": "w106",
+     "text": "pour",
+     "start": 38.56,
+     "end": 38.8
+    },
+    {
+     "id": "w107",
+     "text": "would",
+     "start": 38.88,
+     "end": 38.96
+    },
+    {
+     "id": "w108",
+     "text": "have",
+     "start": 39,
+     "end": 39.04
+    },
+    {
+     "id": "w109",
+     "text": "taken",
+     "start": 39.12,
+     "end": 39.36
+    },
+    {
+     "id": "w110",
+     "text": "about",
+     "start": 39.48,
+     "end": 39.6
+    },
+    {
+     "id": "w111",
+     "text": "a",
+     "start": 39.68,
+     "end": 39.76
+    },
+    {
+     "id": "w112",
+     "text": "hundred",
+     "start": 39.8,
+     "end": 40.08
+    },
+    {
+     "id": "w113",
+     "text": "and",
+     "start": 40.16,
+     "end": 40.24
+    },
+    {
+     "id": "w114",
+     "text": "twenty-five",
+     "start": 40.32,
+     "end": 40.96
+    },
+    {
+     "id": "w115",
+     "text": "years",
+     "start": 41.04,
+     "end": 41.36
+    },
+    {
+     "id": "w116",
+     "text": "to",
+     "start": 41.44,
+     "end": 41.52
+    },
+    {
+     "id": "w117",
+     "text": "cool,",
+     "start": 41.68,
+     "end": 42.08
+    },
+    {
+     "id": "w118",
+     "text": "and",
+     "start": 42.16,
+     "end": 42.4
+    },
+    {
+     "id": "w119",
+     "text": "cracked.",
+     "start": 42.48,
+     "end": 43.2
+    },
+    {
+     "id": "w120",
+     "text": "So",
+     "start": 43.36,
+     "end": 43.52
+    },
+    {
+     "id": "w121",
+     "text": "it",
+     "start": 43.6,
+     "end": 43.68
+    },
+    {
+     "id": "w122",
+     "text": "goes",
+     "start": 43.76,
+     "end": 43.92
+    },
+    {
+     "id": "w123",
+     "text": "up",
+     "start": 44,
+     "end": 44.08
+    },
+    {
+     "id": "w124",
+     "text": "in",
+     "start": 44.12,
+     "end": 44.16
+    },
+    {
+     "id": "w125",
+     "text": "blocks.",
+     "start": 44.24,
+     "end": 45.04
+    },
+    {
+     "id": "w126",
+     "text": "Inside",
+     "start": 45.28,
+     "end": 45.52
+    },
+    {
+     "id": "w127",
+     "text": "each",
+     "start": 45.6,
+     "end": 45.76
+    },
+    {
+     "id": "w128",
+     "text": "layer",
+     "start": 45.84,
+     "end": 46.16
+    },
+    {
+     "id": "w129",
+     "text": "run",
+     "start": 46.24,
+     "end": 46.48
+    },
+    {
+     "id": "w130",
+     "text": "thin",
+     "start": 46.56,
+     "end": 46.8
+    },
+    {
+     "id": "w131",
+     "text": "steel",
+     "start": 46.88,
+     "end": 47.2
+    },
+    {
+     "id": "w132",
+     "text": "pipes.",
+     "start": 47.44,
+     "end": 48
+    },
+    {
+     "id": "w133",
+     "text": "Cold",
+     "start": 48.16,
+     "end": 48.32
+    },
+    {
+     "id": "w134",
+     "text": "water",
+     "start": 48.4,
+     "end": 48.72
+    },
+    {
+     "id": "w135",
+     "text": "pulls",
+     "start": 48.8,
+     "end": 49.04
+    },
+    {
+     "id": "w136",
+     "text": "the",
+     "start": 49.12,
+     "end": 49.2
+    },
+    {
+     "id": "w137",
+     "text": "heat",
+     "start": 49.28,
+     "end": 49.36
+    },
+    {
+     "id": "w138",
+     "text": "out.",
+     "start": 49.44,
+     "end": 50
+    },
+    {
+     "id": "w139",
+     "text": "Hoover",
+     "start": 50.04,
+     "end": 50.32
+    },
+    {
+     "id": "w140",
+     "text": "hides",
+     "start": 50.36,
+     "end": 50.64
+    },
+    {
+     "id": "w141",
+     "text": "about",
+     "start": 50.8,
+     "end": 50.96
+    },
+    {
+     "id": "w142",
+     "text": "five",
+     "start": 51.04,
+     "end": 51.28
+    },
+    {
+     "id": "w143",
+     "text": "hundred",
+     "start": 51.36,
+     "end": 51.52
+    },
+    {
+     "id": "w144",
+     "text": "eighty-two",
+     "start": 51.76,
+     "end": 52.16
+    },
+    {
+     "id": "w145",
+     "text": "miles",
+     "start": 52.4,
+     "end": 52.72
+    },
+    {
+     "id": "w146",
+     "text": "of",
+     "start": 52.8,
+     "end": 52.88
+    },
+    {
+     "id": "w147",
+     "text": "them.",
+     "start": 52.96,
+     "end": 53.52
+    },
+    {
+     "id": "w148",
+     "text": "Then",
+     "start": 53.68,
+     "end": 53.84
+    },
+    {
+     "id": "w149",
+     "text": "the",
+     "start": 54,
+     "end": 54.08
+    },
+    {
+     "id": "w150",
+     "text": "pipes",
+     "start": 54.16,
+     "end": 54.4
+    },
+    {
+     "id": "w151",
+     "text": "and",
+     "start": 54.48,
+     "end": 54.56
+    },
+    {
+     "id": "w152",
+     "text": "gaps",
+     "start": 54.64,
+     "end": 54.88
+    },
+    {
+     "id": "w153",
+     "text": "are",
+     "start": 54.96,
+     "end": 55.12
+    },
+    {
+     "id": "w154",
+     "text": "filled",
+     "start": 55.24,
+     "end": 55.36
+    },
+    {
+     "id": "w155",
+     "text": "in,",
+     "start": 55.44,
+     "end": 55.76
+    },
+    {
+     "id": "w156",
+     "text": "so",
+     "start": 55.8,
+     "end": 55.84
+    },
+    {
+     "id": "w157",
+     "text": "it",
+     "start": 55.92,
+     "end": 56.08
+    },
+    {
+     "id": "w158",
+     "text": "all",
+     "start": 56.16,
+     "end": 56.24
+    },
+    {
+     "id": "w159",
+     "text": "becomes",
+     "start": 56.32,
+     "end": 56.8
+    },
+    {
+     "id": "w160",
+     "text": "one",
+     "start": 56.88,
+     "end": 57.12
+    },
+    {
+     "id": "w161",
+     "text": "solid",
+     "start": 57.28,
+     "end": 57.6
+    },
+    {
+     "id": "w162",
+     "text": "wall.",
+     "start": 57.68,
+     "end": 58.2
+    },
+    {
+     "id": "w163",
+     "text": "Water",
+     "start": 58.4,
+     "end": 58.64
+    },
+    {
+     "id": "w164",
+     "text": "pressure",
+     "start": 58.72,
+     "end": 59.04
+    },
+    {
+     "id": "w165",
+     "text": "grows",
+     "start": 59.12,
+     "end": 59.44
+    },
+    {
+     "id": "w166",
+     "text": "with",
+     "start": 59.56,
+     "end": 59.68
+    },
+    {
+     "id": "w167",
+     "text": "depth,",
+     "start": 59.84,
+     "end": 60.24
+    },
+    {
+     "id": "w168",
+     "text": "so",
+     "start": 60.28,
+     "end": 60.32
+    },
+    {
+     "id": "w169",
+     "text": "the",
+     "start": 60.4,
+     "end": 60.48
+    },
+    {
+     "id": "w170",
+     "text": "wall",
+     "start": 60.6,
+     "end": 60.72
+    },
+    {
+     "id": "w171",
+     "text": "is",
+     "start": 60.8,
+     "end": 60.88
+    },
+    {
+     "id": "w172",
+     "text": "thin",
+     "start": 60.96,
+     "end": 61.12
+    },
+    {
+     "id": "w173",
+     "text": "on",
+     "start": 61.2,
+     "end": 61.28
+    },
+    {
+     "id": "w174",
+     "text": "top",
+     "start": 61.36,
+     "end": 61.68
+    },
+    {
+     "id": "w175",
+     "text": "and",
+     "start": 61.76,
+     "end": 61.84
+    },
+    {
+     "id": "w176",
+     "text": "huge",
+     "start": 62,
+     "end": 62.4
+    },
+    {
+     "id": "w177",
+     "text": "at",
+     "start": 62.44,
+     "end": 62.48
+    },
+    {
+     "id": "w178",
+     "text": "the",
+     "start": 62.56,
+     "end": 62.64
+    },
+    {
+     "id": "w179",
+     "text": "bottom.",
+     "start": 62.8,
+     "end": 63.36
+    },
+    {
+     "id": "w180",
+     "text": "Finally,",
+     "start": 63.44,
+     "end": 64
+    },
+    {
+     "id": "w181",
+     "text": "the",
+     "start": 64.08,
+     "end": 64.16
+    },
+    {
+     "id": "w182",
+     "text": "tunnels",
+     "start": 64.2,
+     "end": 64.48
+    },
+    {
+     "id": "w183",
+     "text": "are",
+     "start": 64.56,
+     "end": 64.64
+    },
+    {
+     "id": "w184",
+     "text": "plugged",
+     "start": 64.72,
+     "end": 65.04
+    },
+    {
+     "id": "w185",
+     "text": "or",
+     "start": 65.2,
+     "end": 65.36
+    },
+    {
+     "id": "w186",
+     "text": "turned",
+     "start": 65.44,
+     "end": 65.6
+    },
+    {
+     "id": "w187",
+     "text": "into",
+     "start": 65.68,
+     "end": 65.84
+    },
+    {
+     "id": "w188",
+     "text": "outlets,",
+     "start": 65.92,
+     "end": 66.56
+    },
+    {
+     "id": "w189",
+     "text": "and",
+     "start": 66.6,
+     "end": 66.64
+    },
+    {
+     "id": "w190",
+     "text": "the",
+     "start": 66.72,
+     "end": 66.8
+    },
+    {
+     "id": "w191",
+     "text": "river",
+     "start": 66.88,
+     "end": 67.2
+    },
+    {
+     "id": "w192",
+     "text": "fills",
+     "start": 67.36,
+     "end": 67.68
+    },
+    {
+     "id": "w193",
+     "text": "the",
+     "start": 67.72,
+     "end": 67.76
+    },
+    {
+     "id": "w194",
+     "text": "valley.",
+     "start": 67.84,
+     "end": 68.24
+    },
+    {
+     "id": "w195",
+     "text": "Would",
+     "start": 68.64,
+     "end": 68.8
+    },
+    {
+     "id": "w196",
+     "text": "you",
+     "start": 68.88,
+     "end": 68.96
+    },
+    {
+     "id": "w197",
+     "text": "walk",
+     "start": 69.04,
+     "end": 69.2
+    },
+    {
+     "id": "w198",
+     "text": "across",
+     "start": 69.28,
+     "end": 69.52
+    },
+    {
+     "id": "w199",
+     "text": "a",
+     "start": 69.56,
+     "end": 69.6
+    },
+    {
+     "id": "w200",
+     "text": "dam",
+     "start": 69.68,
+     "end": 69.92
+    },
+    {
+     "id": "w201",
+     "text": "that",
+     "start": 70,
+     "end": 70.24
+    },
+    {
+     "id": "w202",
+     "text": "tall?",
+     "start": 70.32,
+     "end": 70.96
+    },
+    {
+     "id": "w203",
+     "text": "Tell",
+     "start": 71.04,
+     "end": 71.12
+    },
+    {
+     "id": "w204",
+     "text": "me",
+     "start": 71.2,
+     "end": 71.24
+    },
+    {
+     "id": "w205",
+     "text": "in",
+     "start": 71.28,
+     "end": 71.32
+    },
+    {
+     "id": "w206",
+     "text": "the",
+     "start": 71.36,
+     "end": 71.44
+    },
+    {
+     "id": "w207",
+     "text": "comments.",
+     "start": 71.68,
+     "end": 72.12
+    },
+    {
+     "id": "w208",
+     "text": "Next",
+     "start": 72.32,
+     "end": 72.56
+    },
+    {
+     "id": "w209",
+     "text": "up:",
+     "start": 72.64,
+     "end": 73.12
+    },
+    {
+     "id": "w210",
+     "text": "what's",
+     "start": 73.2,
+     "end": 73.44
+    },
+    {
+     "id": "w211",
+     "text": "really",
+     "start": 73.52,
+     "end": 73.84
+    },
+    {
+     "id": "w212",
+     "text": "inside",
+     "start": 73.92,
+     "end": 74.24
+    },
+    {
+     "id": "w213",
+     "text": "your",
+     "start": 74.32,
+     "end": 74.4
+    },
+    {
+     "id": "w214",
+     "text": "water",
+     "start": 74.48,
+     "end": 74.64
+    },
+    {
+     "id": "w215",
+     "text": "heater.",
+     "start": 74.72,
+     "end": 75.36
+    },
+    {
+     "id": "w216",
+     "text": "Follow",
+     "start": 75.44,
+     "end": 75.76
+    },
+    {
+     "id": "w217",
+     "text": "so",
+     "start": 75.84,
+     "end": 75.92
+    },
+    {
+     "id": "w218",
+     "text": "you",
+     "start": 76,
+     "end": 76.04
+    },
+    {
+     "id": "w219",
+     "text": "don't",
+     "start": 76.08,
+     "end": 76.2
+    },
+    {
+     "id": "w220",
+     "text": "miss",
+     "start": 76.24,
+     "end": 76.4
+    },
+    {
+     "id": "w221",
+     "text": "it.",
+     "start": 76.48,
+     "end": 76.8
+    }
+   ]
+  }
+ ]
+}

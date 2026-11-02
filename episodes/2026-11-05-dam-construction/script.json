@@ -1,0 +1,13 @@
+{
+ "slug": "dam-construction",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "To build a dam, you first have to move the river. Let's cut the canyon open. Crews blast tunnels through the canyon walls. Hoover Dam got four. Then trucks dump rock into the river, just upstream. That's a cofferdam. Within a day, the river turns into the tunnels. A second one goes downstream, and the riverbed between them drains. Now they dig, until they hit solid bedrock. They drill deep holes and pump in liquid cement. It hardens into a hidden curtain, so water can't sneak underneath. Next, the concrete. But never all at once. Concrete heats up as it hardens. At Hoover Dam, one single pour would have taken about a hundred and twenty-five years to cool, and cracked. So it goes up in blocks. Inside each layer run thin steel pipes. Cold water pulls the heat out. Hoover hides about five hundred eighty-two miles of them. Then the pipes and gaps are filled in, so it all becomes one solid wall. Water pressure grows with depth, so the wall is thin on top and huge at the bottom. Finally, the tunnels are plugged or turned into outlets, and the river fills the valley. Would you walk across a dam that tall? Tell me in the comments. Next up: what's really inside your water heater. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
