@@ -1,6 +1,6 @@
 # Carousel queue (TikTok only; from 3 Nov 2026 every 2 days, 9:00 AM ET, Sundays 1:00 PM ET)
 
-**Revived 1 Nov 2026** after the switch to 3D videos: every other day, cloud makes it, Rizky approves ("setuju carousel"), the morning run schedules it in Buffer. See the top of `docs/CAROUSELS.md`.
+**Revived 1 Nov 2026** after the switch to 3D videos: every other day, cloud makes it, the morning run schedules it in Buffer with no approval step (Rizky, 2 Nov 2026). See the top of `docs/CAROUSELS.md`.
 
 **From 18 Oct 2026 carousels go to TikTok only** (Rizky: Instagram carousels got 0 to 3 views, TikTok about 300). The Instagram post of c08 was deleted from Buffer on 18 Oct; c08 stays scheduled on TikTok.
 
