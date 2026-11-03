@@ -1,0 +1,37 @@
+water-heater (3d-13, CUTAWAY #13), facts checked 3 Nov 2026 (cloud run). energy.gov fetch blocked in the cloud network, so search excerpts were used; every claim below has at least two agreeing sources.
+
+Anode rod rots away on purpose (sacrificial; magnesium corrodes before steel; tank rusts once the rod is gone)
+  - https://www.energy.gov/energysaver/storage-water-heaters (excerpt: inspect the anode rod every 3-4 years)
+  - https://inspectandtest.net/guides/water-heater-anode-rod/
+  - https://highperformancehvac.com/water-heater-anode-rod/
+  - https://ricksfreeautorepairadvice.com/how-a-water-heater-anode-rod-works/
+  - https://www.supplyhouse.com/Rheem-SP11309L-0-750-x-19-3-8-Magnesium-Anode-Rod (magnesium rods, Rheem part)
+  "usually magnesium": magnesium, aluminum or aluminum-zinc are all used; magnesium is the common one in the sources. Kept "usually".
+Steel tank, glass lined, foam insulation, outer jacket
+  - https://www.americanwaterheater.com/media/62531/ncmss00109.pdf (glass-lined steel tank, foam insulation)
+  - https://store.thegranitegroup.com/Product/SUPSSC50TC (glass-lined steel)
+  - US patents 4904428 / 4372028 (foam-insulated water heater tanks)
+Cold water inlet at the top, dip tube carries it to the bottom; tank stays full
+  - https://www.energy.gov/energysaver/storage-water-heaters ("cold water enters the bottom of the tank through the dip tube ... ensuring that the tank is always full")
+  - https://www.hometips.com/how-it-works/hot-water-heaters.html
+  - https://www.searshomeservices.com/blog/how-do-electric-water-heaters-work-overview (dip tube; plastic/thermoplastic)
+Gas burner under the tank, flue runs through the centre of the tank, baffle in the flue slows the gases for more heat transfer
+  - US 7634977 Gas water heater; US 7458341; US 6422179 Water heater flue system; US 2012/0192812 twisted baffle
+  - https://www.hometips.com/how-it-works/hot-water-heaters.html
+Electric heaters: two elements (upper + lower) with thermostats
+  - https://www.canton.edu/media/employee/elec141/Sequence_hot_water_heater.pdf
+  - https://www.hunker.com/13417778/how-do-dual-element-water-heaters-work/
+Hot water is lighter and rises (stratification); hot outlet at the top
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4598694 (cold inlet tube to the bottom, hot outlet at the top)
+  - https://uia.brage.unit.no/uia-xmlui/handle/11250/2563059 (thesis: hot water rises, cold sinks)
+Sediment: minerals settle on the bottom, water trapped under it boils and pops/rumbles; flushing removes it
+  - https://www.mrrooter.com/about/blog/water-heater-rumbling-fix/
+  - https://rotorooter.com/frequently-asked-questions/water-heaters/why-is-my-water-heater-making-rumbling-noises
+  - https://www.hometips.com/repair-fix/how-to-fix-a-noisy-water-heater.html
+T&P relief valve opens at 150 psi or 210 F (common residential setting, "about")
+  - https://www.watts.com/products/plumbing-flow-control-solutions/relief-valves/temperature-and-pressure-relief-valves/100xl/100xl-bp-150210
+  - https://shop.youngsupply.com/item/rheem-ap14901g-1 (opens above 150 psi or 210 F)
+  - https://kent.ca/en/temperature-pressure-relief-valve-1038123
+
+Cut / not said: DOE 120 F recommendation vs 140 F factory default (true but cut for length), anode inspection interval, tank lifespan (sources disagree), sizes in gallons, "14 years unflushed" viral clip (not ours to cite).
+Visual simplifications: one generic gas heater (no brand), rod shown shrinking in a time-lapse, sediment drawn as a granular layer.

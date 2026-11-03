@@ -1,0 +1,13 @@
+{
+ "slug": "water-heater",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "There's a metal rod inside your water heater that rots away on purpose. Let's cut the tank open. It's a steel tank, lined with glass and wrapped in foam. Cold water comes in at the top, but a plastic dip tube carries it down to the bottom. Under the tank, a gas burner fires. The hot exhaust climbs a flue pipe up through the middle of the water, and a twisted metal baffle slows it down, so more heat soaks in. An electric heater uses two metal elements instead. Hot water is lighter, so it rises. The hottest water sits at the top, where the hot pipe pulls it out. Open a faucet, and cold water pushes in below, so the tank is always full. Now, that rod. It's called an anode, usually magnesium. Hot water slowly eats metal, and magnesium goes first. So the rod corrodes, and the steel tank doesn't. Once the rod is used up, the tank starts to rust. Then there's sediment. Minerals settle on the bottom and trap water underneath, so it pops and rumbles. Flushing the tank washes it out. And up top, a safety valve opens at about a hundred and fifty psi, or two hundred ten degrees. Have you ever flushed your water heater? Tell me in the comments. Next up: how oil rigs stand in the open ocean. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
