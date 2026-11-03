@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 winter heating myths that cost you money, or worse", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/thermo.jpg", "myth": "Turning the heat down while you're out wastes energy, since it works harder to warm back up.",
+      "fact": "The Department of Energy calls that a misconception. Turning it back 7 to 10°F for 8 hours a day can save up to 10% a year on heating and cooling.",
+      "source": "U.S. Department of Energy, Energy Saver" },
+    { "type": "myth", "bg": "bg/heater.jpg", "myth": "A power strip is fine for a space heater.",
+      "fact": "Plug it straight into a wall outlet. Space heaters pull a lot of power, and power strips and extension cords can overheat and start a fire.",
+      "source": "CPSC and American Red Cross" },
+    { "type": "myth", "bg": "bg/sleep.jpg", "myth": "It's OK to leave a space heater running while you sleep.",
+      "fact": "Turn it off when you leave the room or go to bed. Keep it at least 3 feet from bedding, curtains and anything else that can burn.",
+      "source": "NFPA and American Red Cross" },
+    { "type": "myth", "bg": "bg/fire.jpg", "myth": "A fireplace helps heat the whole house.",
+      "fact": "A traditional open fireplace sends much of its heat up the chimney, and the draft can pull warm air out of the room too. Close the damper when there's no fire.",
+      "source": "U.S. EPA and DOE Energy Saver" },
+    { "type": "myth", "bg": "bg/hp.jpg", "myth": "Heat pumps stop working once it's freezing outside.",
+      "fact": "Cold-climate heat pumps are built to keep heating well below freezing. Older standard models lose more power in deep cold and may lean on backup heat.",
+      "source": "ENERGY STAR, NYSERDA Clean Heat, Mass. fact sheet" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["DOE Energy Saver: thermostat setback", "CPSC and Red Cross: space heaters in wall outlets", "NFPA and Red Cross: off when sleeping, 3 feet", "EPA and DOE: open fireplaces and dampers", "ENERGY STAR and state programs: cold-climate heat pumps"] }
+  ]
+}

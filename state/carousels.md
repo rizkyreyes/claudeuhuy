@@ -22,7 +22,7 @@ Themes are starting points. Verify every myth on the day, swap out any you can't
 | c09 | c09-food-storage-myths | Food storage myths | posted | Wed 21 Oct 2026 9 AM | scheduled 19 Oct on TikTok only (7 photos; myths: hot food in fridge, freezing kills bacteria, freezer burn, smell test, leftovers 3-4 days) |
 | c10 | c10-home-safety-myths | Home safety myths | posted | Fri 23 Oct 2026 9 AM | produced 21 Oct, TikTok only (7 photos; myths: water on grease fire, open windows in a tornado, smoke alarm battery vs 10-year life, CO alarm height, lightning twice) |
 | c11 | c11-lawn-yard-myths | Lawn and yard myths | scheduled | Tue 3 Nov 2026 9 AM | never posted on 26 Oct (Rizky, 1 Nov); re-used for the first revived slot, Buffer TikTok 6ae75936cd0d0de2bf82987c (7 images, reminder mode: Rizky adds a TikTok sound); `git rm -r media/carousels/c11-lawn-yard-myths` after 10 Nov |
-| c12 | | Winter heating myths (space heaters, thermostat, fireplace) | todo | Thu 5 Nov 2026 9 AM | seasonal; c01 already did thermostat-crank + vents, pick different myths |
+| c12 | c12-winter-heating-myths | Winter heating myths (space heaters, thermostat, fireplace) | ready | Thu 5 Nov 2026 9 AM | made 3 Nov (cloud): myths setback wastes energy, power strip, heater while sleeping, fireplace heats the house, heat pumps in the cold; 7 tt slides in media/carousels/c12-winter-heating-myths/tt; morning run schedules it in Buffer (TikTok, reminder mode, T09:00:00-05:00) |
 | c13 | | Electricity and outlet myths | todo | Sat 7 Nov 2026 9 AM | e.g. unplugged chargers, power strips, surge protectors; sources DOE / ESFI / CPSC |
 | c14 | | Painting and DIY myths | todo | Mon 9 Nov 2026 9 AM | |
 | c15 | | Bug and pest myths | todo | Wed 11 Nov 2026 9 AM | university extension sources |
