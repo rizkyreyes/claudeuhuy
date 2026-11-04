@@ -1,7 +1,7 @@
 // Cover (1080x1920) for Shorts / TikTok / Reels. Usage: OPT=A|B node thumb.js  (writes editable-thumb.json)
-// Our own Blender render (playbook 2 Nov 2026), copied by the laptop from frames_final/ (see cover.md):
-// A: image asset "thumbA" = cover/frame_A.png (frame 650: dry riverbed between the cofferdams, river in the tunnel), title "WHERE DID / THE RIVER GO?!"
-// B: image asset "thumbB" = cover/frame_B.png (frame 1290: one-pour dam glowing hot, red cracks), title "125 YEARS / TO COOL?!"
+// Separate Blender hero renders of the whole dam (build_cover.py, playbook Cover section):
+// A: image asset "thumbA" = cover/hero_A.png (full lake, bone-dry bed, river pouring out of a tunnel), title "WHERE DID / THE RIVER GO?!"
+// B: image asset "thumbB" = cover/hero_B.png (whole wall glowing hot with bright cracks, dusk), title "125 YEARS / TO COOL?!"
 // Poppins ExtraBold, ALL CAPS, tracking -10, 10 px black stroke. Everything sits inside the 3:4 profile-grid crop (y 240-1680).
 const fs = require("fs"), path = require("path");
 const T = (pos, anchor = [0, 0], rot = 0) => ({ anchorPoint: anchor, position: pos, scale: [100, 100], rotation: rot, opacity: 100 });
