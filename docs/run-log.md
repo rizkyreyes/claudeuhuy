@@ -364,3 +364,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Cover (own render, `build_cover.py`): A = anode rod pulled out of the top, eaten away, "A ROD THAT ROTS / ON PURPOSE?!" (pick); B = low angle, rust streaks + burner glow, "IS IT ROTTING / INSIDE?!". CPU checks at 25 % fit the 3:4 crop. vidIQ titles: "How a Water Heater Works: Why Is There a Rod Rotting Inside? #shorts" 97 (kept) vs "...: Why Does It Eat Itself? #shorts" 97.
   - Open issues for the laptop: on GPU check the anode reads through the water at 39-53 s (WALPHA 0.13 there), flame cones look like flames not spikes at full res, exhaust spiral 17-25 s, sediment rise 54-56.5 s and flush 59-61 s, T&P water/steam 62.5-67 s. Rod and lining reset to new at the hard cut 53.3 s (illustrative). Pad-bed 76 s vs 76.33 s video. `sfx/` is generated on the laptop (`node synth_sfx.js`).
   - Step 9: carousel **c12 winter heating myths** made (slot Thu 5 Nov 9 AM ET, 39 h away): 5 sourced myths, 7 tt slides, contact sheet of slides 1, 2, 3, 5, 7 checked, row set to `ready`. Morning laptop run schedules it in Buffer (no approval, reminder mode).
+
+## 2026-11-04 (laptop) dam-construction
+- Approved cover A, scheduled for Thu 5 Nov 2026: TikTok 6aeb585342e663d17ba5e208, YT 6aeb58556f30d00200cf1477, IG 6aeb585242e663d17ba5e195. 
