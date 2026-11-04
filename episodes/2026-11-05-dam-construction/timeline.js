@@ -126,7 +126,7 @@ show(text("FIRST MOVE\nTHE RIVER", 540, TOP_Y + 40, 980, 300, 118, GOLD), C.move
 sound("riser", C.cut - 0.7, 0.3, 0.9); sound("rumble", EV.cut[0], 0.6, 0.05);
 // B2 diversion tunnel
 show(text("BLAST TUNNELS\nTHROUGH THE ROCK", 540, TOP_Y, 980, 300, 92, WHITE), C.blast - 0.05, C.hoover - 0.1, "slam", null);
-for (const t of EV.blast) sound("blast", t, 0.5);
+for (const t of EV.blast) sound("blast", t, 0.4);
 tracked("TUNNEL", "tunnel", C.walls + 0.2, C.four, 150, -150, CYAN);
 // B3 Hoover: four
 show(text("HOOVER DAM", 540, TOP_Y - 70, 900, 90, 56, WHITE, BODY, { tracking: 60 }), C.hoover - 0.05, C.then - 0.1, "rise", "pop");
@@ -167,7 +167,7 @@ show(text("ONE SINGLE POUR", 540, TOP_Y, 980, 200, 96, WHITE), C.single - 0.05, 
 counter(0, 125, C.hundred - 0.05, C.cracked - 0.1, v => `${v} YEARS`, 540, TOP_Y - 30, 980, 200, 128, GOLD, 1, 12);
 show(text("TO COOL DOWN", 540, TOP_Y + 110, 900, 80, 52, WHITE, BODY, { tracking: 60 }), C.cool - 0.05, C.cracked - 0.1, "rise", null);
 show(text("CRACKED", 540, TOP_Y, 980, 200, 140, RED), C.cracked - 0.05, C.so - 0.1, "slam", null);
-sound("crack", EV.crack - 0.02, 0.65); sound("deny", EV.crack + 0.05, 0.45);
+sound("crack", EV.crack - 0.02, 0.48); sound("deny", EV.crack + 0.05, 0.35);
 // B12 built in blocks
 show(text("SO: BLOCKS", 540, TOP_Y, 980, 200, 132, GOLD), C.so - 0.05, C.inside - 0.1, "slam", "impact");
 EV.block_land.filter((t, i) => i % 3 === 0).forEach(t => sound("clunk", t, 0.3));
