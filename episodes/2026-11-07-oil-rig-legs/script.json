@@ -1,0 +1,13 @@
+{
+ "slug": "oil-rig-legs",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The legs of an oil platform are built lying on their side, then flipped upright in the sea. Let's cut the ocean open. This tower of steel tubes is called a jacket. It's welded together on land, flat, then skidded onto a barge and towed out. At the site, the barge tips it off the back. Splash. Its legs are sealed shut and full of air, so it floats. Then crews flood the bottom of the legs. The heavy end sinks, the jacket swings upright, and it settles on the seabed. But it isn't just standing on the mud. Steel piles slide down through sleeves on the legs, and a hammer drives them deep into the seabed. Then grout, a kind of cement, fills the gap and locks them in. Only then does a crane ship lift the deck on top, high above the waves. The open frame lets waves pass right through. Fixed legs like these work down to about fifteen hundred feet. Deeper than that, many platforms don't stand at all. They float. Steel tendons, anchored to the seabed, pull the hull down harder than it wants to rise, so it barely moves up or down. Would you work out there, with nothing but ocean around you? Tell me in the comments. Next up: why your sink drain doesn't smell. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

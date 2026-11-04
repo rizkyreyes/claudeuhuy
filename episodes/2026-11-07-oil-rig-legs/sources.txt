@@ -1,0 +1,41 @@
+oil-rig-legs (3d-14, CUTAWAY #14), facts checked 4 Nov 2026 (cloud run). wikipedia.org and most page fetches are blocked in the cloud network, so search excerpts were used; every claim below has at least two agreeing sources.
+
+Fixed platform = a "jacket" (tall frame of tubular steel members) on piles driven into the seabed, deck on top
+  - https://webarchive.library.unt.edu/eot2008/20090825102940/http:/www.gomr.mms.gov/homepg/offshore/deepwatr/options.html (MMS, BSEE's predecessor: "a tall vertical section made of tubular steel members supported by piles driven into the seabed, with a deck placed on top")
+  - https://docs.risksolutions.verisk.com/Touchstone/11.0/ts-tsre_all/help_ts_exposure-data_offshore-asset-con.html (same definition)
+  - https://www.drillingformulas.com/piled-offshore-platform-structures-offshore-structure-series/
+Jackets for deeper water are fabricated on their side in a yard, skidded onto a launch barge, sea-fastened and towed out
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4690586 (fabricated in a yard next to a slipway, skidded onto launch beams on a launch barge)
+  - https://www.scribd.com/doc/252791967/15A-9-Installation ("jackets which have been fabricated on their side are usually loaded by skidding the entire structure onto a cargo or launch barge"; seafastening for the tow)
+  - https://www.scribd.com/document/466321335/15A-8-Fabrication-pdf-txt (jackets for deeper water are usually erected on their side)
+Launch off the back of the barge (rocker arm tips once the centre of gravity passes the pivot), jacket floats, controlled flooding of the legs upends it, sets on the seabed
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9022693 (launch platform rocks about its pivot; selective flooding of leg sections puts the jacket vertical)
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4721416 (jacket towed on its side, launched from the barge, flooding makes it turn and descend)
+  - https://www.trelleborg.com/en/marine-and-infrastructure/products-solutions-and-services/marine/topside-operations/jacket/diaphragm-closure (diaphragm closures seal the legs for buoyancy during launch/upending, ruptured to flood)
+  - https://www.nov.com/-/media/nov/files/products/rig/marine-and-construction/offshore-installation-equipment/upending-control-systems-flyer.pdf (controlled ballasting of compartments during upending)
+  "legs sealed and full of air, so it floats": launched jackets are buoyant via sealed legs plus extra buoyancy tanks on some; script says the legs are sealed, kept general.
+Piles go down through sleeves on the legs and are driven into the seabed by a hammer; grout fills the gap between pile and sleeve and locks them together
+  - https://www.drillingformulas.com/piled-offshore-platform-structures-offshore-structure-series/ (main piles driven through the sleeves into the seabed; grout forms a rigid connection between sleeves and piles)
+  - https://patents.google.com/patent/US4372704 (grouting of offshore platform pilings)
+  - https://patents.google.com/patent/US4273474 (grouting jackets to the anchoring piles)
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4669918 (pile sleeves at the base of the legs)
+  "grout, a kind of cement": offshore pile grout is a cement-based grout (sources above).
+Deck (topsides) goes on after the jacket is installed and piled, lifted by crane vessel (or float-over)
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6039506 (topsides installed after the jacket is installed and piled; heavy-lift crane vessel)
+  - https://www.marinelink.com/news/installation-floatover371306 (lift vs float-over)
+  - https://allseas.com/company/offshore-installation
+Open lattice frame lets waves pass through / reduces wave forces
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9771700 (lattice reduces hydrodynamic forces through the wave zone)
+  - https://theses.gla.ac.uk/4905 (wave loading on jacket members, Morison equation per member)
+  Kept qualitative, no numbers.
+Fixed platforms economical to about 1,500 ft of water
+  - MMS archived page above ("economically feasible for installation in water depths up to 1,500 feet")
+  - Verisk Touchstone page above (same figure)
+  Note: one textbook says ~400 m (1,312 ft); script says "about fifteen hundred feet" as the US regulator's figure.
+Deeper: tension leg platforms float; vertical tendons anchored to the seabed (pile-secured templates); buoyancy is more than the weight, so tendons are always tight and vertical motion (heave) is very small
+  - https://www.rigzone.com/insights/how-it-works-3/how-does-a-tension-leg-platform-(tlp)-work-1117 ("the hull is more buoyant than its weight; the excess buoyancy is reacted by tendon pretension... very low heave")
+  - MMS archived page above ("held in place by vertical, tensioned tendons connected to the sea floor by pile-secured templates... limited vertical motion")
+  - https://www.osti.gov/biblio/6324920 + Hutton TLP descriptions (tendons of steel pipe, positive buoyancy keeps the legs always in tension)
+  "many platforms don't stand at all": TLPs, spars and semisubmersibles are all floating designs used in deep water (MMS options page lists them). Only the TLP is shown.
+
+Cut / not claimed: pile penetration depth (no source found), Bullwinkle 1,353 ft record (not needed), crew rotation lengths, jacket weights.
