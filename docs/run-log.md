@@ -379,3 +379,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 
 ## 2026-11-05 (laptop) water-heater
 - Approved cover B, scheduled for Fri 6 Nov 2026: TikTok 6aebca19bc551efdea31bde1, YT 6aebca1af283c8dd45abccf8, IG 6aebca1be95790cd46a840ae. 
+
+## 2026-11-05 (laptop) oil-rig-legs
+- Approved cover A, scheduled for Sat 7 Nov 2026: TikTok 6aec9c7c14c42730f5beb574, YT 6aec9c7e0fcbe7315a2a0365, IG 6aec9c800fcbe7315a2a03e0. Known: jacket clips barge stern about 0.5 s in hook, approved as is.
