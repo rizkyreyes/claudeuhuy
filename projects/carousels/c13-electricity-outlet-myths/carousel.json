@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 electricity myths almost everyone believes", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/charger.jpg", "myth": "A charger left in the wall with nothing on it uses no power.",
+      "fact": "Lots of plugged-in gear keeps sipping power on standby, chargers included. Standby use is estimated at about 5 to 10% of home electricity.",
+      "source": "DOE and Berkeley Lab estimates" },
+    { "type": "myth", "bg": "bg/strip.jpg", "myth": "Every power strip protects your stuff from surges.",
+      "fact": "A basic power strip just gives you more outlets. Only a surge protector does that job. Look for \"surge protector\", a joule rating and a UL 1449 listing.",
+      "source": "UL 1449 standard, Lowe's buying guide" },
+    { "type": "myth", "bg": "bg/surge.jpg", "myth": "A surge protector lasts forever.",
+      "fact": "The parts inside wear out as they absorb surges, and many keep passing power after they stop protecting. If the \"protected\" light is out, replace it.",
+      "source": "Surge protector makers and buying guides" },
+    { "type": "myth", "bg": "bg/cord.jpg", "myth": "Running an extension cord under a rug is fine.",
+      "fact": "Covering a cord traps its heat and can start a fire, and foot traffic wears it down. Don't run cords under rugs, carpets or furniture.",
+      "source": "U.S. Consumer Product Safety Commission" },
+    { "type": "myth", "bg": "bg/breaker.jpg", "myth": "If a breaker keeps tripping, just put in a bigger one.",
+      "fact": "The breaker is sized to protect the wires in the wall. A bigger one lets them overheat. Find what's overloading the circuit or call an electrician.",
+      "source": "CPSC electrical safety checklist, Indiana Electric Cooperatives" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["DOE and Berkeley Lab: standby power", "UL 1449 and buying guides: power strip vs surge protector", "Makers and guides: surge protectors wear out", "CPSC: never cover extension cords", "CPSC and Indiana co-ops: don't oversize breakers"] }
+  ]
+}

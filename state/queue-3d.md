@@ -20,6 +20,14 @@ Slots per platform come from the table in `docs/3d-playbook.md` for the target d
 | 3d-12 | Thu 5 Nov 2026 | dam-construction | How dams are built | scheduled | episodes/2026-11-05-dam-construction | cover A. Buffer: TikTok 6aeb585342e663d17ba5e208, YT 6aeb58556f30d00200cf1477, IG 6aeb585242e663d17ba5e195.  |
 | 3d-13 | Fri 6 Nov 2026 | water-heater | How your water heater works | scheduled | episodes/2026-11-06-water-heater | cover B. Buffer: TikTok 6aebca19bc551efdea31bde1, YT 6aebca1af283c8dd45abccf8, IG 6aebca1be95790cd46a840ae.  |
 | 3d-14 | Sat 7 Nov 2026 | oil-rig-legs | How oil rigs stand in the ocean | scheduled | episodes/2026-11-07-oil-rig-legs | cover A. Buffer: TikTok 6aec9c7c14c42730f5beb574, YT 6aec9c7e0fcbe7315a2a0365, IG 6aec9c800fcbe7315a2a03e0. Known: jacket clips barge stern about 0.5 s in hook, approved as is. |
-| 3d-15 | Sun 8 Nov 2026 | p-trap | Why your sink drain doesn't smell (P-trap) | todo | | topic bank 30 Oct |
+| 3d-15 | Sun 8 Nov 2026 | p-trap | Why your sink drain doesn't smell (P-trap) | prepped | episodes/2026-11-08-p-trap | 74.08 s VO -> 75.13 s video, cover A "ALWAYS FULL / OF WATER?!" (pick) / B "THIS WATER / NEVER LEAVES?!", vidIQ title 97. Follow line teases 3d-16 canal-locks. Sun 8 Nov ET: TikTok 9 AM, YT 7 PM, IG 9 PM |
+| 3d-16 | Mon 9 Nov 2026 | canal-locks | How canal locks lift ships with no pumps (Panama Canal) | todo | | topic bank 5 Nov; teased by 3d-15, keep this day |
+| 3d-17 | Tue 10 Nov 2026 | ships-float | Why giant steel ships don't sink (displacement, hull, ballast) | todo | | topic bank 5 Nov |
+| 3d-18 | Wed 11 Nov 2026 | suspension-bridge-p1 | How suspension bridges are built, part 1: towers, anchorages, spinning the cables | todo | | topic bank 5 Nov; two-parter (playbook Follower growth 6), Part 1 ends on a cliffhanger, follow line "Part two tomorrow: ..." |
+| 3d-19 | Thu 12 Nov 2026 | suspension-bridge-p2 | How suspension bridges are built, part 2: hangers and lifting the deck | todo | | topic bank 5 Nov; opens with a 1-sentence recap |
+| 3d-20 | Fri 13 Nov 2026 | water-tower | How water towers work (gravity pressure for a whole town) | todo | | topic bank 5 Nov |
+| 3d-21 | Sat 14 Nov 2026 | nuclear-power-plant | How a nuclear power plant makes electricity (it boils water) | todo | | topic bank 5 Nov |
+| 3d-22 | Sun 15 Nov 2026 | city-sewers | Where your flush goes: how city sewers work (gravity mains, lift stations) | todo | | topic bank 5 Nov |
+| 3d-23 | Mon 16 Nov 2026 | airport-runway | Why airport runways are so thick (layers, grooves) | todo | | topic bank 5 Nov |
 
 Note: the b-roll upload kits already in `media/` (premium gas Sun 25, child-resistant cap Mon 26, rearview mirror Tue 27) were made before the switch; Rizky decides whether to post them by hand.

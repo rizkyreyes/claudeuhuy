@@ -1,0 +1,13 @@
+{
+ "slug": "p-trap",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The pipe under your sink is always full of water, on purpose. Let's cut it open. The drain drops, bends into a U, then turns into the wall. That shape is called a P-trap. Most of the water flows on, but the last bit stays in the bottom of the bend. That leftover water is the seal. Past it, the pipes lead to the sewer, full of gas that smells like rotten eggs. That's mostly hydrogen sulfide. Without the trap, it would come straight up your drain. But gas can't push through water, so it stays out. Plumbing code says the seal has to be two to four inches deep. But a big rush of water can pull the seal out behind it, like a siphon. That's why there's a second pipe, the vent. It runs up through the roof and lets air in, so the trap water stays put. Old S-traps could siphon themselves dry, so they're banned in new work. The trap has one more job. Drop a ring, and it's heavy, so it sinks into the bend instead of the sewer. Loosen two nuts, and there it is. If a guest bathroom smells, the trap probably dried out. Run the water for a few seconds and the seal is back. Have you ever dropped something down the sink? Tell me in the comments. Next up: how a canal lifts ships with no pumps. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

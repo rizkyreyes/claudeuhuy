@@ -1,0 +1,42 @@
+p-trap (3d-15, CUTAWAY #15), facts checked 5 Nov 2026 (cloud run). iccsafe.org and most page fetches are blocked in the cloud network, so search excerpts were used; every claim below has at least two agreeing sources.
+
+The trap holds standing water (the trap seal) that blocks sewer gas from coming up the drain into the room
+  - https://www.iccsafe.org/building-safety-journal/bsj-technical/an-overview-of-plumbing-trap-requirements-under-the-international-plumbing-code/ (ICC overview of trap requirements)
+  - https://www.oatey.com/faqs-blog-videos-case-studies/blog/sewer-gas-odor-your-house-and-what-do-about-it (manufacturer: water in the trap blocks sewer gas)
+  - https://www.thisoldhouse.com/plumbing/shower-drain-smells-rotten-eggs
+Water drains on, the last of it stays in the bottom of the bend (the U shape keeps it)
+  - https://grandavehousing.calpoly.edu/news/p-trap-explained-your-guide
+  - https://www.oatey.com/faqs-blog-videos-case-studies/blog/sewer-gas-odor-your-house-and-what-do-about-it
+Sewer gas smells like rotten eggs, mostly from hydrogen sulfide (also methane, ammonia)
+  - https://www.thisoldhouse.com/plumbing/shower-drain-smells-rotten-eggs
+  - https://northglenn.org/residents/water/sewer_odor_frequently_asked_questions.php (city utility sewer-odor FAQ)
+  - https://www.ny-engineers.com/blog/why-are-sewer-gases-escaping-from-my-drainage-system
+Code: trap seal not less than 2 inches and not more than 4 inches (IPC 1002.4; same range in 24 CFR 3280.606 for P traps, MA 248 CMR 10.08)
+  - https://www.law.cornell.edu/cfr/text/24/3280.606 ("Each 'P' trap shall have a water seal of not less than 2 inches and not more than 4 inches")
+  - https://www.iccsafe.org/wp-content/uploads/errata_central/9211S.pdf (ICC errata, IPC trap seal 2-4 in)
+  - https://forum.nachi.org/t/suitable-p-trap/22310 (quotes IPC 1002.4)
+  - https://open-exam-prep.com/study-guides/icc-plumbing-plans-examiner/traps-interceptors-special-waste/fixture-traps-trap-seals
+A rush of water can siphon the seal out of the trap; the vent lets air into the drain so the trap isn't siphoned, and carries gases out through the roof
+  - https://homesmsp.com/2018/10/plumbing-vents-why-houses-need-them-forget-the-water-bottle-analogy.html (home inspector: vents prevent traps from being siphoned)
+  - https://www.libertyhomeguard.com/blog/home-maintenance/why-plumbing-air-vents-are-important (vent stack lets air in and gases out)
+  - https://chestofbooks.com/home-improvement/construction/plumbing/Plumbing-Illustrated/Practical-Requirements-Of-Venting.html (venting protects trap seals from siphonage and back pressure)
+S-traps can self-siphon dry and are prohibited trap designs in new work (IRC P3201.5 prohibited traps); existing ones may be allowed to stay
+  - https://inspectapedia.com/plumbing/Plumbing-S-Traps.php
+  - https://www.jaspector.com/codes/irc-2021/ch32-plumbing-traps/s-trap-prohibited-code/
+  - https://homesmsp.com/2012/06/why-s-traps-arent-allowed.html
+  - https://www.startribune.com/article/157165945
+Dropped jewelry is heavy and usually ends up in the trap; loosen the slip nuts on both sides of the bend to take it off
+  - https://www.angi.com/articles/dropped-jewelry-down-sink.htm
+  - https://www.networx.com/article/how-to-get-a-ring-out-of-the-sink-drain
+  - https://www.expresssewer.com/blog/bid/321523/DIY-Cleaning-Replacing-a-Drain-Trap
+A rarely used drain (guest bathroom) can dry out by evaporation and smell; running water refills the seal
+  - https://www.oatey.com/faqs-blog-videos-case-studies/blog/sewer-gas-odor-your-house-and-what-do-about-it
+  - https://www.thisoldhouse.com/plumbing/shower-drain-smells-rotten-eggs
+  - https://bathrooms.com/blogs/articles/fix-smelly-p-trap
+
+Cut (not in the script): exact drying times (sources disagree, 2-4 weeks vs 1-3 months), Alexander Cumming's 1775 S-bend patent (sources differ on who introduced the bend first), "every fixture must have a trap" (no code text found tonight), the claim that vents speed up drainage (disputed).
+Drawn illustrative: wall-to-stack and floor-to-roof distances compressed; seal drawn 2.25" (inside the 2-4" range).
+
+Next-episode tease (3d-16 canal-locks): Panama Canal locks use no pumps, water moves by gravity through culverts in the lock walls
+  - https://en.wikipedia.org/wiki/Panama_Canal_locks
+  - https://www.marineinsight.com/guidelines/how-the-water-locks-of-panama-canal-work/

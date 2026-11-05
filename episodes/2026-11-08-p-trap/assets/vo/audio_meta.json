@@ -1,0 +1,1468 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The pipe under your sink is always full of water, on purpose. Let's cut it open. The drain drops, bends into a U, then turns into the wall. That shape is called a P-trap. Most of the water flows on, but the last bit stays in the bottom of the bend. That leftover water is the seal. Past it, the pipes lead to the sewer, full of gas that smells like rotten eggs. That's mostly hydrogen sulfide. Without the trap, it would come straight up your drain. But gas can't push through water, so it stays out. Plumbing code says the seal has to be two to four inches deep. But a big rush of water can pull the seal out behind it, like a siphon. That's why there's a second pipe, the vent. It runs up through the roof and lets air in, so the trap water stays put. Old S-traps could siphon themselves dry, so they're banned in new work. The trap has one more job. Drop a ring, and it's heavy, so it sinks into the bend instead of the sewer. Loosen two nuts, and there it is. If a guest bathroom smells, the trap probably dried out. Run the water for a few seconds and the seal is back. Have you ever dropped something down the sink? Tell me in the comments. Next up: how a canal lifts ships with no pumps. Follow so you don't miss it.",
+   "wav": "vo.wav",
+   "duration": 74,
+   "speechStart": 0,
+   "speechEnd": 74.08,
+   "words": [
+    {
+     "id": "w0",
+     "text": "The",
+     "start": 0,
+     "end": 0.133
+    },
+    {
+     "id": "w1",
+     "text": "pipe",
+     "start": 0.16,
+     "end": 0.36
+    },
+    {
+     "id": "w2",
+     "text": "under",
+     "start": 0.4,
+     "end": 0.608
+    },
+    {
+     "id": "w3",
+     "text": "your",
+     "start": 0.64,
+     "end": 0.78
+    },
+    {
+     "id": "w4",
+     "text": "sink",
+     "start": 0.8,
+     "end": 1.12
+    },
+    {
+     "id": "w5",
+     "text": "is",
+     "start": 1.2,
+     "end": 1.44
+    },
+    {
+     "id": "w6",
+     "text": "always",
+     "start": 1.68,
+     "end": 1.92
+    },
+    {
+     "id": "w7",
+     "text": "full",
+     "start": 2,
+     "end": 2.08
+    },
+    {
+     "id": "w8",
+     "text": "of",
+     "start": 2.16,
+     "end": 2.24
+    },
+    {
+     "id": "w9",
+     "text": "water,",
+     "start": 2.32,
+     "end": 2.88
+    },
+    {
+     "id": "w10",
+     "text": "on",
+     "start": 2.96,
+     "end": 3.04
+    },
+    {
+     "id": "w11",
+     "text": "purpose.",
+     "start": 3.12,
+     "end": 3.6
+    },
+    {
+     "id": "w12",
+     "text": "Let's",
+     "start": 3.92,
+     "end": 4.12
+    },
+    {
+     "id": "w13",
+     "text": "cut",
+     "start": 4.16,
+     "end": 4.24
+    },
+    {
+     "id": "w14",
+     "text": "it",
+     "start": 4.32,
+     "end": 4.4
+    },
+    {
+     "id": "w15",
+     "text": "open.",
+     "start": 4.56,
+     "end": 4.96
+    },
+    {
+     "id": "w16",
+     "text": "The",
+     "start": 5.2,
+     "end": 5.36
+    },
+    {
+     "id": "w17",
+     "text": "drain",
+     "start": 5.4,
+     "end": 5.6
+    },
+    {
+     "id": "w18",
+     "text": "drops,",
+     "start": 5.68,
+     "end": 6.4
+    },
+    {
+     "id": "w19",
+     "text": "bends",
+     "start": 6.48,
+     "end": 6.64
+    },
+    {
+     "id": "w20",
+     "text": "into",
+     "start": 6.76,
+     "end": 6.88
+    },
+    {
+     "id": "w21",
+     "text": "a",
+     "start": 6.92,
+     "end": 6.96
+    },
+    {
+     "id": "w22",
+     "text": "U,",
+     "start": 7.12,
+     "end": 7.44
+    },
+    {
+     "id": "w23",
+     "text": "then",
+     "start": 7.52,
+     "end": 7.68
+    },
+    {
+     "id": "w24",
+     "text": "turns",
+     "start": 7.76,
+     "end": 8.08
+    },
+    {
+     "id": "w25",
+     "text": "into",
+     "start": 8.16,
+     "end": 8.24
+    },
+    {
+     "id": "w26",
+     "text": "the",
+     "start": 8.32,
+     "end": 8.36
+    },
+    {
+     "id": "w27",
+     "text": "wall.",
+     "start": 8.4,
+     "end": 8.8
+    },
+    {
+     "id": "w28",
+     "text": "That",
+     "start": 9.2,
+     "end": 9.36
+    },
+    {
+     "id": "w29",
+     "text": "shape",
+     "start": 9.44,
+     "end": 9.68
+    },
+    {
+     "id": "w30",
+     "text": "is",
+     "start": 9.76,
+     "end": 9.84
+    },
+    {
+     "id": "w31",
+     "text": "called",
+     "start": 9.92,
+     "end": 10.08
+    },
+    {
+     "id": "w32",
+     "text": "a",
+     "start": 10.16,
+     "end": 10.24
+    },
+    {
+     "id": "w33",
+     "text": "P-trap.",
+     "start": 10.32,
+     "end": 11.36
+    },
+    {
+     "id": "w34",
+     "text": "Most",
+     "start": 11.44,
+     "end": 11.6
+    },
+    {
+     "id": "w35",
+     "text": "of",
+     "start": 11.68,
+     "end": 11.76
+    },
+    {
+     "id": "w36",
+     "text": "the",
+     "start": 11.8,
+     "end": 11.84
+    },
+    {
+     "id": "w37",
+     "text": "water",
+     "start": 11.92,
+     "end": 12.08
+    },
+    {
+     "id": "w38",
+     "text": "flows",
+     "start": 12.24,
+     "end": 12.48
+    },
+    {
+     "id": "w39",
+     "text": "on,",
+     "start": 12.56,
+     "end": 12.96
+    },
+    {
+     "id": "w40",
+     "text": "but",
+     "start": 13,
+     "end": 13.04
+    },
+    {
+     "id": "w41",
+     "text": "the",
+     "start": 13.12,
+     "end": 13.2
+    },
+    {
+     "id": "w42",
+     "text": "last",
+     "start": 13.28,
+     "end": 13.52
+    },
+    {
+     "id": "w43",
+     "text": "bit",
+     "start": 13.6,
+     "end": 13.76
+    },
+    {
+     "id": "w44",
+     "text": "stays",
+     "start": 13.84,
+     "end": 14.16
+    },
+    {
+     "id": "w45",
+     "text": "in",
+     "start": 14.2,
+     "end": 14.24
+    },
+    {
+     "id": "w46",
+     "text": "the",
+     "start": 14.32,
+     "end": 14.4
+    },
+    {
+     "id": "w47",
+     "text": "bottom",
+     "start": 14.52,
+     "end": 14.64
+    },
+    {
+     "id": "w48",
+     "text": "of",
+     "start": 14.72,
+     "end": 14.8
+    },
+    {
+     "id": "w49",
+     "text": "the",
+     "start": 14.84,
+     "end": 14.88
+    },
+    {
+     "id": "w50",
+     "text": "bend.",
+     "start": 14.96,
+     "end": 15.36
+    },
+    {
+     "id": "w51",
+     "text": "That",
+     "start": 15.68,
+     "end": 15.84
+    },
+    {
+     "id": "w52",
+     "text": "leftover",
+     "start": 15.92,
+     "end": 16.32
+    },
+    {
+     "id": "w53",
+     "text": "water",
+     "start": 16.4,
+     "end": 16.64
+    },
+    {
+     "id": "w54",
+     "text": "is",
+     "start": 16.8,
+     "end": 16.96
+    },
+    {
+     "id": "w55",
+     "text": "the",
+     "start": 17,
+     "end": 17.04
+    },
+    {
+     "id": "w56",
+     "text": "seal.",
+     "start": 17.2,
+     "end": 17.6
+    },
+    {
+     "id": "w57",
+     "text": "Past",
+     "start": 18.08,
+     "end": 18.4
+    },
+    {
+     "id": "w58",
+     "text": "it,",
+     "start": 18.48,
+     "end": 18.72
+    },
+    {
+     "id": "w59",
+     "text": "the",
+     "start": 18.76,
+     "end": 18.8
+    },
+    {
+     "id": "w60",
+     "text": "pipes",
+     "start": 18.88,
+     "end": 19.12
+    },
+    {
+     "id": "w61",
+     "text": "lead",
+     "start": 19.2,
+     "end": 19.36
+    },
+    {
+     "id": "w62",
+     "text": "to",
+     "start": 19.4,
+     "end": 19.44
+    },
+    {
+     "id": "w63",
+     "text": "the",
+     "start": 19.52,
+     "end": 19.6
+    },
+    {
+     "id": "w64",
+     "text": "sewer,",
+     "start": 19.68,
+     "end": 20.16
+    },
+    {
+     "id": "w65",
+     "text": "full",
+     "start": 20.24,
+     "end": 20.4
+    },
+    {
+     "id": "w66",
+     "text": "of",
+     "start": 20.48,
+     "end": 20.56
+    },
+    {
+     "id": "w67",
+     "text": "gas",
+     "start": 20.72,
+     "end": 20.88
+    },
+    {
+     "id": "w68",
+     "text": "that",
+     "start": 20.96,
+     "end": 21.04
+    },
+    {
+     "id": "w69",
+     "text": "smells",
+     "start": 21.12,
+     "end": 21.36
+    },
+    {
+     "id": "w70",
+     "text": "like",
+     "start": 21.44,
+     "end": 21.52
+    },
+    {
+     "id": "w71",
+     "text": "rotten",
+     "start": 21.6,
+     "end": 21.92
+    },
+    {
+     "id": "w72",
+     "text": "eggs.",
+     "start": 22,
+     "end": 22.4
+    },
+    {
+     "id": "w73",
+     "text": "That's",
+     "start": 22.8,
+     "end": 23.04
+    },
+    {
+     "id": "w74",
+     "text": "mostly",
+     "start": 23.2,
+     "end": 23.36
+    },
+    {
+     "id": "w75",
+     "text": "hydrogen",
+     "start": 23.44,
+     "end": 23.92
+    },
+    {
+     "id": "w76",
+     "text": "sulfide.",
+     "start": 24,
+     "end": 24.56
+    },
+    {
+     "id": "w77",
+     "text": "Without",
+     "start": 24.96,
+     "end": 25.2
+    },
+    {
+     "id": "w78",
+     "text": "the",
+     "start": 25.28,
+     "end": 25.36
+    },
+    {
+     "id": "w79",
+     "text": "trap,",
+     "start": 25.52,
+     "end": 25.84
+    },
+    {
+     "id": "w80",
+     "text": "it",
+     "start": 25.88,
+     "end": 25.92
+    },
+    {
+     "id": "w81",
+     "text": "would",
+     "start": 26,
+     "end": 26.08
+    },
+    {
+     "id": "w82",
+     "text": "come",
+     "start": 26.16,
+     "end": 26.24
+    },
+    {
+     "id": "w83",
+     "text": "straight",
+     "start": 26.48,
+     "end": 26.8
+    },
+    {
+     "id": "w84",
+     "text": "up",
+     "start": 26.88,
+     "end": 26.96
+    },
+    {
+     "id": "w85",
+     "text": "your",
+     "start": 27.04,
+     "end": 27.12
+    },
+    {
+     "id": "w86",
+     "text": "drain.",
+     "start": 27.2,
+     "end": 27.6
+    },
+    {
+     "id": "w87",
+     "text": "But",
+     "start": 27.92,
+     "end": 28
+    },
+    {
+     "id": "w88",
+     "text": "gas",
+     "start": 28.08,
+     "end": 28.4
+    },
+    {
+     "id": "w89",
+     "text": "can't",
+     "start": 28.48,
+     "end": 28.72
+    },
+    {
+     "id": "w90",
+     "text": "push",
+     "start": 28.84,
+     "end": 28.96
+    },
+    {
+     "id": "w91",
+     "text": "through",
+     "start": 29.08,
+     "end": 29.2
+    },
+    {
+     "id": "w92",
+     "text": "water,",
+     "start": 29.36,
+     "end": 29.68
+    },
+    {
+     "id": "w93",
+     "text": "so",
+     "start": 29.76,
+     "end": 29.92
+    },
+    {
+     "id": "w94",
+     "text": "it",
+     "start": 30.08,
+     "end": 30.16
+    },
+    {
+     "id": "w95",
+     "text": "stays",
+     "start": 30.24,
+     "end": 30.4
+    },
+    {
+     "id": "w96",
+     "text": "out.",
+     "start": 30.48,
+     "end": 30.8
+    },
+    {
+     "id": "w97",
+     "text": "Plumbing",
+     "start": 31.2,
+     "end": 31.52
+    },
+    {
+     "id": "w98",
+     "text": "code",
+     "start": 31.6,
+     "end": 31.84
+    },
+    {
+     "id": "w99",
+     "text": "says",
+     "start": 31.92,
+     "end": 32
+    },
+    {
+     "id": "w100",
+     "text": "the",
+     "start": 32.08,
+     "end": 32.16
+    },
+    {
+     "id": "w101",
+     "text": "seal",
+     "start": 32.24,
+     "end": 32.48
+    },
+    {
+     "id": "w102",
+     "text": "has",
+     "start": 32.56,
+     "end": 32.72
+    },
+    {
+     "id": "w103",
+     "text": "to",
+     "start": 32.76,
+     "end": 32.8
+    },
+    {
+     "id": "w104",
+     "text": "be",
+     "start": 32.88,
+     "end": 32.96
+    },
+    {
+     "id": "w105",
+     "text": "two",
+     "start": 33.04,
+     "end": 33.2
+    },
+    {
+     "id": "w106",
+     "text": "to",
+     "start": 33.28,
+     "end": 33.44
+    },
+    {
+     "id": "w107",
+     "text": "four",
+     "start": 33.52,
+     "end": 33.6
+    },
+    {
+     "id": "w108",
+     "text": "inches",
+     "start": 33.68,
+     "end": 34
+    },
+    {
+     "id": "w109",
+     "text": "deep.",
+     "start": 34.08,
+     "end": 34.4
+    },
+    {
+     "id": "w110",
+     "text": "But",
+     "start": 34.8,
+     "end": 34.88
+    },
+    {
+     "id": "w111",
+     "text": "a",
+     "start": 34.96,
+     "end": 35.04
+    },
+    {
+     "id": "w112",
+     "text": "big",
+     "start": 35.12,
+     "end": 35.28
+    },
+    {
+     "id": "w113",
+     "text": "rush",
+     "start": 35.36,
+     "end": 35.52
+    },
+    {
+     "id": "w114",
+     "text": "of",
+     "start": 35.6,
+     "end": 35.68
+    },
+    {
+     "id": "w115",
+     "text": "water",
+     "start": 35.76,
+     "end": 36
+    },
+    {
+     "id": "w116",
+     "text": "can",
+     "start": 36.12,
+     "end": 36.24
+    },
+    {
+     "id": "w117",
+     "text": "pull",
+     "start": 36.32,
+     "end": 36.48
+    },
+    {
+     "id": "w118",
+     "text": "the",
+     "start": 36.56,
+     "end": 36.64
+    },
+    {
+     "id": "w119",
+     "text": "seal",
+     "start": 36.72,
+     "end": 36.88
+    },
+    {
+     "id": "w120",
+     "text": "out",
+     "start": 36.96,
+     "end": 37.04
+    },
+    {
+     "id": "w121",
+     "text": "behind",
+     "start": 37.12,
+     "end": 37.44
+    },
+    {
+     "id": "w122",
+     "text": "it,",
+     "start": 37.52,
+     "end": 37.68
+    },
+    {
+     "id": "w123",
+     "text": "like",
+     "start": 37.72,
+     "end": 37.76
+    },
+    {
+     "id": "w124",
+     "text": "a",
+     "start": 37.84,
+     "end": 37.92
+    },
+    {
+     "id": "w125",
+     "text": "siphon.",
+     "start": 38,
+     "end": 38.48
+    },
+    {
+     "id": "w126",
+     "text": "That's",
+     "start": 38.88,
+     "end": 39.12
+    },
+    {
+     "id": "w127",
+     "text": "why",
+     "start": 39.2,
+     "end": 39.28
+    },
+    {
+     "id": "w128",
+     "text": "there's",
+     "start": 39.32,
+     "end": 39.44
+    },
+    {
+     "id": "w129",
+     "text": "a",
+     "start": 39.52,
+     "end": 39.6
+    },
+    {
+     "id": "w130",
+     "text": "second",
+     "start": 39.76,
+     "end": 39.92
+    },
+    {
+     "id": "w131",
+     "text": "pipe,",
+     "start": 40,
+     "end": 40.48
+    },
+    {
+     "id": "w132",
+     "text": "the",
+     "start": 40.56,
+     "end": 40.64
+    },
+    {
+     "id": "w133",
+     "text": "vent.",
+     "start": 40.72,
+     "end": 41.12
+    },
+    {
+     "id": "w134",
+     "text": "It",
+     "start": 41.52,
+     "end": 41.6
+    },
+    {
+     "id": "w135",
+     "text": "runs",
+     "start": 41.68,
+     "end": 41.92
+    },
+    {
+     "id": "w136",
+     "text": "up",
+     "start": 42,
+     "end": 42.08
+    },
+    {
+     "id": "w137",
+     "text": "through",
+     "start": 42.16,
+     "end": 42.24
+    },
+    {
+     "id": "w138",
+     "text": "the",
+     "start": 42.28,
+     "end": 42.32
+    },
+    {
+     "id": "w139",
+     "text": "roof",
+     "start": 42.4,
+     "end": 42.64
+    },
+    {
+     "id": "w140",
+     "text": "and",
+     "start": 42.72,
+     "end": 42.8
+    },
+    {
+     "id": "w141",
+     "text": "lets",
+     "start": 42.92,
+     "end": 43.04
+    },
+    {
+     "id": "w142",
+     "text": "air",
+     "start": 43.12,
+     "end": 43.28
+    },
+    {
+     "id": "w143",
+     "text": "in,",
+     "start": 43.36,
+     "end": 43.6
+    },
+    {
+     "id": "w144",
+     "text": "so",
+     "start": 43.64,
+     "end": 43.68
+    },
+    {
+     "id": "w145",
+     "text": "the",
+     "start": 43.76,
+     "end": 43.84
+    },
+    {
+     "id": "w146",
+     "text": "trap",
+     "start": 44,
+     "end": 44.16
+    },
+    {
+     "id": "w147",
+     "text": "water",
+     "start": 44.28,
+     "end": 44.4
+    },
+    {
+     "id": "w148",
+     "text": "stays",
+     "start": 44.48,
+     "end": 44.72
+    },
+    {
+     "id": "w149",
+     "text": "put.",
+     "start": 44.8,
+     "end": 45.2
+    },
+    {
+     "id": "w150",
+     "text": "Old",
+     "start": 45.6,
+     "end": 45.84
+    },
+    {
+     "id": "w151",
+     "text": "S-traps",
+     "start": 45.92,
+     "end": 46.4
+    },
+    {
+     "id": "w152",
+     "text": "could",
+     "start": 46.52,
+     "end": 46.64
+    },
+    {
+     "id": "w153",
+     "text": "siphon",
+     "start": 46.68,
+     "end": 46.96
+    },
+    {
+     "id": "w154",
+     "text": "themselves",
+     "start": 47.04,
+     "end": 47.36
+    },
+    {
+     "id": "w155",
+     "text": "dry,",
+     "start": 47.44,
+     "end": 48
+    },
+    {
+     "id": "w156",
+     "text": "so",
+     "start": 48.08,
+     "end": 48.24
+    },
+    {
+     "id": "w157",
+     "text": "they're",
+     "start": 48.32,
+     "end": 48.56
+    },
+    {
+     "id": "w158",
+     "text": "banned",
+     "start": 48.6,
+     "end": 48.88
+    },
+    {
+     "id": "w159",
+     "text": "in",
+     "start": 48.92,
+     "end": 48.96
+    },
+    {
+     "id": "w160",
+     "text": "new",
+     "start": 49.04,
+     "end": 49.2
+    },
+    {
+     "id": "w161",
+     "text": "work.",
+     "start": 49.36,
+     "end": 49.8
+    },
+    {
+     "id": "w162",
+     "text": "The",
+     "start": 50.08,
+     "end": 50.16
+    },
+    {
+     "id": "w163",
+     "text": "trap",
+     "start": 50.32,
+     "end": 50.48
+    },
+    {
+     "id": "w164",
+     "text": "has",
+     "start": 50.56,
+     "end": 50.8
+    },
+    {
+     "id": "w165",
+     "text": "one",
+     "start": 50.88,
+     "end": 50.96
+    },
+    {
+     "id": "w166",
+     "text": "more",
+     "start": 51.04,
+     "end": 51.2
+    },
+    {
+     "id": "w167",
+     "text": "job.",
+     "start": 51.28,
+     "end": 51.8
+    },
+    {
+     "id": "w168",
+     "text": "Drop",
+     "start": 52,
+     "end": 52.24
+    },
+    {
+     "id": "w169",
+     "text": "a",
+     "start": 52.32,
+     "end": 52.36
+    },
+    {
+     "id": "w170",
+     "text": "ring,",
+     "start": 52.4,
+     "end": 52.8
+    },
+    {
+     "id": "w171",
+     "text": "and",
+     "start": 52.92,
+     "end": 53.04
+    },
+    {
+     "id": "w172",
+     "text": "it's",
+     "start": 53.12,
+     "end": 53.28
+    },
+    {
+     "id": "w173",
+     "text": "heavy,",
+     "start": 53.44,
+     "end": 53.76
+    },
+    {
+     "id": "w174",
+     "text": "so",
+     "start": 53.84,
+     "end": 54
+    },
+    {
+     "id": "w175",
+     "text": "it",
+     "start": 54.08,
+     "end": 54.16
+    },
+    {
+     "id": "w176",
+     "text": "sinks",
+     "start": 54.24,
+     "end": 54.48
+    },
+    {
+     "id": "w177",
+     "text": "into",
+     "start": 54.6,
+     "end": 54.72
+    },
+    {
+     "id": "w178",
+     "text": "the",
+     "start": 54.76,
+     "end": 54.8
+    },
+    {
+     "id": "w179",
+     "text": "bend",
+     "start": 54.88,
+     "end": 55.2
+    },
+    {
+     "id": "w180",
+     "text": "instead",
+     "start": 55.28,
+     "end": 55.6
+    },
+    {
+     "id": "w181",
+     "text": "of",
+     "start": 55.64,
+     "end": 55.68
+    },
+    {
+     "id": "w182",
+     "text": "the",
+     "start": 55.76,
+     "end": 55.8
+    },
+    {
+     "id": "w183",
+     "text": "sewer.",
+     "start": 55.84,
+     "end": 56.32
+    },
+    {
+     "id": "w184",
+     "text": "Loosen",
+     "start": 56.72,
+     "end": 57.04
+    },
+    {
+     "id": "w185",
+     "text": "two",
+     "start": 57.12,
+     "end": 57.2
+    },
+    {
+     "id": "w186",
+     "text": "nuts,",
+     "start": 57.28,
+     "end": 57.76
+    },
+    {
+     "id": "w187",
+     "text": "and",
+     "start": 57.84,
+     "end": 57.92
+    },
+    {
+     "id": "w188",
+     "text": "there",
+     "start": 58,
+     "end": 58.08
+    },
+    {
+     "id": "w189",
+     "text": "it",
+     "start": 58.12,
+     "end": 58.16
+    },
+    {
+     "id": "w190",
+     "text": "is.",
+     "start": 58.24,
+     "end": 58.76
+    },
+    {
+     "id": "w191",
+     "text": "If",
+     "start": 59.04,
+     "end": 59.12
+    },
+    {
+     "id": "w192",
+     "text": "a",
+     "start": 59.16,
+     "end": 59.2
+    },
+    {
+     "id": "w193",
+     "text": "guest",
+     "start": 59.28,
+     "end": 59.44
+    },
+    {
+     "id": "w194",
+     "text": "bathroom",
+     "start": 59.52,
+     "end": 59.92
+    },
+    {
+     "id": "w195",
+     "text": "smells,",
+     "start": 60,
+     "end": 60.56
+    },
+    {
+     "id": "w196",
+     "text": "the",
+     "start": 60.64,
+     "end": 60.72
+    },
+    {
+     "id": "w197",
+     "text": "trap",
+     "start": 60.8,
+     "end": 61.12
+    },
+    {
+     "id": "w198",
+     "text": "probably",
+     "start": 61.36,
+     "end": 61.6
+    },
+    {
+     "id": "w199",
+     "text": "dried",
+     "start": 61.64,
+     "end": 61.92
+    },
+    {
+     "id": "w200",
+     "text": "out.",
+     "start": 62,
+     "end": 62.56
+    },
+    {
+     "id": "w201",
+     "text": "Run",
+     "start": 62.64,
+     "end": 62.72
+    },
+    {
+     "id": "w202",
+     "text": "the",
+     "start": 62.8,
+     "end": 62.88
+    },
+    {
+     "id": "w203",
+     "text": "water",
+     "start": 63,
+     "end": 63.12
+    },
+    {
+     "id": "w204",
+     "text": "for",
+     "start": 63.2,
+     "end": 63.28
+    },
+    {
+     "id": "w205",
+     "text": "a",
+     "start": 63.32,
+     "end": 63.36
+    },
+    {
+     "id": "w206",
+     "text": "few",
+     "start": 63.44,
+     "end": 63.6
+    },
+    {
+     "id": "w207",
+     "text": "seconds",
+     "start": 63.68,
+     "end": 64.08
+    },
+    {
+     "id": "w208",
+     "text": "and",
+     "start": 64.16,
+     "end": 64.24
+    },
+    {
+     "id": "w209",
+     "text": "the",
+     "start": 64.28,
+     "end": 64.32
+    },
+    {
+     "id": "w210",
+     "text": "seal",
+     "start": 64.4,
+     "end": 64.64
+    },
+    {
+     "id": "w211",
+     "text": "is",
+     "start": 64.72,
+     "end": 64.8
+    },
+    {
+     "id": "w212",
+     "text": "back.",
+     "start": 64.96,
+     "end": 65.6
+    },
+    {
+     "id": "w213",
+     "text": "Have",
+     "start": 65.68,
+     "end": 65.76
+    },
+    {
+     "id": "w214",
+     "text": "you",
+     "start": 65.8,
+     "end": 65.84
+    },
+    {
+     "id": "w215",
+     "text": "ever",
+     "start": 65.96,
+     "end": 66.08
+    },
+    {
+     "id": "w216",
+     "text": "dropped",
+     "start": 66.16,
+     "end": 66.4
+    },
+    {
+     "id": "w217",
+     "text": "something",
+     "start": 66.56,
+     "end": 66.72
+    },
+    {
+     "id": "w218",
+     "text": "down",
+     "start": 66.8,
+     "end": 66.88
+    },
+    {
+     "id": "w219",
+     "text": "the",
+     "start": 66.92,
+     "end": 66.96
+    },
+    {
+     "id": "w220",
+     "text": "sink?",
+     "start": 67.04,
+     "end": 67.68
+    },
+    {
+     "id": "w221",
+     "text": "Tell",
+     "start": 67.72,
+     "end": 67.76
+    },
+    {
+     "id": "w222",
+     "text": "me",
+     "start": 67.84,
+     "end": 67.92
+    },
+    {
+     "id": "w223",
+     "text": "in",
+     "start": 67.96,
+     "end": 68
+    },
+    {
+     "id": "w224",
+     "text": "the",
+     "start": 68.04,
+     "end": 68.08
+    },
+    {
+     "id": "w225",
+     "text": "comments.",
+     "start": 68.32,
+     "end": 69.04
+    },
+    {
+     "id": "w226",
+     "text": "Next",
+     "start": 69.16,
+     "end": 69.28
+    },
+    {
+     "id": "w227",
+     "text": "up:",
+     "start": 69.36,
+     "end": 69.84
+    },
+    {
+     "id": "w228",
+     "text": "how",
+     "start": 69.92,
+     "end": 70
+    },
+    {
+     "id": "w229",
+     "text": "a",
+     "start": 70.04,
+     "end": 70.08
+    },
+    {
+     "id": "w230",
+     "text": "canal",
+     "start": 70.16,
+     "end": 70.56
+    },
+    {
+     "id": "w231",
+     "text": "lifts",
+     "start": 70.64,
+     "end": 70.96
+    },
+    {
+     "id": "w232",
+     "text": "ships",
+     "start": 71.04,
+     "end": 71.36
+    },
+    {
+     "id": "w233",
+     "text": "with",
+     "start": 71.48,
+     "end": 71.6
+    },
+    {
+     "id": "w234",
+     "text": "no",
+     "start": 71.68,
+     "end": 71.92
+    },
+    {
+     "id": "w235",
+     "text": "pumps.",
+     "start": 72,
+     "end": 72.72
+    },
+    {
+     "id": "w236",
+     "text": "Follow",
+     "start": 72.88,
+     "end": 73.04
+    },
+    {
+     "id": "w237",
+     "text": "so",
+     "start": 73.12,
+     "end": 73.2
+    },
+    {
+     "id": "w238",
+     "text": "you",
+     "start": 73.24,
+     "end": 73.28
+    },
+    {
+     "id": "w239",
+     "text": "don't",
+     "start": 73.36,
+     "end": 73.44
+    },
+    {
+     "id": "w240",
+     "text": "miss",
+     "start": 73.52,
+     "end": 73.68
+    },
+    {
+     "id": "w241",
+     "text": "it.",
+     "start": 73.76,
+     "end": 74.08
+    }
+   ]
+  }
+ ]
+}
