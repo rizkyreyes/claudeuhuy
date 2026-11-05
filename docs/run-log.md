@@ -376,3 +376,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Open issues for the laptop: on GPU check the hook flip (4.0-5.3 s, fast swing beside the barge, possible brief clip with the stern), the launch tilt/plunge 17.4-19.7 s and splash drops, upend 26.3-29.1 s, hammer blows 36.9-38.4 s, crane slew 45.2-46.3 s (fast), the TLP descent 54.8-57.5 s. Water drawn 55 m deep, sleeves/grout gap exaggerated (illustrative). Pad bed 76 s covers the 75.69 s video. `sfx/` is generated on the laptop (`node synth_sfx.js`).
   - **Queue runs out after 3d-15 p-trap**: the next nightly run must first research the next 7-topic batch (big systems only, ROUTINE Step 1) so the p-trap follow line can name 3d-16.
   - Step 9: c13 electricity myths slot is Sat 7 Nov 9 AM ET (14:00 UTC), about 68 h after this run (18:09 UTC), outside the 60 h window, so no carousel tonight; the next nightly run makes it.
+
+## 2026-11-05 (laptop) water-heater
+- Approved cover B, scheduled for Fri 6 Nov 2026: TikTok 6aebca19bc551efdea31bde1, YT 6aebca1af283c8dd45abccf8, IG 6aebca1be95790cd46a840ae. 
