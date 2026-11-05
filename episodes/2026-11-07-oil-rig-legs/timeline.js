@@ -254,7 +254,7 @@ for (const a of audio.sort((x, y) => x.start - y.start)) {
 const video = { type: "Video", id: 1, name: "Blender render - offshore platform cutaway", blendMode: "normal", activeRange: R(0, DUR), sourceRange: R(0, Math.min(DUR, RENDER_MS)),
   sourceIntrinsicDuration: RENDER_MS, volume: 0, transform: T([540, 960], [540, 960]), source: { assetId: RENDER_ID, fit: "contain" } };
 // slow push-in over the CTA
-for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.have), 100, "lin"], [DUR, 106, "lin"]]);
+for (const p of ["scaleX", "scaleY"]) kf(video.id, p, [[ms(C.would), 100, "lin"], [DUR, 106, "lin"]]);
 const docPath = path.join(D, "editable.json");
 const doc = fs.existsSync(docPath) ? JSON.parse(fs.readFileSync(docPath, "utf8"))
   : { width: 1080, height: 1920, fps: FPS, duration: 0, composition: { id: "main", layers: [] } };   // skeleton: copy the laptop template over it
