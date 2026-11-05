@@ -223,6 +223,7 @@ def strata_mat(name):
     L.new(ramp.outputs[0], mx.inputs[6]); L.new(n2.outputs["Color"], mx.inputs[7])
     br = nt.nodes.new("ShaderNodeBrightContrast"); br.inputs["Bright"].default_value = 0.06
     L.new(mx.outputs[2], br.inputs[0]); L.new(br.outputs[0], b.inputs["Base Color"]); b.inputs["Roughness"].default_value = 0.95
+    L.new(br.outputs[0], b.inputs["Emission Color"]); b.inputs["Emission Strength"].default_value = 0.1   # section face stays readable when the sun is blocked
     bp = nt.nodes.new("ShaderNodeBump"); bp.inputs["Strength"].default_value = 0.3; L.new(n2.outputs["Fac"], bp.inputs["Height"]); L.new(bp.outputs["Normal"], b.inputs["Normal"])
     return m
 GOLD, CYAN, RED, HOT = (0.98, 0.74, 0.27), (0.30, 0.92, 1.0), (1.0, 0.30, 0.24), (1.0, 0.45, 0.08)
@@ -238,7 +239,7 @@ M_SLEEVE = flat("PileSleeve", (0.90, 0.90, 0.92), 0.35, 0.2, GOLD, 2.0)
 M_PILE = flat("PileSteel", (0.32, 0.33, 0.35), 0.45, 0.8, CYAN, 1.5)
 M_HAMMER = flat("Hammer", (0.85, 0.12, 0.08), 0.4, 0.3)
 M_GROUT = flat("Grout", (0.62, 0.60, 0.55), 0.6, 0.0, GOLD, 2.5, noise=0.2)
-M_FLOOD = flat("FloodGlow", (0.02, 0.10, 0.14), 0.3, 0.0, CYAN, 3.0)
+M_FLOOD = flat("FloodGlow", (0.02, 0.10, 0.14), 0.3, 0.0, CYAN, 0.9)
 M_CAP = flat("SealCap", (0.10, 0.07, 0.02), 0.4, 0.0, GOLD, 4.0)
 M_BARGE = flat("BargeHull", (0.22, 0.24, 0.27), 0.55, 0.4, noise=0.1)
 M_DECKP = flat("BargeDeck", (0.40, 0.18, 0.12), 0.7, 0.1, noise=0.15)
@@ -382,7 +383,7 @@ SURF, WAVE = wave_plane("Sea_Surface", XQ, XS1, 0.0, YS1, D + 0.02, M_SURF, 160)
 HORIZON = box("Sea_Horizon", -2000, 2000, YS1, 3000, -600.0, D - 0.02, M_OCEAN, CG)
 HORIZON_FRONT = box("Sea_HorizonFront", -2000, 2000, -3000, -160.0, D - 2.0, D - 0.02, M_OCEAN, CG)
 # seabed block (drops on "deeper"); its near face is the section
-SEABED = box("Seabed", XQ, XS1, 0.0, YS1, ZB, 0.0, M_SEABED, CG, pivot=(0, 0, 0))
+SEABED = box("Seabed", XQ, XS1, -0.3, YS1, ZB, 0.0, M_SEABED, CG, pivot=(0, 0, 0))   # front face just ahead of the sea block so its tint does not cover the section
 SEABED_F = box("Seabed_Near", XQ, XS1, -160.0, 0.0, ZB, -60.0, M_SEABED, CG, pivot=(0, 0, 0))   # under the opaque near sea
 # quay (fabrication yard on land)
 Z_Q = D + 4.0
