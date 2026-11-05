@@ -46,7 +46,7 @@ Verify every claim on reputable sources (official, Wikipedia + its citations, en
 
 ## Step 6 — Typography, captions and sound
 - All on-screen type is Poppins ExtraBold (playbook Typography; set DISPLAY to Poppins and scale old Anton sizes by ~0.75).
-- `<episode>/timeline.js` adapted from `pipeline3d/example-door-lock/timeline.js`: the "CUTAWAY #<n>" series pill over the hook, titles on their words, counters, tracked part labels, captions (1–3 words, safe area, title-duplicate captions dropped), SFX on every type entrance and mechanical event, pad bed, mix targets.
+- `<episode>/timeline.js` adapted from `pipeline3d/example-door-lock/timeline.js`: titles on their words, counters, tracked part labels, captions (1–3 words, safe area, title-duplicate captions dropped), SFX on every type entrance and mechanical event, pad bed, mix targets.
 - `<episode>/synth_sfx.js` for any new foley the scene needs (adapt `synth_lock.js` / `synth_fx.js`).
 - Cover (Rizky, 2 Nov 2026: a separate Blender hero render of the WHOLE subject, not a video frame, not a photo; playbook Cover section): write `<episode>/build_cover.py`, a small scene re-using the subject's model, whole and uncut, filling the 3:4 crop, strong light, one visual cue for the paradox, no labels or arrows. CLI: `-- --opt A|B --pct <n> --samples <n> --out <file.png> --cycles-device <dev>`; A and B = two clearly different angles or looks. If Blender installed, check both with CPU stills at 25 % (fix what you see, commit nothing bigger than those small PNGs). `<episode>/thumb.js` uses image assets `thumbA`/`thumbB` = `cover/hero_A.png` / `hero_B.png`; `cover.md` holds the 2–3 word title per option in Poppins ExtraBold (curiosity contrast, 3:4 safe crop).
 

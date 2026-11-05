@@ -118,7 +118,6 @@ function pill(label, t0, t1) {
   for (const l of [bg, tx]) { l.activeRange = R(ms(t0), ms(t1 - t0)); kf(l.id, "opacity", [[0, 0], [120, 100], [ms(t1 - t0) - 200, 100], [ms(t1 - t0), 0]]); layers.push(l); }
   kf(bg.id, "scaleX", [[0, 70], [180, 100]]); sound("tick", t0 + 0.02, 0.4);
 }
-pill("CUTAWAY #15", 0.0, C.cut - 0.15);
 // B1 hook: the claim (closed drain under the sink, water running)
 show(text("THE PIPE UNDER\nYOUR SINK", 540, TOP_Y + 20, 980, 300, 88, WHITE), C.pipe - 0.15, C.always - 0.08, "rise", "whoosh");
 show(text("ALWAYS FULL\nOF WATER", 540, TOP_Y + 20, 980, 300, 120, CYAN), C.always - 0.05, C.lets - 0.1, "slam", "impact");
