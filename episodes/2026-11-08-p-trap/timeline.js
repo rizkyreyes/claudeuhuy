@@ -182,7 +182,7 @@ show(text("IT SINKS\nINTO THE BEND", 540, TOP_Y, 980, 300, 100, GOLD), C.sinks -
 show(text("LOOSEN 2 NUTS", 540, TOP_Y, 980, 200, 100, WHITE), C.loosen - 0.05, C.there - 0.1, "slam", null);
 tracked("SLIP NUT", "nut1", C.loosen, C.there - 0.1, -150, -150, GOLD, null);
 tracked("SLIP NUT", "nut2", C.loosen + 0.1, C.there - 0.1, 150, -150, GOLD, "pop");
-sound("creak", C.loosen, 0.55); sound("clunk", EV.jbend[1] - 0.05, 0.6);
+sound("creak", C.loosen, 0.55); sound("clunk", EV.jbend[1] - 0.05, 0.4);
 show(text("THERE IT IS", 540, TOP_Y, 980, 200, 116, GOLD), C.there - 0.05, C.if - 0.15, "slam", "ping");
 // B13 a dried-out trap
 show(text("GUEST BATHROOM\nSMELLS?", 540, TOP_Y, 980, 300, 92, WHITE), C.guest - 0.1, C.dried - 0.1, "rise", "whoosh");
