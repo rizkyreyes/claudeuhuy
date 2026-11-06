@@ -408,3 +408,8 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 
 ## 2026-11-06 (laptop) canal-locks
 - Approved cover B, scheduled for Mon 9 Nov 2026: TikTok 6aee0e3b9214322f689e87df, YT 6aee0e3dd6bbae6fa13741e3, IG 6aee0e3ea7751de7c998efdb. 
+
+## 2026-11-06 (cloud, scheduled nightly 3D prep, second firing ~17:37 UTC)
+- Local main had no common history with origin/main (remote history rewritten); reset to origin/main, nothing local was lost.
+- Preflight OK (ElevenLabs 200, 30,567 characters left). Skip guard hit: f404cdf canal-locks prep at 16:13 UTC, so Steps 1-8 skipped, no characters spent. 3d-17 ships-float (Tue 10 Nov) stays `todo` for the next run.
+- Step 9: c14 painting/DIY myths slot Mon 9 Nov 9 AM ET (14:00 UTC) is ~68 h away, outside the 60 h window; no carousel.
