@@ -3,7 +3,7 @@
 #   render.sh <episode> stills [f1,f2,...]   -> checks_local/still_*.png + checks_local/sheet.png (50 %, 24 samples)
 #   render.sh <episode> final                -> frames_final/f_####.png, then render.mp4 (crf 14)
 #   render.sh <episode> cover <frame>        -> cover/still_<frame>.png (100 %, 64 samples)
-#   render.sh <episode> hero                 -> cover/hero_A.png + hero_B.png from build_cover.py (100 %, 128 samples)
+#   render.sh <episode> hero                 -> cover/hero_A.png, hero_B.png (+ hero_C.png if build_cover.py has "C") (100 %, 128 samples)
 set -euo pipefail
 . "$(dirname "$0")/env.sh"
 EP="$(ep_dir "$1")"; MODE="$2"; cd "$EP"
@@ -31,10 +31,11 @@ case "$MODE" in
     echo "cover/still_$(printf %04d "$3").png" ;;
   hero)
     mkdir -p cover
-    for O in A B; do
+    OPTS="A B"; grep -q '"C"' build_cover.py && OPTS="A B C"
+    for O in $OPTS; do
       "$BLENDER" -b -y -P build_cover.py -- --opt $O --pct 100 --samples 128 --out "$(cygpath -w "$EP/cover/hero_$O.png")" --cycles-device OPTIX > cover.log 2>&1
       grep -E "Traceback|Error:" cover.log && exit 1
     done
-    ls cover/hero_A.png cover/hero_B.png ;;
+    ls cover/hero_*.png ;;
   *) echo "usage: render.sh <episode> stills|final|cover|hero" >&2; exit 2 ;;
 esac
