@@ -405,3 +405,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Cover: A = ship on the top step, front three-quarter "85 FT UPHILL / NO PUMPS?!" (suggested); B = down the staircase from the lake "SHIPS CLIMB / STAIRS?!". vidIQ: "How the Panama Canal Locks Work: How Do Ships Climb 85 Feet With No Pumps? #shorts" 89 (kept) vs "How the Panama Canal Works: How Do Ships Go Uphill Without Pumps? #shorts" 89 (tie, kept the hook match). 15 vidIQ credits used.
   - Open issues for the laptop: on GPU check the hook framing (ship stern near the left edge at ~2 s), drops readable in the culvert during 27-31 s (they are small in the wide shot), the fast "3 steps later" montage 46.2-49.4 s, cables visible at 40-43 s. Illustrative: chambers shortened, steps drawn ~50 ft high, side basins shown beside an old-style chamber (VO says "newer locks"). `sfx/` is generated on the laptop (`node synth_sfx.js`).
   - Step 9: c14 painting/DIY myths slot is Mon 9 Nov 9 AM ET (14:00 UTC), about 70 h away, outside the 60 h window, so no carousel tonight; the next nightly run makes it.
+
+## 2026-11-06 (laptop) canal-locks
+- Approved cover B, scheduled for Mon 9 Nov 2026: TikTok 6aee0e3b9214322f689e87df, YT 6aee0e3dd6bbae6fa13741e3, IG 6aee0e3ea7751de7c998efdb. 
