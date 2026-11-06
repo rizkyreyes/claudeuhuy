@@ -19,7 +19,7 @@ const OPT = process.env.OPT || "A";
 const img = { type: "Image", id: 1, name: "Blender frame", blendMode: "normal", activeRange: R, transform: T([540, 960], [540, 960]),
   source: { assetId: OPT === "A" ? "thumbA" : "thumbB", fit: "cover" } };
 const SETS = {
-  A: [text("A ROD THAT ROTS", 540, 330, 1000, 170, 120, WHITE), text("ON PURPOSE?!", 540, 480, 1000, 130, 112, RED),
+  A: [text("A ROD THAT ROTS", 540, 330, 1040, 170, 104, WHITE), text("ON PURPOSE?!", 540, 480, 1000, 130, 112, RED),
       rect("Title shade", 540, 405, 1080, 380, SHADE)],
   B: [text("IS IT ROTTING", 540, 330, 1000, 170, 132, WHITE), text("INSIDE?!", 540, 480, 1000, 130, 112, RED),
       rect("Title shade", 540, 405, 1080, 380, SHADE)],
