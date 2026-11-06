@@ -1,0 +1,43 @@
+ships-float (3d-17), facts checked 6 Nov 2026 (cloud run, search excerpts; most page fetches are blocked in the cloud network).
+Every claim in the script has at least two agreeing sources. Cut: any tonnage/weight of a specific ship, the 5-vs-6 compartments
+Titanic number (sources disagree, script says only "the iceberg opened more").
+
+Steel is almost eight times denser than water (structural steel ~7,850 kg/m3 vs fresh water 1,000 kg/m3; Gard: ~8,000 kg/m3, "about eight times")
+  - https://gard.no/insights/why-do-ships-float/
+  - https://en.wikipedia.org/wiki/Steel (density 7,750-8,050 kg/m3)
+A solid steel block sinks; a hull of the same steel floats because the whole ship (steel + air inside) has a lower average density than water
+  - https://gard.no/en/insights/why-do-ships-float
+  - https://cursa.app/en/article/why-steel-ships-float-buoyancy-and-archimedes-principle-explained
+Archimedes' principle: the upward (buoyant) force equals the weight of the water the object pushes aside (displaces)
+  - https://en.wikipedia.org/wiki/Archimedes%27_principle
+  - https://gard.no/insights/why-do-ships-float/
+A ship sinks until the water it displaces weighs as much as the ship; a ship's weight is called its displacement
+  - https://en.wikipedia.org/wiki/Displacement_(ship) ("the weight of water that a ship displaces when it is floating, which in turn is the weight of the ship")
+  - https://gard.no/insights/why-do-ships-float/
+Loading cargo makes the ship sit deeper (draft increases with displacement)
+  - https://en.wikipedia.org/wiki/Displacement_(ship)
+  - https://en.wikipedia.org/wiki/Draft_(hull)
+A load line (Plimsoll line) painted on the hull shows the deepest a ship may be loaded safely; marks TF, F, T, S, W, WNA for water density and season
+  - https://en.wikipedia.org/wiki/Load_line_(watercraft)
+  - https://webarchive.library.unt.edu/web/20201218022555/https://oceanservice.noaa.gov/facts/plimsoll-line.html (NOAA: What is a Plimsoll line?)
+  - https://maritime-executive.com/article/fast-facts-what-is-a-plimsoll-line
+A ship floats deeper in fresh water than in salt water, because fresh water is less dense (fresh-water marks sit above the summer mark)
+  - https://en.wikipedia.org/wiki/Load_line_(watercraft)
+  - https://merchantnavydecoded.com/what-is-international-load-line-and-draft-marks/
+An empty ship rides high, part of the propeller comes out of the water; ships take seawater into ballast tanks (low in the hull) to sit deeper and stay stable
+  - https://en.wikipedia.org/wiki/Ship_ballast (sailing "in ballast": water added to increase propeller immersion, steering, trim and draft)
+  - https://www.marineinsight.com/a-guide-to-ballast-tanks-on-ships/
+  - https://maritimepage.com/ballast-system-cargo-ship/
+Ships are divided by watertight bulkheads into compartments, so a breach floods only part of the hull
+  - https://en.wikipedia.org/wiki/Bulkhead_(partition)
+  - https://www.marineinsight.com/a-guide-to-ballast-tanks-on-ships/
+Titanic could stay afloat with four (forward) compartments flooded; the iceberg opened more than four (Britannica: at least 5; other analyses: 6)
+  - https://www.titanicinquiry.org/BOTInq/BOTReport/botRepObserv.php (British Wreck Commissioner's Inquiry: afloat with the four forward compartments flooded, not with No. 6 boiler room too)
+  - https://britannica.com/question/Why-did-the-Titanic-sink ("could reportedly stay afloat if as many as 4 of its 16 compartments were breached ... affected at least 5")
+
+Illustrative in the animation (not claims): plate thickness ~10x, ship shortened, 6 bulkheads, load-line mark oversize and spacing schematic,
+draft values, how far the ship sinks in each beat, the last beat's sinking ship is a generic container ship, not Titanic.
+Next-episode tease: 3d-18 suspension-bridge-p1 (towers, anchorages, spinning the cables), from state/queue-3d.md.
+
+Topic demand (vidIQ keyword research 6 Nov): "how do boats float" ~15.7k est. monthly searches, "why ships don't sink" ~7.3k,
+"buoyancy" ~9.6k (+91 %), "how ships float" ~3.7k, "archimedes principle" ~16k.

@@ -1,0 +1,13 @@
+{
+ "slug": "ships-float",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "This cargo ship is made of steel, almost eight times denser than water, and it still floats. But flood the wrong spaces, and it goes down fast. Let's cut it open. Drop a solid block of steel in the sea, and it sinks. Water pushes up on anything in it, as hard as the weight of the water it shoves aside. A small block shoves aside very little, so its weight wins. Now spread the same steel into a giant hollow hull. Inside, it's mostly air. The ship sinks lower and lower, until the water it pushed away weighs exactly as much as the ship. Then it stops. That's why a ship's weight is called its displacement. Load the containers, and it sinks deeper. A load line painted on the hull marks how deep it may safely sit. In fresh water, which is less dense, it sits even deeper. Empty, it rides too high, with the propeller half out of the water. So it pumps seawater into ballast tanks down low. And if the hull gets a hole? Steel walls split it into watertight compartments, so water fills only one part. Titanic could float with four flooded. The iceberg opened more. Would you cross an ocean on a ship that's mostly air? Tell me in the comments. Next up: how they spin a bridge's giant cables. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
