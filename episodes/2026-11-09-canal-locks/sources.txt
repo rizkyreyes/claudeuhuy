@@ -1,0 +1,50 @@
+canal-locks (3d-16), facts checked 6 Nov 2026 (cloud run). en.wikipedia.org and most page fetches are blocked in the cloud network, so search
+excerpts were used; every claim below has at least two agreeing sources.
+
+The locks use no pumps: the water moves by gravity alone, from Gatun Lake
+  - https://webarchive.library.unt.edu/web/20090506171050/http://www.pancanal.com/eng/general/asi-es-el-canal.html (Panama Canal Authority, "This is the Canal": "No pumps are used ... gravity alone")
+  - https://en.wikipedia.org/wiki/Panama_Canal_locks ("The water used to raise and lower vessels in each set of locks comes from Gatun Lake by gravity")
+  - https://www.marineinsight.com/guidelines/how-the-water-locks-of-panama-canal-work/
+  - https://coms.events/pianc-panama/data/x_abstracts/x_abstract_446.docx (new locks: filling and emptying only by gravity, no pumps)
+Gatun Lake is 85 ft (26 m) above sea level; the three steps of the Gatun Locks lift ships 85 ft (25.9 m)
+  - https://en.wikipedia.org/wiki/Panama_Canal_locks
+  - https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/08-locks
+  - https://www.uflib.ufl.edu/spec/pcm/InterestingFacts.pdf
+Ships coming from the Atlantic climb the three-step Gatun flight to the lake (Pacific side: Miraflores 2 steps + Pedro Miguel 1)
+  - https://en.wikipedia.org/wiki/Panama_Canal_locks
+  - https://www.britannica.com/topic/Panama-Canal/Locks
+Lock chambers: 110 ft wide, 1,050 ft long, usable length 1,000 ft
+  - https://en.wikipedia.org/wiki/Panama_Canal_locks
+  - https://panamatourismtravel.blogspot.com/2011/10/panama-canla-physical-characteristic.html (low authority, agrees)
+Culverts 18 ft in diameter run lengthwise inside the centre and side walls; water enters/leaves the chamber through holes in the floor
+  - https://en.wikipedia.org/wiki/Panama_Canal_locks
+  - https://webarchive.library.unt.edu/web/20090506171050/http://www.pancanal.com/eng/general/asi-es-el-canal.html
+  - https://www.marineinsight.com/guidelines/how-the-water-locks-of-panama-canal-work/
+Valves control the flow; to lower a ship, valves let the water out toward the lower level / the sea
+  - https://www.marineinsight.com/guidelines/how-the-water-locks-of-panama-canal-work/
+  - https://static.iahr.org/34/540.pdf (valves on the culverts, gravity filling and emptying)
+A chamber fills in about 8 minutes (sources: 8 to 10 minutes; script says "about eight")
+  - https://en.wikipedia.org/wiki/Panama_Canal_locks
+  - https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/08-locks
+Electric locomotives ("mules") on the lock walls hold the ship centred with cables/winches; the ship's own engines push it forward
+  - https://www.wikiwand.com/en/Panama_canal_mule
+  - https://www.canalmuseum.com/100years/100yearspanamacanal-22.htm
+  - https://webarchive.library.unt.edu/web/20090506170152/http://www.pancanal.com/eng/projects/locomotive.html
+The biggest ships have about 2 ft (60 cm) of water on each side (another source: as little as 12 in; script says "about two feet")
+  - https://www.wikiwand.com/en/Panama_canal_mule
+  - https://en.wikipedia.org/wiki/Panama_Canal_locks
+Each transit uses about 52 million US gallons (~200 million L) of fresh lake water, lost to the sea
+  - https://www.uflib.ufl.edu/spec/pcm/InterestingFacts.pdf ("52 million gallons lost to sea per transit")
+  - https://wikiwand.com/EN/Panama_Canal
+  - https://gcaptain.com/panama-canal-forced-to-balance-shipping-demand-with-need-for-drinking-water (Reuters: ~51 million gallons)
+Newer (Neo-Panamax, 2016) locks have water-saving basins beside each chamber that reuse up to 60 % of the water
+  - https://core.ac.uk/download/322431879.pdf
+  - https://www.FMC.gov/william-p-doyle-surveys-construction-sites-of-expanded-panama-canal-provides-latest-updates/
+  - https://coms.events/pianc-panama/data/x_abstracts/x_abstract_446.docx
+
+Cut (not in the script): miter-gate thickness/weight (no agreeing sources found), per-chamber gallons (one source only), the 1914 opening year
+(not checked tonight), "7 % less water" figure for the new locks (measures something else than the 60 %).
+Drawn illustrative: chambers shortened (400 ft drawn), steps drawn ~50 ft high instead of ~28 ft, one main culvert in the near wall only,
+the side basins shown beside an old-style chamber (in reality they belong to the newer, separate locks; the VO says "the newer locks").
+
+Next-episode tease (3d-17 ships-float): "why a steel ship this heavy doesn't sink" is a question, no factual claim; facts get checked in that episode's run.

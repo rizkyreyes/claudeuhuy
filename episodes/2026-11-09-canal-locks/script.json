@@ -1,0 +1,13 @@
+{
+ "slug": "canal-locks",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The Panama Canal lifts giant ships eighty-five feet uphill, with zero pumps. Let's cut it open. In the middle sits Gatun Lake, eighty-five feet above the sea. To get there from the Atlantic, ships climb three giant steps. Each step is a lock chamber, a thousand feet long. A ship sails in, and the gates shut behind it. Inside the walls run tunnels eighteen feet wide. The lake sits higher, so when the valves open, gravity pulls water down the tunnels and up through holes in the floor. The water rises, and the ship rises with it. In about eight minutes, the chamber matches the next step. The gates open, and the ship moves up. Electric locomotives called mules hold it steady on cables, because the biggest ships have about two feet to spare on each side. Three steps later, the ship is floating on the lake. Going down, the valves let the water run out toward the sea. But that water never comes back. Every ship that crosses spends about fifty-two million gallons of fresh lake water. That's why the newer locks have side basins that save up to sixty percent of it. Would you steer a ship with two feet to spare? Tell me in the comments. Next up: why a steel ship this heavy doesn't sink. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
