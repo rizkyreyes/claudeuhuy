@@ -1,0 +1,58 @@
+suspension-bridge-p1 (3d-18), facts checked 7 Nov 2026 (cloud run, search excerpts; pbs.org and most page fetches are blocked in the cloud network).
+Every claim in the script has at least two agreeing sources or the official Golden Gate Bridge District page. Cut: anchorage weight
+(only an unconfirmed 1930s figure), who invented aerial spinning, the kite flyer's name/age (sources disagree on the age), cable length (7,650 vs 7,659 ft).
+
+Each Golden Gate main cable contains 27,572 galvanized steel wires (61 strands of ~452 wires)
+  - https://goldengate.org/exhibits/cross-section-of-a-main-cable ("Main Cable Statistics")
+  - https://goldengate.org/bridge/history-research/statistics-data/design-construction-stats
+  - https://marinmagazine.com/?p=3903 (452 x 61 = 27,572)
+The cables were spun in place, wire by wire (aerial spinning), not lifted as finished cables
+  - https://goldengate.org/exhibits/spinning-the-main-cables
+  - https://www.pbs.org/wgbh/americanexperience/features/goldengate-spinning
+The deck (and every car on it) hangs from the main cables by suspender ropes; the cables carry roadway + traffic to the tower tops
+  - https://www.goldengate.org/exhibits/how-the-bridge-spans-the-golden-gate/
+  - https://www.goldengate.org/exhibits/facts-and-figures-about-the-bridge/
+The cables pull with huge force; each end is anchored in a massive concrete anchorage that keeps it from moving
+  - https://www.firgelliauto.com/blogs/mechanisms/suspension-bridges
+  - https://www.goldengate.org/bridge/history-research/statistics-data/design-construction-stats ("weight of the Bridge, not counting the concrete anchorages")
+Steel eyebars are embedded (cast) in the anchorage concrete; each wire bundle is secured to one of them
+  - https://farisalmahdawi.blogspot.com/2009/01/suspension-bridge-information_17.html (catwalk and hauling system / anchorage eyebars)
+  - https://www.mfgrobots.com/Article/mfg/mpm/2264.html
+Order of work: piers and anchorages, then towers and saddles, then catwalk cables and catwalk, then spinning
+  - https://centros.edu.xunta.gal/cafi/aulavirtual/pluginfile.php/40113/mod_imscp/content/1/construction_sequence_on_bridges.html
+  - https://farisalmahdawi.blogspot.com/2009/01/suspension-bridge-information_17.html
+A steel saddle on top of each tower carries (cradles) the main cable
+  - https://centros.edu.xunta.gal/cafi/aulavirtual/pluginfile.php/40113/mod_imscp/content/1/construction_sequence_on_bridges.html ("Erect towers and saddles")
+  - https://www.goldengate.org/exhibits/how-the-bridge-spans-the-golden-gate/ (cables place the load on the tower tops)
+At Niagara in 1848 the first line across the gorge for the suspension bridge was carried by a kite (kite-flying contest, January 1848)
+  - https://history.nebraska.gov/publications/homan-j-walsh-and-kite-helped-build-bridge
+  - https://www.discoverniagara.org/homan-walsh-and-his-kite
+  - https://en.wikipedia.com/wiki/Niagara_Suspension_Bridge
+The thin first line pulls heavier ropes, until the catwalk (a walkway under each cable) can be hung
+  - https://history.nebraska.gov/publications/homan-j-walsh-and-kite-helped-build-bridge (string -> heavier rope -> cable)
+  - https://farisalmahdawi.blogspot.com/2009/01/suspension-bridge-information_17.html (catwalks below each main cable for spinning access)
+A spinning wheel travels along the catwalk from one anchorage over the towers to the other, pulling a loop of wire; the loop is fixed
+at the far end (strand shoe) and the wheel goes back; repeated thousands of times
+  - https://www.goldengate.org/exhibits/spinning-the-main-cables/
+  - https://farisalmahdawi.blogspot.com/2009/01/suspension-bridge-information_17.html
+On the Golden Gate, spinning took about six months (October 1935 to May 1936; official: 6 months and 9 days)
+  - https://goldengate.org/bridge/history-research/statistics-data/design-construction-stats
+  - https://www.pbs.org/wgbh/americanexperience/features/goldengate-spinning
+80,000 miles of wire in the main cables
+  - https://goldengate.org/exhibits/cross-section-of-a-main-cable
+  - https://www.mentalfloss.com/geography/wanderlust/20-awesome-facts-about-golden-gate-bridge
+Wires bundled into 61 strands, then compacted into one round cable, 36 3/8 inches in diameter (said as "about three feet thick")
+  - https://goldengate.org/exhibits/cross-section-of-a-main-cable
+  - https://farisalmahdawi.blogspot.com/2009/01/suspension-bridge-information_17.html ("compact cable and temporarily clamp")
+The catwalk is hundreds of feet above the sea (towers 746 ft above water; the catwalk follows the cable up to the tower tops)
+  - https://www.goldengate.org/exhibits/facts-and-figures-about-the-bridge/
+  - https://goldengate.org/bridge/history-research/statistics-data/design-construction-stats
+
+Illustrative in the animation (not claims): bridge generic (not a model of the Golden Gate), spans shortened, towers 72 units,
+cable drawn ~2x thick, 9 eyebars instead of one per strand, one wheel per cable (the Golden Gate ran several), one hex pack of 61 strands,
+the wire pattern on the strand faces is a texture (not 452 counted wires), the kite crosses the strait in the animation (it crossed
+the Niagara gorge in 1848), the montage compresses six months into five seconds.
+Next-episode tease: 3d-19 suspension-bridge-p2 (hangers and lifting the deck), from state/queue-3d.md.
+
+Topic demand (vidIQ keyword research 7 Nov, US): "how bridges are built" ~9.1k est. monthly searches; "how suspension bridges are built" <750.
+Topic bank 5 Nov: "bridge construction" ~30.6k (+215 %), "suspension bridge" ~4.6k.
