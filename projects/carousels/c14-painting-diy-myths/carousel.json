@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/rollers.jpg", "title": "5 painting myths that ruin DIY jobs", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/dry.jpg", "myth": "Once the paint is dry to the touch, it's done.",
+      "fact": "Dry isn't cured. Latex can feel dry in about an hour, but it takes about 2 to 3 weeks to fully harden. Wait before scrubbing it.",
+      "source": "Sherwin-Williams, Benjamin Moore" },
+    { "type": "myth", "bg": "bg/primer.jpg", "myth": "Paint with primer in it means you never need primer.",
+      "fact": "It's fine over walls already painted and in good shape. Bare drywall, stains and glossy surfaces still call for a real primer (sand glossy spots first).",
+      "source": "Benjamin Moore, Sherwin-Williams" },
+    { "type": "myth", "bg": "bg/sheen.jpg", "myth": "Flat paint is the easiest to wipe clean.",
+      "fact": "It's the opposite. Stains are harder to remove from low-sheen paint, and scrubbing can leave shiny spots. Glossier sheens clean up easier.",
+      "source": "Benjamin Moore paint finish guide" },
+    { "type": "myth", "bg": "bg/drain.jpg", "myth": "Leftover paint can just go down the drain.",
+      "fact": "Don't pour paint down drains or storm drains. Use it up, give it away or drop it off. Dried latex can go in the trash in many areas, but check local rules.",
+      "source": "U.S. EPA, Benjamin Moore" },
+    { "type": "myth", "bg": "bg/cold.jpg", "myth": "You can't paint outside once it's below 50°F.",
+      "fact": "That was the old rule. Some exterior paints are now rated down to 35°F. Check the can, and make sure the overnight low stays above it too.",
+      "source": "Sherwin-Williams exterior FAQ" },
+    { "type": "end", "bg": "bg/roller-dark.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Sherwin-Williams, Benjamin Moore: dry vs cure", "Benjamin Moore, Sherwin-Williams: when to prime", "Benjamin Moore: choosing a paint finish", "U.S. EPA, Benjamin Moore: paint disposal", "Sherwin-Williams: cold-weather exterior paint"] }
+  ]
+}

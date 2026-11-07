@@ -1,0 +1,13 @@
+{
+ "slug": "suspension-bridge-p1",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Each main cable of the Golden Gate Bridge is 27,572 steel wires, spun in place. Every car hangs from them, so nothing can slip. Let's cut it open. First, the anchorages. The cables pull with huge force, so each end is tied into a giant concrete block, with steel eyebars cast deep inside. Next, the towers rise. On top, a steel saddle will cradle each cable. So how does the first line get across? At Niagara, in 1848, it crossed on a kite. That thin line pulls heavier ropes, until workers can hang a catwalk in the sky. Then the spinning starts. A wheel rolls from one anchorage, over the towers, to the other side, carrying a loop of wire. The loop is hooked on, and the wheel runs back for more. On the Golden Gate, that took six months, and eighty thousand miles of wire. The wires are bundled into 61 strands, and squeezed into one round cable, about three feet thick. But there's still no road. Would you walk that catwalk, hundreds of feet above the sea? Tell me in the comments. Part two tomorrow: how they hang a road from these cables. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
