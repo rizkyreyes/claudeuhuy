@@ -441,3 +441,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Open issues for the laptop: on GPU check the hook (cut face bright against the sky, wire texture legible at 100 %), the eyebar cut 19.8-22.3 s, the kite readable at 30.8-33 s, the wheel follow shot 40.4-45.6 s (catwalk planks close to the lens), cables growing 48.7-53.9 s, the CTA camera on the catwalk (cable close on the right). Illustrative: generic bridge, spans shortened, cable ~2x thick, one hex pack. `sfx/` is generated on the laptop (`node synth_sfx.js`).
   - Part 2 (3d-19 suspension-bridge-p2) must be prepped tomorrow and posted Thu 12 Nov ("Part two tomorrow").
   - Step 9: carousel **c14 painting/DIY myths** made (slot Mon 9 Nov 9 AM ET, ~44 h away): 5 sourced myths (dry vs cured, paint-and-primer, flat paint cleaning, paint down the drain, cold-weather painting), 7 tt slides in `media/carousels/c14-painting-diy-myths/tt`, sheets of slides 1, 2, 7 and 3-6 checked, row set to `ready`. Morning laptop run schedules it in Buffer (automatic).
+
+## 2026-11-08 (laptop) ships-float
+- Approved cover B, scheduled for Tue 10 Nov 2026: TikTok 6af0707d9214322f685312bf, YT 6af0707f9214322f6853134a, IG 6af07080d6bbae6fa1eb3f99. Buffer slot free 8 Nov
