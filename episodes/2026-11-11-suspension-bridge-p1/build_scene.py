@@ -669,8 +669,8 @@ SHOTS = [  # (t, cam loc, target, lens[, "cut"])
     (C["catwalk"] - 0.4, (-24.0, -40.0, 60.0), (-45.0, -CY, 62.0), 22),
     (C["sky"] + 0.3, (25.0, -70.0, 60.0), (-30.0, 0.0, 50.0), 20),
     (C["spinning"] - 0.05, (-80.0, -38.0, 26.0), (-100.0, -CY, 16.0), 24, "cut"),
-    (T_S0, (WX(14.0), -34.0, WZ(8.0)), (WX(2.0), -CY, WZ(0.0)), 24),
-    (T_S1 - 0.6, (WX(14.0), -34.0, WZ(8.0)), (WX(2.0), -CY, WZ(0.0)), 24),
+    (T_S0, (WX(-16.0), -32.0, WZ(7.0)), (WX(6.0), -CY, WZ(0.0)), 24),
+    (T_S1 - 0.6, (WX(-16.0), -32.0, WZ(7.0)), (WX(6.0), -CY, WZ(0.0)), 24),
     (C["loop2"] - 0.1, (88.0, -34.0, 24.0), (104.0, -CY, 15.0), 24, "cut"),
     (T_B0 - 0.05, (89.0, -33.0, 23.0), (104.0, -CY, 15.0), 24),
     (T_B0, (0.0, -165.0, 56.0), (0.0, 0.0, 44.0), 20, "cut"),
@@ -801,4 +801,5 @@ if "--stills" in ARGS:
         scene.frame_set(fr); r.filepath = os.path.join(out, f"still_{fr:04d}.png")
         t0 = time.time(); bpy.ops.render.render(write_still=True); print("STILL", fr, round(time.time() - t0, 1))
 if "--anim" in ARGS:
+    if "--range" in ARGS: scene.frame_start, scene.frame_end = [int(x) for x in arg("--range").split(",")]  # partial re-render
     r.filepath = os.path.join(out, "f_"); bpy.ops.render.render(animation=True)
