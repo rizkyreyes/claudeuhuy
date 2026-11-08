@@ -1,0 +1,13 @@
+{
+ "slug": "suspension-bridge-p2",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The road on a suspension bridge isn't held up from below. It hangs on steel ropes, hundreds of feet above the sea. Yesterday we spun the main cables. Today, we hang the road. Let's cut it open. First, cable bands. Steel bands are clamped around each main cable, every fifty feet on the Golden Gate Bridge. From each band, a pair of suspender ropes drops down. That's two hundred fifty pairs. Next, the deck. Once the towers, anchorages and cables are up, the road needs no support underneath. On modern bridges, deck sections arrive by barge. A gantry crane rides on the main cables like a train on rails, grabs a section, and lifts it straight up. The hangers are hooked on, and the crane rolls to the next spot. The sections grow out from the towers in a balanced way, until they meet in the middle. Then they're joined into one continuous road. On the Golden Gate, a net under the work caught nineteen workers who fell. Now every car's weight goes up the hangers, into the cables, over the towers, and down into the anchorages. Would you trust a road that hangs on ropes? Tell me in the comments. Next up: why water towers are built so high. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

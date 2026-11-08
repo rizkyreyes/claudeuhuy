@@ -1,0 +1,47 @@
+suspension-bridge-p2 (3d-19), facts checked 8 Nov 2026 (cloud run, search excerpts; goldengate.org page fetches are blocked in the cloud network,
+its text came through search results). Every claim has the official Golden Gate Bridge District page or two agreeing sources.
+Cut / not claimed: that the Golden Gate deck itself was lifted from barges (it wasn't shown as such; the VO says "on modern bridges"),
+the $130,000 net cost, the number of deck sections (only one secondary source: 747), tower movement while the deck goes on, cable sag numbers.
+
+The deck (road) of a suspension bridge is not held up from below: it hangs from the main cables on vertical suspender ropes
+  - https://www.goldengate.org/exhibits/how-the-bridge-spans-the-golden-gate/ (from part 1: roadway hangs from the cables)
+  - https://www.hmdb.org/m.asp?m=176573 (historical marker: once towers, anchorages and main cables are in place, no temporary supports are needed under the bridge; deck sections each hung from the suspenders)
+Hundreds of feet above the sea (Golden Gate: 220 ft clearance above mean higher high water)
+  - https://goldengate.org/bridge/history-research/statistics-data/design-construction-stats
+  - https://en.wikipedia.org/wiki/Golden_Gate_Bridge (infobox: clearance below 220 ft)
+Main cables were spun in part 1 (recap)
+  - see episodes/2026-11-11-suspension-bridge-p1/sources.txt
+Cable bands are clamped around the main cables every 50 feet on the Golden Gate; the vertical suspender ropes hang from the cable bands
+  - https://www.goldengate.org/bridge/history-research/statistics-data/design-construction-stats/ ("Main Cable bands are located every 50 feet along the main cables and the vertical suspender ropes are hung from the cable bands")
+  - https://www.goldengate.org/exhibits/steel-suspender-rope-exhibit/
+From each band a pair of suspender ropes; 250 pairs on the Golden Gate
+  - https://www.goldengate.org/bridge/history-research/statistics-data/design-construction-stats/ ("250 pairs of vertical suspender ropes that are spaced 50 feet apart")
+  - https://www.goldengate.org/bridge/bridge-projects/major-bridge-improvements/ (all 250 pairs replaced in the 1970s)
+Once towers, anchorages and cables are up, the road needs no support underneath (no temporary supports)
+  - https://www.hmdb.org/m.asp?m=176573
+On modern bridges deck sections arrive by barge; a gantry crane riding on the main cables lifts each section straight up (moves over the cables "like a train car on rails" when unloaded)
+  - https://enr.com/articles/30840-tacoma-narrows-decksare-lifted-into-place (Tacoma Narrows 2007: sections off a barge, eight gantries riding on the main cables)
+  - https://www.bridgeweb.com/First-deck-lift-takes-place-at-Tacoma-Narrows/979
+  - https://ingenia.org.uk/articles/bridging-the-eurasian-gap/ (gantry clamped to the main cables, rolls along them between lifts)
+  - https://dormanlongtechnology.com/en/projects/Jiangyin.htm (deck units lifted by gantries mounted on the cables, strand jacks)
+The hangers are hooked on (each section hung from the suspenders), the crane moves on to the next position
+  - https://www.hmdb.org/m.asp?m=176573 ("each section hung from the suspenders")
+  - https://enr.com/articles/30840-tacoma-narrows-decksare-lifted-into-place
+The sections grow out from the towers in a balanced way until they meet in the middle, then form one continuous road
+  - https://www.hmdb.org/m.asp?m=176573 ("built in sections, proceeding out from the towers in a balanced way"; sections met in the middle)
+On the Golden Gate a safety net under the work caught 19 workers (the "Half Way to Hell Club")
+  - https://en.wikipedia.org/wiki/Half_Way_to_Hell_Club
+  - https://www.pbs.org/wgbh/americanexperience/features/goldengate-workers
+  - https://www.history.co.uk/articles/golden-gate-bridge-construction-workers-net
+Load path: car -> hangers (suspenders) -> main cables -> over the tower tops -> anchorages
+  - https://www.goldengate.org/exhibits/how-the-bridge-spans-the-golden-gate/ (cables carry roadway + traffic to the tower tops)
+  - part 1 sources (anchorages hold the cable ends)
+
+Illustrative in the animation (not claims): bridge generic (not a model of the Golden Gate), spans shortened, cable ~2x thick, bands every
+2.75 units (not to scale), deck as a steel box girder in 32 sections, one gantry shown (Tacoma Narrows used eight), the lift shown at a
+section next to the left tower, the montage compresses the erection into 3 seconds, the safety net drawn under one part of the deck.
+The wires in the cut cable are a stripe texture, not counted wires. No people are shown.
+Next-episode tease: 3d-20 water-tower ("why water towers are built so high"), from state/queue-3d.md.
+
+Topic demand (vidIQ keyword research 8 Nov, US): "suspension bridge" ~8.3k est. monthly searches (+89 %), "bridge construction" ~30.8k (+66 %),
+"how suspension bridges are built" <750.
