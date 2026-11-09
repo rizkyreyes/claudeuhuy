@@ -460,3 +460,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Cover (own render, `build_cover.py`, 3 options): A under the deck "HANGING / ON ROPES?!" (suggested), B gantry lift "ROAD LIFTED / FROM A BOAT?!", C mid-build "HALF / A ROAD?!". vidIQ: "How Suspension Bridges Work: Why Is Nothing Under the Road? #shorts" 94 (kept) vs "How Bridges Are Built: How Does the Road Hang on Ropes? #shorts" 90.
   - Open issues for the laptop: on GPU check the cable-band cutaway 11.4-17.4 s (the cut face reads as a flat striped slab, the band shows as its C-shaped section; maybe push the camera more to the side), hangers dropping 22.1-23.3 s, the gantry + hoist lines legible in the lift shot 36.6-41.8 s, the net shot 52.6-57.5 s (net thin), CTA camera between lanes (cars pass close). Illustrative: generic bridge, one gantry, bands not to scale. `sfx/` is generated on the laptop (`node synth_sfx.js`).
   - Step 9: c15 bug/pest myths slot Wed 11 Nov 9 AM ET (14:00 UTC) is ~68 h away, outside the 60 h window; no carousel.
+
+## 2026-11-09 (laptop) suspension-bridge-p2
+- Approved cover A, scheduled for Thu 12 Nov 2026: TikTok 6af1e0d3b1b916e3998313ab, YT 6af1e0d671028e9f62bce7ae, IG 6af1e0da010fa6782145ee08. Thu 12 Nov ET
