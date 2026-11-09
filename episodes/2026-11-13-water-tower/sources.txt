@@ -1,0 +1,48 @@
+water-tower (3d-20), facts checked 9 Nov 2026 (cloud run, search excerpts; practical.engineering fetch is blocked in the cloud network).
+Every claim has two agreeing sources or an official / encyclopedic one. Wording kept general where sources differ.
+Cut / not claimed: a "typical" tank size (sources give 50,000 to 4 million gallons), "sized for one day of demand" (one secondary source only,
+a patent says about half a day), a fixed household psi range (sources give 35 / 40-80 / 45-80 / 50-100), "built on the highest ground",
+the share of the tank kept for fire flow, how long gravity alone lasts in an outage (VO says "for a while").
+
+Water towers don't pump water into homes; the height (gravity / hydrostatic pressure) pressurizes the mains
+  - https://en.wikipedia.org/wiki/Water_tower ("The height of the tower provides the pressure for the water supply system"; supplies water during power outages because it relies on hydrostatic pressure produced by elevation)
+  - https://people.howstuffworks.com/water.htm
+  - https://www.mentalfloss.com/article/64577/how-do-water-towers-work
+A tank can sit more than a hundred feet up (many elevated tanks are 100-200 ft; e.g. Keokuk, Iowa 150 ft, General Hancock tower 175 ft; vendor overflow heights up to 200 ft)
+  - https://www.worldatlas.com/bodies-of-water/the-largest-water-towers-in-the-united-states.html
+  - https://www.cstindustries.com/wp-content/uploads/2021/01/Aquastore-Composite-Elevated-Tanks-Brochure-2021_web.pdf
+  - https://www.caldwelltanks.com/tank_types/multi-column-elevated-storage-tank-leg
+If pressure drops too low, some states require a boil-water advisory (Wikipedia: below 20 psi)
+  - https://en.wikipedia.org/wiki/Water_tower
+Every foot of water height adds about 0.43 (0.433) psi; 2.31 ft per psi
+  - https://www.ayresassociates.com/under-pressure-how-municipal-water-commutes-to-work/
+  - https://ny-engineers.com/blog/how-are-water-towers-used
+  - https://people.howstuffworks.com/water.htm
+A hundred feet of water gives about 43 psi (100 x 0.433 = 43.3; one source: "A 100 ft column causes about 43.3 psi at ground level")
+  - https://www.ayresassociates.com/under-pressure-how-municipal-water-commutes-to-work/ (and arithmetic from the line above)
+The tank's width (diameter) doesn't matter, only the height of the water column ("Only the tank's height ... matters for psi / feet of range calculations - not its diameter")
+  - https://www.ayresassociates.com/under-pressure-how-municipal-water-commutes-to-work/
+  - https://en.wikipedia.org/wiki/Hydrostatics (pressure depends on depth, not on the shape of the container)
+In many towers one large pipe (riser) carries water up into the tank and lets it flow back out to the network (some designs use separate inlet/outlet, hence "in many towers")
+  - https://pttg.com/blogs/everything-you-need-to-know-about-how-water-towers-work.php
+  - https://www.redzet.lv/en/info/Water_tower (mirror of the Wikipedia text)
+Pumps fill the tank at night when demand is low; the level falls during the daytime peaks and the tank covers them
+  - https://people.howstuffworks.com/water.htm
+  - https://en.wikipedia.org/wiki/Water_tower ("The water level in the tower typically falls during the peak usage hours of the day, and then a pump fills it back up during the night")
+So pumps can be sized for average demand rather than peak demand
+  - https://people.howstuffworks.com/water.htm
+  - https://www.h2g2.com/edited_entry/A13346633
+In a power outage, gravity keeps water flowing for a while (cannot supply for long without the pumps refilling)
+  - https://en.wikipedia.org/wiki/Water_tower
+  - https://www.slashgear.com/2182926/water-towers-keep-water-pressure-high-store-for-emergencies/
+Part of the stored water is held back for firefighting
+  - https://www.aacounty.org/sites/default/files/2025-10/heritage-harbour-tower-ewst-poster.pdf (county public works: fire storage = water for firefighting beyond peak demand)
+  - https://www.slashgear.com/2182926/water-towers-keep-water-pressure-high-store-for-emergencies/
+  - https://people.howstuffworks.com/water.htm
+An overflow pipe dumps excess water if the tank gets too full
+  - https://pttg.com/blogs/everything-you-need-to-know-about-how-water-towers-work.php
+  - https://www.caldwelltanks.com/tank_types/multi-column-elevated-storage-tank-leg ("overflow" heights listed per tank)
+Next episode tease (3d-21): nuclear plants make power by boiling water (heat from fission boils water into steam that spins a turbine)
+  - https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work
+  - https://www.nrc.gov/reactors/power.html
+Illustrative in the 3D: generic multi-leg steel tank (no logos, no people), tank bottom ~27 m (~90 ft), water levels, fire-reserve band, column discs = 5 ft each.

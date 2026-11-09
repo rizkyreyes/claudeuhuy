@@ -1,0 +1,1450 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Water towers don't pump water into your house. Gravity does, from a tank that can sit more than a hundred feet up. And if that pressure drops too low, some states make your town boil its water. Let's cut one open. First, the height. Every foot of water stacked above your tap adds about point four three pounds per square inch. A hundred feet of water gives about forty-three psi. That's the push you feel in your shower. And the tank's width doesn't matter at all. Only how high the water sits. That's why the tank goes up on legs. Height is pressure. Inside, in many towers, one big pipe called the riser runs from the water main up into the tank. At night, when almost nobody uses water, pumps push water up the riser and fill the tank. In the morning, everyone showers at once. The pumps can't keep up, so the tank drains back down the same pipe and covers the rush. That means the pumps only need to handle average demand, not the peak. If the power goes out, gravity keeps the water flowing for a while. And part of the tank is held back for firefighters. Too full? An overflow pipe dumps the extra. Would you climb the ladder to the top of one? Tell me in the comments. Next up: how nuclear plants make power by boiling water. Follow so you don't miss it.",
+   "wav": "vo.wav",
+   "duration": 75.2,
+   "speechStart": 0,
+   "speechEnd": 75.28,
+   "words": [
+    {
+     "id": "w0",
+     "text": "Water",
+     "start": 0,
+     "end": 0.288
+    },
+    {
+     "id": "w1",
+     "text": "towers",
+     "start": 0.32,
+     "end": 0.72
+    },
+    {
+     "id": "w2",
+     "text": "don't",
+     "start": 0.8,
+     "end": 1.04
+    },
+    {
+     "id": "w3",
+     "text": "pump",
+     "start": 1.12,
+     "end": 1.28
+    },
+    {
+     "id": "w4",
+     "text": "water",
+     "start": 1.36,
+     "end": 1.6
+    },
+    {
+     "id": "w5",
+     "text": "into",
+     "start": 1.68,
+     "end": 1.84
+    },
+    {
+     "id": "w6",
+     "text": "your",
+     "start": 1.92,
+     "end": 2
+    },
+    {
+     "id": "w7",
+     "text": "house.",
+     "start": 2.2,
+     "end": 2.56
+    },
+    {
+     "id": "w8",
+     "text": "Gravity",
+     "start": 2.72,
+     "end": 3.12
+    },
+    {
+     "id": "w9",
+     "text": "does,",
+     "start": 3.28,
+     "end": 3.68
+    },
+    {
+     "id": "w10",
+     "text": "from",
+     "start": 3.76,
+     "end": 3.84
+    },
+    {
+     "id": "w11",
+     "text": "a",
+     "start": 3.88,
+     "end": 3.92
+    },
+    {
+     "id": "w12",
+     "text": "tank",
+     "start": 4,
+     "end": 4.24
+    },
+    {
+     "id": "w13",
+     "text": "that",
+     "start": 4.32,
+     "end": 4.4
+    },
+    {
+     "id": "w14",
+     "text": "can",
+     "start": 4.48,
+     "end": 4.56
+    },
+    {
+     "id": "w15",
+     "text": "sit",
+     "start": 4.64,
+     "end": 4.8
+    },
+    {
+     "id": "w16",
+     "text": "more",
+     "start": 4.88,
+     "end": 4.96
+    },
+    {
+     "id": "w17",
+     "text": "than",
+     "start": 5,
+     "end": 5.04
+    },
+    {
+     "id": "w18",
+     "text": "a",
+     "start": 5.12,
+     "end": 5.28
+    },
+    {
+     "id": "w19",
+     "text": "hundred",
+     "start": 5.32,
+     "end": 5.6
+    },
+    {
+     "id": "w20",
+     "text": "feet",
+     "start": 5.76,
+     "end": 5.92
+    },
+    {
+     "id": "w21",
+     "text": "up.",
+     "start": 6.08,
+     "end": 6.64
+    },
+    {
+     "id": "w22",
+     "text": "And",
+     "start": 6.68,
+     "end": 6.72
+    },
+    {
+     "id": "w23",
+     "text": "if",
+     "start": 6.8,
+     "end": 6.88
+    },
+    {
+     "id": "w24",
+     "text": "that",
+     "start": 6.96,
+     "end": 7.04
+    },
+    {
+     "id": "w25",
+     "text": "pressure",
+     "start": 7.2,
+     "end": 7.36
+    },
+    {
+     "id": "w26",
+     "text": "drops",
+     "start": 7.52,
+     "end": 7.68
+    },
+    {
+     "id": "w27",
+     "text": "too",
+     "start": 7.76,
+     "end": 7.92
+    },
+    {
+     "id": "w28",
+     "text": "low,",
+     "start": 8.04,
+     "end": 8.48
+    },
+    {
+     "id": "w29",
+     "text": "some",
+     "start": 8.56,
+     "end": 8.72
+    },
+    {
+     "id": "w30",
+     "text": "states",
+     "start": 8.88,
+     "end": 9.04
+    },
+    {
+     "id": "w31",
+     "text": "make",
+     "start": 9.12,
+     "end": 9.2
+    },
+    {
+     "id": "w32",
+     "text": "your",
+     "start": 9.28,
+     "end": 9.36
+    },
+    {
+     "id": "w33",
+     "text": "town",
+     "start": 9.56,
+     "end": 9.76
+    },
+    {
+     "id": "w34",
+     "text": "boil",
+     "start": 9.84,
+     "end": 10.08
+    },
+    {
+     "id": "w35",
+     "text": "its",
+     "start": 10.16,
+     "end": 10.32
+    },
+    {
+     "id": "w36",
+     "text": "water.",
+     "start": 10.48,
+     "end": 11.12
+    },
+    {
+     "id": "w37",
+     "text": "Let's",
+     "start": 11.16,
+     "end": 11.28
+    },
+    {
+     "id": "w38",
+     "text": "cut",
+     "start": 11.36,
+     "end": 11.44
+    },
+    {
+     "id": "w39",
+     "text": "one",
+     "start": 11.52,
+     "end": 11.6
+    },
+    {
+     "id": "w40",
+     "text": "open.",
+     "start": 11.68,
+     "end": 12.4
+    },
+    {
+     "id": "w41",
+     "text": "First,",
+     "start": 12.56,
+     "end": 12.96
+    },
+    {
+     "id": "w42",
+     "text": "the",
+     "start": 13.04,
+     "end": 13.12
+    },
+    {
+     "id": "w43",
+     "text": "height.",
+     "start": 13.28,
+     "end": 13.84
+    },
+    {
+     "id": "w44",
+     "text": "Every",
+     "start": 14,
+     "end": 14.16
+    },
+    {
+     "id": "w45",
+     "text": "foot",
+     "start": 14.32,
+     "end": 14.48
+    },
+    {
+     "id": "w46",
+     "text": "of",
+     "start": 14.56,
+     "end": 14.64
+    },
+    {
+     "id": "w47",
+     "text": "water",
+     "start": 14.72,
+     "end": 14.96
+    },
+    {
+     "id": "w48",
+     "text": "stacked",
+     "start": 15.04,
+     "end": 15.36
+    },
+    {
+     "id": "w49",
+     "text": "above",
+     "start": 15.48,
+     "end": 15.6
+    },
+    {
+     "id": "w50",
+     "text": "your",
+     "start": 15.68,
+     "end": 15.76
+    },
+    {
+     "id": "w51",
+     "text": "tap",
+     "start": 15.92,
+     "end": 16.08
+    },
+    {
+     "id": "w52",
+     "text": "adds",
+     "start": 16.16,
+     "end": 16.32
+    },
+    {
+     "id": "w53",
+     "text": "about",
+     "start": 16.4,
+     "end": 16.64
+    },
+    {
+     "id": "w54",
+     "text": "point",
+     "start": 16.72,
+     "end": 16.88
+    },
+    {
+     "id": "w55",
+     "text": "four",
+     "start": 17.12,
+     "end": 17.2
+    },
+    {
+     "id": "w56",
+     "text": "three",
+     "start": 17.36,
+     "end": 17.52
+    },
+    {
+     "id": "w57",
+     "text": "pounds",
+     "start": 17.68,
+     "end": 18
+    },
+    {
+     "id": "w58",
+     "text": "per",
+     "start": 18.04,
+     "end": 18.08
+    },
+    {
+     "id": "w59",
+     "text": "square",
+     "start": 18.24,
+     "end": 18.48
+    },
+    {
+     "id": "w60",
+     "text": "inch.",
+     "start": 18.56,
+     "end": 19.28
+    },
+    {
+     "id": "w61",
+     "text": "A",
+     "start": 19.36,
+     "end": 19.44
+    },
+    {
+     "id": "w62",
+     "text": "hundred",
+     "start": 19.52,
+     "end": 19.76
+    },
+    {
+     "id": "w63",
+     "text": "feet",
+     "start": 19.84,
+     "end": 20
+    },
+    {
+     "id": "w64",
+     "text": "of",
+     "start": 20.04,
+     "end": 20.08
+    },
+    {
+     "id": "w65",
+     "text": "water",
+     "start": 20.16,
+     "end": 20.4
+    },
+    {
+     "id": "w66",
+     "text": "gives",
+     "start": 20.48,
+     "end": 20.64
+    },
+    {
+     "id": "w67",
+     "text": "about",
+     "start": 20.84,
+     "end": 21.04
+    },
+    {
+     "id": "w68",
+     "text": "forty-three",
+     "start": 21.16,
+     "end": 21.6
+    },
+    {
+     "id": "w69",
+     "text": "psi.",
+     "start": 21.76,
+     "end": 23.12
+    },
+    {
+     "id": "w70",
+     "text": "That's",
+     "start": 23.2,
+     "end": 23.36
+    },
+    {
+     "id": "w71",
+     "text": "the",
+     "start": 23.44,
+     "end": 23.52
+    },
+    {
+     "id": "w72",
+     "text": "push",
+     "start": 23.64,
+     "end": 23.76
+    },
+    {
+     "id": "w73",
+     "text": "you",
+     "start": 23.84,
+     "end": 23.92
+    },
+    {
+     "id": "w74",
+     "text": "feel",
+     "start": 24,
+     "end": 24.08
+    },
+    {
+     "id": "w75",
+     "text": "in",
+     "start": 24.12,
+     "end": 24.16
+    },
+    {
+     "id": "w76",
+     "text": "your",
+     "start": 24.24,
+     "end": 24.32
+    },
+    {
+     "id": "w77",
+     "text": "shower.",
+     "start": 24.36,
+     "end": 25.12
+    },
+    {
+     "id": "w78",
+     "text": "And",
+     "start": 25.16,
+     "end": 25.2
+    },
+    {
+     "id": "w79",
+     "text": "the",
+     "start": 25.24,
+     "end": 25.28
+    },
+    {
+     "id": "w80",
+     "text": "tank's",
+     "start": 25.36,
+     "end": 25.68
+    },
+    {
+     "id": "w81",
+     "text": "width",
+     "start": 25.84,
+     "end": 26
+    },
+    {
+     "id": "w82",
+     "text": "doesn't",
+     "start": 26.16,
+     "end": 26.4
+    },
+    {
+     "id": "w83",
+     "text": "matter",
+     "start": 26.48,
+     "end": 26.64
+    },
+    {
+     "id": "w84",
+     "text": "at",
+     "start": 26.72,
+     "end": 26.8
+    },
+    {
+     "id": "w85",
+     "text": "all.",
+     "start": 26.92,
+     "end": 27.28
+    },
+    {
+     "id": "w86",
+     "text": "Only",
+     "start": 27.44,
+     "end": 27.6
+    },
+    {
+     "id": "w87",
+     "text": "how",
+     "start": 27.68,
+     "end": 27.84
+    },
+    {
+     "id": "w88",
+     "text": "high",
+     "start": 28,
+     "end": 28.24
+    },
+    {
+     "id": "w89",
+     "text": "the",
+     "start": 28.32,
+     "end": 28.4
+    },
+    {
+     "id": "w90",
+     "text": "water",
+     "start": 28.56,
+     "end": 28.72
+    },
+    {
+     "id": "w91",
+     "text": "sits.",
+     "start": 28.76,
+     "end": 29.52
+    },
+    {
+     "id": "w92",
+     "text": "That's",
+     "start": 29.56,
+     "end": 29.68
+    },
+    {
+     "id": "w93",
+     "text": "why",
+     "start": 29.72,
+     "end": 29.76
+    },
+    {
+     "id": "w94",
+     "text": "the",
+     "start": 29.84,
+     "end": 29.92
+    },
+    {
+     "id": "w95",
+     "text": "tank",
+     "start": 30.04,
+     "end": 30.16
+    },
+    {
+     "id": "w96",
+     "text": "goes",
+     "start": 30.2,
+     "end": 30.32
+    },
+    {
+     "id": "w97",
+     "text": "up",
+     "start": 30.4,
+     "end": 30.48
+    },
+    {
+     "id": "w98",
+     "text": "on",
+     "start": 30.56,
+     "end": 30.64
+    },
+    {
+     "id": "w99",
+     "text": "legs.",
+     "start": 30.84,
+     "end": 31.24
+    },
+    {
+     "id": "w100",
+     "text": "Height",
+     "start": 31.44,
+     "end": 31.76
+    },
+    {
+     "id": "w101",
+     "text": "is",
+     "start": 32,
+     "end": 32.08
+    },
+    {
+     "id": "w102",
+     "text": "pressure.",
+     "start": 32.16,
+     "end": 32.92
+    },
+    {
+     "id": "w103",
+     "text": "Inside,",
+     "start": 33.2,
+     "end": 33.84
+    },
+    {
+     "id": "w104",
+     "text": "in",
+     "start": 33.92,
+     "end": 34
+    },
+    {
+     "id": "w105",
+     "text": "many",
+     "start": 34.08,
+     "end": 34.16
+    },
+    {
+     "id": "w106",
+     "text": "towers,",
+     "start": 34.24,
+     "end": 34.88
+    },
+    {
+     "id": "w107",
+     "text": "one",
+     "start": 34.96,
+     "end": 35.12
+    },
+    {
+     "id": "w108",
+     "text": "big",
+     "start": 35.28,
+     "end": 35.44
+    },
+    {
+     "id": "w109",
+     "text": "pipe",
+     "start": 35.52,
+     "end": 35.84
+    },
+    {
+     "id": "w110",
+     "text": "called",
+     "start": 35.92,
+     "end": 36.08
+    },
+    {
+     "id": "w111",
+     "text": "the",
+     "start": 36.16,
+     "end": 36.24
+    },
+    {
+     "id": "w112",
+     "text": "riser",
+     "start": 36.32,
+     "end": 36.8
+    },
+    {
+     "id": "w113",
+     "text": "runs",
+     "start": 36.88,
+     "end": 37.12
+    },
+    {
+     "id": "w114",
+     "text": "from",
+     "start": 37.2,
+     "end": 37.28
+    },
+    {
+     "id": "w115",
+     "text": "the",
+     "start": 37.32,
+     "end": 37.36
+    },
+    {
+     "id": "w116",
+     "text": "water",
+     "start": 37.44,
+     "end": 37.6
+    },
+    {
+     "id": "w117",
+     "text": "main",
+     "start": 37.68,
+     "end": 38
+    },
+    {
+     "id": "w118",
+     "text": "up",
+     "start": 38.08,
+     "end": 38.16
+    },
+    {
+     "id": "w119",
+     "text": "into",
+     "start": 38.24,
+     "end": 38.4
+    },
+    {
+     "id": "w120",
+     "text": "the",
+     "start": 38.44,
+     "end": 38.48
+    },
+    {
+     "id": "w121",
+     "text": "tank.",
+     "start": 38.56,
+     "end": 39.28
+    },
+    {
+     "id": "w122",
+     "text": "At",
+     "start": 39.36,
+     "end": 39.44
+    },
+    {
+     "id": "w123",
+     "text": "night,",
+     "start": 39.52,
+     "end": 39.84
+    },
+    {
+     "id": "w124",
+     "text": "when",
+     "start": 39.96,
+     "end": 40.08
+    },
+    {
+     "id": "w125",
+     "text": "almost",
+     "start": 40.16,
+     "end": 40.4
+    },
+    {
+     "id": "w126",
+     "text": "nobody",
+     "start": 40.56,
+     "end": 40.88
+    },
+    {
+     "id": "w127",
+     "text": "uses",
+     "start": 40.96,
+     "end": 41.2
+    },
+    {
+     "id": "w128",
+     "text": "water,",
+     "start": 41.28,
+     "end": 41.92
+    },
+    {
+     "id": "w129",
+     "text": "pumps",
+     "start": 42,
+     "end": 42.32
+    },
+    {
+     "id": "w130",
+     "text": "push",
+     "start": 42.4,
+     "end": 42.64
+    },
+    {
+     "id": "w131",
+     "text": "water",
+     "start": 42.72,
+     "end": 43.04
+    },
+    {
+     "id": "w132",
+     "text": "up",
+     "start": 43.12,
+     "end": 43.28
+    },
+    {
+     "id": "w133",
+     "text": "the",
+     "start": 43.32,
+     "end": 43.36
+    },
+    {
+     "id": "w134",
+     "text": "riser",
+     "start": 43.44,
+     "end": 43.84
+    },
+    {
+     "id": "w135",
+     "text": "and",
+     "start": 43.88,
+     "end": 43.92
+    },
+    {
+     "id": "w136",
+     "text": "fill",
+     "start": 44.08,
+     "end": 44.24
+    },
+    {
+     "id": "w137",
+     "text": "the",
+     "start": 44.28,
+     "end": 44.32
+    },
+    {
+     "id": "w138",
+     "text": "tank.",
+     "start": 44.4,
+     "end": 44.92
+    },
+    {
+     "id": "w139",
+     "text": "In",
+     "start": 45.12,
+     "end": 45.2
+    },
+    {
+     "id": "w140",
+     "text": "the",
+     "start": 45.24,
+     "end": 45.28
+    },
+    {
+     "id": "w141",
+     "text": "morning,",
+     "start": 45.36,
+     "end": 45.92
+    },
+    {
+     "id": "w142",
+     "text": "everyone",
+     "start": 46.16,
+     "end": 46.4
+    },
+    {
+     "id": "w143",
+     "text": "showers",
+     "start": 46.48,
+     "end": 46.88
+    },
+    {
+     "id": "w144",
+     "text": "at",
+     "start": 46.96,
+     "end": 47.04
+    },
+    {
+     "id": "w145",
+     "text": "once.",
+     "start": 47.2,
+     "end": 47.6
+    },
+    {
+     "id": "w146",
+     "text": "The",
+     "start": 47.92,
+     "end": 48
+    },
+    {
+     "id": "w147",
+     "text": "pumps",
+     "start": 48.04,
+     "end": 48.24
+    },
+    {
+     "id": "w148",
+     "text": "can't",
+     "start": 48.32,
+     "end": 48.48
+    },
+    {
+     "id": "w149",
+     "text": "keep",
+     "start": 48.56,
+     "end": 48.64
+    },
+    {
+     "id": "w150",
+     "text": "up,",
+     "start": 48.8,
+     "end": 49.12
+    },
+    {
+     "id": "w151",
+     "text": "so",
+     "start": 49.2,
+     "end": 49.28
+    },
+    {
+     "id": "w152",
+     "text": "the",
+     "start": 49.32,
+     "end": 49.36
+    },
+    {
+     "id": "w153",
+     "text": "tank",
+     "start": 49.44,
+     "end": 49.68
+    },
+    {
+     "id": "w154",
+     "text": "drains",
+     "start": 49.76,
+     "end": 50.16
+    },
+    {
+     "id": "w155",
+     "text": "back",
+     "start": 50.24,
+     "end": 50.4
+    },
+    {
+     "id": "w156",
+     "text": "down",
+     "start": 50.48,
+     "end": 50.64
+    },
+    {
+     "id": "w157",
+     "text": "the",
+     "start": 50.72,
+     "end": 50.8
+    },
+    {
+     "id": "w158",
+     "text": "same",
+     "start": 50.88,
+     "end": 51.04
+    },
+    {
+     "id": "w159",
+     "text": "pipe",
+     "start": 51.12,
+     "end": 51.44
+    },
+    {
+     "id": "w160",
+     "text": "and",
+     "start": 51.52,
+     "end": 51.6
+    },
+    {
+     "id": "w161",
+     "text": "covers",
+     "start": 51.68,
+     "end": 52
+    },
+    {
+     "id": "w162",
+     "text": "the",
+     "start": 52.04,
+     "end": 52.08
+    },
+    {
+     "id": "w163",
+     "text": "rush.",
+     "start": 52.16,
+     "end": 52.68
+    },
+    {
+     "id": "w164",
+     "text": "That",
+     "start": 52.88,
+     "end": 53.04
+    },
+    {
+     "id": "w165",
+     "text": "means",
+     "start": 53.16,
+     "end": 53.28
+    },
+    {
+     "id": "w166",
+     "text": "the",
+     "start": 53.32,
+     "end": 53.36
+    },
+    {
+     "id": "w167",
+     "text": "pumps",
+     "start": 53.44,
+     "end": 53.76
+    },
+    {
+     "id": "w168",
+     "text": "only",
+     "start": 53.88,
+     "end": 54
+    },
+    {
+     "id": "w169",
+     "text": "need",
+     "start": 54.08,
+     "end": 54.16
+    },
+    {
+     "id": "w170",
+     "text": "to",
+     "start": 54.24,
+     "end": 54.32
+    },
+    {
+     "id": "w171",
+     "text": "handle",
+     "start": 54.4,
+     "end": 54.64
+    },
+    {
+     "id": "w172",
+     "text": "average",
+     "start": 54.8,
+     "end": 55.12
+    },
+    {
+     "id": "w173",
+     "text": "demand,",
+     "start": 55.2,
+     "end": 55.76
+    },
+    {
+     "id": "w174",
+     "text": "not",
+     "start": 55.84,
+     "end": 56
+    },
+    {
+     "id": "w175",
+     "text": "the",
+     "start": 56.04,
+     "end": 56.08
+    },
+    {
+     "id": "w176",
+     "text": "peak.",
+     "start": 56.16,
+     "end": 56.68
+    },
+    {
+     "id": "w177",
+     "text": "If",
+     "start": 56.88,
+     "end": 56.96
+    },
+    {
+     "id": "w178",
+     "text": "the",
+     "start": 57.04,
+     "end": 57.08
+    },
+    {
+     "id": "w179",
+     "text": "power",
+     "start": 57.12,
+     "end": 57.36
+    },
+    {
+     "id": "w180",
+     "text": "goes",
+     "start": 57.44,
+     "end": 57.6
+    },
+    {
+     "id": "w181",
+     "text": "out,",
+     "start": 57.68,
+     "end": 58
+    },
+    {
+     "id": "w182",
+     "text": "gravity",
+     "start": 58.24,
+     "end": 58.48
+    },
+    {
+     "id": "w183",
+     "text": "keeps",
+     "start": 58.52,
+     "end": 58.72
+    },
+    {
+     "id": "w184",
+     "text": "the",
+     "start": 58.76,
+     "end": 58.8
+    },
+    {
+     "id": "w185",
+     "text": "water",
+     "start": 58.88,
+     "end": 59.04
+    },
+    {
+     "id": "w186",
+     "text": "flowing",
+     "start": 59.2,
+     "end": 59.44
+    },
+    {
+     "id": "w187",
+     "text": "for",
+     "start": 59.52,
+     "end": 59.6
+    },
+    {
+     "id": "w188",
+     "text": "a",
+     "start": 59.68,
+     "end": 59.72
+    },
+    {
+     "id": "w189",
+     "text": "while.",
+     "start": 59.76,
+     "end": 60.48
+    },
+    {
+     "id": "w190",
+     "text": "And",
+     "start": 60.64,
+     "end": 60.8
+    },
+    {
+     "id": "w191",
+     "text": "part",
+     "start": 60.96,
+     "end": 61.12
+    },
+    {
+     "id": "w192",
+     "text": "of",
+     "start": 61.16,
+     "end": 61.2
+    },
+    {
+     "id": "w193",
+     "text": "the",
+     "start": 61.24,
+     "end": 61.28
+    },
+    {
+     "id": "w194",
+     "text": "tank",
+     "start": 61.36,
+     "end": 61.52
+    },
+    {
+     "id": "w195",
+     "text": "is",
+     "start": 61.6,
+     "end": 61.68
+    },
+    {
+     "id": "w196",
+     "text": "held",
+     "start": 61.76,
+     "end": 61.92
+    },
+    {
+     "id": "w197",
+     "text": "back",
+     "start": 62,
+     "end": 62.16
+    },
+    {
+     "id": "w198",
+     "text": "for",
+     "start": 62.24,
+     "end": 62.32
+    },
+    {
+     "id": "w199",
+     "text": "firefighters.",
+     "start": 62.4,
+     "end": 63.36
+    },
+    {
+     "id": "w200",
+     "text": "Too",
+     "start": 63.44,
+     "end": 63.52
+    },
+    {
+     "id": "w201",
+     "text": "full?",
+     "start": 63.6,
+     "end": 64.16
+    },
+    {
+     "id": "w202",
+     "text": "An",
+     "start": 64.24,
+     "end": 64.32
+    },
+    {
+     "id": "w203",
+     "text": "overflow",
+     "start": 64.4,
+     "end": 64.8
+    },
+    {
+     "id": "w204",
+     "text": "pipe",
+     "start": 64.88,
+     "end": 65.12
+    },
+    {
+     "id": "w205",
+     "text": "dumps",
+     "start": 65.2,
+     "end": 65.44
+    },
+    {
+     "id": "w206",
+     "text": "the",
+     "start": 65.48,
+     "end": 65.52
+    },
+    {
+     "id": "w207",
+     "text": "extra.",
+     "start": 65.6,
+     "end": 66.4
+    },
+    {
+     "id": "w208",
+     "text": "Would",
+     "start": 66.48,
+     "end": 66.56
+    },
+    {
+     "id": "w209",
+     "text": "you",
+     "start": 66.64,
+     "end": 66.72
+    },
+    {
+     "id": "w210",
+     "text": "climb",
+     "start": 66.76,
+     "end": 66.96
+    },
+    {
+     "id": "w211",
+     "text": "the",
+     "start": 67,
+     "end": 67.04
+    },
+    {
+     "id": "w212",
+     "text": "ladder",
+     "start": 67.12,
+     "end": 67.36
+    },
+    {
+     "id": "w213",
+     "text": "to",
+     "start": 67.44,
+     "end": 67.48
+    },
+    {
+     "id": "w214",
+     "text": "the",
+     "start": 67.52,
+     "end": 67.6
+    },
+    {
+     "id": "w215",
+     "text": "top",
+     "start": 67.72,
+     "end": 67.84
+    },
+    {
+     "id": "w216",
+     "text": "of",
+     "start": 67.88,
+     "end": 67.92
+    },
+    {
+     "id": "w217",
+     "text": "one?",
+     "start": 68,
+     "end": 68.56
+    },
+    {
+     "id": "w218",
+     "text": "Tell",
+     "start": 68.6,
+     "end": 68.64
+    },
+    {
+     "id": "w219",
+     "text": "me",
+     "start": 68.72,
+     "end": 68.8
+    },
+    {
+     "id": "w220",
+     "text": "in",
+     "start": 68.84,
+     "end": 68.88
+    },
+    {
+     "id": "w221",
+     "text": "the",
+     "start": 68.92,
+     "end": 68.96
+    },
+    {
+     "id": "w222",
+     "text": "comments.",
+     "start": 69.2,
+     "end": 69.84
+    },
+    {
+     "id": "w223",
+     "text": "Next",
+     "start": 69.92,
+     "end": 70.16
+    },
+    {
+     "id": "w224",
+     "text": "up:",
+     "start": 70.24,
+     "end": 70.64
+    },
+    {
+     "id": "w225",
+     "text": "how",
+     "start": 70.72,
+     "end": 70.8
+    },
+    {
+     "id": "w226",
+     "text": "nuclear",
+     "start": 70.96,
+     "end": 71.28
+    },
+    {
+     "id": "w227",
+     "text": "plants",
+     "start": 71.36,
+     "end": 71.68
+    },
+    {
+     "id": "w228",
+     "text": "make",
+     "start": 71.76,
+     "end": 71.92
+    },
+    {
+     "id": "w229",
+     "text": "power",
+     "start": 72.12,
+     "end": 72.32
+    },
+    {
+     "id": "w230",
+     "text": "by",
+     "start": 72.44,
+     "end": 72.56
+    },
+    {
+     "id": "w231",
+     "text": "boiling",
+     "start": 72.64,
+     "end": 73.04
+    },
+    {
+     "id": "w232",
+     "text": "water.",
+     "start": 73.2,
+     "end": 73.76
+    },
+    {
+     "id": "w233",
+     "text": "Follow",
+     "start": 73.84,
+     "end": 74.16
+    },
+    {
+     "id": "w234",
+     "text": "so",
+     "start": 74.24,
+     "end": 74.32
+    },
+    {
+     "id": "w235",
+     "text": "you",
+     "start": 74.36,
+     "end": 74.4
+    },
+    {
+     "id": "w236",
+     "text": "don't",
+     "start": 74.48,
+     "end": 74.64
+    },
+    {
+     "id": "w237",
+     "text": "miss",
+     "start": 74.72,
+     "end": 74.88
+    },
+    {
+     "id": "w238",
+     "text": "it.",
+     "start": 74.96,
+     "end": 75.28
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "slug": "water-tower",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Water towers don't pump water into your house. Gravity does, from a tank that can sit more than a hundred feet up. And if that pressure drops too low, some states make your town boil its water. Let's cut one open. First, the height. Every foot of water stacked above your tap adds about point four three pounds per square inch. A hundred feet of water gives about forty-three psi. That's the push you feel in your shower. And the tank's width doesn't matter at all. Only how high the water sits. That's why the tank goes up on legs. Height is pressure. Inside, in many towers, one big pipe called the riser runs from the water main up into the tank. At night, when almost nobody uses water, pumps push water up the riser and fill the tank. In the morning, everyone showers at once. The pumps can't keep up, so the tank drains back down the same pipe and covers the rush. That means the pumps only need to handle average demand, not the peak. If the power goes out, gravity keeps the water flowing for a while. And part of the tank is held back for firefighters. Too full? An overflow pipe dumps the extra. Would you climb the ladder to the top of one? Tell me in the comments. Next up: how nuclear plants make power by boiling water. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
