@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 bug and pest myths that waste your money", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/ultrasonic.jpg", "myth": "Plug-in ultrasonic repellers drive out mice and bugs.",
+      "fact": "The FTC has warned sellers to back that up with real science. Its past cases said mice just get used to the sound, and the devices don't control insects.",
+      "source": "FTC, via Iowa State University Extension" },
+    { "type": "myth", "bg": "bg/zapper.jpg", "myth": "A bug zapper keeps mosquitoes away.",
+      "fact": "In a University of Delaware study, only 31 of 13,789 insects zapped were biting flies like mosquitoes. Most of the rest were harmless bugs.",
+      "source": "University of Delaware study" },
+    { "type": "myth", "bg": "bg/bait.jpg", "myth": "Cheese is the best bait for a mouse trap.",
+      "fact": "Extension experts put peanut butter first. Use just a small smear. Cheese and fruit are backups.",
+      "source": "Univ. of Missouri and Utah State Univ. Extension" },
+    { "type": "myth", "bg": "bg/longlegs.jpg", "myth": "Daddy longlegs are super venomous, their fangs are just too short.",
+      "fact": "Harvestmen, the round-bodied ones, aren't even spiders and have no venom glands. Cellar spiders share the nickname, and there's no proof they're the most venomous.",
+      "source": "UC Riverside Entomology" },
+    { "type": "myth", "bg": "bg/mothballs.jpg", "myth": "Mothballs in the yard keep snakes away.",
+      "fact": "Mothballs are pesticides. Using them outdoors goes against the label, which is illegal, and they aren't a proven snake repellent.",
+      "source": "Florida Dept. of Agriculture, UF/IFAS Extension" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["FTC / Iowa State Extension: ultrasonic devices", "University of Delaware: bug zapper study", "Univ. of Missouri, Utah State Extension: mouse bait", "UC Riverside Entomology: daddy longlegs", "FDACS, UF/IFAS: mothballs outdoors"] }
+  ]
+}
