@@ -29,5 +29,8 @@ Slots per platform come from the table in `docs/3d-playbook.md` for the target d
 | 3d-21 | Sat 14 Nov 2026 | nuclear-power-plant | How a nuclear power plant makes electricity (it boils water) | todo | | topic bank 5 Nov |
 | 3d-22 | Sun 15 Nov 2026 | city-sewers | Where your flush goes: how city sewers work (gravity mains, lift stations) | todo | | topic bank 5 Nov |
 | 3d-23 | Mon 16 Nov 2026 | airport-runway | Why airport runways are so thick (layers, grooves) | todo | | topic bank 5 Nov |
+| 3d-24 | Tue 17 Nov 2026 | water-well | How a hole in your yard becomes a water well (bucket -> submersible pump, casing, grout, pressure tank) | todo | | See drafts/build-up-scripts-2026-11-09.md: "This is a ..." build-up format (small object, problem -> add part, repeat, pull-out). Keep the beat order; verify facts, adapt to playbook; draft #1 |
+| 3d-25 | Wed 18 Nov 2026 | pipe-under-river | How a pipe gets under a river with no digging (horizontal directional drilling) | todo | | See drafts/build-up-scripts-2026-11-09.md: "This is a ..." build-up format (small object, problem -> add part, repeat, pull-out). Keep the beat order; verify facts, adapt to playbook; draft #2 |
+| 3d-26 | Thu 19 Nov 2026 | lightning-rod | How a lightning rod protects your house (rod, down conductor, ground rod) | todo | | See drafts/build-up-scripts-2026-11-09.md: "This is a ..." build-up format (small object, problem -> add part, repeat, pull-out). Keep the beat order; verify facts, adapt to playbook; draft #3 |
 
 Note: the b-roll upload kits already in `media/` (premium gas Sun 25, child-resistant cap Mon 26, rearview mirror Tue 27) were made before the switch; Rizky decides whether to post them by hand.
