@@ -15,9 +15,9 @@ Rizky pastes the bio and pins by hand. The morning run refreshes the pin list ea
   3D cutaway animations of how things really work and how they're built: bridges, tunnels, elevators, locks, fridges and more. A new CUTAWAY episode every day.
   ```
 
-## Pin these (refreshed 2 Nov 2026, views from Buffer)
+## Pin these (refreshed 9 Nov 2026, views from Buffer)
 | Platform | Pin 1 | Pin 2 | Pin 3 |
 |---|---|---|---|
-| TikTok | Septic tank (55.8k) | Door lock / keys (21.0k) | Bridge pillars (537) |
-| Instagram | Septic tank (2.1k) | Swimming pool (1.9k) | Elevator brakes (1.4k) |
-| YouTube (Shorts can't be pinned; put them in a "CUTAWAY" playlist, top of the channel page) | Bridge pillars (6.2k) | Tunnel under the sea (3.3k) | Septic tank (2.2k) |
+| TikTok | Septic tank (66.2k) | Door lock / keys (21.0k) | Water heater anode rod (5.9k) |
+| Instagram | Septic tank (2.1k) | Swimming pool (1.9k) | Water heater anode rod (1.9k) |
+| YouTube (Shorts can't be pinned; put them in a "CUTAWAY" playlist, top of the channel page) | Bridge pillars (6.2k) | Tunnel under the sea (3.4k) | Water heater anode rod (3.2k) |
