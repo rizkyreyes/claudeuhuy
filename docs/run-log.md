@@ -474,3 +474,7 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Open issues for the laptop: on GPU check the tank water reads against the inner steel (cut face), the disc stacking 19.9-21.5 s (fast drops), the shower spray lines, the tower rise 30.5-31.6 s (overflow pipe hidden during it), night exposure 39.7-45.4 s, the fire-reserve red band 61.3-63.7 s, cover B tank against the night sky. Illustrative: generic tank, levels, reserve band, 5-ft discs. `sfx/` is generated on the laptop (`node synth_sfx.js`).
   - Step 9: carousel **c15 bug/pest myths** made (slot Wed 11 Nov 9 AM ET, ~43 h away): 5 sourced myths (ultrasonic repellers, bug zappers, cheese bait, daddy longlegs, mothballs for snakes), 7 tt slides in `media/carousels/c15-bug-pest-myths/tt`, sheet of all 7 checked, row set to `ready`. Morning laptop run schedules it in Buffer (automatic).
 
+
+## 2026-11-09 (cloud, second concurrent run, session_01Sm6BUkdC4C5P65TgfgjTtD) duplicate
+- Two cloud runs of this routine started at about the same time (~15:20 UTC). The other one (session_01Sm6BUih7tT9ZC8QzeBZ5fc) pushed 3d-20 water-tower and c15 at 15:42-15:44 UTC; this run made its own water-tower (73.60 s take) and c15 and found them already on main at push time. Kept the pushed versions, discarded this run's duplicate (nothing overwritten).
+- Wasted by the double run: about 275 ElevenLabs characters (28,736 left at 15:48 UTC) and 15 vidIQ credits (415 left). Check the schedule: only one nightly trigger should exist.
