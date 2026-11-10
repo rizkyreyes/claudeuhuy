@@ -485,3 +485,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - Filmstrip OK (NEXT: NUCLEAR PLANTS, closing question). Covers A/B/C built in Thumb.tsrct from hero_A/B/C. Status -> rendered, waiting for Rizky's "setuju A/B/C".
 - Carousel c15 bug/pest myths scheduled on TikTok (Buffer 6af312ff2d960d0974aff319, Wed 11 Nov 9 AM ET, 7 images, automatic).
 - YouTube comments: nothing new since 8 Nov, all answered.
+
+## 2026-11-10 (laptop) water-tower
+- Final render resumed at frame 872 after the laptop slept; 76.4 s, -15.4 LUFS. Approved cover A, scheduled Fri 13 Nov 2026: TikTok 6af31ea0b7c40e4eb412bb4e, YT 6af31ea3ab69ec4b27ed9e57, IG 6af31ea7b7c40e4eb412bc95.
