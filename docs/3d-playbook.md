@@ -68,4 +68,5 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 Offset −04:00 until 31 Oct 2026, −05:00 from 1 Nov 2026. Buffer free plan: max 10 scheduled posts per channel. Nothing is published without Rizky's "setuju" on the final video + caption.
 
 ## Laptop scripts (pipeline3d/bin)
+Covers (Rizky, 10 Nov 2026): the title is composited with **Remotion**, not Tesseract thumb.js: `bash "D:/01 Konten/Bahan Bikin Konten/tesseract/remotion/cover.sh" <ep>` reads the A/B/C titles from `cover.md` (`**A: "LINE1 / LINE2"**`) and `cover/hero_<X>.png`, writes `cover/cover_<X>.png` + `previews/covers.png`. Same look (Poppins ExtraBold, white + red, black stroke, dark band, 3:4 safe crop). thumb.js stays only as a fallback.
 `render.sh <ep> stills|final|cover <frame>`, `assemble.sh <ep>`, `publish-prep.sh <ep> A|B` (upload file + push + Buffer payloads), `buffer-plan.mjs`, `mark-scheduled.mjs`. Episode files must keep these names: build_scene.py, timeline.js (reads RENDER_ID/RENDER_MS), synth_sfx.js, publish.md (bold `...#shorts` title, `## Caption` section), cover/cover_A.png + cover_B.png.
