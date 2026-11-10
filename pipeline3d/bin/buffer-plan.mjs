@@ -18,8 +18,8 @@ const edt = (date >= "2026-03-08" && date < "2026-11-01") || (date >= "2027-03-1
 const off = edt ? "-04:00" : "-05:00";
 
 // playbook "Publishing" table, 24 h ET
-const SLOTS = { Mon: { tiktok: 13, instagram: 19, youtube: 20 }, Tue: { tiktok: 6, instagram: 19, youtube: 20 },
-  Wed: { tiktok: 22, instagram: 12, youtube: 19 }, Thu: { tiktok: 13, instagram: 9, youtube: 19 },
+const SLOTS = { Mon: { tiktok: 18, instagram: 12, youtube: 20 }, Tue: { tiktok: 18, instagram: 19, youtube: 20 },
+  Wed: { tiktok: 22, instagram: 12, youtube: 19 }, Thu: { tiktok: 17, instagram: 9, youtube: 19 },
   Fri: { tiktok: 18, instagram: 22, youtube: 16 }, Sat: { tiktok: 17, instagram: 21, youtube: 19 }, Sun: { tiktok: 9, instagram: 21, youtube: 19 } }[dow];
 
 const pub = fs.readFileSync(path.join(epDir, "publish.md"), "utf8");

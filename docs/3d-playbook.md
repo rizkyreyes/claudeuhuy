@@ -57,10 +57,10 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 ## Publishing (Buffer) — per-platform US peak slot for that weekday (ET)
 | Day | TikTok | Instagram Reels | YouTube Shorts |
 |---|---|---|---|
-| Mon | 1 PM | 7 PM | 8 PM |
-| Tue | 6 AM | 7 PM | 8 PM |
+| Mon | 6 PM | 12 PM | 8 PM |
+| Tue | 6 PM | 7 PM | 8 PM |
 | Wed | 10 PM | 12 PM | 7 PM |
-| Thu | 1 PM | 9 AM | 7 PM |
+| Thu | 5 PM | 9 AM | 7 PM |
 | Fri | 6 PM | 10 PM | 4 PM |
 | Sat | 5 PM | 9 PM | 7 PM |
 | Sun | 9 AM | 9 PM | 7 PM |
