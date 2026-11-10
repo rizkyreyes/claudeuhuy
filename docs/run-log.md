@@ -478,3 +478,10 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 ## 2026-11-09 (cloud, second concurrent run, session_01Sm6BUkdC4C5P65TgfgjTtD) duplicate
 - Two cloud runs of this routine started at about the same time (~15:20 UTC). The other one (session_01Sm6BUih7tT9ZC8QzeBZ5fc) pushed 3d-20 water-tower and c15 at 15:42-15:44 UTC; this run made its own water-tower (73.60 s take) and c15 and found them already on main at push time. Kept the pushed versions, discarded this run's duplicate (nothing overwritten).
 - Wasted by the double run: about 275 ElevenLabs characters (28,736 left at 15:48 UTC) and 15 vidIQ credits (415 left). Check the schedule: only one nightly trigger should exist.
+
+## 2026-11-10 (laptop, scheduled morning run) water-tower
+- RunPod: no pods. Final render was resumed (frames 872-2293) by the "3D content with blender" session at 19:47 WIB together with hero + assemble; this run did not start a second render. 2293 frames, ~1.8 s/frame. render.mp4 re-encoded once and decode-checked (2293 frames, no errors).
+- Watertower.mp4 76.43 s. First export was -15.4 LUFS / -0.5 dBTP: VO gain 0.87 -> 0.80, pad bed 0.30 -> 0.40 in timeline.js (got -16.1 / -1.1), then a light audio-only limiter (+0.5 dB, alimiter 0.84, video stream copied): **-15.6 LUFS, -1.5 dBTP**. Note: a re-run of assemble.sh overwrites this limiter pass, re-apply it.
+- Filmstrip OK (NEXT: NUCLEAR PLANTS, closing question). Covers A/B/C built in Thumb.tsrct from hero_A/B/C. Status -> rendered, waiting for Rizky's "setuju A/B/C".
+- Carousel c15 bug/pest myths scheduled on TikTok (Buffer 6af312ff2d960d0974aff319, Wed 11 Nov 9 AM ET, 7 images, automatic).
+- YouTube comments: nothing new since 8 Nov, all answered.
