@@ -1,0 +1,50 @@
+nuclear-power-plant (3d-21), facts checked 10 Nov 2026 (cloud run, search excerpts; energy.gov and nrc.gov fetches are blocked in the cloud network).
+Every claim has an official source (DOE, NRC, EIA) or two agreeing sources. Wording kept general where sources differ.
+Cut / not claimed: oil or gas equivalents per pellet (DOE says 120 gallons of oil, NEI 149, EIA ~150), an exact pellet size in mm, the exact
+number of rods per assembly (264 in a 17x17 design, but DOE only says "more than 200"), how fast a scram stops the reaction, the exact
+reactor count (EIA 62 of 93 PWRs in 2023, DOE "more than 65%"), how long cooling water must flow after shutdown, plant-specific numbers.
+
+A nuclear power plant boils water: the heat from fission boils water into steam that spins a turbine ("giant kettle" is our analogy)
+  - https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work ("Nuclear power reactors use heat produced during atomic fission to boil water and produce pressurized steam")
+  - https://www.eia.gov/energyexplained/nuclear/nuclear-power-plants.php
+If the cooling water stops flowing the core can melt; Three Mile Island Unit 2 partially melted down on 28 March 1979 after the core lost coolant
+  - https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html (NRC backgrounder: TMI-2 partial meltdown, equipment malfunctions, design problems and worker errors)
+  - https://physicstoday.aip.org/news/partial-meltdown-at-three-mile-island ("caused the core to lose water coolant")
+Fuel = uranium processed into small ceramic pellets, stacked into sealed metal tubes called fuel rods; more than 200 rods bundled into a fuel assembly
+  - https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work
+A pellet is about the size of a gummy bear (DOE poster: "A one-inch uranium pellet, about the size of a gummy bear"); WNA: not much larger than a sugar cube
+  - https://www.energy.gov/documents/nuclear-science-week-poster
+  - https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work
+One pellet holds about as much energy as a ton of coal (NEI: one pellet = one ton of coal; DOE poster: same energy as one ton of coal; whatisnuclear.com calc ~1.3 t, so "about")
+  - https://www.nei.org/fundamentals/nuclear-fuel
+  - https://www.energy.gov/documents/nuclear-science-week-poster
+  - https://whatisnuclear.com/calcs/energy-equivalents-of-one-fuel-pellet.html
+In the core uranium atoms split (fission), releasing heat
+  - https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work
+Control rods are inserted or withdrawn to control the chain reaction; they absorb neutrons, so inserting them slows or stops it
+  - https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work ("Control rods are inserted or withdrawn to control the rate of the nuclear chain reaction")
+  - https://en.wikipedia.org/wiki/Scram ("control rods absorb neutrons so as to slow or stop the chain reaction")
+About two-thirds of US reactors are pressurized water reactors (DOE: more than 65%; EIA: 62 of 93 operating reactors in July 2023)
+  - https://www.eia.gov/energyexplained/nuclear/nuclear-power-plants-types-of-reactors.php
+  - https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work
+In a PWR the water around the core reaches about 600 °F (~315 °C) but does not boil, because the primary loop is kept at about 2,250 psi (~155 bar) by the pressurizer
+  - https://en.wikipedia.org/wiki/Pressurized_water_reactor ("usually around 155 bar (15.5 MPa 153 atm, 2,250 psi)"; coolant ~315 °C)
+  - https://www.nrc.gov/docs/ML1427/ML14274A090.pdf (NRC Reactor Concepts Manual, PWR systems)
+The hot primary water flows through tubes (U-tubes) in the steam generator and boils a separate secondary loop of water into steam; the tubes are the barrier between the two loops
+  - https://www.nrc.gov/reactors/power/pwrs.html
+  - https://www.nrc.gov/docs/ML1427/ML14274A090.pdf
+  - https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work ("the steam ... goes through a secondary, intermediate heat exchanger to convert another loop of water to steam, which drives the turbine")
+The steam drives the turbine, the turbine shaft drives the generator -> electricity
+  - https://www.nrc.gov/reactors/power/pwrs.html ("high and low pressure turbines are mounted on a common shaft that drives the main generator")
+Then the steam is condensed back into water in the condenser and pumped back to the steam generator
+  - https://www.nrc.gov/docs/ML1427/ML14274A090.pdf ("The resulting water is pumped out of the condenser ... and pumped back to the steam generator")
+  - https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work ("Once through the turbine, the steam cools back into water, which can then be used over again")
+The cloud from the big cooling towers is water vapor; the cooling water is a separate (third) loop that never touches the reactor water
+  - https://cdp.dhs.gov/shared/se/courses/default/AWR-923-W%2005122021%201.2-20210512144644/groups/243.html (DHS: "visible as water vapor ... cooling towers are part of a nonradioactive system")
+  - https://cwnuclear.com/sites/default/files/Download-Library/Nuclear-Myth-Nuclear-Cooling-Towers-Emit-Smoke.pdf
+  - https://www.nrc.gov/docs/ML1427/ML14274A090.pdf (three loops in most PWRs: primary, secondary, condenser cooling / cooling tower)
+Next episode tease (3d-22 water-well): "how a hole in your yard becomes a water well" (verified in that episode's own run)
+Illustrative in the 3D: generic plant (no logos, no people, not modeled on TMI or any real plant); cooling towers are not at every plant;
+containment, vessel, core, control-rod blades (real PWR rods sit inside the assemblies), pressurizer, steam generator, turbine and condenser
+are simplified; pellet set at 10x scale with the coal heap sized to ~1.15 m3 (about a ton); assembly 17x17 with 25 guide-tube positions,
+rods cut short; the nucleus split is a cartoon.

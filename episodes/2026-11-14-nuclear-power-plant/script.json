@@ -1,0 +1,13 @@
+{
+ "slug": "nuclear-power-plant",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "A nuclear power plant is a giant kettle. All that uranium just boils water. If that water ever stops flowing, the core can melt, like it partly did at Three Mile Island in 1979. Let's cut one open. It starts with a pellet of uranium about the size of a gummy bear. One pellet holds about as much energy as a ton of coal. They're stacked in sealed metal tubes called fuel rods, and over two hundred make one assembly. In the core, uranium atoms split, releasing heat. Control rods slide in and out. They soak up neutrons, so pushing them in slows the reaction, or stops it. Now the water. In about two-thirds of US reactors, the water around the core hits around six hundred degrees Fahrenheit, but it never boils. It's squeezed to about twenty-two hundred fifty psi. That hot water runs through tubes in a steam generator and boils a second, separate loop of clean water. The steam blasts through a turbine, the turbine spins a generator, and that's your electricity. Then it's cooled back into water and pumped around again. And those giant towers? Just water vapor, from a third loop that never touches reactor water. Would you live next to one? Tell me in the comments. Next up: how a hole in your yard becomes a water well. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
