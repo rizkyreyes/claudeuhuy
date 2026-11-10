@@ -1,0 +1,56 @@
+water-well (3d-22), facts checked 10 Nov 2026 (cloud run, from search excerpts; extension.psu.edu is blocked in the cloud network, so its text comes
+from search snippets). Every claim below has an agency / extension / engineering source or two agreeing trade sources. Wording kept general where
+sources differ.
+Cut / not claimed: a required grout depth (states differ: many require only the top 10-20 ft), how deep the pump must sit, pressure-switch settings
+(40/60 psi etc.), how often a pump may start, how deep submersibles can go (sources say "up to 400 ft", too vague), well cost, the 43 million people
+figure (we use households), "real pumps manage about 25 feet" (cut from the script for length; sources say practical lift is ~20-25 ft).
+
+If you dig deep enough you hit groundwater (water table; below it the sand/gravel is saturated = aquifer)
+  - https://www.usgs.gov/publications/depth-groundwater-used-drinking-water-supplies-united-states
+  - https://books.gw-project.org/domestic-wells-introduction-and-overview/?p=43 (drilled wells reach the saturated zone)
+Suction can't lift water more than ~33 ft (theoretical 33-34 ft at sea level: atmospheric pressure holds up a ~10.3 m / 34 ft water column)
+  - https://en.wikipedia.org/wiki/Draft_(water) (suction lift limited by atmospheric pressure, ~10.3 m of water at sea level)
+  - https://www.scienceabc.com/pure-sciences/how-high-can-a-pump-suck-water-10-meter-limit
+  - https://www.pumpsandsystems.com/10-factors-affect-suction-lift (practical limit lower, ~20-25 ft; lower at altitude / with warm water)
+A suction pump doesn't pull: it lowers the pressure in the pipe and atmospheric pressure on the water pushes it up
+  - https://www.scienceabc.com/pure-sciences/how-high-can-a-pump-suck-water-10-meter-limit
+  - https://www.pumpsandsystems.com/choosing-right-pump-deep-suction-lift
+Built wrong, surface water runs down the outside of the casing into the well (Penn State Extension, quoted from a search excerpt: "surface contamination of individual wells is
+usually caused by surface water flowing down the outside of a well casing through the annular space and/or from a loose-fitting or absent well cap";
+same fact sheet: coliform bacteria found in many wells)
+  - https://extension.psu.edu/sanitary-water-well-construction
+  - https://www.thedriller.com/articles/90942-drilling-fluids-proper-grouting-protects-groundwater
+Typical home well ~140 ft deep: USGS SIR 2021-5069 median depth of domestic-supply wells = 142 ft (43.3 m); depths vary by aquifer
+  - https://www.usgs.gov/publications/depth-groundwater-used-drinking-water-supplies-united-states
+Deeper wells use an electric submersible pump placed under the water at the bottom; it pushes water up instead of sucking it
+  - https://www.hometips.com/articles/submersible-water-pumps.html ("the pump no longer lifts the water but, rather, pushes it upward")
+  - https://www.freshwatersystems.com/blogs/blog/what-is-a-well-pump-and-how-does-it-work
+  - https://www.pumpsandsystems.com/choosing-right-pump-deep-suction-lift (submersible avoids the suction-lift limit)
+Casing lines the hole so loose material doesn't collapse into it; in sediment the well is cased its whole depth with a screen where water enters
+  - https://books.gw-project.org/domestic-wells-introduction-and-overview/?p=43 (drilled well in unconsolidated sediments cased for its entire depth,
+    screen or slotted casing where groundwater enters; in bedrock casing keeps loose material from collapsing)
+  - https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1504-2015.pdf
+A screen with thin slots lets water in and keeps sand out (slot size smaller than the aquifer grains / gravel pack)
+  - https://books.gw-project.org/domestic-wells-introduction-and-overview/?p=43
+  - https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1504-2015.pdf
+The gap between casing and borehole is sealed with grout (cement or bentonite) so surface water can't run down it
+  - https://extension.psu.edu/sanitary-water-well-construction
+  - https://dnrweblink.state.co.us/CWCB/0/doc/133142/Page46.aspx ("grout prevents movement of ground water and surface water within the annular space")
+  - https://www.thedriller.com/articles/90942-drilling-fluids-proper-grouting-protects-groundwater
+Without a pressure tank the pump would start every time a tap opens (short cycling), which wears the motor out
+  - https://freshwatersystems.com/blogs/blog/how-to-size-a-well-pressure-tank
+  - https://midatlanticwater.net/blogs/guides/well-water-pressure-tank-complete-guide
+A pressure tank stores water under a cushion of compressed air (air charge / bladder); the pump fills it and the pressure switch shuts the pump off,
+then the air pushes the water out to the taps
+  - https://inspectapedia.com/water/Water_Tank_Air_Charge.php
+  - https://midatlanticwater.net/blogs/guides/well-water-pressure-tank-complete-guide
+  - https://skillingsandsons.squarespace.com/blog/how-a-water-well-pressure-tank-works
+More than 23 million US households get their drinking water from private wells (EPA)
+  - https://www.epa.gov/privatewells (EPA private wells pages: more than 23 million households; DWMAPS private domestic well estimates, 2021; paraphrased from search excerpts)
+  - https://catalog.data.gov/dataset/private-domestic-well-estimates-2010
+Next episode tease (3d-23 pipe-under-river): "how a pipe gets under a river with no digging" (horizontal directional drilling; verified in that episode's own run)
+
+Illustrative in the 3D: generic yard and house (no people, no brand); bore r 0.9 m, casing, pump and tank drawn wider than real so they read on a
+phone; water table at 52 ft, well bottom 141 ft (USGS median), suction limit line 10 m (33 ft) above the water; soil layers, grout depth (top 12 m),
+screen length and tank size are illustrative; real pumps usually hang above the screen (ours too) and the pump is installed after the casing
+(order changed for the build-up story); the pipe to the house is drawn straight (real wells use a pitless adapter below the frost line).

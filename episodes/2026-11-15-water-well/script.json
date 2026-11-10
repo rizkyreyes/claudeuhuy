@@ -1,0 +1,13 @@
+{
+ "slug": "water-well",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "If you dig deep enough in your yard, you hit water. Getting it up is the hard part: suction can't lift it more than thirty-three feet. And build the well wrong, and rainwater runs down the pipe into what you drink. Let's build one. This is a bucket on a rope. Fine, if the water's shallow. But a typical home well is about a hundred and forty feet deep. So try a suction pump. It doesn't pull. It lowers the pressure and the air pressing on the water pushes it up. But air can only hold up about thirty-three feet of water. So drop an electric pump to the bottom, under the water, and push instead. Now the walls cave in. So you line the hole with a pipe: the casing. At the bottom, a screen with thin slots lets water in and keeps sand out. But rain can run down the outside, carrying bacteria. So the gap gets sealed with grout. Last problem: the pump would start with every tap, and wear itself out. So a pressure tank stores water under a cushion of air. The pump fills it, shuts off, and the air pushes water to your faucets. More than twenty-three million American households get their water this way. Would you drink water that came straight out of the ground? Tell me in the comments. Next up: how a pipe gets under a river with no digging. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
