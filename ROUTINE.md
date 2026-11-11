@@ -29,6 +29,14 @@ curl -s -o /dev/null -w "%{http_code}\n" https://api.elevenlabs.io/v1/voices/TX3
 - Skip a topic covered in the last 30 days.
 - In each new 7-topic batch, make about one big build a two-parter (`<slug>-p1` / `<slug>-p2` on consecutive days, playbook "Follower growth" 6). Topics requested in comments (marked in the topic bank) count as demand evidence and go first when they also pass the YouTube check.
 
+## Step 1b — Viral format scan (EVERY episode, before any script; Rizky 11 Nov 2026, YouTube-growth list item 3)
+Before writing, find what is going viral RIGHT NOW in our niche and adapt its format (never its words, title, thumbnail or footage):
+1. Run `vidiq_outliers` (YouTube Shorts, last 30 days) and `vidiq_instagram_tiktok_outlier_search` (TikTok + Reels) on: the episode topic, plus "how it works", "engineering", "3d animation", "construction", "cutaway". Keep videos at 5x+ their channel's median.
+2. For the top 3-5 outliers write down in `episodes/<ep>/format-scan.md`: link, views and outlier score, the hook (first sentence, pattern only), structure (build-up, myth-bust, countdown, before/after, "what if", POV...), pacing (cuts per 10 s, length), on-screen text style, ending/loop trick, cover/title pattern.
+3. Pick ONE format element that fits this topic and apply it in Steps 3-6 (say which and why in format-scan.md). It must still pass the playbook rules and `state/weekly-review.md` focus.
+4. Check our own top videos (`state/weekly-review.md`) so the adapted format does not drop what already works for us.
+5. If vidIQ is unavailable or under 100 credits, use web search for viral examples and note "no vidIQ" in format-scan.md. Never skip this step.
+
 ## Step 2 — Facts
 Verify every claim on reputable sources (official, Wikipedia + its citations, engineering bodies, manufacturers). If sources disagree, drop the specific number/name. Write `episodes/<YYYY-MM-DD>-<slug>/sources.txt` (claim → URL).
 

@@ -71,6 +71,8 @@ Offset −04:00 until 31 Oct 2026, −05:00 from 1 Nov 2026. Buffer free plan: m
 Covers (Rizky, 10 Nov 2026): the title is composited with **Remotion**, not Tesseract thumb.js: `bash "D:/01 Konten/Bahan Bikin Konten/tesseract/remotion/cover.sh" <ep>` reads the A/B/C titles from `cover.md` (`**A: "LINE1 / LINE2"**`) and `cover/hero_<X>.png`, writes `cover/cover_<X>.png` + `previews/covers.png`. Same look (Poppins ExtraBold, white + red, black stroke, dark band, 3:4 safe crop). thumb.js stays only as a fallback.
 `render.sh <ep> stills|final|cover <frame>`, `assemble.sh <ep>`, `publish-prep.sh <ep> A|B` (upload file + push + Buffer payloads), `buffer-plan.mjs`, `mark-scheduled.mjs`. Episode files must keep these names: build_scene.py, timeline.js (reads RENDER_ID/RENDER_MS), synth_sfx.js, publish.md (bold `...#shorts` title, `## Caption` section), cover/cover_A.png + cover_B.png.
 
+## Viral format scan before every episode: ROUTINE.md Step 1b (item 3), output episodes/<ep>/format-scan.md
+
 ## Weekly review — every Monday, laptop run (Rizky 11 Nov 2026; YouTube-growth list items 5, 7, 8)
 Data: vidIQ `vidiq_channel_analytics` on the Hidden In Your Home YouTube channel (must be authorized in vidIQ; today only "Everyday Ways" is connected) + Buffer metrics for TikTok/IG.
 1. Per video of the last 7 days: views, engagedViews, averageViewPercentage, subscribersGained; CTR from Studio when available. Log in `state/weekly-review.md`.
