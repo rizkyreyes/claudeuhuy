@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 winter driving myths that could land you in a ditch", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/awd.jpg", "myth": "All-wheel drive helps you stop on ice and snow.",
+      "fact": "AWD and 4WD help you get moving. They don't help you brake or turn. That's all tire grip, which is why winter tires matter more.",
+      "source": "Consumer Reports, Bridgestone" },
+    { "type": "myth", "bg": "bg/deflate.jpg", "myth": "Let some air out of your tires for better grip in snow.",
+      "fact": "Tire makers say never do this. It doesn't add traction on snow or ice, and driving on underinflated tires can damage them.",
+      "source": "Bridgestone, Michelin" },
+    { "type": "myth", "bg": "bg/windshield.jpg", "myth": "Hot water is a quick, safe way to clear an icy windshield.",
+      "fact": "The sudden heat makes the glass expand fast, and that can crack it. Use your defroster and let the glass warm up gradually.",
+      "source": "AAA" },
+    { "type": "myth", "bg": "bg/abs.jpg", "myth": "Pump the brakes on ice, even if your car has ABS.",
+      "fact": "With antilock brakes, press firmly and keep steady pressure. The ABS pulses the brakes for you, and pumping can defeat it.",
+      "source": "NHTSA winter driving tips" },
+    { "type": "myth", "bg": "bg/pressure.jpg", "myth": "Your tires don't lose pressure just because it got cold.",
+      "fact": "Tire pressure drops about 1 psi for every 10°F the temperature falls. Check it when the cold hits, using the number on your door jamb sticker.",
+      "source": "AAA" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did you believe?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Consumer Reports, Bridgestone: AWD and stopping", "Bridgestone, Michelin: tire pressure in snow", "AAA: hot water on windshields", "NHTSA: winter driving tips (ABS)", "AAA: tire pressure and temperature"] }
+  ]
+}
