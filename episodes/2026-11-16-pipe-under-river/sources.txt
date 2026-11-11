@@ -1,0 +1,44 @@
+pipe-under-river (3d-23), facts checked 11 Nov 2026 (cloud run, from search excerpts of the pages below; claims kept general where sources vary).
+Cut / not claimed: entry/exit angles, bore depth, reamer oversize ratio (sources say 1.2-1.5x or +12 in), pullback speed (1-2 ft/min, one source),
+longest crossings, cost, the pilot hole diameter (script says only "barely wider than the rod"), "steer like a car" (draft wording, dropped).
+
+The method = horizontal directional drilling (HDD): a steerable, trenchless way to put pipes and cables under rivers, roads and railroads in a shallow arc
+  - https://en.wikipedia.org/wiki/Directional_boring
+  - https://www.globalspec.com/reference/64850/203279/chapter-1-introduction-to-horizontal-directional-drilling
+  - https://www.ukstt.org.uk/pf/hdd/ (gas, water, cable duct, sewer mains)
+Open-cut trench crossings dig up the streambed and send sediment downstream; HDD avoids excavating the streambed (least-impact method)
+  - https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/35/storm/1.8-Stream-Utility-Crossing-PR_Draft.pdf (Ohio EPA draft guidance)
+  - https://www.tn.gov/content/dam/tn/environment/water/stormwater/epsc-handbook/dwr-npdes-sop-g-16-erosion-prevention-sediment-control-handbook-06202025-ch3.3.2.7-utility-stream-crossing.pdf
+  - https://neb-one.gc.ca/en/safety-environment/environment/watercourse-crossings/ (wet open cut: sediment dislodged and carried downstream)
+Used for gas mains (incl. a 24-in gas transmission line under an interstate) and water lines
+  - https://ascelibrary.com/doi/10.1061/40744%28154%29146
+  - https://www.globalspec.com/reference/64861/203279/appendix-c-guidelines-for-a-successful-directional-crossing-bid-package
+A rig on the surface pushes a drill string (steel drill pipe/rod) into the ground at an entry angle; the pilot hole comes out at the exit point
+  - https://www.thedriller.com/articles/89482 ; ASTM F1962 guide (pilot hole, exit point)
+  - https://plasticpipe.org/PE-Handbook-CH12
+Steering: slant-face bit. Rotate the string = it drills straight; stop rotating and push = the slanted face deflects the head (it turns)
+  - https://www.thedriller.com/articles/85293-hdd-good-practices-guidelines-part-3 ("when a steering correction is required ... rotation is stopped ...
+    the rig pushes the entire drill string"; "when the drill string rotates, the bit drills straight ahead")
+  - https://trenchlesstechnology.com/drill-master-back-to-the-basics-pitch-roll/
+A transmitter (sonde) behind the bit sends its position/depth to a locator/receiver at the surface, which feeds steering info to the driller
+  - https://www.thedriller.com/articles/90313-what-puts-the-direction-in-directional-drilling
+  - https://nastt.org/glossary/directional-drilling/
+  - https://www.geoengineers.com/wp-content/uploads/2018/02/4H-HDD-Tooling-and-Equipment-Notes.pdf
+After the pilot hole, a reamer is rotated and pulled back through to enlarge the bore to fit the pipe, in one or more passes
+  - https://www.thedriller.com/articles/86381-hdd-good-practice-guidelines-part-1
+  - https://trenchlesspedia.com/a-step-by-step-guide-to-hdd/2/3604
+Drilling mud (drilling fluid, mostly water + bentonite clay) is pumped in; it stabilizes/holds the hole open and carries the cuttings out
+  - https://www.thedriller.com/articles/89482 (bentonite clay injected to stabilize the hole and remove soil cuttings)
+  - https://www.rd.usda.gov/sites/default/files/AppendixG_HDD-Inadvertant-ReleaseControlandMitigationPlan.pdf (fluid = water + bentonite, a natural clay)
+Too much downhole pressure can push drilling mud up to the surface or into a water body ("inadvertent return" / frac-out); crews stop and contain it
+  - https://www.rd.usda.gov/sites/default/files/AppendixG_HDD-Inadvertant-ReleaseControlandMitigationPlan.pdf
+  - https://trenchlesstechnology.com/how-to-prevent-and-mitigate-drilling-fluid-loss/
+  - https://www.thedriller.com/articles/84356-hdd-and-inadvertent-retirns
+The pipe is welded (steel) or fused (PE) into one continuous string laid out beyond the exit point, then pulled back through the hole in one piece
+  - https://plasticpipe.org/PE-Handbook-CH12 (pre-stringing is normally the only option for welded steel / fused PE; one continuous pullback preferred)
+  - https://www.thedriller.com/articles/89482 ("the entire pipeline length is pulled in one segment")
+Next episode tease (3d-24 lightning-rod): "what a lightning rod really does" (verified in that episode's own run)
+
+Illustrative in the 3D: generic river, banks and rig (no brand, no people); crossing 110 m long, 12 m deep, entry/exit ~24 deg (steeper than usual
+8-20 deg so it fits the frame); rod, bit, reamer and pipe drawn thicker than real; the hook preview, two reamer passes, the other pipes in the CTA
+and the mud plume are illustrative; holes are painted on the cut face; the transmitter signal is drawn as rings.

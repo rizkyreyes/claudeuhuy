@@ -1,0 +1,13 @@
+{
+ "slug": "pipe-under-river",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "If you need a pipe across a river, you don't dig through it. You drill under it, and steer the drill the whole way. Dig a trench instead, and you tear up the riverbed and send mud downstream. Let's build one. This is a garden hose. Now we need a gas main under this river. So a rig on the bank pushes a steel rod into the ground at an angle. Straight, it would just keep going down. So the tip has a slanted face. Spin it, and it drills straight. Stop spinning and push, and the slant bends the path. A transmitter behind the tip tells the crew up top where it is. The rod dives down, runs under the riverbed, and climbs out on the far bank. But the hole is barely wider than the rod. So a spinning reamer gets pulled back through to widen it, sometimes more than once. Now the walls want to cave in. So they pump in drilling mud, mostly water and clay. It holds the walls up and carries the cuttings out. Push too hard, and it bubbles up into the river. On the far bank, the pipe is welded into one long string, then pulled back through the hole in a single piece. The boats above never notice. How many pipes do you think are under the river closest to you? Tell me in the comments. Next up: what a lightning rod really does. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
