@@ -1,0 +1,13 @@
+{
+ "slug": "pile-driver",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "If you hit a stake with a hammer, it sinks. The giant ones that drive skyscraper piles work the same way, except their hammer lifts itself. Land a blow crooked, and the pile head gets crushed. This is a hammer. A tent stake takes a few hits. A tower stands on steel piles that can run over a hundred feet. The first pile drivers just dropped a heavy weight. Lift, drop, lift again. Slow. So we put the weight, called the ram, inside a steel cylinder. Falling, it squeezes the air below it, and squeezed air gets hot. Spray in a little diesel. It ignites from that heat alone. No spark, like a diesel engine. The ram slams the pile, and the blast does two jobs. It drives the pile down, and it throws the ram back up. It falls again, and again, around forty to fifty times a minute, all on its own. A steel frame, the leads, keeps every blow straight, and a cushioned helmet protects the pile head. The crew counts the blows per foot to know when it's deep enough to hold. Then the next one, until the tower has something to stand on. Would you stand next to one when it fires? Tell me in the comments. Next up: how a hole in your yard becomes a water well. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

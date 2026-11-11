@@ -1,0 +1,54 @@
+pile-driver (3d-25), facts checked 11 Nov 2026 (cloud run, from search excerpts; fetches of wikipedia.org, fhwa.dot.gov and sigmaplantfinder.com are
+blocked in the cloud session, so claims are kept general where sources vary).
+Cut / not claimed: who invented the diesel hammer and when (Vulcan history says Delmag, 1920s; not verified elsewhere), exact ram weights,
+energy per blow, stroke heights in feet, refusal blow counts (agencies differ: 30-120+ blows per foot), "hundreds of piles under one tower",
+how a damaged pile makes a building settle (no source quantifies it), the start sequence (trip lifts the ram once) and stopping by cutting fuel
+(sourced, dropped for length).
+
+Hammer + stake / pile driving = repeated blows drive a pile into the ground; the weight is lifted and released onto the pile
+  - https://en.wikipedia.org/wiki/Pile_driver ("at its apex the weight is released, impacting the pile and driving it into the ground")
+Tall buildings stand on deep foundation piles; steel H-piles on building jobs commonly 88-120 ft, average 110 ft on one job, spliced deeper
+("can run over a hundred feet" in the script)
+  - https://pilebuck.com/soma-hotel-getting-job-done-nucor-skyline-h-piles/ (H-piles driven to 215-230 ft)
+  - https://pilebuck.com/steel-h-piles-used-4-ultimate-project (14 in x 102 ft H-piles, depths 88-120 ft)
+  - https://www.stevensec.com/sheet-h-pile (average pile length 110 ft)
+  - https://www.structuremag.org/article/high-capacity-foundations-for-110-n-wacker-drive/ (high-rise on deep foundations)
+A crooked blow / misalignment damages the pile; a pile head can deform or get crushed (wrong helmet, misalignment, too little cushion)
+  - https://www.eiffeltrading.com/blog/post/eiffel-101-pile-driver-troubleshooting-guide ("severe or constant misalignment ... can cause damaged piles";
+    "the head of a pile might deform because of an incorrect helmet size ... or unevenness of the pile head")
+  - https://pilebuck.com/?p=16297 (overstress from misalignment / insufficient cushion)
+The first pile drivers were drop hammers: a weight raised (by people, animals, later a winch/crane) and released; slow
+  - https://pilebuck.com/pile-driving-by-pile-buck/chapter-3-installation-equipment-2/ ("in the beginning there was the drop hammer";
+    early ones pulled up by people or animals; drop hammers are slow compared to other hammers)
+Diesel hammer: the weight = the ram (a free piston) in a steel cylinder; falling, it compresses the air below; compression heats the air;
+diesel fuel injected/sprayed into that space ignites from the heat of compression (no spark)
+  - https://enginemechanics.tpub.com/14081/css/Figure-12-61-Operating-Principles-Of-The-Mckiernan-Terry-Diesel-Pile-Hammer-341.htm
+    (fuel atomized into the zone between ram and anvil, "ignited by the heat of compression")
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6988564 (diesel hammer patent: ram as a floating piston that drives the pile and
+    compresses the air; fuel injected below the ram as it drops)
+  - https://en.wikipedia.org/wiki/Pile_driver ("essentially a large two-stroke diesel engine")
+  - https://www.cat.com/en_US/by-industry/industrial-power/engines/power-profiles/bsp-tex-piling-hammers.html (two-stroke single-cylinder diesel engine, ram = weight)
+"Like a diesel engine": diesel engines have no spark plugs; air heated by compression ignites the injected fuel
+  - https://www.cummins.com/en-in/news/how-do-diesel-engines-work
+  - https://www.uti.edu/blog/diesel/how-diesel-engines-work
+The ram hits the anvil/impact block on the pile; the combustion drives the pile down and forces the ram back up; the cycle repeats on its own
+  - https://enginemechanics.tpub.com/14081/css/Figure-12-61-Operating-Principles-Of-The-Mckiernan-Terry-Diesel-Pile-Hammer-341.htm
+  - https://vulcanhammer.info/wp-content/uploads/2017/08/fhwa-rd-86-160.pdf (open-end diesel: combustion pressure forces the ram upward; single acting)
+  - US patent 6988564 (ram and anvil forced in opposite directions; new combustion cycle begins)
+About 40-50 blows a minute (script: "around forty to fifty times a minute"); rated ranges of open-end diesel hammers sit around 35-53
+  - https://www.archiexpo.com/prod/american-piledriving-equipment-inc/product-159330-1972234.html (APE D36-42: 34-53 blows per minute, via search excerpt)
+  - https://www.yodify.com/Products/qxaALZ/D62-22-Diesel-Hammer (35-50 bpm); https://yodify.com/Products/bpYQlZ/D30-32-Diesel-Hammer (37-52 bpm)
+Leads = the guide frame (usually hung from a crane) that keeps hammer and pile aligned so every blow is concentric/straight
+  - https://pilebuck.com/pile-driving-by-pile-buck/chapter-3-installation-equipment-2/
+  - https://www.fhwa.dot.gov/publications/research/infrastructure/geotechnical/05159/chapter3.cfm
+Helmet = steel cap on the pile head that protects it from the blows; a cushion inside it limits the stress (and corrects slight misalignment)
+  - https://pilebuck.com/pile-driving-by-pile-buck/chapter-3-installation-equipment-2/
+  - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/3991833 (pile hammer cushion: prevents damage, corrects slight misalignment)
+The crew (inspector) counts blows per foot; the pile is driven to a required blow count that shows it can carry its load
+  - https://spinternet.dot.state.oh.us/Divisions/ConstructionMgt/OnlineDocs/2009MOP/500%20Structures/507/507%20Bearing%20Piles.htm
+  - https://www.txdot.gov/manuals/brg/geo_lrfd/chapter-5-/driven-piling/difficult-driving-and-drivability.html
+  - https://vulcanhammer.info/2019/09/21/vulcans-blow-count-specifications/
+
+Illustrative choices in the animation (not claims): hammer ~1.5x real size; pile 32 m (~105 ft) driven in ~14 blows (time-lapse, real piles take
+hundreds of blows); ignition shown before the slam for the story (in a real open-end hammer it happens as the ram strikes the anvil); the
+"hard layer" is a generic dense gravel; generic rig and tower, no brands, no people.
