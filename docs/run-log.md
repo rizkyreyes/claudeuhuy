@@ -510,3 +510,5 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Step 9: c16 winter driving myths slot Fri 13 Nov 9 AM ET (14:00 UTC) is ~68 h away, outside the 60 h window; no carousel.
 
 - 2026-11-11: 3d-21 nuclear-power-plant rendered (76.9 s, -15.8 LUFS), cover C (Remotion). Buffer Sat 14 Nov ET: TikTok 5 PM 6af3ac3a7b2f1abd6598a5d2, YouTube 7 PM 6af3ac3d7b2f1abd6598a661, IG 9 PM 6af3ac410b1f930b454d2ec3.
+
+- 2026-11-11 (laptop): 3d-22 water-well rendered on GPU (76.0 s, -15.8 LUFS, peak -1.4), covers A/B/C via Remotion; waiting for setuju. No new YT comments; c11 set posted + media removed; no carousel ready.
