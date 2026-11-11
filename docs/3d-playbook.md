@@ -70,3 +70,14 @@ Offset −04:00 until 31 Oct 2026, −05:00 from 1 Nov 2026. Buffer free plan: m
 ## Laptop scripts (pipeline3d/bin)
 Covers (Rizky, 10 Nov 2026): the title is composited with **Remotion**, not Tesseract thumb.js: `bash "D:/01 Konten/Bahan Bikin Konten/tesseract/remotion/cover.sh" <ep>` reads the A/B/C titles from `cover.md` (`**A: "LINE1 / LINE2"**`) and `cover/hero_<X>.png`, writes `cover/cover_<X>.png` + `previews/covers.png`. Same look (Poppins ExtraBold, white + red, black stroke, dark band, 3:4 safe crop). thumb.js stays only as a fallback.
 `render.sh <ep> stills|final|cover <frame>`, `assemble.sh <ep>`, `publish-prep.sh <ep> A|B` (upload file + push + Buffer payloads), `buffer-plan.mjs`, `mark-scheduled.mjs`. Episode files must keep these names: build_scene.py, timeline.js (reads RENDER_ID/RENDER_MS), synth_sfx.js, publish.md (bold `...#shorts` title, `## Caption` section), cover/cover_A.png + cover_B.png.
+
+## Weekly review — every Monday, laptop run (Rizky 11 Nov 2026; YouTube-growth list items 5, 7, 8)
+Data: vidIQ `vidiq_channel_analytics` on the Hidden In Your Home YouTube channel (must be authorized in vidIQ; today only "Everyday Ways" is connected) + Buffer metrics for TikTok/IG.
+1. Per video of the last 7 days: views, engagedViews, averageViewPercentage, subscribersGained; CTR from Studio when available. Log in `state/weekly-review.md`.
+2. Retention curve (report `audience_retention`) for the best and the worst video: note the second where the biggest drop happens and what was on screen/said there.
+3. Pick ONE "10% better" focus for the next 7 videos (hook, pacing, cover, CTA, topic) from that drop, write it at the top of `state/weekly-review.md`; the cloud prep reads it before writing scripts.
+4. Cut rule for scripts: a beat that sits on a known drop pattern gets cut or shortened.
+5. Under-average after 48 h (engagedViews < 70% of the 14-day median): swap to cover B/C or the backup title once.
+
+## Long-form (item 10) — Shorts feed long-form
+One 8-12 min 16:9 video every 2 weeks, stitched from winning Shorts topics of one theme (water, power, under the city, construction), re-voiced as one story, new transitions, chapters. Each Short in that theme gets the long video as its Related video. Plan: `drafts/longform-plan.md`.
