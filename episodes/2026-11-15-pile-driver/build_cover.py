@@ -33,11 +33,13 @@ steady_bsdf("Ram", 0.0); steady_bsdf("Leads", 0.0); steady_bsdf("Helmet", 0.0); 
 fn = bpy.data.materials["Fire"].node_tree
 if fn.animation_data: fn.animation_data_clear()
 for n in fn.nodes:
-    if n.type == "EMISSION": n.inputs["Strength"].default_value = 2.2; n.inputs["Color"].default_value = (1.0, 0.36, 0.05, 1)
+    if n.type == "EMISSION": n.inputs["Strength"].default_value = 1.4; n.inputs["Color"].default_value = (1.0, 0.28, 0.02, 1)
     if n.type == "MIX_SHADER": n.inputs[0].default_value = 1.0
-bl = bpy.data.lights["BlastLight"]; bl.animation_data_clear(); bl.energy = 900.0
+bl = bpy.data.lights["BlastLight"]; bl.animation_data_clear(); bl.energy = 260.0; bl.color = (1.0, 0.42, 0.08)
+try: scene.view_settings.look = "AgX - Punchy"
+except Exception: pass
 if OPT == "A":
-    cam.location = (4.5, -9.5, z - 3.0); TGT.location = (0.0, 0.0, z + 5.0); cam_d.lens = 17
+    cam.location = (3.4, -7.2, z - 2.4); TGT.location = (0.0, 0.0, z + 4.6); cam_d.lens = 15
 elif OPT == "B":
     cam.location = (1.8, -7.8, z + 4.4); TGT.location = (0.0, 0.0, z + 4.2); cam_d.lens = 24
 else:
