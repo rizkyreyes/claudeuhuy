@@ -1,0 +1,52 @@
+# lightning-rod (3d-24) sources, checked 12 Nov 2026 (cloud). lightning.org and weather.gov fetches are blocked in the cloud sandbox (DNS),
+# so claims were checked against search-result excerpts of these pages. Claims I could not pin to a solid source were cut (see bottom).
+
+"A lightning rod doesn't pull it in. It just picks the road." (rods don't attract lightning; they intercept a strike and give it a safe path to ground)
+  - Lightning Protection Institute FAQ: "No. This is a common misconception... Lightning protection systems and strike termination devices (rods) simply intercept a lightning strike and provide a safe and effective path that takes lightning's harmful electricity to ground." https://lightning.org/faq/
+  - storm chaser / LPI-style explainer: a system doesn't prevent a strike, it gives a better, safer path to ground. https://stormhighway.com/protection.php
+  - 2023 high-speed footage coverage (rods offer an easy, safe route to ground; they don't attract or repel). https://www.technologynetworks.com/applied-sciences/news/stunning-images-reveal-how-lightening-rods-work-371092
+
+"Without one, the bolt finds its own way down, through your wiring, your pipes"
+  - NWS indoor lightning safety: lightning can enter a structure by a direct strike, through wires or pipes, or through the ground; once inside it can travel through the electrical, phone, plumbing and radio/TV systems. https://www.weather.gov/safety/lightning-indoors
+  - NOAA (archived lightningsafety.noaa.gov/indoors.htm): if a bolt strikes your house it can travel through the plumbing or the electric wiring. https://webarchive.library.unt.edu/web/20130219170017/http:/www.lightningsafety.noaa.gov/indoors.htm
+"the wood in between" / fire glow: lightning-caused house fires are a known hazard (insurance claims below include fire); shown illustratively, no number used.
+
+"Lightning damage costs home insurers over a billion dollars a year."
+  - Triple-I: $1.24 billion paid in 2023, $1.04 billion in 2024 (55,537 claims). https://amp.insurancejournal.com/news/national/2025/06/27/829432.htm ; https://www.businesswire.com/news/home/20250619791098/en
+  - Triple-I 2025 follow-up: est. $1.65 billion, 61,986 claims. https://agencychecklists.com/2026/06/20/lightning-insurance-claims-severity-2025-82447/
+  (over $1 billion in each of 2023, 2024, 2025)
+
+"A typical bolt carries about thirty thousand amps"
+  - NWS "How powerful is lightning?": "A typical lightning flash is about 300 million Volts and about 30,000 Amps." https://www.weather.gov/safety/lightning-power
+  - NOAA FAQ: average bolt about 30,000 amps. https://noaa.gov/node/10811
+
+"a thick cable, copper or aluminum, running down the outside of the house"
+  - LPI: NFPA 780 / UL 96A system = strike termination devices (rods), down conductors, grounding electrodes. https://lightning.org/?p=8643
+  - Lightning rods are copper or aluminum with conductors to ground (technologynetworks / tweaktown coverage of the 2023 study). https://www.tweaktown.com/news/90716/high-speed-camera-captures-unique-image-showing-how-lightning-rods-work/news/index.html
+  - Conductors sized to carry the surge without heating enough to cause fire (Construction Canada / LPI). https://constructioncanada.net/it-takes-a-lightning-protection-system/print
+
+"No sharp corners. The bends stay gentle, because at a tight corner, lightning can leap off into the wall."
+  - LPI reroof specification + Army TM + Air Force material: conductor bends min. 8 in radius, included angle not less than 90 degrees. https://lightning.org/documents/reroof-specification ; https://armymunitions.tpub.com/Mm0149a/Lighting-Protective-Systems-11.htm
+  - Side flash: lightning can arc from system components to parts of the building not meant to carry the current; sharp bends raise the risk (weaker source: arborist exam-prep page on ANSI A300 Part 4). https://open-exam-prep.com/study-guides/isa-board-certified-master-arborist/support-systems-lightning-climbing-rigging/lightning-protection-systems
+  (no radius number used in the VO because the angle wording differs between sources)
+
+"the cable clamps onto a ground rod, driven deep into the dirt, so the current spreads into the earth"
+  - LPI: grounding electrode network is part of every system. https://lightning.org/faq/
+  - Installer / Construction Canada: copper rod at least 2 ft outside the building, driven about 10 ft into conductive soil; plates or rings in rocky soil "to distribute charges". https://constructioncanada.net/it-takes-a-lightning-protection-system/print
+  (rod length cut: sources say 8 ft vs 10 ft; VO says "deep")
+
+"One path isn't enough, so there are at least two cables down, as far apart as possible."
+  - LPI: a single path to ground is not adequate to carry the current of a lightning discharge. https://lightning.org/faq/
+  - NFPA 780 / UL 96A summary (ABB): at least two down conductors from the air terminals to the grounding system. https://library.e.abb.com/public/d6115b12d41145fa87020f93d1cf8a91/NFPA%20UL%20Standards.pdf
+
+"More short rods go along the ridge, all tied together"
+  - LPI: strike termination network (rods) along the roof connected by conductors to the down conductors (NFPA 780 / UL 96A system description). https://lightning.org/?p=8643
+  (spacing numbers cut: not confirmed tonight)
+
+"the whole system is bonded to the house's electrical ground"
+  - NEC language quoted on Mike Holt forum / ECM: lightning protection ground terminals shall be bonded to the building grounding electrode system. https://forums.mikeholt.com/threads/lightning-protection-and-building-ground.2588214
+  - PDH course e250: a ground loop or conductor from the lightning grounds connects to the electric service ground. https://pdhonline.com/courses/e250/e250content.pdf
+  - Nearby grounded metal (piping, ducts) within about 6 ft is bonded to avoid side flash. https://www.constructionspecifier.com/lightning-protection-and-the-building-envelope/4/
+
+Cut / not used: Franklin and any date (real person, not needed), 300 million volts, 50,000 F, NFPA terminal spacing (20/25 ft), ground rod length, bend radius number, "most homes don't have one" (no number found).
+Illustrative in the video: conductors/rods drawn ~3x thick, ground rods ~2.7 m, the demo wall spark, the fire glow, the house is generic.

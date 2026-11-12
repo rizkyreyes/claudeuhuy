@@ -1,0 +1,30 @@
+# How a lightning rod protects a house: beat plan (76.0 s, 1080x1920, EN, Eleven v4 Turbo "Liam")
+
+Take: 74.80 s VO (74.88 s to the last word end), 242 words (incl. CTA + follow line), + 0.30 s lead-in + 0.85 s tail = **76.03 s** (2,281 frames @ 30 fps).
+2 takes (77.7 s / 251 words -> 74.8 s / 242). Longest VO gap 0.32 s.
+Format: **build-up** ("THIS IS A METAL ROD", drafts/build-up-scripts-2026-11-09.md #3) with the "If..." + claim hook; myth-bust answer in sentence 2
+("A lightning rod doesn't pull it in. It just picks the road.", 4.5-7.2 s). Weekly-review focus (16 Nov): answer in sentence 2, no setup line,
+CTA + follow over the final pull-out, hard end (sky flash 0.6 s before the end, the video opens on a strike: loop).
+Stake (sentence 3-4): the bolt runs through your wiring, pipes and the wood in between; lightning damage costs home insurers over $1 billion a year.
+Register: **stormy dusk**, a generic gable house on a lawn block cut at y = -5 (topsoil / clay / deep soil face shows the ground rods), clouds,
+bolts as glowing jagged curves with flash lights; front wall cut away for the "without one" and bonding beats; demo wall at x = 100 for the tight
+corner. No people, no brands, no real address. Cues are words of the take, chained; times include the 0.30 s lead-in.
+
+| beat | from cue | to cue | hero (Blender) | type (Tesseract) | SFX |
+|---|---|---|---|---|---|
+| B1 hook | If 0.3 | Without 7.9 | wide house (finished system); bolt hits the left ridge rod 0.96, gold current runs down the left cable to the ground rod by "ground" 2.62, cyan rings in the soil; cut on "A" 4.46 to the gable end + rod; on "picks" a gold pulse runs the whole road, pull-back | "IT'S GOING INTO / THE GROUND" · "IT DOESN'T / PULL IT IN" · label ROD · "IT PICKS / THE ROAD" (gold) | rain, wind, crack, rumble, zap, ping, impact, whoosh |
+| B2 without one | Without 7.9 | This 18.1 | system gone, front wall cut away; bolt hits the bare roof 8.86, red arcs into the attic; red current through the wiring (10.65), the vent pipe (11.6), studs glow orange on "wood", fire light flickers; pull back on "Lightning damage" | "NO ROD?" (red) · labels WIRING / PIPES / WOOD (red) · "LIGHTNING / DAMAGE" (red) · "$1 BILLION+ / A YEAR" (gold) | deny, crack, zap x2, fire x2, pop x3, whoosh, impact |
+| B3 metal rod | This 18.1 | So 26.1 | gable end view, bare house: a single rod drops onto the ridge (18.7-19.1); "own": bolt hits it, red arcs crawl into the roof + red patch; "bolt" 22.14: bigger strike, longer flicker | "THIS IS A / METAL ROD" · "ON ITS OWN?" · "DOES NOTHING" (red) · counter 0 -> "30,000 AMPS" (gold) · "IT NEEDS / A WAY DOWN" | whoosh, clank, crack x2, sizzle x2, deny, ticks, ping, down |
+| B4 cable | So 26.1 | No 31.1 | the copper cable grows from the rod along the ridge, down the rake, over the eave, down the corner, into the soil (27.0-30.6), camera follows down | "1. A THICK / CABLE" (gold) · "COPPER OR / ALUMINUM" · label CABLE | impact, whoosh, riser, pop |
+| B5 bends | No 31.1 | At 37.3 | close on the eave corner: red sharp-corner version (31.1-32.6), swap to the gentle bend + cyan pulse; cut on "because" to the demo wall: gold pulse runs to a tight corner, on "leap" 35.74 red sparks jump into the wall, scorch spreads | "NO SHARP / CORNERS" (red) · "GENTLE / BENDS" (cyan) · "TIGHT CORNER?" · "IT LEAPS / INTO THE WALL" (red) | deny, ping, hum, pop, zap, zap + crack, sizzle, impact |
+| B6 ground rod | At 37.3 | One 43.9 | corner + cut soil: clamp pops on the cable end (38.58), ground rod appears and is driven down in 3 hits (40.3/40.8/41.2); "spreads": rod glows cyan, rings spread through the soil | "2. A GROUND / ROD" (gold) · label GROUND ROD · "SPREADS INTO / THE EARTH" (cyan) | whoosh, clank, drive x3, pop, ping, hum |
+| B7 two cables | One 43.9 | More 49.0 | wide front: "two": the right cable + ridge rod appear, cable grows down the right corner (46.2-47.5), right ground rod slides in (47.8) | "ONE PATH / ISN'T ENOUGH" · "3. TWO / CABLES DOWN" (gold) · label CABLE 2 | whoosh, impact, whoosh, drive, pop |
+| B8 ridge | More 49.0 | And 55.2 | ridge view: two more rods pop up (49.6/49.9), the ridge conductor grows on "tied" (51.2-52.1); three thin ghost bolts hit three different rods (52.5/53.2/54.1), each rod flashes | "4. MORE RODS / ON THE RIDGE" (gold) · "ALL TIED / TOGETHER" · "IT HITS / METAL FIRST" (gold) | whoosh, clank x2, impact, riser, crack x3 (soft) |
+| B9 bond | And 55.2 | Now 60.4 | front wall cut away, low on the left corner: copper glows on "system"; the electrical panel + its ground wire + rod; the bond wire grows in the soil from the lightning ground rod to the electrical one (56.4-57.4), glows cyan on "gap" | "5. BONDED TO / THE HOUSE GROUND" (gold) · labels ELECTRICAL GROUND, BOND (cyan) · "NO GAP / TO JUMP" (cyan) | whoosh, hum, pop x2, ping |
+| B10 storm | Now 60.4 | Does 66.6 | wide storm, sky flashes (60.96/61.36); the bolt lands on ridge rod 2 (62.22), gold current splits along the ridge and rides both cables down (63.3-64.9), ground rods glow, rings, drains away; windows stay lit | "NOW THE / STORM HITS" · "INTO THE / GROUND" (gold) | wind, rumble x2, crack, rumble, zap, down, impact, ping |
+| B11 CTA | Does 66.6 | end 76.03 | slow pull-out over the house in the rain, sky flash at 75.4 (loop to the opening strike); video push-in 100 -> 106 % | "DOES YOUR HOUSE / HAVE ONE?" · "TELL ME IN THE COMMENTS" (gold) · "NEXT: / THE CITY SEWER" · "FOLLOW SO YOU DON'T MISS IT" (gold) | whoosh, ping, pop, ping, rain |
+
+Gates: hook moves in the first second (strike at 0.96 s, title at 0.15 s); something moves in every beat; longest VO gap 0.32 s; counter only on a
+spoken number (thirty thousand -> 30,000 AMPS); "$1 BILLION+" is a title on the spoken "billion". CTA is a question, no channel name, no series
+label; follow line names 3d-26 city-sewers ("Next up: where your flush goes after it leaves."), on screen "NEXT: THE CITY SEWER".
+Moat: the current running through wiring and pipes inside the walls and spreading in the soil around the ground rod only exist as a cutaway.

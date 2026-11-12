@@ -1,0 +1,13 @@
+{
+ "slug": "lightning-rod",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "If lightning hits your house, it's going into the ground one way or another. A lightning rod doesn't pull it in. It just picks the road. Without one, the bolt finds its own way down, through your wiring, your pipes, the wood in between. Lightning damage costs home insurers over a billion dollars a year. This is a metal rod. On its own, it does nothing. A typical bolt carries about thirty thousand amps, and it needs a way down. So the rod gets a thick cable, copper or aluminum, running down the outside of the house. No sharp corners. The bends stay gentle, because at a tight corner, lightning can leap off into the wall. At the bottom, the cable clamps onto a ground rod, driven deep into the dirt, so the current spreads into the earth. One path isn't enough, so there are at least two cables down, as far apart as possible. More short rods go along the ridge, all tied together, so wherever the bolt lands, it hits metal first. And the whole system is bonded to the house's electrical ground, so there's no gap for it to jump. Now the storm hits. The bolt lands on the ridge, rides the cables down, and vanishes into the ground. Does your house have one, or are you just hoping? Tell me in the comments. Next up: where your flush goes after it leaves. Follow so you don't miss it."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
