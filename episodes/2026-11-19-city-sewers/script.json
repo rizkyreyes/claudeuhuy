@@ -1,0 +1,13 @@
+{
+ "slug": "city-sewers",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "If you flush a toilet, gravity does almost all the work. It rolls across town in pipes that always tilt downhill. Lay one too flat, and the waste stops, and the backup comes up through the lowest drain in your house. This is a toilet. When it flushes, everything drops into a pipe under the floor. That pipe leaves the house tilted, often a quarter inch every foot. That's your lateral. It runs under the yard to a bigger pipe under the street, the sewer main. Every house on the block ties in. The main tilts too, so the flow stays fast enough to carry solids. Every time the pipe turns, changes slope, or gets bigger, there's a manhole, so crews can reach it. Downhill, small mains join into bigger ones. But here's the catch. On flat ground, a pipe that keeps tilting keeps getting deeper. Too deep, and digging gets very expensive. So the city builds a lift station. Sewage pours into a pit, the wet well. When the level rises, a float switch starts the pump. It pushes everything up a pressure pipe, the force main, to a higher manhole, and gravity takes over again. America has over eight hundred thousand miles of public sewers, all running to treatment plants. Would you go down one? Next up: airport runways."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

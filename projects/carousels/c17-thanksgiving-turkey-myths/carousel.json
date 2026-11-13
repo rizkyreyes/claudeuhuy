@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 Thanksgiving turkey myths that could ruin dinner", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/counter.jpg", "myth": "It's fine to thaw the turkey on the counter overnight.",
+      "fact": "Never on the counter. Thaw it in the fridge, about 24 hours for every 4 to 5 pounds, or in cold water you change every 30 minutes.",
+      "source": "USDA Food Safety and Inspection Service" },
+    { "type": "myth", "bg": "bg/frozen.jpg", "myth": "Forgot to thaw it? You can't cook a frozen turkey.",
+      "fact": "You can, and it's safe. It just takes at least 50% longer than a thawed bird, so start early and check it with a thermometer.",
+      "source": "USDA Food Safety and Inspection Service" },
+    { "type": "myth", "bg": "bg/popup.jpg", "myth": "When the pop-up timer pops, the turkey is done.",
+      "fact": "USDA still says use a food thermometer: 165°F in the thickest part of the breast and the innermost part of the thigh and wing.",
+      "source": "USDA FSIS, university extension" },
+    { "type": "myth", "bg": "bg/pink.jpg", "myth": "If the meat is still a little pink, it's undercooked.",
+      "fact": "Color isn't the test. Turkey that reached 165°F everywhere is safe to eat, even if some of the meat stays pink.",
+      "source": "University of California extension" },
+    { "type": "myth", "bg": "bg/stuffing.jpg", "myth": "If the turkey is done, the stuffing inside is done too.",
+      "fact": "The center of the stuffing needs to hit 165°F on its own. USDA says the safest way is to bake it in a separate dish.",
+      "source": "USDA Food Safety and Inspection Service" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one did your family get wrong?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["USDA FSIS: Let's Talk Turkey (thawing, cooking from frozen, 165°F)", "USDA FSIS: pop-up timers and food thermometers", "UC extension: pink turkey at 165°F is safe", "USDA FSIS: stuffing and food safety"] }
+  ]
+}

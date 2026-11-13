@@ -1,0 +1,56 @@
+# city-sewers (3d-26): claim -> source. Checked 13 Nov 2026 (cloud run). practical.engineering is not reachable from the sandbox (DNS);
+# facts checked on search excerpts of the pages below. Every number in the script is listed here.
+
+Gravity does almost all the work; sewer pipes tilt downhill; pumps (lift stations) only where gravity can't reach the next sewer
+  - Moore County NC, Wastewater Lift Stations and Force Mains: https://moorecountync.gov/DocumentCenter/View/174/Wastewater-Lift-Stations-and-Force-Mains-PDF
+  - Practical Engineering, "Can You Pump Sewage?" (2022): https://practical.engineering/blog/2022/1/27/can-you-pump-sewage
+  - Fox Valley Engineering, Lift Stations: What They Are and How They Work: https://www.fveng.com/lift-stations-wastewater-treatment/
+  ("almost" kept on purpose: some houses and low areas need pumps)
+
+Lay a pipe too flat and the waste stops (solids settle, clogs)
+  - Balkan Plumbing, why proper pitch on a sewer line is critical: https://balkanplumbing.com/pitch-slope-sewer-line-house-drain-pipe
+  - minimum self-cleansing velocity rules for public gravity sewers (2 ft/s flowing full, e.g. Urbana OH code): https://codelibrary.amlegal.com/codes/urbana/latest/urbana_oh/0-0-0-16807
+  ("too steep" claim NOT used: sources disagree)
+
+A blocked/overloaded sewer backs up through the lowest drain in the house (basement floor drain)
+  - This Old House, what to do when your sewer backs up: https://www.thisoldhouse.com/plumbing/what-to-do-when-your-sewer-backs-up
+  - City of San Jose, sewer backup prevention / backwater valves: https://www.sanjoseca.gov/businesses/development-services-permit-center/start-your-project/sewer-backup-prevention-backwater-valves
+  - City of Calgary, what are sewage backups: https://www-prd.calgary.ca/water/wastewater/sewage-backup.html
+
+The pipe leaving the house is sloped, often 1/4 inch per foot ("often": code minimum for small drains; 1/8 in/ft allowed for larger pipe in many codes)
+  - California Plumbing Code 718.1 / 708.1 (uniform slope not less than 1/4 inch per foot, reduced only where impractical): https://gocodebook.com/library/us/ca/ca-plumbing-code/chapter-7-sanitary-drainage/718.1-slope.-building-sewers-shall-be-run-in-practical-alignment-and-at-a-uniform-slope-of-not-l
+  - Minnesota plumbing rule 4714.0717: https://revisor.mn.gov/rules/pdf/4714.0717/2021-09-27%2013:19:16+00:00
+  - Van Wert OH ordinance (min 1/4 inch per foot building sewer): https://codelibrary.amlegal.com/codes/vanwert/latest/vanwert_oh/0-0-0-20402
+
+The lateral runs from the house to the public sewer main under the street; every house ties in; laterals are private
+  - ASCE 2021 Report Card, Wastewater ("500,000 miles of private lateral sewers that link homes and businesses to the public lines"): https://infrastructurereportcard.org/wp-content/uploads/2020/12/Wastewater-2021.pdf
+
+The main tilts so the flow stays fast enough to carry the solids (self-cleansing velocity)
+  - Urbana OH sewer standard (min 2.0 ft/s flowing full): https://codelibrary.amlegal.com/codes/urbana/latest/urbana_oh/0-0-0-16807
+  - EPA collection systems technology fact sheet (archived): https://webarchive.library.unt.edu/web/20090508051532/http:/epa.gov/owm/mtb/congrasew.pdf
+  (no number spoken)
+
+Manholes at every change in direction, slope and pipe size (and at junctions / max spacing), so crews can reach the pipe
+  - Utah R317-3-2: https://regulations.justia.com/states/utah/environmental-quality/title-r317/rule-r317-3/section-r317-3-2/
+  - UFC 4-150-02 / Army EN0389 manhole location: https://armyengineer.tpub.com/EN0389/Manhole-Location-97.htm
+  - Valley Center MWD standards 6.2: https://www.vcmwd.org/pdf/eng_std/SECTION_2_DESIGN/6_SewerPipeline/6.2_SewerManholes&Cleanouts_PUBL.PDF
+  ("every time" = the common rule; some large sewers / cleanouts are exceptions. No spacing number spoken.)
+
+Small mains join into bigger ones downhill (collectors -> trunk sewers / interceptors)
+  - EPA collection systems fact sheet (archived, above); Sioux Falls design standards ch. 9: https://www.siouxfalls.gov/files/assets/public/v/1/planning-and-development/construction-mgmt-amp-design/engineering-design-standards/u30009-ch9_2021.pdf
+
+On flat ground a sloped pipe keeps getting deeper; deep gravity sewers are expensive to build; a lift station + force main is the alternative
+  - Lift Station Design course 401 ("deep gravity pipes are expensive to construct and difficult to maintain"): https://cdn11.bigcommerce.com/s-die3xeedyr/content/Correspondence_Courses/Lift_Station_Design/401-Lift-Station-Design.pdf
+  - Moore County NC (pumping station + force main when gravity flow isn't feasible), above
+
+Wet well fills by gravity; a float switch / level sensor starts the pump; the pump pushes sewage through a pressure pipe (force main) to a higher manhole, where it flows by gravity again; check valve stops backflow
+  - Fox Valley Engineering (above); Practical Engineering (above); Moore County NC (above)
+  - Smith & Loveless, Pumping Systems General Information: https://files.smithandloveless.com/docs/mysl/solutions/catalog/Pumping%20Systems%20General%20Information%20-%20Section%201.pdf
+
+"America has over eight hundred thousand miles of public sewers, all running to treatment plants"
+  - ASCE 2021 Wastewater ("more than 800,000 miles of public sewers ... an additional 500,000 miles of private lateral sewers"; 16,000+ treatment plants): https://infrastructurereportcard.org/wp-content/uploads/2020/12/Wastewater-2021.pdf
+  - ASCE 2025 Wastewater chapter repeats the mileage (nearly 17,500 plants): https://infrastructurereportcard.org/wp-content/uploads/2025/03/Wastewater.pdf
+
+Cut / not used: 500,000 sewer backups a year (single unverified source), 2 ft/s and 400 ft spacing numbers (local rules vary), $1 trillion value,
+combined sewer overflows (different system), homeowner responsibility for laterals (varies by city).
+Illustrative in the render: slopes exaggerated (lateral ~2x, mains up to ~10x), pipes ~2x thick, the lift station x/z proportions, generic houses and plant.

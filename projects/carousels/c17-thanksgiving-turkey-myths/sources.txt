@@ -1,0 +1,16 @@
+# c17 Thanksgiving turkey myths: fact -> source (checked 13 Nov 2026, cloud run)
+1 Never thaw on the counter; fridge ~24 h per 4-5 lb; cold water changed every 30 min (~30 min per lb)
+  USDA FSIS "Let's Talk Turkey": https://www.fsis.usda.gov/sites/default/files/media_file/2021-04/Lets_Talk_Turkey.pdf
+  USDA FSIS Turkey Basics: Safe Thawing (archived): https://webarchive.library.unt.edu/web/20120915114156/http:/www.fsis.usda.gov/Fact_Sheets/Turkey_Basics_Safe_Thawing/index.asp
+  UGA extension C1226 (never defrost on the counter): https://fieldreport.caes.uga.edu/wp-content/uploads/2022/11/C1226.pdf
+2 Safe to cook from frozen, at least 50% longer
+  USDA FSIS "Let's Talk Turkey" (above); USDA: https://www.usda.gov/node/32286
+3 Use a food thermometer: 165°F, thickest part of the breast, innermost thigh and wing (USDA calls pop-ups generally reliable if placed right, but still recommends a thermometer; extension: don't depend on the pop-up alone)
+  USDA FSIS "Let's Talk Turkey" (above); UC ANR: https://ucanr.edu/media/304404
+4 Pink turkey is safe once all parts reach 165°F
+  UC ANR extension: https://ucanr.edu/media/304404 ; Palm Beach County extension "Pink meat": https://discover.pbc.gov/coextension/FACS/HolidayFoodSafety/PINK_MEAT.pdf
+5 Stuffing center must reach 165°F; USDA recommends cooking it outside the bird
+  USDA FSIS Stuffing and Food Safety (archived): https://webarchive.library.unt.edu/web/20130302221439/http:/www.fsis.usda.gov/factsheets/Stuffing_and_Food_Safety/index.asp
+  Ohio State "Chow Line: Don't stuff the bird": https://cfaes.osu.edu/news/articles/chow-line-don%E2%80%99t-stuff-the-bird
+Cut: "juices run clear" (sources conflict), washing the turkey (c02 covered rinsing chicken), tryptophan (health claim).
+Photos (Pexels, no faces, no readable brands): cover 14560071, counter 5876356, frozen 10886018, pop-up 5848147, pink 5662358, stuffing 36421079, end 6554663.
