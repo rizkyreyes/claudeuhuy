@@ -550,3 +550,9 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 
 ## 2026-11-13 (laptop) pipe-under-river
 - Approved cover A, scheduled for Tue 17 Nov 2026: TikTok 6af726595f6528fecda7850d, YT 6af726595f6528fecda7850e, IG 6af726595f6528fecda7850c. 
+
+## 2026-11-13 (laptop, morning run, late) lightning-rod
+- No Runpod pods. Pile-driver (3d-25) was being scheduled by a parallel session (cover B upload commit cc0751c); pipe-under-river (3d-23) already rendered. Took 3d-24 lightning-rod.
+- GPU stills sheet OK (dark cloud silhouettes, flash not blown out, soil rings read). Final render 2281 frames on RTX 4060 (~3 s/frame, ~2 h). Lightning.mp4 76.03 s.
+- Audio first pass peaked +0.3 dBFS (thunder cracks ~0.5/8.5/22/62 s). timeline.js: strike crack 0.8 -> 0.45 (ghost 0.35 -> 0.28), spark zap 0.8 -> 0.55, VO 0.80 -> 0.85. Now -15.6 LUFS, peak -1.0 dBTP. Note: publish-prep's alimiter (default level=1) re-normalises output, it does not lower a hot peak.
+- Covers A/B/C from new GPU hero renders, titles via Remotion cover.sh. vidIQ tools not loaded (no comment pass, titles unscored). No carousel ready. Waiting for Rizky's setuju.

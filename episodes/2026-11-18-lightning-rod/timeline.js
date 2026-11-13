@@ -112,7 +112,7 @@ function counter(n0, n1, t0, t1, fmt, x, y, w, h, size, color, sfxEvery = 2, ste
 for (let t = 0; t < TL.duration - 0.5; t += 2.9) if (!(t > C.because - 0.5 && t < C.at)) sound("rain", t, 0.18);
 sound("wind", 0.1, 0.18); sound("wind", C.now, 0.25);
 // every strike: a crack (big ones also roll on); sky flashes: a distant rumble
-EV.strikes.forEach(t => sound("crack", t, EV.ghosts.includes(t) ? 0.35 : 0.8));
+EV.strikes.forEach(t => sound("crack", t, EV.ghosts.includes(t) ? 0.28 : 0.45));
 EV.strike_big.forEach(t => sound("rumble", t + 0.3, 0.5)); EV.sky_flash.slice(0, 2).forEach(t => sound("rumble", t, 0.3));
 // B1 hook: the claim, then the answer in sentence 2
 show(text("IT'S GOING INTO\nTHE GROUND", 540, TOP_Y + 20, 980, 300, 96, WHITE), 0.15, C.a - 0.1, "slam", "impact");
@@ -148,7 +148,7 @@ sound("hum", C.bends, 0.3);
 show(text("TIGHT CORNER?", 540, TOP_Y, 980, 200, 110, WHITE), C.tight - 0.05, C.leap - 0.1, "pop", "pop");
 sound("zap", EV.demo_pulse[0], 0.35);
 show(text("IT LEAPS\nINTO THE WALL", 540, TOP_Y + 20, 980, 300, 110, RED), C.leap - 0.05, C.at - 0.1, "slam", "impact");
-sound("zap", EV.spark, 0.8); sound("crack", EV.spark + 0.02, 0.35); sound("sizzle", EV.spark + 0.2, 0.4);
+sound("zap", EV.spark, 0.55); sound("crack", EV.spark + 0.02, 0.35); sound("sizzle", EV.spark + 0.2, 0.4);
 // B6 2. a ground rod driven deep; the current spreads into the earth
 show(text("2. A GROUND\nROD", 540, TOP_Y + 20, 980, 300, 124, GOLD), C.at - 0.05, C.spreads - 0.1, "rise", "whoosh");
 sound("clank", EV.clamp, 0.55); EV.drive_hits.forEach(t => sound("drive", t, 0.7));
@@ -218,7 +218,7 @@ const audioLayers = [];
 let aid = 2000;
 audioLayers.push({ type: "Audio", id: aid++, name: "VO - Liam (Eleven v4 Turbo)", windowMs: VO_MS,
   activeRange: R(ms(VO), Math.min(DUR - ms(VO), VO_MS)), sourceRange: R(0, Math.min(DUR - ms(VO), VO_MS)),
-  sourceIntrinsicDuration: VO_MS, source: { assetId: "vo" }, volume: 0.80, captionsEnabled: false });
+  sourceIntrinsicDuration: VO_MS, source: { assetId: "vo" }, volume: 0.85, captionsEnabled: false });
 audioLayers.push({ type: "Audio", id: aid++, name: "Bed - ambient pad", windowMs: 76000, activeRange: R(0, Math.min(DUR, 76000)), sourceRange: R(0, Math.min(DUR, 76000)),
   sourceIntrinsicDuration: 76000, source: { assetId: "sfx-pad-bed" }, volume: 0.40, captionsEnabled: false });
 const used = new Set();
