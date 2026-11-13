@@ -544,3 +544,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Cover (own render, `build_cover.py`, 3 options): A whole house taking the strike "HIT BY LIGHTNING / STILL FINE?!" (suggested), B ridge rods from the gable end "IT DOESN'T / PULL IT IN?!", C corner + glowing ground rod "WHERE DOES / IT GO?!". Titles not scored: "How a Lightning Rod Works: Does It Attract Lightning? #shorts" kept, backup "How Lightning Rods Work: Where Does the Bolt Go? #shorts".
   - Open issues for the laptop: on GPU check the clouds (dark silhouettes between flashes), the gold glow colour (cream vs gold), the flash frames not blowing out the whole picture (FlashSun 7, world x3), bolt thickness at 100 %, the demo wall brightness 34-37 s, the soil rings read as current spreading (42-43.6 s), the interior red paths 10.6-12 s. Illustrative: thick conductors/rods, ~2.7 m ground rods, generic house. `sfx/` is generated on the laptop (`node synth_sfx.js`).
   - Step 9: c17 slot Sun 15 Nov 1 PM ET (18:00 UTC) is ~72 h away, outside the 60 h window; no carousel.
+
+## 2026-11-13 (laptop) pile-driver
+- Approved cover B, scheduled for Sun 15 Nov 2026: TikTok 6af7257de1061fb6583933fb, YT 6af7257de1061fb6583933fc, IG 6af7257de1061fb6583933fa. 
