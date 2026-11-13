@@ -547,3 +547,6 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 
 ## 2026-11-13 (laptop) pile-driver
 - Approved cover B, scheduled for Sun 15 Nov 2026: TikTok 6af7257de1061fb6583933fb, YT 6af7257de1061fb6583933fc, IG 6af7257de1061fb6583933fa. 
+
+## 2026-11-13 (laptop) pipe-under-river
+- Approved cover A, scheduled for Tue 17 Nov 2026: TikTok 6af726595f6528fecda7850d, YT 6af726595f6528fecda7850e, IG 6af726595f6528fecda7850c. 
