@@ -55,6 +55,11 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 - 1080x1920. Make it a **curiosity contrast**, not a plain label (Rizky rejected "UNDER THE RIVER" as flat): show the paradox in the picture (e.g. crew standing dry below a red river-level line) and title it as a surprise or question ("BONE DRY / UNDERWATER?!", "WORKING / UNDER A RIVER"). Offer 3 options (A/B/C).
 - Research-backed style: extreme close-up of the mechanism, one strong contrast colour (red), 2–3 word title in Poppins ExtraBold (not Anton). Keep title + subject inside the central **3:4 crop (y 240–1680)** so the profile grid shows it whole. No brand line, no caption tag on the cover.
 
+## Escalation hook + share line (Rizky, 14 Nov 2026, from @hiddenhome.3d scan)
+- Where the topic allows, frame title + opening line as an escalation: "How one [small everyday thing] ends up needing [giant machine]" (e.g. "How one runway crack ends up needing a 400-ton roller"). Small familiar thing -> absurdly big engineering. Their versions draw 70-119 shares per post; their best IG reel hit 662K. Keep claim-first and the 60-char limit.
+- Instagram caption only: first line = "Send this to someone who [relatable situation] 👇" (drives DM shares). TikTok and YouTube keep the current caption with the closing question.
+- Do NOT copy their volume (5-10 uploads/day): on TikTok every one stalls at 0.3-11K. We stay one polished video/day.
+
 ## Publishing (Buffer) — per-platform US peak slot for that weekday (ET)
 | Day | TikTok | Instagram Reels | YouTube Shorts |
 |---|---|---|---|
