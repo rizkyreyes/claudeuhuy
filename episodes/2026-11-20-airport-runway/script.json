@@ -1,0 +1,13 @@
+{
+ "slug": "airport-runway",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "This runway has nineteen inches of solid concrete, nearly double a highway, and that's only the top layer. Jets slam down on it, and if the ground underneath gives, the slabs crack. Here's one landing gear. On a Boeing 777, each main leg can carry over three hundred thousand pounds. The tires are pumped past two hundred PSI, about six times your car's. All that weight has to spread out before it reaches the dirt. So a runway is built like a layer cake. First, the soil is packed hard. That's the subgrade. Next, a subbase of crushed stone. Then a base mixed with cement. Then the concrete, poured in giant slabs. Joints let the slabs expand and shrink, and steel dowels pass the load across. How thick? That depends on the soil and the planes it serves. Weaker soil means thicker layers. Now the surface. The runway has a gentle crown, so rain runs off to the sides. Then saws cut grooves across it, a quarter inch deep, every inch and a half. At landing speed, water under a tire can lift it like a water ski. The grooves give that water a way out. Every touchdown leaves rubber behind, so crews blast it off. Which layer surprised you? Next up: wind turbines."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

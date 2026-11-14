@@ -40,3 +40,16 @@ Demand = vidIQ keyword research (US, est. monthly YouTube searches). Coverage = 
 | 3d-21 | Sat 14 Nov | How does a nuclear power plant work? | "how nuclear power plants work" ~13.7k (+6 %), "nuclear reactor" ~36.6k, "nuclear fission" ~18.7k (+11 %) | top shorts are cooling-tower reverb 73M (2018) and curiosities; no short 3D cutaway of the reactor-steam-turbine loop in the top 5 | medium-high: reactor vessel, steam generator, turbine, condenser, cooling tower cutaway |
 | 3d-22 | Sun 15 Nov | Where does your flush go? How do city sewers work? | "sewage" ~6.3k (+83 %), "how plumbing works in a house from start to finish" ~8k, "sewage system" ~4.7k, "how sewer systems work" ~3.5k | not searched separately (credit priority); earlier toilet-flush research found no 3D sewer cutaway | high: street cross-section, laterals, sloped main, manhole, lift station |
 | 3d-23 | Mon 16 Nov | Why are airport runways so thick? | "runway aviation" ~19.9k, "airport engineering" ~3.4k, "airport design" ~4.6k; "how airport runways are built" <750 | not searched separately; road-layers test (3d-00) is the closest asset | very high: reuse the road-layer pipeline, thicker pavement, grooves, lights |
+
+## 2026-11-14 (cloud night run): 7 new topics, big systems only, demand first (NO vidIQ: 69 credits, under the 100 floor)
+Evidence is web search only today; re-check demand with vidIQ `vidiq_keyword_research` + `vidiq_youtube_search` when credits renew (27 Nov), before each script. Wind turbine is this batch's two-parter. Nothing below is a locked claim; facts are verified at script time.
+
+| # | Day (ET) | Question people ask | Demand evidence (web) | YouTube coverage found | Blender feasibility |
+|---|---|---|---|---|---|
+| 3d-28/29 | Sat 21 + Sun 22 Nov | How are wind turbines built? / How does a wind turbine make power? | playbook cover reference (@american_civil_works wind-turbine reel); foundation build write-ups (Viking Energy ~105 t rebar / ~1,700 t concrete per base; MidAmerican time-lapse via Enerpac) | not searched (no vidIQ); time-lapses of foundation pours exist, no short 3D cutaway seen | high: rebar cage + pour, tower sections, crane lift; nacelle cutaway (pitch, gearbox, generator, yaw) |
+| 3d-30 | Mon 23 Nov | Why don't skyscrapers sway? (tuned mass damper) | Taipei 101 damper earthquake clips widely covered (Vice, Boing Boing 2022, Long Now); ~660 t steel ball | viral real footage of the ball, few cutaway explainers | high: tower cutaway, pendulum sphere, dampers |
+| 3d-31 | Tue 24 Nov | How does electricity get to your house? | many utility explainers (step-up to as high as 765 kV, substation, pole transformer to 120/240 V) = evergreen question | not searched | medium-high: plant, towers, substation, pole transformer cutaway |
+| 3d-32 | Wed 25 Nov | How are subway stations built under a street? | big-city construction curiosity; our tunnel video was a top-3 performer | not searched | medium: street cut-and-cover, decking, walls, roof |
+| 3d-33 | Thu 26 Nov | How does a dam make electricity? | follow-up to our dam-construction video (3d-12) | not searched | high: reuse dam set, penstock, turbine, generator |
+| 3d-34 | Fri 27 Nov | How did Roman aqueducts work? | backup list 24 Oct: Roman aqueducts 15.5M (2025) | 15.5M short (2025) | high: arches, channel with a gentle slope, siphon |
+

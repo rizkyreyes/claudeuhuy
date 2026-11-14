@@ -1,0 +1,59 @@
+# airport-runway (3d-27): claim -> source. Checked 14 Nov 2026 (cloud run). practical.engineering and boeing.com do not resolve from the sandbox: facts checked on search excerpts of the documents below.
+
+"This runway has nineteen inches of solid concrete" / "that's only the top layer"
+  -> Los Angeles World Airports (LAX) standard rigid pavement sections: e.g. CBR 7-9 subgrade -> 19 in P-501 concrete + 12 in P-304 cement-treated base; weak subgrade (CBR < 5) adds 12 in P-154 subbase.
+     https://www.lawa.org/media/11952
+  -> Thickness depends on aircraft and subgrade (no single standard): FAA AC 150/5320-6 (FAARFIELD), https://www.airporttech.tc.faa.gov/Airport-Pavement/Pavement-Design
+  NOTE: worded "This runway has" (one real standard section), not "every runway".
+
+"nearly double a highway"
+  -> FHWA LTPP SPS-2 test slabs 8 and 11 in; rural I-10 section nominally 8 in PCC: https://www.fhwa.dot.gov/publications/research/infrastructure/pavements/ltpp/reports/04032/features.cfm
+     19 in vs ~8-11 in = 1.7-2.4x -> "nearly double". Compare set shows a ~10 in highway slab (0.25 m).
+
+"if the ground underneath gives, the slabs crack"
+  -> Rigid pavement = concrete on subbase on compacted subgrade; thickness is driven by subgrade support (FAA rigid pavement cross section): https://www.airporttech.tc.faa.gov/Airport-Pavement/Construction-Cycle-1/Rigid-Pavement-Construction-Cross-Section
+  -> "The more swamplike the subgrade, the thicker the runway" (thickness depends on subgrade + design aircraft): https://groups.google.com/g/sci.aeronautics.airliners/c/mJElV7Uzy5I (secondary, consistent with FAA AC 150/5320-6)
+
+"On a Boeing 777, each main leg can carry over three hundred thousand pounds"
+  -> Boeing airport-planning FAQ "Calculating tire contact area": worked example 777-300, 313,900 lb static load per main gear leg, 215 psi.
+     https://boeing.com/content/dam/boeing/boeingdotcom/commercial/airports/faqs/calctirecontactarea.pdf
+  NOTE: "can carry" = Boeing's own example load; not claimed as max for every 777 variant.
+
+"The tires are pumped past two hundred PSI"
+  -> same Boeing example (215 psi); 777-300ER ~220 psi (PlaneFYI, PPRuNe; secondary). "past two hundred" is safe.
+"about six times your car's"
+  -> passenger car tires typically ~32-35 psi cold (door placard; NHTSA tire safety https://www.nhtsa.gov/equipment/tires). 215 / 35 = 6.1. "about six times".
+
+"weight has to spread out before it reaches the dirt" / layers: subgrade (soil packed hard), subbase of crushed stone, base mixed with cement, concrete slabs
+  -> FAA: "Rigid pavements for airports are composed of portland cement concrete placed on a granular or treated subbase course that is supported on a compacted subgrade."
+     https://www.airporttech.tc.faa.gov/Airport-Pavement/Construction-Cycle-1/Rigid-Pavement-Construction-Cross-Section
+  -> stabilized base options P-304 (cement-treated), P-306; P-154 granular subbase; LAWA section above.
+
+"Joints let the slabs expand and shrink, and steel dowels pass the load across"
+  -> Airport rigid pavements = 4-6 m roughly square plain concrete slabs separated by joints; load transfer via aggregate interlock and steel dowels:
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566431/ ; FAA AC 150/5320-6D joint types (Type A doweled): https://mail.tku.edu.tw/yinghaur/lee/ftp/FAA/6D.files/150_5320_6d_part4.pdf
+  Visual: slabs drawn 7.5 m (illustrative), no slab size spoken.
+
+"It depends on the soil and the planes it serves. Weaker soil means thicker layers."
+  -> FAA FAARFIELD design: thickness from subgrade + aircraft mix; design aircraft = the one with the most damaging gear load (not always the heaviest): https://www.airporttech.tc.faa.gov/Airport-Pavement/Pavement-Design
+  -> LAWA: weaker subgrade (CBR < 5) gets an extra 12 in subbase.
+
+"The runway has a gentle crown, so rain runs off to the sides"
+  -> Practical Engineering, "The Hidden Engineering of Runways" (20 Jan 2026): runways usually have a gentle centerline crown that slopes to the sides to shed rain and prevent ponding. https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways
+  Visual crown 1.5 % (drawn true, arrows show the run-off).
+
+"saws cut grooves across it, a quarter inch deep, every inch and a half"
+  -> FAA standard: 1/4 x 1/4 in saw-cut grooves spaced 1 1/2 in (ICAO/FAA presentation, Daiutolo): https://www.icao.int/sites/default/files/sp-files/SAM/Documents/2012/IX.ALACPA/8-Runway%20Grooving%20and%20Skid%20Resistance%20-%20Daiutolo.pdf
+  Visual: macro specimen exact; on the full runway the groove pattern is drawn ~2.5x wider apart so it reads on a phone.
+
+"At landing speed, water under a tire can lift it like a water ski. The grooves give that water a way out."
+  -> Grooves give water an escape path from under the tire and reduce hydroplaning to a manageable level (do not eliminate it): same Daiutolo/FAA presentation; https://mail.code7700.com/pdfs/the_benefit_of_runway_grooving-daiutolo.pdf
+  NOTE: script says "can lift it" (not "grooves stop hydroplaning").
+
+"Every touchdown leaves rubber behind, so crews blast it off"
+  -> Rubber peels off tires at touchdown and builds up in the touchdown zone, reduces wet friction; FAA AC 150/5320-12C lists high-pressure water, chemicals, abrasive impact, grinding:
+     https://en.wikipedia.org/wiki/Airfield_rubber_removal ; https://skybrary.aero/articles/removal-rubber-runway
+  Visual: water-blast truck (generic).
+
+Cut / not used: highway "11 in" exact figure (blog only), runway thickness "up to 4 ft" (forum), slab size numbers, rubber removal frequency.
+Visuals: generic white twin-engine airliner and 6-wheel main gear (no livery, no logo, no real airport), generic roller, grooving machine and truck.
