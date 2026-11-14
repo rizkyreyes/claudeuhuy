@@ -26,3 +26,4 @@ episodes/*/*.blend1
 episodes/*/render*.mp4
 episodes/*/proxy*
 cache_fluid/
+__pycache__/
