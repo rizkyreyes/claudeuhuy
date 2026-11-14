@@ -51,7 +51,7 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 
 ## Cover / thumbnail (rule changed by Rizky, 14 Nov 2026 — replaces the Blender-hero + statement-title cover)
 - **Video stays 100% Blender.** Only the cover/thumbnail is made with fal.ai (`openai/gpt-image-2` via `pipeline/falsync.mjs`, quality high, 1088x1920).
-- Image = the episode's subject, whole, looking high-tech and premium: photoreal-CGI 3D cutaway/cross-section, clean studio or real setting, dramatic light, glowing internals (reference look: @american_civil_works wind-turbine reel). It must still match what the video shows (same type of object and the same key parts), so the viewer is not misled.
+- Image = the episode's subject, whole, looking high-tech and premium: photoreal-CGI 3D cutaway/cross-section, VARIED backgrounds per episode and per option (daylight sky, sunset, storm, real street or landscape, studio — never the same dark blue every time), dramatic light, glowing internals (reference look: @american_civil_works wind-turbine reel). It must still match what the video shows (same type of object and the same key parts), so the viewer is not misled.
 - Text = **only the object's name**, e.g. "WIND TURBINE", "CITY SEWERS". Poppins ExtraBold, 1–3 words, no statement/claim, no question, no brand line. Added in Tesseract on top of the AI image, never drawn by the AI.
 - Keep title + subject inside the central **3:4 crop (y 240–1680)**.
 - Three options per episode (A/B/C) = three different AI images (angle / setting / cutaway depth), same name text. Files: cover/cover_A.png, cover_B.png, cover_C.png.
