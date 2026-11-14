@@ -50,7 +50,7 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 - Quiet ambient pad under everything. Mix target −16 to −14 LUFS, true peak ≤ −1 dBTP. A mono VO reads ~3 LU hotter in the stereo mix.
 
 ## Cover / thumbnail (rule changed by Rizky, 14 Nov 2026 — replaces the Blender-hero + statement-title cover)
-- **Video stays 100% Blender.** Only the cover/thumbnail is made with fal.ai (`openai/gpt-image-2` via `pipeline/falsync.mjs`, quality high, 1088x1920).
+- **Video stays 100% Blender.** Only the cover/thumbnail is made with fal.ai (`openai/gpt-image-2` via `pipeline/falsync.mjs`, quality MEDIUM — Rizky 14 Nov 2026, high cost ~$0.15/image; 1088x1920; one image per option, no extra retries unless Rizky asks).
 - Image = the episode's subject, whole, looking high-tech and premium: photoreal-CGI 3D cutaway/cross-section, VARIED backgrounds per episode and per option (daylight sky, sunset, storm, real street or landscape, studio — never the same dark blue every time), dramatic light, glowing internals (reference look: @american_civil_works wind-turbine reel). It must still match what the video shows (same type of object and the same key parts), so the viewer is not misled.
 - Text = **only the object's name**, e.g. "WIND TURBINE", "CITY SEWERS". Poppins ExtraBold, 1–3 words, no statement/claim, no question, no brand line. Added in Tesseract on top of the AI image, never drawn by the AI.
 - Keep title + subject inside the central **3:4 crop (y 240–1680)**.
