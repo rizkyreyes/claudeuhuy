@@ -62,6 +62,17 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 - Instagram caption only: first line = "Send this to someone who [relatable situation] 👇" (drives DM shares). TikTok and YouTube keep the current caption with the closing question.
 - Do NOT copy their volume (5-10 uploads/day): on TikTok every one stalls at 0.3-11K. We stay one polished video/day.
 
+## Blender power-ups — use ALL in every episode (Rizky, 15 Nov 2026) — `pipeline3d/fx.py`
+In build_scene.py: `sys.path.insert(0, <repo>/pipeline3d); import fx`. Every call is defensive (prints `[fx] ... skipped` instead of crashing). Tested on Blender 5.2.
+1. `fx.hdri(name)` — real sky + light. Blender bundled: city, courtyard, forest, interior, night, studio, sunrise, sunset; or Poly Haven ids in assets/polyhaven (fetch_polyhaven.js). Pick to fit the story, vary per episode. `show_background=False` = HDRI light with a plain backdrop.
+2. `fx.glare()` — bloom on glowing parts (cores, sparks, lightning, lamps) in the compositor.
+3. `fx.particles(obj, "dust"|"sparks"|"rain"|"mud", start, end)` — at least one particle moment per episode (impact, drilling, flowing, weather).
+4. `fx.rigid(active, passive)` + `fx.bake_rigid(a, b)` — real falling/collapsing (soil caving in, bricks, failure "what if" beat). Bake before rendering.
+5. `fx.fluid_domain(domain, flow, eff, res)` + `fx.bake_fluid(domain)` — Mantaflow water ONLY for 1–2 short shots (≤ 4 s, res ≤ 128); everything else keeps animated water planes. Cache dir inside the episode folder, never committed.
+6. `fx.scatter(surface, instance, density)` — Geometry Nodes scatter for rocks, trees, houses, gravel: richer worlds without hand-placing.
+7. `fx.engine("eevee")` for simple shots / fast previews, `fx.engine("cycles")` for hero shots and final if time allows; note the choice and render time in the run log.
+Check the `[fx]` lines in the render log; a "skipped" line must be fixed or explained in the run log.
+
 ## Publishing (Buffer) — per-platform US peak slot for that weekday (ET)
 | Day | TikTok | Instagram Reels | YouTube Shorts |
 |---|---|---|---|
