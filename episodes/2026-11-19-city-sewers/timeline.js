@@ -114,7 +114,7 @@ for (let t = 0; t < TL.duration - 0.5; t += 2.9) if (!(t > C.lay - 0.3 && t < C.
 for (let t = C.rolls; t < TL.duration - 0.5; t += 2.9) if (!(t > C.this - 0.3 && t < C.every)) sound("flow", t, 0.18);
 // B1 hook: the claim, the answer (gravity, pipes always tilt downhill), the stake (too flat -> backup in your house)
 show(text("GRAVITY DOES\nTHE WORK", 540, TOP_Y + 20, 980, 300, 112, WHITE), 0.15, C.rolls - 0.1, "slam", "impact");
-sound("flush", EV.flushes[0] - 0.05, 0.55); sound("gurgle", EV.slugs[0][0] + 0.6, 0.35);
+sound("flush", EV.flushes[0] - 0.05, 0.4); sound("gurgle", EV.slugs[0][0] + 0.6, 0.35);
 tracked("TOILET", "toilet", 0.4, C.gravity - 0.1, 140, -110, WHITE, "pop");
 show(text("ALWAYS\nDOWNHILL", 540, TOP_Y + 20, 980, 300, 128, CYAN), C.always - 0.05, C.lay - 0.1, "slam", "whoosh");
 sound("whoosh", C.rolls - 0.05, 0.4);
@@ -126,7 +126,7 @@ sound("gurgle", EV.backup_spurt - 0.3, 0.55); sound("splash", EV.pool[0], 0.45);
 tracked("FLOOR DRAIN", "floordrain", C.lowest - 0.1, C.this - 0.1, 140, -140, RED, "pop");
 // B3 this is a toilet -> the pipe under the floor
 show(text("THIS IS A\nTOILET", 540, TOP_Y + 20, 980, 300, 128, WHITE), C.this - 0.05, C.flushes - 0.1, "rise", "whoosh");
-sound("flush", EV.flushes[1] - 0.05, 0.6);
+sound("flush", EV.flushes[1] - 0.05, 0.42);
 show(text("DOWN THE\nPIPE", 540, TOP_Y + 20, 980, 300, 128, GOLD), C.drops - 0.05, C.that - 0.1, "slam", "impact");
 sound("gurgle", C.drops + 0.2, 0.4);
 tracked("STACK", "stack", C.pipe, C.that - 0.1, 140, 0, GOLD, "pop");
@@ -154,7 +154,7 @@ tracked("TURN", "m0", C.turns, C.slope - 0.1, 150, -100, CYAN, null);
 show(text("A NEW SLOPE", 540, TOP_Y, 980, 200, 118, WHITE), C.slope - 0.1, C.bigger2 - 0.1, "pop", "ping");
 show(text("A BIGGER PIPE", 540, TOP_Y, 980, 200, 110, WHITE), C.bigger2 - 0.1, C.manhole - 0.1, "pop", "ping");
 show(text("= A MANHOLE", 540, TOP_Y, 980, 200, 124, CYAN), C.manhole - 0.05, C.downhill2 - 0.1, "slam", "impact");
-sound("clank", EV.cover_lift[0] + 0.05, 0.6); sound("scrape", EV.cover_lift[0] + 0.3, 0.45);
+sound("clank", EV.cover_lift[0] + 0.05, 0.42); sound("scrape", EV.cover_lift[0] + 0.3, 0.45);
 tracked("MANHOLE", "m1", C.crews, C.downhill2 - 0.1, 150, -60, CYAN, "pop");
 // B9 small mains join into bigger ones
 show(text("SMALL MAINS\nJOIN BIGGER ONES", 540, TOP_Y + 20, 980, 300, 96, WHITE), C.downhill2 - 0.05, C.but - 0.1, "rise", "whoosh");

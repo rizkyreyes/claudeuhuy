@@ -567,3 +567,10 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Open issues for the laptop: on GPU check the flow streaks read as moving water (texture offset 2.2/s), the gold slug + route (thin at 100 %), the basement backup pool (12.1-13.8 s), lateral jets 29.1-30.4 s, the M1 cover lift 38.9 s, the red ghost + depth bar 46.4-51.3 s, the wet-well level/float/pump 54.2-60 s, and the final wide (65.8-71.4 s, the plant is small). Illustrative: slopes exaggerated 2-10x, pipes ~2x thick, generic houses/plant. `sfx/` is generated on the laptop (`node synth_sfx.js`).
   - Queue: after 3d-27 airport-runway there are no `todo` rows left: the next cloud run takes airport-runway, and the run after that must research a new 7-topic batch (its tease needs the next topic, so research it in the airport-runway run if possible).
   - Step 9: c17 Thanksgiving turkey myths (Sun 15 Nov 1 PM ET, ~47 h away) made: 7 tt slides in `media/carousels/c17-thanksgiving-turkey-myths/tt`, row `ready`. Myths: counter thawing, can't cook frozen, pop-up timer, pink = undercooked, stuffing done with the bird (USDA FSIS + extension).
+
+## 2026-11-14 (laptop, morning run) city-sewers
+- No Runpod pods. 3d-24 lightning-rod was already rendered 13 Nov and its upload file (cover A) pushed, but it is still `prepped` in the queue and not in Buffer: waiting for Rizky to confirm (no "setuju" seen this run). Took 3d-26 city-sewers.
+- GPU stills sheet OK. Final render 2276 frames on RTX 4060 (~1.6 s/frame, ~62 min). City.mp4 75.87 s.
+- Audio first pass peaked -0.6 dBFS (flush 1.5 s / 16.5 s, cover clank 38.9 s). timeline.js: flush 0.55 -> 0.40 and 0.60 -> 0.42, clank 0.60 -> 0.42. Now -15.7 LUFS, peak -1.3 dBFS.
+- Covers A/B/C from GPU hero renders, titles via Remotion cover.sh. A crops the house at the left edge; C (lift station) reads best at a glance.
+- Comments: no new YouTube comments since 8 Nov (vidIQ, 5 credits, 84 left). Buffer connector not available in this session: c17 carousel (Sun 15 Nov 1 PM ET) NOT scheduled, still `ready`.
