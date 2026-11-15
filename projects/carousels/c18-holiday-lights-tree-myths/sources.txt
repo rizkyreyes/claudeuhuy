@@ -1,0 +1,13 @@
+# c18 holiday lights and tree myths: fact -> source (checked 15 Nov 2026, cloud run; checked on search excerpts, energy.gov not reachable from the sandbox)
+1 LED holiday light strings use far less electricity than incandescent; archived DOE example: LED lights on a 6-ft tree, 12 h/day for 40 days, save 90% or more
+  https://www.energy.gov/energysaver/led-lighting ; archived DOE page: https://webarchive.library.unt.edu/eot2008/20090114185653/http:/www.energysavers.gov/led_lighting.html
+2 Read the manufacturer's instructions for the number of light strands to connect; use lights with a recognized testing laboratory label
+  NFPA Christmas tree safety tips (municipal copies): https://www.clarington.net/en/town-hall/resources/Emergency-and-Fire/NFPA-Christmas-Tree-Safety-Tips-AODA.pdf ; https://uptexas.org/DocumentCenter/View/225/Christmas-Tree-Safety-Tips-PDF
+3 Artificial trees: many are fire resistant; look for a "fire resistant" statement on the label
+  CPSC holiday decorating releases: https://www.cpsc.gov/Newsroom/News-Releases/2011/CPSC-Gives-Consumers-a-Holiday-Home-Decorating-Safety-GuideTop-Tips-to-Prevent-Holiday-Decorating-Related-Fires-and-Injuries ; https://www.cpsc.gov/Newsroom/News-Releases/2010/Ten-Tips-to-Keep-Your-Holiday-Home-Fire-and-Injury-FreeFires-Lead-the-List-of-Hazards-Related-to-Holiday-Decorating
+  "keep it away from heat": NFPA 3-ft rule from heat sources (same NFPA tips)
+4 Check the tree stand water daily (NFPA); NIST tests: a watered tree is much less of a fire hazard than a dry one
+  NFPA tips above; NIST: https://www.nist.gov/node/1299711
+5 Turn off tree lights before leaving home or going to bed (NFPA); timers reduce waste (DOE/LED holiday lighting pages)
+Cut: "3 strings max" (not confirmed on current sources), dollar savings figures (old electricity price).
+Photos (Pexels): cover 10606112 (Евгений), led 16324818 (Efrem), strings 13526749 (Joshua), artificial 35279900 (Sóc), water 19198220 (Wyxina Tresse), night 5686475 (Olena), end 6117267 (Vladislav)

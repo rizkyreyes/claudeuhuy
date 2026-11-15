@@ -1,0 +1,41 @@
+# wind-turbine-p1 (3d-28) sources, checked 15 Nov 2026 (cloud run). energy.gov and oneenergy.com were not reachable from the sandbox (DNS): checked on search excerpts of those pages.
+
+Hook / structure "held up by a buried slab of concrete and the dirt on top" (gravity spread footing, backfill weight resists overturning; a wider footing resists overturning better):
+- https://civilrenewables.squarespace.com/blog/gravity-base-foundations-for-wind-turbines  (gravity-base foundations rely on gravity to resist overturning; typically 7-12 ft below surface)
+- US patents 10968894 / 10851763 (image-ppubs.uspto.gov): slab held by bearing on the subgrade + weight of the backfill on top; backfill weight counteracts the overturning moment; larger diameter resists overturning better
+- https://www.windpowerengineering.com/take-a-closer-look-at-pouring-turbine-foundations/  (conventional foundations: large concrete pads ~20 m across, 2-3 m deep)
+  Wording "This wind turbine" = the one in our animation (a gravity footing); not claimed for every turbine (some use piles or rock anchors).
+
+"wind tries to tip the whole tower over" = overturning moment (same patents / gravity-base article).
+
+"cage of steel rebar, as much as fifty tons":
+- Knox County, Ohio windfarm picture tour (knoxcountyne.gov/pdfs/planning_zoning/Windfarm_Picture_Tour.pdf): 48 tons of rebar, 495 cubic yards per foundation
+- South Dakota PUC EL17-055 appendix A (puc.sd.gov): V80 78 m spread footing ~505 cu yd concrete, ~54 tons Grade 60 rebar
+- One Energy (oneenergy.com/?p=15041): ~300 cu yd, 40,000-60,000 lb rebar (smaller machines) -> hence "as much as" and "often around"
+
+"ring of anchor bolts, more than a hundred":
+- One Energy (oneenergy.com/?p=14455): 1.5 MW turbine uses 120 anchor bolts at the base
+- Enerpac time-lapse blog (blog.enerpac.com/wind-turbine-construction-time-lapse-video/): base tower bolted to the foundation with 160 bolts
+
+"trucks pour concrete, often around five hundred cubic yards": Knox County 495 cu yd, SD PUC ~505 cu yd (above); larger machines 850-900 cu yd (DNV, https://www.dnv.com/article/foundation-concrete-voids-229998/)
+
+"dirt goes back on top" once the concrete has set: gravity-base article + patents above (backfill placed after the concrete sets)
+
+Tower "arrives in giant steel sections", crane lowers the first over the anchor bolts, crews tighten the nuts, each section bolts onto the one below (flanges):
+- Enerpac blog (above): base section bolted to the foundation with bolt tensioners, mid-tower sections bolted with torque wrenches
+- https://www.liebherr.com/en-cy/group/magazine/wind-day/onshore-offshore-assembly-5040545 ; cleantechnica.com/2022/12/13/how-are-wind-turbines-made/ (towers in sections, lifted by crane and bolted)
+
+"the average new US tower puts the hub about three hundred forty feet in the air":
+- energy.gov (DOE WETO, Land-Based Wind Market Report summary): average hub height of new US land-based turbines ~103.4 m (~339 ft) in 2023 -> "about 340 ft"
+  (a secondary summary quotes 98.1 m; we follow the DOE page)
+
+"the nacelle, the machine room on top" + "on a smaller turbine, about fifty tons":
+- US patent 7883131 / KHL / Reuters Events (via search): ~1.5 MW class nacelle ~50 tons incl. generator, gearbox and housing; a 3 MW nacelle ~80 t without drivetrain -> "on a smaller turbine, about fifty tons"
+- "the big lift": wording only. NOT "the heaviest lift": a bottom tower section can weigh up to ~80 t (US patent search excerpt), more than a ~50 t nacelle, so "heaviest" was cut and re-recorded.
+
+"blades, each over two hundred feet long": energy.gov "Top 10 things you didn't know about wind power": blades average 210 ft; 2023 average rotor diameter 438 ft (energy.gov "Wind turbines: bigger, better")
+
+"Some crews lift them one at a time. Others bolt all three to the hub on the ground and raise the whole rotor": lancashirebusinessview / Enerpac / Liebherr (rotor assembled on the ground and lifted as one, or blades lifted individually). Both methods are in use.
+
+Cut / not used: exact foundation diameter and depth (varies), total bolts per turbine (25,000 per a vendor), crane capacity (650 t example), curing time.
+Illustrative in the 3D: generic turbine, 103 m hub, 64 m blades, 19 m footing, rebar and bolt counts drawn fewer and thicker than real.

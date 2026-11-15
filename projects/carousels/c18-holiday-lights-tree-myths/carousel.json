@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 holiday lights and tree myths to drop this year", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/led.jpg", "myth": "LED holiday lights don't really save much power.",
+      "fact": "They use far less electricity than old incandescent strings. DOE figured 90% or more savings on a 6-foot tree over a 40-day season.",
+      "source": "U.S. Department of Energy, Energy Saver" },
+    { "type": "myth", "bg": "bg/strings.jpg", "myth": "You can plug as many light strings end to end as you want.",
+      "fact": "Every set has a limit. Read the maker's instructions for how many strands can be connected, and use lights with a testing lab label.",
+      "source": "NFPA Christmas tree safety tips" },
+    { "type": "myth", "bg": "bg/artificial.jpg", "myth": "An artificial tree can't catch fire.",
+      "fact": "Many are fire resistant, but only if the label says so. Look for that statement when you buy one, and keep it away from heat.",
+      "source": "U.S. Consumer Product Safety Commission" },
+    { "type": "myth", "bg": "bg/water.jpg", "myth": "A real tree that looked fresh at the lot will stay safe.",
+      "fact": "Check the stand's water every day. NIST fire tests show a well-watered tree is far less of a fire hazard than a dry one.",
+      "source": "NFPA, NIST" },
+    { "type": "myth", "bg": "bg/night.jpg", "myth": "It's fine to leave the tree lights on all night.",
+      "fact": "Turn them off before you go to bed or leave the house. A timer makes it automatic and saves power too.",
+      "source": "NFPA, U.S. Department of Energy" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one were you doing?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["DOE Energy Saver: LED holiday lights", "NFPA: Christmas tree safety tips", "CPSC: holiday decorating safety", "NIST: Christmas tree fire tests"] }
+  ]
+}
