@@ -588,3 +588,10 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Queue: new 7-topic batch added (3d-28..3d-34, web evidence only, no vidIQ). Wind turbine = two-parter (Sat 21 / Sun 22).
   - Step 9: c18 slot Tue 17 Nov 9 AM ET is ~68 h away (> 60 h): not made tonight, the next run makes it.
 
+
+## 2026-11-15 (laptop, morning run) airport-runway
+- No Runpod pods. 3d-24 lightning-rod and 3d-26 city-sewers already rendered (13/14 Nov), still waiting for "setuju". Took 3d-27 airport-runway.
+- GPU stills sheet OK (no fluid bake). Final render 2322 frames on RTX 4060. Airport.mp4 77.4 s. First mix peaked -0.3 dBFS (gear thud on the slam, 8.3 s): 0.7 -> 0.45. Now -15.5 LUFS, peak -1.2 dBFS.
+- Covers A/B/C via fal.ai (make_covers.sh, key works again on the laptop) + Remotion cover.sh "AIRPORT / RUNWAY". A (sunset landing + cutaway) suggested.
+- c17 Thanksgiving turkey myths scheduled on TikTok (Buffer 6af989f276c23bf1c7723283, Sun 15 Nov 1 PM ET, 7 images, automatic). c13 set posted, media removed.
+- Comments: 1 new YouTube comment (nuclear plant, third loop), reply drafted, waiting for Rizky's OK.

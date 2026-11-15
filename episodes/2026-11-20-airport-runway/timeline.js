@@ -126,7 +126,7 @@ show(text("ONLY THE\nTOP LAYER", 540, TOP_Y + 20, 980, 300, 124, WHITE), C.only 
 EV.layer_glows.forEach(t => sound("tick", t, 0.45));
 // B2 stake: jets slam down, soft ground gives, slabs crack
 show(text("JETS SLAM\nDOWN", 540, TOP_Y + 20, 980, 300, 128, WHITE), C.jets - 0.05, C.gives - 0.1, "slam", "whoosh");
-sound("gearthud", EV.slam, 0.7);
+sound("gearthud", EV.slam, 0.45);
 show(text("THE GROUND\nGIVES", 540, TOP_Y + 20, 980, 300, 120, RED), C.gives - 0.05, C.slabs - 0.1, "slam", "deny");
 show(text("SLABS\nCRACK", 540, TOP_Y + 20, 980, 300, 140, RED), C.slabs - 0.05, C.heres - 0.1, "slam", "impact");
 sound("crack", EV.crack - 0.05, 0.7);
