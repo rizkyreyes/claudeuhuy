@@ -595,3 +595,10 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - Covers A/B/C via fal.ai (make_covers.sh, key works again on the laptop) + Remotion cover.sh "AIRPORT / RUNWAY". A (sunset landing + cutaway) suggested.
 - c17 Thanksgiving turkey myths scheduled on TikTok (Buffer 6af989f276c23bf1c7723283, Sun 15 Nov 1 PM ET, 7 images, automatic). c13 set posted, media removed.
 - Comments: 1 new YouTube comment (nuclear plant, third loop), reply drafted, waiting for Rizky's OK.
+
+## 15 Nov 2026 (laptop) — fal.ai covers + Buffer
+- New fal.ai covers (object name only) swapped into Buffer for nuclear, pile-driver, water-well, pipe-under-river (12 posts edited; media/<slug>.mp4?v=f, cover F as last frame).
+- Scheduled lightning-rod (Wed 18): TT 6af999e3918fe79d2edcb576, YT 6af999e7c5b364e06250ddd0, IG 6af999eb918fe79d2edcb6c7.
+- Scheduled city-sewers (Thu 19): TT 6af999f0b9a106584ca51229, YT 6af999f3e86a5789a608a58f, IG 6af999f8e86a5789a608a7aa.
+- Scheduled airport-runway cover B (Fri 20): TT 6af999fc918fe79d2edcb96a, YT 6af99a00e5a113497ae38cbd, IG 6af99a03c5b364e06250e2da.
+- IG captions start with "Send this to someone who..." (14 Nov rule).
