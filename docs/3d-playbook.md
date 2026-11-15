@@ -110,3 +110,7 @@ One 8-12 min 16:9 video every 2 weeks, stitched from winning Shorts topics of on
 ## Named series + compilations (Rizky 15 Nov 2026, channel audit)
 - Series name **"How It's Built"** lives in the YouTube playlist and the description's first line ("How It's Built #<n>"), never on screen (the 5 Nov no-label rule stands). Every new 3D Short goes into the playlist.
 - One long-form compilation per ~10 strong Shorts: "How 10 Impossible Structures Were Built" (16:9 re-frame or 9:16 centered, chapters, ~12 min). First one planned in `state/compilations.md`.
+
+## Short captions + titles (Rizky 15 Nov 2026, overrides longer caption rules)
+- Caption (TikTok/IG/YouTube text): ONE short line (claim or stake, max ~12 words) + the viewer question + an emoji, then a blank line and 5 relevant hashtags (topic, topic variant, field, #howitworks or #engineering, #3danimation). No paragraph retelling the video. IG keeps the "Send this to someone who … 👇" first line.
+- YouTube title: max ~45 characters, the hook in 3-6 words + "#shorts" + one topic hashtag, e.g. "This Hammer Lifts Itself #shorts #piledriver".
