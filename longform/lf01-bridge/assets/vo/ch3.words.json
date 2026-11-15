@@ -1,0 +1,998 @@
+[
+ {
+  "id": "w0",
+  "text": "A",
+  "start": 0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "suspension",
+  "start": 0.12,
+  "end": 0.64
+ },
+ {
+  "id": "w2",
+  "text": "bridge",
+  "start": 0.72,
+  "end": 1.04
+ },
+ {
+  "id": "w3",
+  "text": "has",
+  "start": 1.2,
+  "end": 1.36
+ },
+ {
+  "id": "w4",
+  "text": "two",
+  "start": 1.48,
+  "end": 1.6
+ },
+ {
+  "id": "w5",
+  "text": "kinds",
+  "start": 1.68,
+  "end": 1.92
+ },
+ {
+  "id": "w6",
+  "text": "of",
+  "start": 2,
+  "end": 2.08
+ },
+ {
+  "id": "w7",
+  "text": "giants.",
+  "start": 2.16,
+  "end": 3.093
+ },
+ {
+  "id": "w8",
+  "text": "The",
+  "start": 3.147,
+  "end": 3.2
+ },
+ {
+  "id": "w9",
+  "text": "towers",
+  "start": 3.28,
+  "end": 3.68
+ },
+ {
+  "id": "w10",
+  "text": "hold",
+  "start": 3.76,
+  "end": 3.92
+ },
+ {
+  "id": "w11",
+  "text": "the",
+  "start": 3.96,
+  "end": 4
+ },
+ {
+  "id": "w12",
+  "text": "cables",
+  "start": 4.04,
+  "end": 4.4
+ },
+ {
+  "id": "w13",
+  "text": "up.",
+  "start": 4.56,
+  "end": 5.16
+ },
+ {
+  "id": "w14",
+  "text": "The",
+  "start": 5.2,
+  "end": 5.36
+ },
+ {
+  "id": "w15",
+  "text": "anchorages",
+  "start": 5.44,
+  "end": 6
+ },
+ {
+  "id": "w16",
+  "text": "hold",
+  "start": 6.08,
+  "end": 6.16
+ },
+ {
+  "id": "w17",
+  "text": "the",
+  "start": 6.24,
+  "end": 6.32
+ },
+ {
+  "id": "w18",
+  "text": "cables",
+  "start": 6.36,
+  "end": 6.72
+ },
+ {
+  "id": "w19",
+  "text": "down.",
+  "start": 6.8,
+  "end": 7.8
+ },
+ {
+  "id": "w20",
+  "text": "The",
+  "start": 7.84,
+  "end": 7.92
+ },
+ {
+  "id": "w21",
+  "text": "anchorages",
+  "start": 8,
+  "end": 8.56
+ },
+ {
+  "id": "w22",
+  "text": "sit",
+  "start": 8.64,
+  "end": 8.72
+ },
+ {
+  "id": "w23",
+  "text": "on",
+  "start": 8.8,
+  "end": 8.96
+ },
+ {
+  "id": "w24",
+  "text": "land",
+  "start": 9.08,
+  "end": 9.2
+ },
+ {
+  "id": "w25",
+  "text": "at",
+  "start": 9.28,
+  "end": 9.36
+ },
+ {
+  "id": "w26",
+  "text": "each",
+  "start": 9.44,
+  "end": 9.6
+ },
+ {
+  "id": "w27",
+  "text": "end,",
+  "start": 9.68,
+  "end": 10.107
+ },
+ {
+  "id": "w28",
+  "text": "and",
+  "start": 10.133,
+  "end": 10.16
+ },
+ {
+  "id": "w29",
+  "text": "they",
+  "start": 10.24,
+  "end": 10.32
+ },
+ {
+  "id": "w30",
+  "text": "are",
+  "start": 10.4,
+  "end": 10.48
+ },
+ {
+  "id": "w31",
+  "text": "enormous",
+  "start": 10.56,
+  "end": 11.28
+ },
+ {
+  "id": "w32",
+  "text": "blocks",
+  "start": 11.44,
+  "end": 11.6
+ },
+ {
+  "id": "w33",
+  "text": "of",
+  "start": 11.64,
+  "end": 11.68
+ },
+ {
+  "id": "w34",
+  "text": "concrete.",
+  "start": 11.76,
+  "end": 12.84
+ },
+ {
+  "id": "w35",
+  "text": "Every",
+  "start": 12.88,
+  "end": 13.2
+ },
+ {
+  "id": "w36",
+  "text": "car",
+  "start": 13.28,
+  "end": 13.44
+ },
+ {
+  "id": "w37",
+  "text": "on",
+  "start": 13.52,
+  "end": 13.6
+ },
+ {
+  "id": "w38",
+  "text": "the",
+  "start": 13.64,
+  "end": 13.68
+ },
+ {
+  "id": "w39",
+  "text": "bridge",
+  "start": 13.76,
+  "end": 14
+ },
+ {
+  "id": "w40",
+  "text": "will",
+  "start": 14.08,
+  "end": 14.16
+ },
+ {
+  "id": "w41",
+  "text": "end",
+  "start": 14.24,
+  "end": 14.32
+ },
+ {
+  "id": "w42",
+  "text": "up",
+  "start": 14.4,
+  "end": 14.48
+ },
+ {
+  "id": "w43",
+  "text": "pulling",
+  "start": 14.56,
+  "end": 14.8
+ },
+ {
+  "id": "w44",
+  "text": "on",
+  "start": 14.88,
+  "end": 14.96
+ },
+ {
+  "id": "w45",
+  "text": "them,",
+  "start": 15.04,
+  "end": 15.48
+ },
+ {
+  "id": "w46",
+  "text": "so",
+  "start": 15.52,
+  "end": 15.68
+ },
+ {
+  "id": "w47",
+  "text": "steel",
+  "start": 15.84,
+  "end": 16.08
+ },
+ {
+  "id": "w48",
+  "text": "eyebars",
+  "start": 16.16,
+  "end": 16.56
+ },
+ {
+  "id": "w49",
+  "text": "are",
+  "start": 16.64,
+  "end": 16.72
+ },
+ {
+  "id": "w50",
+  "text": "cast",
+  "start": 16.8,
+  "end": 17.12
+ },
+ {
+  "id": "w51",
+  "text": "deep",
+  "start": 17.2,
+  "end": 17.36
+ },
+ {
+  "id": "w52",
+  "text": "inside,",
+  "start": 17.44,
+  "end": 18.2
+ },
+ {
+  "id": "w53",
+  "text": "fanning",
+  "start": 18.24,
+  "end": 18.56
+ },
+ {
+  "id": "w54",
+  "text": "out",
+  "start": 18.64,
+  "end": 18.8
+ },
+ {
+  "id": "w55",
+  "text": "like",
+  "start": 18.84,
+  "end": 18.88
+ },
+ {
+  "id": "w56",
+  "text": "the",
+  "start": 18.96,
+  "end": 19.04
+ },
+ {
+  "id": "w57",
+  "text": "roots",
+  "start": 19.12,
+  "end": 19.28
+ },
+ {
+  "id": "w58",
+  "text": "of",
+  "start": 19.32,
+  "end": 19.36
+ },
+ {
+  "id": "w59",
+  "text": "a",
+  "start": 19.44,
+  "end": 19.48
+ },
+ {
+  "id": "w60",
+  "text": "tree.",
+  "start": 19.52,
+  "end": 20.427
+ },
+ {
+  "id": "w61",
+  "text": "The",
+  "start": 20.453,
+  "end": 20.48
+ },
+ {
+  "id": "w62",
+  "text": "cables",
+  "start": 20.56,
+  "end": 20.96
+ },
+ {
+  "id": "w63",
+  "text": "will",
+  "start": 21,
+  "end": 21.04
+ },
+ {
+  "id": "w64",
+  "text": "be",
+  "start": 21.12,
+  "end": 21.2
+ },
+ {
+  "id": "w65",
+  "text": "tied",
+  "start": 21.28,
+  "end": 21.52
+ },
+ {
+  "id": "w66",
+  "text": "to",
+  "start": 21.6,
+  "end": 21.68
+ },
+ {
+  "id": "w67",
+  "text": "those",
+  "start": 21.8,
+  "end": 21.92
+ },
+ {
+  "id": "w68",
+  "text": "bars.",
+  "start": 22,
+  "end": 23.08
+ },
+ {
+  "id": "w69",
+  "text": "Then",
+  "start": 23.12,
+  "end": 23.36
+ },
+ {
+  "id": "w70",
+  "text": "the",
+  "start": 23.44,
+  "end": 23.52
+ },
+ {
+  "id": "w71",
+  "text": "towers",
+  "start": 23.56,
+  "end": 23.92
+ },
+ {
+  "id": "w72",
+  "text": "climb,",
+  "start": 24,
+  "end": 24.6
+ },
+ {
+  "id": "w73",
+  "text": "section",
+  "start": 24.64,
+  "end": 25.04
+ },
+ {
+  "id": "w74",
+  "text": "by",
+  "start": 25.12,
+  "end": 25.2
+ },
+ {
+  "id": "w75",
+  "text": "section,",
+  "start": 25.28,
+  "end": 25.8
+ },
+ {
+  "id": "w76",
+  "text": "on",
+  "start": 25.84,
+  "end": 25.92
+ },
+ {
+  "id": "w77",
+  "text": "top",
+  "start": 26,
+  "end": 26.16
+ },
+ {
+  "id": "w78",
+  "text": "of",
+  "start": 26.24,
+  "end": 26.32
+ },
+ {
+  "id": "w79",
+  "text": "the",
+  "start": 26.36,
+  "end": 26.4
+ },
+ {
+  "id": "w80",
+  "text": "piers",
+  "start": 26.48,
+  "end": 26.72
+ },
+ {
+  "id": "w81",
+  "text": "we",
+  "start": 26.8,
+  "end": 26.88
+ },
+ {
+  "id": "w82",
+  "text": "just",
+  "start": 26.96,
+  "end": 27.12
+ },
+ {
+  "id": "w83",
+  "text": "built.",
+  "start": 27.2,
+  "end": 28.12
+ },
+ {
+  "id": "w84",
+  "text": "On",
+  "start": 28.16,
+  "end": 28.24
+ },
+ {
+  "id": "w85",
+  "text": "top",
+  "start": 28.32,
+  "end": 28.48
+ },
+ {
+  "id": "w86",
+  "text": "of",
+  "start": 28.56,
+  "end": 28.64
+ },
+ {
+  "id": "w87",
+  "text": "each",
+  "start": 28.72,
+  "end": 28.88
+ },
+ {
+  "id": "w88",
+  "text": "tower",
+  "start": 28.96,
+  "end": 29.28
+ },
+ {
+  "id": "w89",
+  "text": "sits",
+  "start": 29.36,
+  "end": 29.52
+ },
+ {
+  "id": "w90",
+  "text": "a",
+  "start": 29.6,
+  "end": 29.68
+ },
+ {
+  "id": "w91",
+  "text": "heavy",
+  "start": 29.84,
+  "end": 30
+ },
+ {
+  "id": "w92",
+  "text": "steel",
+  "start": 30.16,
+  "end": 30.4
+ },
+ {
+  "id": "w93",
+  "text": "saddle,",
+  "start": 30.56,
+  "end": 31.28
+ },
+ {
+  "id": "w94",
+  "text": "a",
+  "start": 31.36,
+  "end": 31.4
+ },
+ {
+  "id": "w95",
+  "text": "curved",
+  "start": 31.44,
+  "end": 31.76
+ },
+ {
+  "id": "w96",
+  "text": "cradle",
+  "start": 31.84,
+  "end": 32.16
+ },
+ {
+  "id": "w97",
+  "text": "the",
+  "start": 32.24,
+  "end": 32.32
+ },
+ {
+  "id": "w98",
+  "text": "cable",
+  "start": 32.4,
+  "end": 32.64
+ },
+ {
+  "id": "w99",
+  "text": "will",
+  "start": 32.72,
+  "end": 32.88
+ },
+ {
+  "id": "w100",
+  "text": "rest",
+  "start": 33,
+  "end": 33.12
+ },
+ {
+  "id": "w101",
+  "text": "in.",
+  "start": 33.2,
+  "end": 34.04
+ },
+ {
+  "id": "w102",
+  "text": "The",
+  "start": 34.08,
+  "end": 34.12
+ },
+ {
+  "id": "w103",
+  "text": "cable",
+  "start": 34.16,
+  "end": 34.48
+ },
+ {
+  "id": "w104",
+  "text": "doesn't",
+  "start": 34.56,
+  "end": 34.8
+ },
+ {
+  "id": "w105",
+  "text": "end",
+  "start": 34.88,
+  "end": 35.04
+ },
+ {
+  "id": "w106",
+  "text": "at",
+  "start": 35.08,
+  "end": 35.12
+ },
+ {
+  "id": "w107",
+  "text": "the",
+  "start": 35.2,
+  "end": 35.28
+ },
+ {
+  "id": "w108",
+  "text": "tower.",
+  "start": 35.6,
+  "end": 35.96
+ },
+ {
+  "id": "w109",
+  "text": "It",
+  "start": 36,
+  "end": 36.08
+ },
+ {
+  "id": "w110",
+  "text": "just",
+  "start": 36.2,
+  "end": 36.32
+ },
+ {
+  "id": "w111",
+  "text": "passes",
+  "start": 36.4,
+  "end": 36.72
+ },
+ {
+  "id": "w112",
+  "text": "over",
+  "start": 36.8,
+  "end": 36.96
+ },
+ {
+  "id": "w113",
+  "text": "it,",
+  "start": 37.04,
+  "end": 37.307
+ },
+ {
+  "id": "w114",
+  "text": "the",
+  "start": 37.333,
+  "end": 37.36
+ },
+ {
+  "id": "w115",
+  "text": "way",
+  "start": 37.44,
+  "end": 37.52
+ },
+ {
+  "id": "w116",
+  "text": "a",
+  "start": 37.56,
+  "end": 37.6
+ },
+ {
+  "id": "w117",
+  "text": "rope",
+  "start": 37.68,
+  "end": 37.92
+ },
+ {
+  "id": "w118",
+  "text": "passes",
+  "start": 38.08,
+  "end": 38.24
+ },
+ {
+  "id": "w119",
+  "text": "over",
+  "start": 38.32,
+  "end": 38.48
+ },
+ {
+  "id": "w120",
+  "text": "a",
+  "start": 38.56,
+  "end": 38.64
+ },
+ {
+  "id": "w121",
+  "text": "pulley.",
+  "start": 38.68,
+  "end": 39.6
+ },
+ {
+  "id": "w122",
+  "text": "That",
+  "start": 39.68,
+  "end": 39.76
+ },
+ {
+  "id": "w123",
+  "text": "matters,",
+  "start": 39.84,
+  "end": 40.48
+ },
+ {
+  "id": "w124",
+  "text": "because",
+  "start": 40.56,
+  "end": 40.64
+ },
+ {
+  "id": "w125",
+  "text": "it",
+  "start": 40.72,
+  "end": 40.8
+ },
+ {
+  "id": "w126",
+  "text": "means",
+  "start": 40.92,
+  "end": 41.04
+ },
+ {
+  "id": "w127",
+  "text": "the",
+  "start": 41.12,
+  "end": 41.2
+ },
+ {
+  "id": "w128",
+  "text": "towers",
+  "start": 41.24,
+  "end": 41.52
+ },
+ {
+  "id": "w129",
+  "text": "are",
+  "start": 41.6,
+  "end": 41.76
+ },
+ {
+  "id": "w130",
+  "text": "only",
+  "start": 41.84,
+  "end": 42.08
+ },
+ {
+  "id": "w131",
+  "text": "being",
+  "start": 42.24,
+  "end": 42.4
+ },
+ {
+  "id": "w132",
+  "text": "pushed",
+  "start": 42.52,
+  "end": 42.8
+ },
+ {
+  "id": "w133",
+  "text": "straight",
+  "start": 42.88,
+  "end": 43.2
+ },
+ {
+  "id": "w134",
+  "text": "down.",
+  "start": 43.28,
+  "end": 44.04
+ },
+ {
+  "id": "w135",
+  "text": "All",
+  "start": 44.08,
+  "end": 44.24
+ },
+ {
+  "id": "w136",
+  "text": "the",
+  "start": 44.32,
+  "end": 44.4
+ },
+ {
+  "id": "w137",
+  "text": "sideways",
+  "start": 44.48,
+  "end": 44.96
+ },
+ {
+  "id": "w138",
+  "text": "pull",
+  "start": 45.08,
+  "end": 45.2
+ },
+ {
+  "id": "w139",
+  "text": "goes",
+  "start": 45.28,
+  "end": 45.52
+ },
+ {
+  "id": "w140",
+  "text": "past",
+  "start": 45.68,
+  "end": 45.84
+ },
+ {
+  "id": "w141",
+  "text": "them,",
+  "start": 46,
+  "end": 46.187
+ },
+ {
+  "id": "w142",
+  "text": "to",
+  "start": 46.213,
+  "end": 46.24
+ },
+ {
+  "id": "w143",
+  "text": "the",
+  "start": 46.32,
+  "end": 46.4
+ },
+ {
+  "id": "w144",
+  "text": "anchorages.",
+  "start": 46.52,
+  "end": 47.64
+ },
+ {
+  "id": "w145",
+  "text": "A",
+  "start": 47.68,
+  "end": 47.76
+ },
+ {
+  "id": "w146",
+  "text": "tower",
+  "start": 47.88,
+  "end": 48
+ },
+ {
+  "id": "w147",
+  "text": "that's",
+  "start": 48.08,
+  "end": 48.24
+ },
+ {
+  "id": "w148",
+  "text": "pushed",
+  "start": 48.32,
+  "end": 48.64
+ },
+ {
+  "id": "w149",
+  "text": "straight",
+  "start": 48.72,
+  "end": 48.96
+ },
+ {
+  "id": "w150",
+  "text": "down",
+  "start": 49.04,
+  "end": 49.36
+ },
+ {
+  "id": "w151",
+  "text": "can",
+  "start": 49.44,
+  "end": 49.52
+ },
+ {
+  "id": "w152",
+  "text": "be",
+  "start": 49.6,
+  "end": 49.68
+ },
+ {
+  "id": "w153",
+  "text": "tall",
+  "start": 49.76,
+  "end": 50.08
+ },
+ {
+  "id": "w154",
+  "text": "and",
+  "start": 50.16,
+  "end": 50.24
+ },
+ {
+  "id": "w155",
+  "text": "slender.",
+  "start": 50.32,
+  "end": 51.147
+ },
+ {
+  "id": "w156",
+  "text": "A",
+  "start": 51.173,
+  "end": 51.2
+ },
+ {
+  "id": "w157",
+  "text": "tower",
+  "start": 51.28,
+  "end": 51.44
+ },
+ {
+  "id": "w158",
+  "text": "that's",
+  "start": 51.52,
+  "end": 51.68
+ },
+ {
+  "id": "w159",
+  "text": "pulled",
+  "start": 51.72,
+  "end": 52
+ },
+ {
+  "id": "w160",
+  "text": "sideways",
+  "start": 52.12,
+  "end": 52.64
+ },
+ {
+  "id": "w161",
+  "text": "would",
+  "start": 52.68,
+  "end": 52.72
+ },
+ {
+  "id": "w162",
+  "text": "have",
+  "start": 52.8,
+  "end": 52.88
+ },
+ {
+  "id": "w163",
+  "text": "to",
+  "start": 52.96,
+  "end": 53.04
+ },
+ {
+  "id": "w164",
+  "text": "be",
+  "start": 53.16,
+  "end": 53.28
+ },
+ {
+  "id": "w165",
+  "text": "massive.",
+  "start": 53.36,
+  "end": 54.56
+ }
+]

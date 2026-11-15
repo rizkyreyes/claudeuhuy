@@ -1,0 +1,680 @@
+[
+ {
+  "id": "w0",
+  "text": "Now",
+  "start": 0,
+  "end": 0.16
+ },
+ {
+  "id": "w1",
+  "text": "there's",
+  "start": 0.24,
+  "end": 0.4
+ },
+ {
+  "id": "w2",
+  "text": "a",
+  "start": 0.48,
+  "end": 0.56
+ },
+ {
+  "id": "w3",
+  "text": "problem.",
+  "start": 0.84,
+  "end": 1.52
+ },
+ {
+  "id": "w4",
+  "text": "There",
+  "start": 1.6,
+  "end": 1.68
+ },
+ {
+  "id": "w5",
+  "text": "are",
+  "start": 1.8,
+  "end": 1.92
+ },
+ {
+  "id": "w6",
+  "text": "two",
+  "start": 2.04,
+  "end": 2.16
+ },
+ {
+  "id": "w7",
+  "text": "towers,",
+  "start": 2.24,
+  "end": 2.88
+ },
+ {
+  "id": "w8",
+  "text": "a",
+  "start": 2.96,
+  "end": 3.04
+ },
+ {
+  "id": "w9",
+  "text": "mile",
+  "start": 3.12,
+  "end": 3.36
+ },
+ {
+  "id": "w10",
+  "text": "apart,",
+  "start": 3.44,
+  "end": 3.92
+ },
+ {
+  "id": "w11",
+  "text": "with",
+  "start": 4.04,
+  "end": 4.16
+ },
+ {
+  "id": "w12",
+  "text": "open",
+  "start": 4.24,
+  "end": 4.48
+ },
+ {
+  "id": "w13",
+  "text": "water",
+  "start": 4.56,
+  "end": 4.88
+ },
+ {
+  "id": "w14",
+  "text": "in",
+  "start": 4.92,
+  "end": 4.96
+ },
+ {
+  "id": "w15",
+  "text": "between.",
+  "start": 5.04,
+  "end": 6.04
+ },
+ {
+  "id": "w16",
+  "text": "How",
+  "start": 6.08,
+  "end": 6.16
+ },
+ {
+  "id": "w17",
+  "text": "do",
+  "start": 6.2,
+  "end": 6.24
+ },
+ {
+  "id": "w18",
+  "text": "you",
+  "start": 6.28,
+  "end": 6.32
+ },
+ {
+  "id": "w19",
+  "text": "get",
+  "start": 6.4,
+  "end": 6.48
+ },
+ {
+  "id": "w20",
+  "text": "the",
+  "start": 6.56,
+  "end": 6.72
+ },
+ {
+  "id": "w21",
+  "text": "very",
+  "start": 6.88,
+  "end": 7.04
+ },
+ {
+  "id": "w22",
+  "text": "first",
+  "start": 7.12,
+  "end": 7.36
+ },
+ {
+  "id": "w23",
+  "text": "line",
+  "start": 7.44,
+  "end": 7.6
+ },
+ {
+  "id": "w24",
+  "text": "across?",
+  "start": 7.68,
+  "end": 8.76
+ },
+ {
+  "id": "w25",
+  "text": "At",
+  "start": 8.8,
+  "end": 8.88
+ },
+ {
+  "id": "w26",
+  "text": "Niagara",
+  "start": 8.96,
+  "end": 9.36
+ },
+ {
+  "id": "w27",
+  "text": "Falls,",
+  "start": 9.4,
+  "end": 9.893
+ },
+ {
+  "id": "w28",
+  "text": "in",
+  "start": 9.947,
+  "end": 10
+ },
+ {
+  "id": "w29",
+  "text": "1848,",
+  "start": 10.08,
+  "end": 11.253
+ },
+ {
+  "id": "w30",
+  "text": "they",
+  "start": 11.307,
+  "end": 11.36
+ },
+ {
+  "id": "w31",
+  "text": "did",
+  "start": 11.4,
+  "end": 11.44
+ },
+ {
+  "id": "w32",
+  "text": "it",
+  "start": 11.52,
+  "end": 11.6
+ },
+ {
+  "id": "w33",
+  "text": "with",
+  "start": 11.64,
+  "end": 11.68
+ },
+ {
+  "id": "w34",
+  "text": "a",
+  "start": 11.76,
+  "end": 11.84
+ },
+ {
+  "id": "w35",
+  "text": "kite.",
+  "start": 11.92,
+  "end": 12.747
+ },
+ {
+  "id": "w36",
+  "text": "A",
+  "start": 12.773,
+  "end": 12.8
+ },
+ {
+  "id": "w37",
+  "text": "boy",
+  "start": 12.88,
+  "end": 13.2
+ },
+ {
+  "id": "w38",
+  "text": "flew",
+  "start": 13.24,
+  "end": 13.36
+ },
+ {
+  "id": "w39",
+  "text": "a",
+  "start": 13.44,
+  "end": 13.52
+ },
+ {
+  "id": "w40",
+  "text": "kite",
+  "start": 13.6,
+  "end": 13.84
+ },
+ {
+  "id": "w41",
+  "text": "across",
+  "start": 13.92,
+  "end": 14.24
+ },
+ {
+  "id": "w42",
+  "text": "the",
+  "start": 14.32,
+  "end": 14.4
+ },
+ {
+  "id": "w43",
+  "text": "gorge,",
+  "start": 14.52,
+  "end": 14.92
+ },
+ {
+  "id": "w44",
+  "text": "and",
+  "start": 14.96,
+  "end": 15
+ },
+ {
+  "id": "w45",
+  "text": "its",
+  "start": 15.04,
+  "end": 15.28
+ },
+ {
+  "id": "w46",
+  "text": "string",
+  "start": 15.36,
+  "end": 15.68
+ },
+ {
+  "id": "w47",
+  "text": "became",
+  "start": 15.8,
+  "end": 16
+ },
+ {
+  "id": "w48",
+  "text": "the",
+  "start": 16.08,
+  "end": 16.24
+ },
+ {
+  "id": "w49",
+  "text": "first",
+  "start": 16.4,
+  "end": 16.56
+ },
+ {
+  "id": "w50",
+  "text": "link.",
+  "start": 16.64,
+  "end": 17.4
+ },
+ {
+  "id": "w51",
+  "text": "Today",
+  "start": 17.44,
+  "end": 17.84
+ },
+ {
+  "id": "w52",
+  "text": "it's",
+  "start": 17.92,
+  "end": 18.08
+ },
+ {
+  "id": "w53",
+  "text": "usually",
+  "start": 18.16,
+  "end": 18.4
+ },
+ {
+  "id": "w54",
+  "text": "a",
+  "start": 18.56,
+  "end": 18.693
+ },
+ {
+  "id": "w55",
+  "text": "boat,",
+  "start": 18.827,
+  "end": 19
+ },
+ {
+  "id": "w56",
+  "text": "or",
+  "start": 19.04,
+  "end": 19.12
+ },
+ {
+  "id": "w57",
+  "text": "a",
+  "start": 19.2,
+  "end": 19.24
+ },
+ {
+  "id": "w58",
+  "text": "helicopter,",
+  "start": 19.28,
+  "end": 20.16
+ },
+ {
+  "id": "w59",
+  "text": "but",
+  "start": 20.24,
+  "end": 20.32
+ },
+ {
+  "id": "w60",
+  "text": "the",
+  "start": 20.36,
+  "end": 20.4
+ },
+ {
+  "id": "w61",
+  "text": "idea",
+  "start": 20.48,
+  "end": 20.88
+ },
+ {
+  "id": "w62",
+  "text": "hasn't",
+  "start": 20.96,
+  "end": 21.2
+ },
+ {
+  "id": "w63",
+  "text": "changed.",
+  "start": 21.64,
+  "end": 22.133
+ },
+ {
+  "id": "w64",
+  "text": "The",
+  "start": 22.187,
+  "end": 22.24
+ },
+ {
+  "id": "w65",
+  "text": "thin",
+  "start": 22.32,
+  "end": 22.56
+ },
+ {
+  "id": "w66",
+  "text": "line",
+  "start": 22.76,
+  "end": 22.96
+ },
+ {
+  "id": "w67",
+  "text": "pulls",
+  "start": 23.04,
+  "end": 23.28
+ },
+ {
+  "id": "w68",
+  "text": "across",
+  "start": 23.36,
+  "end": 23.76
+ },
+ {
+  "id": "w69",
+  "text": "a",
+  "start": 23.88,
+  "end": 24
+ },
+ {
+  "id": "w70",
+  "text": "thicker",
+  "start": 24.04,
+  "end": 24.32
+ },
+ {
+  "id": "w71",
+  "text": "rope.",
+  "start": 24.4,
+  "end": 25
+ },
+ {
+  "id": "w72",
+  "text": "That",
+  "start": 25.04,
+  "end": 25.2
+ },
+ {
+  "id": "w73",
+  "text": "rope",
+  "start": 25.28,
+  "end": 25.52
+ },
+ {
+  "id": "w74",
+  "text": "pulls",
+  "start": 25.6,
+  "end": 25.76
+ },
+ {
+  "id": "w75",
+  "text": "across",
+  "start": 25.84,
+  "end": 26.16
+ },
+ {
+  "id": "w76",
+  "text": "a",
+  "start": 26.24,
+  "end": 26.32
+ },
+ {
+  "id": "w77",
+  "text": "steel",
+  "start": 26.4,
+  "end": 26.64
+ },
+ {
+  "id": "w78",
+  "text": "cable.",
+  "start": 26.72,
+  "end": 27.493
+ },
+ {
+  "id": "w79",
+  "text": "And",
+  "start": 27.547,
+  "end": 27.6
+ },
+ {
+  "id": "w80",
+  "text": "those",
+  "start": 27.72,
+  "end": 27.84
+ },
+ {
+  "id": "w81",
+  "text": "cables",
+  "start": 27.88,
+  "end": 28.24
+ },
+ {
+  "id": "w82",
+  "text": "hold",
+  "start": 28.32,
+  "end": 28.48
+ },
+ {
+  "id": "w83",
+  "text": "up",
+  "start": 28.56,
+  "end": 28.64
+ },
+ {
+  "id": "w84",
+  "text": "a",
+  "start": 28.72,
+  "end": 28.8
+ },
+ {
+  "id": "w85",
+  "text": "catwalk:",
+  "start": 28.96,
+  "end": 29.76
+ },
+ {
+  "id": "w86",
+  "text": "a",
+  "start": 29.84,
+  "end": 29.88
+ },
+ {
+  "id": "w87",
+  "text": "narrow",
+  "start": 29.92,
+  "end": 30.24
+ },
+ {
+  "id": "w88",
+  "text": "walkway",
+  "start": 30.4,
+  "end": 30.8
+ },
+ {
+  "id": "w89",
+  "text": "hanging",
+  "start": 30.88,
+  "end": 31.2
+ },
+ {
+  "id": "w90",
+  "text": "in",
+  "start": 31.24,
+  "end": 31.28
+ },
+ {
+  "id": "w91",
+  "text": "the",
+  "start": 31.36,
+  "end": 31.44
+ },
+ {
+  "id": "w92",
+  "text": "sky,",
+  "start": 31.52,
+  "end": 32.187
+ },
+ {
+  "id": "w93",
+  "text": "following",
+  "start": 32.293,
+  "end": 32.4
+ },
+ {
+  "id": "w94",
+  "text": "the",
+  "start": 32.48,
+  "end": 32.56
+ },
+ {
+  "id": "w95",
+  "text": "exact",
+  "start": 32.84,
+  "end": 33.12
+ },
+ {
+  "id": "w96",
+  "text": "curve",
+  "start": 33.2,
+  "end": 33.52
+ },
+ {
+  "id": "w97",
+  "text": "the",
+  "start": 33.6,
+  "end": 33.68
+ },
+ {
+  "id": "w98",
+  "text": "main",
+  "start": 33.8,
+  "end": 33.92
+ },
+ {
+  "id": "w99",
+  "text": "cables",
+  "start": 34,
+  "end": 34.32
+ },
+ {
+  "id": "w100",
+  "text": "will",
+  "start": 34.4,
+  "end": 34.48
+ },
+ {
+  "id": "w101",
+  "text": "take.",
+  "start": 34.56,
+  "end": 35.24
+ },
+ {
+  "id": "w102",
+  "text": "That's",
+  "start": 35.28,
+  "end": 35.52
+ },
+ {
+  "id": "w103",
+  "text": "where",
+  "start": 35.6,
+  "end": 35.68
+ },
+ {
+  "id": "w104",
+  "text": "the",
+  "start": 35.72,
+  "end": 35.76
+ },
+ {
+  "id": "w105",
+  "text": "workers",
+  "start": 35.84,
+  "end": 36.16
+ },
+ {
+  "id": "w106",
+  "text": "will",
+  "start": 36.24,
+  "end": 36.32
+ },
+ {
+  "id": "w107",
+  "text": "live",
+  "start": 36.4,
+  "end": 36.56
+ },
+ {
+  "id": "w108",
+  "text": "for",
+  "start": 36.6,
+  "end": 36.64
+ },
+ {
+  "id": "w109",
+  "text": "the",
+  "start": 36.72,
+  "end": 36.8
+ },
+ {
+  "id": "w110",
+  "text": "next",
+  "start": 36.88,
+  "end": 37.2
+ },
+ {
+  "id": "w111",
+  "text": "six",
+  "start": 37.36,
+  "end": 37.52
+ },
+ {
+  "id": "w112",
+  "text": "months.",
+  "start": 38,
+  "end": 38.56
+ }
+]

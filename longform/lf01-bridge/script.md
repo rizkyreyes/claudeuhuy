@@ -1,4 +1,4 @@
-# LF01 — How a Bridge Is Built, From River to Road (draft v1)
+# LF01 — How a Bridge Is Built, From River to Road (v2, approved 15 Nov)
 Target ~1,950 words ≈ 10:45 at the v4 Turbo pace. One continuous take. Facts from episodes/*bridge-pillars*, *pile-driver*, *suspension-bridge-p1/p2* sources.txt + asphalt sources to add.
 
 ## Cold open
@@ -10,19 +10,19 @@ A steel frame is lowered into place. Around it, long steel sheets are pushed int
 Water pushes on every wall, hard, and harder the deeper you go. So the frame inside holds the walls apart, like a ribcage.
 Now the crew digs out the soft mud. But they still can't pump the box dry. If they did, the water outside would push up through the floor and flood it from below. So they do something strange: they pour concrete underwater.
 The concrete goes down through a long pipe. The end of the pipe stays buried in fresh concrete the whole time, so new concrete pushes the old concrete outward and upward, and the water is shoved out of the way instead of mixing in. This layer is called the seal. On one bridge in Kentucky, it was fifteen feet thick. Its weight is what holds the floor down.
-Once the seal hardens, the pumps switch on. The water level drops, and the crew walks out onto dry concrete, below the surface of the river.
+Once the seal hardens, the pumps switch on. The water level drops, and the crew walks out onto dry concrete, below the surface of the river. Think about that for a second. Above their heads, the river is still flowing past, held back by a ring of steel sheets. Any leak, any weak joint, and the box fills again. So pumps keep running the whole time, and the walls are checked every single day.
 
 ## 2. Nails a hundred feet long
 But a river bottom is soft. A tower weighing tens of thousands of tons would sink into it. So before the footing, the crew drives piles: steel or concrete columns that reach down to firmer ground, some over a hundred feet long.
 To drive them, you need a hammer that lifts itself. Inside a steel cylinder sits a heavy weight called the ram. When the ram falls, it squeezes the air underneath it, and squeezed air gets hot. A little diesel is sprayed in, and it ignites from that heat alone. No spark, exactly like a diesel engine. The blast drives the pile down and throws the ram back up. It falls again, and again, forty to fifty times a minute, all on its own.
 A steel frame called the leads keeps every blow straight, and a cushioned helmet keeps the pile head from being crushed. The crew counts how many blows it takes to sink each foot. When the count climbs, the pile has reached ground that can hold.
 On top of the piles, they pour the footing, a slab of concrete as big as a house. Then the pier rises out of the water. When it's done, the steel sheets are pulled back out, and the river closes in around the new pier as if nothing happened.
-The Romans did the same thing two thousand years ago, with two rings of wooden posts packed with clay. Same idea: keep the water out, and build in the dry.
+The Romans did the same thing two thousand years ago, with two rings of wooden posts packed with clay. Same idea: keep the water out, and build in the dry. One pier is done. A big bridge needs two of them for the main towers, and every one is built this same way: a box, a seal, a forest of piles, and a footing on top.
 
 ## 3. Anchors and towers
 A suspension bridge has two kinds of giants. The towers hold the cables up. The anchorages hold the cables down.
 The anchorages sit on land at each end, and they are enormous blocks of concrete. Every car on the bridge will end up pulling on them, so steel eyebars are cast deep inside, fanning out like the roots of a tree. The cables will be tied to those bars.
-Then the towers climb, section by section, on top of the piers we just built. On top of each tower sits a heavy steel saddle, a curved cradle the cable will rest in. The cable doesn't end at the tower. It just passes over it, the way a rope passes over a pulley.
+Then the towers climb, section by section, on top of the piers we just built. On top of each tower sits a heavy steel saddle, a curved cradle the cable will rest in. The cable doesn't end at the tower. It just passes over it, the way a rope passes over a pulley. That matters, because it means the towers are only being pushed straight down. All the sideways pull goes past them, to the anchorages. A tower that's pushed straight down can be tall and slender. A tower that's pulled sideways would have to be massive.
 
 ## 4. The first line across
 Now there's a problem. There are two towers, a mile apart, with open water in between. How do you get the very first line across?
@@ -33,7 +33,7 @@ Here's the part almost nobody knows. The main cables of a big suspension bridge 
 A spinning wheel rolls out from one anchorage, over the first tower, across the main span, over the second tower, and down to the other anchorage, carrying a loop of wire behind it. At the far end, the loop is hooked onto a strand shoe. The wheel runs back empty, picks up another loop, and goes again. Back and forth, back and forth.
 Each wire is thinner than a pencil, under a fifth of an inch. But on the Golden Gate Bridge, the wheels ran for six months and laid down about eighty thousand miles of wire. That's enough to wrap around the Earth more than three times.
 Every few hundred wires are bundled into a strand. Each main cable on the Golden Gate has 61 strands, and 27,572 wires in total. Then a ring of hydraulic jacks squeezes the strands together into one tight, round cable, about three feet thick, and the whole thing is wrapped in more wire and painted to keep the rain out.
-We now have two of the strongest cables on Earth, hanging in a perfect curve from one end to the other. But there's still no road.
+We now have two of the strongest cables on Earth, hanging in a perfect curve from one end to the other. But there's still no road. And that curve isn't a guess. Engineers calculate exactly how much the cables will sag once the full weight of the road hangs from them, and the wires are spun to that shape from day one.
 
 ## 6. Hanging the road
 To hang a road, you first need something to hang it from. Steel cable bands are clamped around each main cable, about every fifty feet on the Golden Gate. From each band, a pair of steel ropes drops straight down. Those are the suspenders. On the Golden Gate, there are two hundred fifty pairs.
@@ -47,7 +47,7 @@ And asphalt is a strange material. About ninety-five percent of it is just rock:
 So the mix is made hot. At an asphalt plant, the rock tumbles through a long rotating drum with a burner at one end, until every bit of moisture is gone and the stone is around three hundred degrees Fahrenheit. That's hotter than boiling water. Then the bitumen is sprayed in, and it coats every single stone in a thin black film.
 The hot mix goes into trucks and races to the bridge, because the clock is ticking. On the deck, the crew first lays a waterproof membrane, a sealed skin that keeps water away from the steel or concrete below. On some steel bridges they even use epoxy asphalt, which cures hard, almost like glue.
 Then the paver arrives. Trucks tip the hot mix into its hopper at the front. Inside, conveyor belts carry it to the back, where a pair of augers spreads it sideways, and a heated steel plate called the screed irons it flat, to an exact thickness.
-Right behind the paver come the rollers. Steel drums, tons of weight, some vibrating. They squeeze the mix down, pushing the stones together and the air out, while it's still hot enough to move. If they wait too long and it cools, the stones lock in place with gaps between them, and water gets in. So they roll, and roll again, until the surface is dense and smooth.
+Right behind the paver come the rollers. Steel drums, tons of weight, some vibrating. They squeeze the mix down, pushing the stones together and the air out, while it's still hot enough to move. If they wait too long and it cools, the stones lock in place with gaps between them, and water gets in. So they roll, and roll again, until the surface is dense and smooth. The first roller sets the surface. The next ones squeeze it tighter. A rubber-tired roller often comes last, kneading the top like dough, so it seals without cracks. Every pass is planned, because the window between too hot to roll and too cold to move is short.
 A few hours later, it has cooled. The lines are painted. The road is done.
 
 ## 8. Where every car's weight goes
