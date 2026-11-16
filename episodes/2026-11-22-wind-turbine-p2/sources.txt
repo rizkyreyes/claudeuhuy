@@ -1,0 +1,60 @@
+wind-turbine-p2 (3d-29) — claim -> source. Checked 16 Nov 2026 (cloud run; energy.gov pages read via search excerpts).
+
+Blades work like an airplane wing; lift spins the rotor:
+  DOE "How a Wind Turbine Works - Text Version": "aerodynamic force from the rotor blades, which work like an airplane wing or helicopter rotor blade. When wind flows across the blade, the air pressure on one side of the blade decreases. The difference in air pressure across the two sides of the blade creates both lift and drag. The force of the lift is stronger than the drag and this causes the rotor to spin."
+  https://www.energy.gov/eere/wind/inside-wind-turbine-0
+  https://www.energy.gov/eere/wind/how-wind-turbine-works-text-version
+  -> script: "They spin on lift, like a plane", "the air pressure on one side drops. That difference pulls the blade forward, and the rotor turns."
+
+In a storm, too much wind could damage the machine (why turbines shut down / feather):
+  DOE pitch system: "Feathering the blades slows the turbine's rotor to prevent damage to the machine when wind speeds are too high for safe operation."
+  https://www.energy.gov/eere/wind/inside-wind-turbine-0
+  -> script: "in a storm, that lift could wreck the machine" (the video shows this as a red what-if, not a real event)
+
+Tips "well over a hundred miles an hour":
+  Engineering sources: modern turbines run tip speeds of about 60-80 m/s (~134-179 mph); tip-speed ratio ~6-9.
+  https://www.windfarmbop.com/wind-turbine-aerodynamics-how-a-wind-turbine-extracts-energy/
+  Princeton Andlinger Distillate (blade tip speeds): https://acee.princeton.edu/wp-content/uploads/2019/04/AndlingerDistillate_Article5.pdf
+  Cross-check: 133.8 m average rotor (DOE 2024 market report) at ~11 rpm -> 2*pi*67 m*11/60 = 77 m/s = 172 mph.
+  Cut: "200 mph" / "250 mph" claims from consumer sites (inflated).
+
+Hub turns slowly, "often under twenty times a minute":
+  Large utility rotors turn roughly 10-20 rpm (engineering/explainer sources above, Nature's Generator blog); older DOE text gives 30-60 rpm for smaller, older machines, so the script says "often", not "always".
+  https://naturesgenerator.com/blogs/news/how-fast-does-a-wind-turbine-spin
+
+Main shaft -> gearbox -> high-speed shaft spinning "more than a thousand times a minute":
+  DOE (archived "How Wind Turbines Work"): "Gears connect the low-speed shaft to the high-speed shaft and increase the rotational speeds from about 30 to 60 rotations per minute (rpm) to about 1000 to 1800 rpm, the rotational speed required by most generators to produce electricity."
+  https://webarchive.library.unt.edu/web/20120925155331/http://www1.eere.energy.gov/wind/inside_a_wind_turbine.html
+  Generators need ~1,500 rpm (50 Hz) / 1,800 rpm (60 Hz).
+  Note: direct-drive turbines skip the gearbox (DOE, PNNL). The video shows a generic GEARED turbine; the script never says "every turbine".
+  https://tethys.pnnl.gov/publications/animation-how-wind-turbine-works
+
+Generator: magnets and copper coils, relative motion pushes current:
+  DOE: generator = copper windings turning through a magnetic field. Faraday induction: a moving magnetic field past a coil induces current. Permanent-magnet generators carry magnets on the rotor; doubly-fed machines use rotor windings (electromagnets). "magnets sweeping past coils of copper wire" describes both in plain words.
+  https://www.energy.gov/cmei/systems/explore-wind-turbine-text-version
+
+Cables down the tower to a transformer at the base:
+  Turbine generators output ~690 V; each turbine feeds a step-up transformer (often pad-mounted at the tower base, sometimes inside the turbine) that raises it to the ~34.5 kV collection system.
+  https://www.powermag.com/wind-power-projects-must-be-managed-as-electrical-generation-plants/
+  WECC/IEEE multi-turbine equivalencing paper: "each turbine electrically attached to a pad-mounted transformer that steps up the voltage to a medium voltage level, typically 34.5 kV"
+  https://www.wecc.org/sites/default/files/documents/program/2024/IEEE2008_Multi%20Turbine%20Equivalencing.pdf
+  Cut: voltages (kept for 3d-31 power-grid).
+
+Wind vane + yaw motors turn the nacelle to face the wind:
+  DOE: "The wind vane measures wind direction and communicates with the yaw drive to orient the turbine properly with respect to the wind." "The yaw motors power the yaw drive, which rotates the nacelle on upwind turbines to keep them facing the wind when the wind direction changes."
+  https://www.energy.gov/eere/wind/inside-wind-turbine-0
+
+Pitch: each blade twists on its own bearing, controls rotor speed:
+  DOE: "The pitch system adjusts the angle of the wind turbine's blades with respect to the wind, controlling the rotor speed." Blades turn on pitch bearings at the hub.
+  https://www.energy.gov/eere/wind/inside-wind-turbine-0
+
+Above about 55 mph: blades feather, rotor slows, turbine waits out the storm:
+  DOE "How Do Wind Turbines Survive Severe Storms?": the anemometer triggers an automatic shutdown at wind speeds higher than about 55 mph (cut-out speed varies by turbine); blades feather (turn edge-on) to reduce load; once the wind slows they unfeather and normal operation resumes.
+  https://www.energy.gov/eere/articles/how-do-wind-turbines-survive-severe-storms
+  Univ. of Wyoming researcher: 55 mph typical cut-out, some turbines up to ~70 mph. https://cowboystatedaily.com/2022/11/09/why-wyomings-strong-winds-dont-topple-wind-turbines/
+  -> script: "Above about fifty-five miles an hour" (about, varies by turbine).
+
+Same turbine as part 1 (dimensions): DOE Land-Based Wind Market Report 2024 edition (2023 installs): average 3.4 MW, rotor 133.8 m, hub 103.4 m.
+  https://www.energy.gov/cmei/systems/land-based-wind-market-report-2024-edition
+
+Dropped / not said: exact rpm of any model, gear ratios (the gears on screen are illustrative, ~3x per stage so the motion stays readable), cut-in speed (sources differ: 6-9, 7-11, 8-16 mph), MW/homes-powered numbers.

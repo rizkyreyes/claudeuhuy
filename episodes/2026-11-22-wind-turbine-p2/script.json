@@ -1,0 +1,13 @@
+{
+ "slug": "wind-turbine-p2",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "A wind turbine's blades are wings. They spin on lift, like a plane, and in a storm, that lift could wreck the machine. Yesterday we built this turbine. Today, how it makes power. Wind flows across each curved blade, and the air pressure on one side drops. That difference pulls the blade forward, and the rotor turns. Out at the tips, the blades move well over a hundred miles an hour. But the hub turns slowly, often under twenty times a minute. A generator needs way more speed. So the slow, heavy main shaft drives a gearbox. Big gears turn smaller gears, until the shaft coming out spins more than a thousand times a minute. That fast shaft spins the generator: magnets sweeping past coils of copper wire, pushing current through them. Cables carry that power down inside the tower to a transformer at the base. Now, the wind keeps changing direction. A vane on the roof tracks it, and yaw motors turn the whole nacelle to face the wind. Each blade can also twist on its own bearing. That's called pitch, and it keeps the rotor at the right speed. Above about fifty-five miles an hour, the blades twist edge-on, the rotor slows down, and the turbine waits out the storm. When it passes, they twist back, because"
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
