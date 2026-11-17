@@ -11,3 +11,7 @@ Laptop: `bash "D:/01 Konten/Bahan Bikin Konten/tesseract/remotion/cover.sh" 2026
 - **C: "WIND / TURBINE"** on `cover/hero_C.png` (exploded turbine at blue hour: blades + hub, nacelle, stacked tower sections, cyan foundation cage)
   fal prompt: `make_covers.sh` PC. Note: the AI drew the tower sections as separated drums; reads as "exploded view", not as the real tower.
 - Checked: no readable text, no logos, no people in any of the three.
+
+pos A: right 960 470
+pos B: right 1080 370
+pos C: left 1230 470
