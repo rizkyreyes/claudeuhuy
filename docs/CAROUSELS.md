@@ -4,7 +4,7 @@
 > - **Slot:** every other day from Tue 3 Nov 2026 (c11 lawn, re-used), **9:00 AM ET** (`T09:00:00-05:00` until 8 Mar 2027) = 21:00 WIB; on a Sunday use **1:00 PM ET** because the Sunday 3D video is on TikTok at 9 AM. The 3D video stays the only video that day.
 > - **Who does what:** the nightly cloud run (ROUTINE.md Step 9) researches, writes, renders and pushes the slides 1-2 days before the slot and sets the row to `ready`. The morning laptop run creates the TikTok photo post in Buffer **without asking** (Rizky, 2 Nov 2026: no approval for carousels; 7 images from the raw URLs, step 8 below), sets the row to `scheduled`, and just tells Rizky afterwards with a contact sheet + caption + slot. This replaces the manual posting of 23 Oct.
 > - Theme choice follows the demand-first rule: themes people actually search ("is it true that…", "myths about…"), seasonal when it fits (November: heating, winter driving, Thanksgiving cooking). Never bust a myth that an upcoming 3D video (`state/queue-3d.md`) is about.
-> - **Posting = fully automatic** (Rizky, 4 Nov 2026, replaces the 1 Nov reminder mode): every carousel uses `schedulingType: "automatic"`, never `notification`. No phone step and no library sound (the API cannot attach one).
+> - **Posting = phone notification** (Rizky, 17 Nov 2026, replaces the 4 Nov automatic mode): every carousel uses `schedulingType: "notification"`, so Buffer pings Rizky's phone at the slot and he adds a TikTok sound before posting (the API cannot attach one).
 > - Closing slide: the question + "Follow for the real reason behind everyday stuff". No @handle, no hashtags (rules below still apply).
 
 Photo carousels between the videos, decided with Rizky on 30 Sep 2026. **History:** c01 was a photo carousel. c02 (5 Oct) went out as a slideshow video with music because Rizky wanted a background track. On 6 Oct 2026 he decided to go **back to photos** from c03 on. So: no video, no music. `pipeline/slideshow.mjs` and `pipeline/music/` stay in the repo but are not used.
@@ -28,7 +28,7 @@ Photo carousels between the videos, decided with Rizky on 30 Sep 2026. **History
 7. **Sources** in `projects/carousels/<id>-<slug>/sources.txt` (fact → source URL, photo ids).
 8. **Commit and push** to `main`. (Until 23 Oct 2026 the run then scheduled from the raw URLs; now ROUTINE.md Step 2B sends Rizky the links instead) `https://raw.githubusercontent.com/rizkyreyes/claudeuhuy/main/media/carousels/<id>-<slug>/tt/01.jpg` … `07.jpg`:
    - TikTok `6ab28e9cea19ca0bdeb5efbd`: assets = the 7 `tt` images in order, no extra metadata.
-   - `mode: customScheduled`, `schedulingType: automatic`, `dueAt` = the carousel slot.
+   - `mode: customScheduled`, `schedulingType: notification`, `dueAt` = the carousel slot.
    - Check the created post lists 7 image assets. If Buffer rejects the TikTok photo post, log it and tell Rizky (do not fall back to Instagram).
 9. Set the row in `state/carousels.md` to `scheduled`.
 
