@@ -23,7 +23,7 @@ arg = lambda n, d=None: ARGS[ARGS.index(n) + 1] if n in ARGS else d
 HERE = os.path.dirname(os.path.abspath(__file__))
 WORDS = json.load(open(os.path.join(HERE, "assets", "vo", "audio_meta.json"), encoding="utf-8"))["scenes"][0]["words"]
 FPS, VO = 30, 0.30
-DUR = round(WORDS[-1]["end"] + VO + 0.25, 2)   # loop ending (15 Nov): hard cut right after the last word
+DUR = round(WORDS[-1]["end"] + VO + 0.6, 2)   # part-1 ending: spoken part-2 tease (Rizky 17 Nov)
 FRAMES = int(round(DUR * FPS))
 F = lambda t: max(1, int(round(t * FPS)) + 1)
 random.seed(12)
@@ -880,6 +880,7 @@ SHOTS = [  # (t, cam loc, target, lens[, "cut"])
     (C["others"], (-80.0, -185.0, 40.0), (0.0, 40.0, 50.0), 26, "cut"),
     (C["and"] - 0.05, (-90.0, -210.0, 55.0), (0.0, 10.0, 70.0), 26),
     (C["and"], (-35.0, -95.0, 95.0), (0.0, 0.0, 92.0), 26, "cut"),
+    (WORDS[218]["end"] + VO, *HOOK_SHOT),
     (DUR - 0.25, *HOOK_SHOT),
     (DUR, *HOOK_SHOT),
 ]

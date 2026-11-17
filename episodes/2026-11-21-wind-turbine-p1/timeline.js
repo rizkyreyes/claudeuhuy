@@ -180,9 +180,9 @@ sound("winch", EV.rotor[0] + 0.3, 0.45); sound("clang", EV.rotor[1] - 0.05, 0.5)
 tracked("ROTOR", "rotor", C.raise, C.and - 0.1, 140, -120, WHITE, null);
 // B8 loop: rotor spins, camera falls back to the buried slab = frame 1; no spoken tease, only small "PART 2 TOMORROW" text (15 Nov rule)
 sound("whoosh", EV.loop, 0.5); sound("hum", EV.spin, 0.35);
-show(text("EVERY TON\nRESTS ON...", 540, TOP_Y + 20, 980, 300, 108, WHITE), C.and - 0.05, C.end, "rise", "riser");
-{ const p2 = text("PART 2 TOMORROW: HOW IT MAKES POWER", 540, 1240, 880, 70, 40, GOLD, BODY, { stroke: 8, tracking: 20, name: "Part 2 tease" });
-  const t0 = Math.max(C.and, TL.duration - 1.6); p2.activeRange = R(ms(t0), DUR - ms(t0)); kf(p2.id, "opacity", [[0, 0], [150, 100]]); layers.push(p2); TITLES.push({ t0, t1: TL.duration, text: p2.sourceText.text }); }
+show(text("EVERY TON\nRESTS ON THIS", 540, TOP_Y + 20, 980, 300, 108, WHITE), C.and - 0.05, 71.8 + VO, "rise", "riser");
+{ const p2 = text("PART 2: HOW IT MAKES POWER", 540, 1180, 900, 160, 64, GOLD, BODY, { stroke: 8, tracking: 20, name: "Part 2 tease" });
+  const t0 = 71.8 + VO; p2.activeRange = R(ms(t0), DUR - ms(t0)); kf(p2.id, "opacity", [[0, 0], [150, 100]]); layers.push(p2); TITLES.push({ t0, t1: TL.duration, text: p2.sourceText.text }); }
 
 // ================= CAPTIONS (word groups, bottom zone) =================
 const W = VOM.scenes[0].words.map(w => ({ t: w.text, s: w.start + VO, e: w.end + VO }));

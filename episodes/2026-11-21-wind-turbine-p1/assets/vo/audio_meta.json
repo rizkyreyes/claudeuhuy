@@ -4,11 +4,11 @@
  "scenes": [
   {
    "id": "vo",
-   "text": "A buried slab of concrete and a pile of dirt. That's all that holds this wind turbine up. Up top, the wind shoves on three giant blades, trying to tip the whole tower over. So the build starts with a hole. Workers tie a cage of steel rebar, as much as fifty tons of it. In the middle, a ring of anchor bolts, more than a hundred, sticks straight up. Then trucks pour concrete, often around five hundred cubic yards. Once it hardens, the dirt goes back on top. That soil's weight helps pin the slab down, and a wider slab is harder to tip. Now the tower. It arrives in giant steel sections. A crane lowers the first one over the anchor bolts, and crews tighten every nut. Each new section bolts onto the one below. Stacked up, the average new US tower puts the hub about three hundred forty feet in the air. Next, the big lift: the nacelle, the machine room on top. On a smaller turbine, that's about fifty tons. Last come the blades, each over two hundred feet long. Some crews lift them one at a time. Others bolt all three to the hub on the ground and raise the whole rotor at once. And every ton of it rests on",
+   "text": "A buried slab of concrete and a pile of dirt. That's all that holds this wind turbine up. Up top, the wind shoves on three giant blades, trying to tip the whole tower over. So the build starts with a hole. Workers tie a cage of steel rebar, as much as fifty tons of it. In the middle, a ring of anchor bolts, more than a hundred, sticks straight up. Then trucks pour concrete, often around five hundred cubic yards. Once it hardens, the dirt goes back on top. That soil's weight helps pin the slab down, and a wider slab is harder to tip. Now the tower. It arrives in giant steel sections. A crane lowers the first one over the anchor bolts, and crews tighten every nut. Each new section bolts onto the one below. Stacked up, the average new US tower puts the hub about three hundred forty feet in the air. Next, the big lift: the nacelle, the machine room on top. On a smaller turbine, that's about fifty tons. Last come the blades, each over two hundred feet long. Some crews lift them one at a time. Others bolt all three to the hub on the ground and raise the whole rotor at once. And every ton of it rests on that buried slab. And in part two, we'll climb inside to see how it actually makes power.",
    "wav": "vo.wav",
-   "duration": 70,
+   "duration": 75.86,
    "speechStart": 0,
-   "speechEnd": 70.08,
+   "speechEnd": 75.94,
    "words": [
     {
      "id": "w0",
@@ -1305,6 +1305,108 @@
      "text": "on",
      "start": 69.6,
      "end": 70.08
+    },
+    {
+     "id": "w216",
+     "text": "that",
+     "start": 70.18,
+     "end": 70.39
+    },
+    {
+     "id": "w217",
+     "text": "buried",
+     "start": 70.42,
+     "end": 70.927
+    },
+    {
+     "id": "w218",
+     "text": "slab.",
+     "start": 70.98,
+     "end": 71.46
+    },
+    {
+     "id": "w219",
+     "text": "And",
+     "start": 71.78,
+     "end": 71.86
+    },
+    {
+     "id": "w220",
+     "text": "in",
+     "start": 71.94,
+     "end": 72.02
+    },
+    {
+     "id": "w221",
+     "text": "part",
+     "start": 72.14,
+     "end": 72.26
+    },
+    {
+     "id": "w222",
+     "text": "two,",
+     "start": 72.34,
+     "end": 72.82
+    },
+    {
+     "id": "w223",
+     "text": "we'll",
+     "start": 72.86,
+     "end": 72.98
+    },
+    {
+     "id": "w224",
+     "text": "climb",
+     "start": 73.06,
+     "end": 73.22
+    },
+    {
+     "id": "w225",
+     "text": "inside",
+     "start": 73.3,
+     "end": 73.78
+    },
+    {
+     "id": "w226",
+     "text": "to",
+     "start": 73.86,
+     "end": 73.94
+    },
+    {
+     "id": "w227",
+     "text": "see",
+     "start": 74.02,
+     "end": 74.1
+    },
+    {
+     "id": "w228",
+     "text": "how",
+     "start": 74.18,
+     "end": 74.26
+    },
+    {
+     "id": "w229",
+     "text": "it",
+     "start": 74.38,
+     "end": 74.5
+    },
+    {
+     "id": "w230",
+     "text": "actually",
+     "start": 74.58,
+     "end": 74.98
+    },
+    {
+     "id": "w231",
+     "text": "makes",
+     "start": 75.1,
+     "end": 75.22
+    },
+    {
+     "id": "w232",
+     "text": "power.",
+     "start": 75.3,
+     "end": 75.94
     }
    ]
   }
