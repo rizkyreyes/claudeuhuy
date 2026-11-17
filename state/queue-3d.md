@@ -40,5 +40,6 @@ Slots per platform come from the table in `docs/3d-playbook.md` for the target d
 | 3d-32 | Wed 25 Nov 2026 | subway-station | How subway stations are built under a busy street (cut-and-cover) | todo | | batch 14 Nov |
 | 3d-33 | Thu 26 Nov 2026 | hydro-dam-power | How a dam makes electricity (penstock, turbine, generator) | todo | | batch 14 Nov; Thanksgiving: Rizky may block the day |
 | 3d-34 | Fri 27 Nov 2026 | roman-aqueduct | How Roman aqueducts moved water with only gravity | todo | | batch 14 Nov |
+| 3d-35 | Sat 28 Nov 2026 | pipe-lining-cipp | How plumbers fix a pipe without digging up your floor (CIPP liner: felt sock + resin, inverted with air/water, cured = new pipe inside the old one) | todo | | Rizky 17 Nov (Instagram idea #1). Claim hook e.g. "They replaced this pipe without touching the floor." Open on cracked pipe under a sink/slab; cutaway of liner inverting like a sock, resin curing (hot water/steam/UV), robot cutter reopening branch lines. Source facts (lifespan, cure methods) |
 
 Note: the b-roll upload kits already in `media/` (premium gas Sun 25, child-resistant cap Mon 26, rearview mirror Tue 27) were made before the switch; Rizky decides whether to post them by hand.
