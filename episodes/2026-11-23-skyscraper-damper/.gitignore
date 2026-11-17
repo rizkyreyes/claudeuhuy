@@ -1,0 +1,10 @@
+cache_fluid/
+sfx/
+*.blend
+*.blend1
+editable.json
+edits.json
+sfx-used.json
+frames/
+editable-thumb.json
+checks_tmp/

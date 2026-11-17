@@ -1,0 +1,15 @@
+# c19 dishwasher myths: fact -> source (checked 17 Nov 2026, cloud run; checked on search excerpts, consumerreports.org is paywalled and energy.gov is not reachable from the sandbox)
+1 Efficient dishwasher ~4 gallons per cycle vs up to 27 gallons by hand
+  Consumer Reports (quoted widely): https://www.consumerreports.org/dishwashers/energy-efficient-dishwashers-that-clean-well-save-money/
+  Virginia Tech Extension BSE-305 (ENERGY STAR model ~4 gal): https://pubs.ext.vt.edu/2908/2908-9018.html
+  (current ENERGY STAR cap is 3.5 gal standard; "about 4" kept as a typical figure)
+2 Scrape, don't pre-rinse; pre-rinsing wastes water and can make the soil sensor pick a lighter cycle
+  Consumer Reports dishwasher team: https://www.consumerreports.org/appliances/dishwashers/how-to-get-the-most-out-of-your-water-saving-dishwasher-a1102314442 ; NBC/Today coverage: https://www.nbcwashington.com/news/national-international/dishwasher-trick-you-must-know/4088230/
+3 Heat-dry elements use considerable energy; air-dry setting / circulation fan uses very little
+  DOE Energy Saver: https://www.energy.gov/energysaver/dishwashers ; https://www.energy.gov/node/4823765
+4 Dishwashers use about the same water and energy regardless of how many dishes are inside: run full loads
+  ENERGY STAR dishwashers: https://www.energystar.gov/products/dishwashers
+5 Seasoned cast iron: dishwasher strips the seasoning and causes rust; hand wash, dry, rub with oil (enameled / heat-treated lines are exceptions, not claimed)
+  Lodge: https://www.lodgecastiron.com/pages/how-to-clean ; https://www.lodgecastiron.com/pages/cast-iron-product-guide
+Cut: "clean the filter monthly" (manufacturers differ, some filters are self-cleaning), detergent amount (no solid source).
+Photos (Pexels): cover 29826802, handwash 7640977, rinse 5904038, dry 4108719, load 4112728, castiron 6294175, end 9139206 (no faces, no readable brands)

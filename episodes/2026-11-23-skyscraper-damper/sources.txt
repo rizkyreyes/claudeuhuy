@@ -1,0 +1,30 @@
+Sources: skyscraper-damper (3d-30), checked 17 Nov 2026 (cloud run). wikipedia.org is not reachable from the sandbox (DNS), so Wikipedia facts were checked via search excerpts and mirrors.
+
+660-ton steel ball, largest tuned mass damper; counterbalance saps the building's movement and dampers dissipate it as heat; max extension 1.5 m never reached
+  -> Guinness World Records "Largest tuned mass damper": https://www.guinnessworldrecords.com/world-records/774616-largest-tuned-mass-damper
+  (660 metric tonnes = ~728 short tons; the VO says "six-hundred-sixty-ton", the common figure in US coverage, e.g. Business Insider)
+Hangs between floors 87 and 92; 41 circular steel plates (125 mm / ~5 in each); ~5.5 m (18 ft) across
+  -> Business Insider: https://businessinsider.nl/this-660-ton-pendulum-protects-taiwans-tallest-skyscraper-from-earthquakes/
+  -> Taiwan News: https://www.taiwannews.com.tw/en/news/3683775
+  -> Amusing Planet: https://www.amusingplanet.com/2014/08/the-728-ton-tuned-mass-damper-of-taipei.html
+  (some sources say 88th-92nd; the 87-92 range is the most common and is also where the hydraulic pistons are anchored, 87-88)
+Steel cables hold it; 8 primary hydraulic viscous dampers act like shock absorbers underneath; a pin under the ball is constrained by a steel bumper ring
+  -> Amusing Planet (above); Archup "Taipei 101 engineering": https://archup.net/taipei-101-engineering/
+  CUT: the number of cables (sources say 8 or 92) and their length (138 ft) -> VO says only "steel cables"; the video shows 8 as illustration.
+Builder says it offsets sway by up to 40 percent
+  -> search excerpts of Business Insider / news syndication (manufacturer claim, A+H Tuned Mass Dampers) -> VO attributes it: "Its maker says"
+Typhoon Soudelor, 8 Aug 2015: ball swung 100 cm (39 in, "over three feet"), largest movement on record
+  -> Taiwan News: https://www.taiwannews.com.tw/news/3760667 ; ArchDaily "Taipei 101 Sets New Record During Typhoon Soudelor": https://www.archdaily.com/772017/
+  -> Wikipedia "Taipei 101" (via mirror https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Taipei_101.html): "the largest movement ever recorded by the damper"
+  (Taipei 101 stopped publishing damper data in Oct 2021, so "on record" = the published record)
+Limit 1.5 m (4 ft 11 in = "almost five" feet), never needed -> Guinness (above), Wikipedia Taipei 101
+Taipei 101: 508 m / 1,667 ft ("over sixteen hundred feet"), 101 floors, completed 2004
+  -> Britannica: https://www.britannica.com/place/Taipei-101 ; Skyscraper Museum: https://skyscraper.org/supertall/building/taipei-101/
+Tall buildings sway in wind; wind-induced accelerations can cause motion sickness; the TMD is tuned to the building's natural frequency and moves against the motion
+  -> RWDI "Damping systems keep occupants comfortable": https://rwdi.com/insight/keeping-skyscrapers-from-blowing-in-the-wind/
+  -> STRUCTURE magazine "Critical wind mitigation for mega-tall structures": https://www.structuremag.org/article/critical-wind-mitigation-for-mega-tall-structures/
+  -> Guinness (above): the damper also serves occupant comfort
+Pendulum: cable length sets the swing period (basic physics, simple pendulum T = 2*pi*sqrt(L/g)); "matched to the tower's rhythm" = tuned to its natural frequency (RWDI, STRUCTURE)
+"The building won't snap": tall towers are designed to flex; the damper is for comfort, not to stop collapse (STRUCTURE, RWDI). Kept as a plain statement, no numbers.
+
+Video notes: tower sway is EXAGGERATED on screen (labelled). The stepped tower is a simplified model; no logos, no people. The office set has no people.

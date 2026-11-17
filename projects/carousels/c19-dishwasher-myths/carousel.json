@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 dishwasher myths to drop before the holiday dishes", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/handwash.jpg", "myth": "Washing by hand saves water.",
+      "fact": "An efficient dishwasher can use about 4 gallons a load. Washing the same dishes by hand can take up to 27 gallons.",
+      "source": "Consumer Reports, Virginia Tech Extension" },
+    { "type": "myth", "bg": "bg/rinse.jpg", "myth": "You have to rinse dishes before they go in.",
+      "fact": "Just scrape off the food. Pre-rinsing wastes water and can fool the soil sensor into running a lighter cycle.",
+      "source": "Consumer Reports" },
+    { "type": "myth", "bg": "bg/dry.jpg", "myth": "You need the heated dry setting.",
+      "fact": "The heating element uses a lot of energy. The air-dry setting uses very little, so pick it when you can.",
+      "source": "U.S. Department of Energy, Energy Saver" },
+    { "type": "myth", "bg": "bg/load.jpg", "myth": "Running it half full saves water and power.",
+      "fact": "A dishwasher uses about the same water and energy no matter how many dishes are inside. Wait for a full load.",
+      "source": "ENERGY STAR" },
+    { "type": "myth", "bg": "bg/castiron.jpg", "myth": "A cast iron skillet can go in the dishwasher.",
+      "fact": "It strips the seasoning and invites rust. Lodge says to hand wash seasoned cast iron, dry it, and rub on a little oil.",
+      "source": "Lodge Cast Iron care guide" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one were you doing?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Consumer Reports: dishwasher tips", "Virginia Tech Extension BSE-305", "DOE Energy Saver: dishwashers", "ENERGY STAR: dishwashers", "Lodge Cast Iron: how to clean"] }
+  ]
+}

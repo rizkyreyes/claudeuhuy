@@ -1,0 +1,13 @@
+{
+ "slug": "skyscraper-damper",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "A six-hundred-sixty-ton steel ball hangs near the top of this tower. Without it, people up there could get seasick in a typhoon. This is Taipei 101, over sixteen hundred feet tall. Tall towers aren't rigid. In strong wind, they sway like a tree. Every tower sways at its own rhythm. Gust after gust at that rhythm, and the swing keeps growing. It won't snap, but up top, people feel it. So engineers hung a giant pendulum inside. Forty-one steel plates, stacked into one ball eighteen feet wide, hung on steel cables between floors eighty-seven and ninety-two. The trick: the cable length sets how fast the ball swings, matched to the tower's rhythm. That's why it's called a tuned mass damper. When wind pushes the building one way, the ball lags and swings the other way, pulling against the sway. Underneath, eight hydraulic dampers, like giant shock absorbers, turn that motion into heat. Its maker says that cuts the sway up to forty percent. In 2015, Typhoon Soudelor swung the ball over three feet, the biggest move on record. It can swing almost five, and it's never needed to. So when the next typhoon hits, what keeps the top floors calm is"
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

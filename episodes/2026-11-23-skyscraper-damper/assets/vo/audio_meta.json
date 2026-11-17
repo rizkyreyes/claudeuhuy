@@ -1,0 +1,1222 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "A six-hundred-sixty-ton steel ball hangs near the top of this tower. Without it, people up there could get seasick in a typhoon. This is Taipei 101, over sixteen hundred feet tall. Tall towers aren't rigid. In strong wind, they sway like a tree. Every tower sways at its own rhythm. Gust after gust at that rhythm, and the swing keeps growing. It won't snap, but up top, people feel it. So engineers hung a giant pendulum inside. Forty-one steel plates, stacked into one ball eighteen feet wide, hung on steel cables between floors eighty-seven and ninety-two. The trick: the cable length sets how fast the ball swings, matched to the tower's rhythm. That's why it's called a tuned mass damper. When wind pushes the building one way, the ball lags and swings the other way, pulling against the sway. Underneath, eight hydraulic dampers, like giant shock absorbers, turn that motion into heat. Its maker says that cuts the sway up to forty percent. In 2015, Typhoon Soudelor swung the ball over three feet, the biggest move on record. It can swing almost five, and it's never needed to. So when the next typhoon hits, what keeps the top floors calm is",
+   "wav": "vo.wav",
+   "duration": 76.16,
+   "speechStart": 0,
+   "speechEnd": 76.24,
+   "words": [
+    {
+     "id": "w0",
+     "text": "A",
+     "start": 0,
+     "end": 0.08
+    },
+    {
+     "id": "w1",
+     "text": "six-hundred-sixty-ton",
+     "start": 0.16,
+     "end": 1.44
+    },
+    {
+     "id": "w2",
+     "text": "steel",
+     "start": 1.6,
+     "end": 1.92
+    },
+    {
+     "id": "w3",
+     "text": "ball",
+     "start": 2.08,
+     "end": 2.4
+    },
+    {
+     "id": "w4",
+     "text": "hangs",
+     "start": 2.48,
+     "end": 2.8
+    },
+    {
+     "id": "w5",
+     "text": "near",
+     "start": 2.88,
+     "end": 2.96
+    },
+    {
+     "id": "w6",
+     "text": "the",
+     "start": 3.04,
+     "end": 3.12
+    },
+    {
+     "id": "w7",
+     "text": "top",
+     "start": 3.24,
+     "end": 3.36
+    },
+    {
+     "id": "w8",
+     "text": "of",
+     "start": 3.44,
+     "end": 3.48
+    },
+    {
+     "id": "w9",
+     "text": "this",
+     "start": 3.52,
+     "end": 3.68
+    },
+    {
+     "id": "w10",
+     "text": "tower.",
+     "start": 3.88,
+     "end": 4.56
+    },
+    {
+     "id": "w11",
+     "text": "Without",
+     "start": 4.76,
+     "end": 4.96
+    },
+    {
+     "id": "w12",
+     "text": "it,",
+     "start": 5,
+     "end": 5.28
+    },
+    {
+     "id": "w13",
+     "text": "people",
+     "start": 5.4,
+     "end": 5.52
+    },
+    {
+     "id": "w14",
+     "text": "up",
+     "start": 5.6,
+     "end": 5.68
+    },
+    {
+     "id": "w15",
+     "text": "there",
+     "start": 5.76,
+     "end": 5.84
+    },
+    {
+     "id": "w16",
+     "text": "could",
+     "start": 5.92,
+     "end": 6
+    },
+    {
+     "id": "w17",
+     "text": "get",
+     "start": 6.08,
+     "end": 6.16
+    },
+    {
+     "id": "w18",
+     "text": "seasick",
+     "start": 6.32,
+     "end": 6.72
+    },
+    {
+     "id": "w19",
+     "text": "in",
+     "start": 6.8,
+     "end": 6.84
+    },
+    {
+     "id": "w20",
+     "text": "a",
+     "start": 6.88,
+     "end": 6.96
+    },
+    {
+     "id": "w21",
+     "text": "typhoon.",
+     "start": 7.08,
+     "end": 8.08
+    },
+    {
+     "id": "w22",
+     "text": "This",
+     "start": 8.16,
+     "end": 8.4
+    },
+    {
+     "id": "w23",
+     "text": "is",
+     "start": 8.48,
+     "end": 8.64
+    },
+    {
+     "id": "w24",
+     "text": "Taipei",
+     "start": 8.72,
+     "end": 9.12
+    },
+    {
+     "id": "w25",
+     "text": "101,",
+     "start": 9.28,
+     "end": 10.08
+    },
+    {
+     "id": "w26",
+     "text": "over",
+     "start": 10.28,
+     "end": 10.48
+    },
+    {
+     "id": "w27",
+     "text": "sixteen",
+     "start": 10.56,
+     "end": 11.2
+    },
+    {
+     "id": "w28",
+     "text": "hundred",
+     "start": 11.24,
+     "end": 11.6
+    },
+    {
+     "id": "w29",
+     "text": "feet",
+     "start": 11.68,
+     "end": 11.84
+    },
+    {
+     "id": "w30",
+     "text": "tall.",
+     "start": 11.92,
+     "end": 12.8
+    },
+    {
+     "id": "w31",
+     "text": "Tall",
+     "start": 12.84,
+     "end": 13.04
+    },
+    {
+     "id": "w32",
+     "text": "towers",
+     "start": 13.12,
+     "end": 13.6
+    },
+    {
+     "id": "w33",
+     "text": "aren't",
+     "start": 13.68,
+     "end": 13.84
+    },
+    {
+     "id": "w34",
+     "text": "rigid.",
+     "start": 13.92,
+     "end": 14.64
+    },
+    {
+     "id": "w35",
+     "text": "In",
+     "start": 14.72,
+     "end": 14.8
+    },
+    {
+     "id": "w36",
+     "text": "strong",
+     "start": 14.88,
+     "end": 15.2
+    },
+    {
+     "id": "w37",
+     "text": "wind,",
+     "start": 15.28,
+     "end": 15.76
+    },
+    {
+     "id": "w38",
+     "text": "they",
+     "start": 15.88,
+     "end": 16
+    },
+    {
+     "id": "w39",
+     "text": "sway",
+     "start": 16.08,
+     "end": 16.32
+    },
+    {
+     "id": "w40",
+     "text": "like",
+     "start": 16.4,
+     "end": 16.48
+    },
+    {
+     "id": "w41",
+     "text": "a",
+     "start": 16.56,
+     "end": 16.64
+    },
+    {
+     "id": "w42",
+     "text": "tree.",
+     "start": 16.84,
+     "end": 17.52
+    },
+    {
+     "id": "w43",
+     "text": "Every",
+     "start": 17.6,
+     "end": 17.84
+    },
+    {
+     "id": "w44",
+     "text": "tower",
+     "start": 18.04,
+     "end": 18.24
+    },
+    {
+     "id": "w45",
+     "text": "sways",
+     "start": 18.32,
+     "end": 18.64
+    },
+    {
+     "id": "w46",
+     "text": "at",
+     "start": 18.68,
+     "end": 18.72
+    },
+    {
+     "id": "w47",
+     "text": "its",
+     "start": 18.8,
+     "end": 18.96
+    },
+    {
+     "id": "w48",
+     "text": "own",
+     "start": 19.04,
+     "end": 19.2
+    },
+    {
+     "id": "w49",
+     "text": "rhythm.",
+     "start": 19.28,
+     "end": 20
+    },
+    {
+     "id": "w50",
+     "text": "Gust",
+     "start": 20.04,
+     "end": 20.32
+    },
+    {
+     "id": "w51",
+     "text": "after",
+     "start": 20.4,
+     "end": 20.64
+    },
+    {
+     "id": "w52",
+     "text": "gust",
+     "start": 20.8,
+     "end": 21.04
+    },
+    {
+     "id": "w53",
+     "text": "at",
+     "start": 21.12,
+     "end": 21.2
+    },
+    {
+     "id": "w54",
+     "text": "that",
+     "start": 21.28,
+     "end": 21.36
+    },
+    {
+     "id": "w55",
+     "text": "rhythm,",
+     "start": 21.4,
+     "end": 21.92
+    },
+    {
+     "id": "w56",
+     "text": "and",
+     "start": 21.96,
+     "end": 22
+    },
+    {
+     "id": "w57",
+     "text": "the",
+     "start": 22.08,
+     "end": 22.16
+    },
+    {
+     "id": "w58",
+     "text": "swing",
+     "start": 22.24,
+     "end": 22.56
+    },
+    {
+     "id": "w59",
+     "text": "keeps",
+     "start": 22.64,
+     "end": 22.88
+    },
+    {
+     "id": "w60",
+     "text": "growing.",
+     "start": 22.92,
+     "end": 23.76
+    },
+    {
+     "id": "w61",
+     "text": "It",
+     "start": 23.84,
+     "end": 23.92
+    },
+    {
+     "id": "w62",
+     "text": "won't",
+     "start": 23.96,
+     "end": 24.16
+    },
+    {
+     "id": "w63",
+     "text": "snap,",
+     "start": 24.4,
+     "end": 24.8
+    },
+    {
+     "id": "w64",
+     "text": "but",
+     "start": 24.96,
+     "end": 25.12
+    },
+    {
+     "id": "w65",
+     "text": "up",
+     "start": 25.2,
+     "end": 25.28
+    },
+    {
+     "id": "w66",
+     "text": "top,",
+     "start": 25.36,
+     "end": 25.84
+    },
+    {
+     "id": "w67",
+     "text": "people",
+     "start": 26,
+     "end": 26.16
+    },
+    {
+     "id": "w68",
+     "text": "feel",
+     "start": 26.24,
+     "end": 26.4
+    },
+    {
+     "id": "w69",
+     "text": "it.",
+     "start": 26.48,
+     "end": 27.04
+    },
+    {
+     "id": "w70",
+     "text": "So",
+     "start": 27.12,
+     "end": 27.36
+    },
+    {
+     "id": "w71",
+     "text": "engineers",
+     "start": 27.6,
+     "end": 28.16
+    },
+    {
+     "id": "w72",
+     "text": "hung",
+     "start": 28.24,
+     "end": 28.32
+    },
+    {
+     "id": "w73",
+     "text": "a",
+     "start": 28.4,
+     "end": 28.56
+    },
+    {
+     "id": "w74",
+     "text": "giant",
+     "start": 28.64,
+     "end": 28.96
+    },
+    {
+     "id": "w75",
+     "text": "pendulum",
+     "start": 29.04,
+     "end": 29.52
+    },
+    {
+     "id": "w76",
+     "text": "inside.",
+     "start": 29.76,
+     "end": 30.4
+    },
+    {
+     "id": "w77",
+     "text": "Forty-one",
+     "start": 30.52,
+     "end": 30.96
+    },
+    {
+     "id": "w78",
+     "text": "steel",
+     "start": 31.04,
+     "end": 31.36
+    },
+    {
+     "id": "w79",
+     "text": "plates,",
+     "start": 31.44,
+     "end": 32
+    },
+    {
+     "id": "w80",
+     "text": "stacked",
+     "start": 32.16,
+     "end": 32.36
+    },
+    {
+     "id": "w81",
+     "text": "into",
+     "start": 32.4,
+     "end": 32.64
+    },
+    {
+     "id": "w82",
+     "text": "one",
+     "start": 32.72,
+     "end": 32.88
+    },
+    {
+     "id": "w83",
+     "text": "ball",
+     "start": 32.96,
+     "end": 33.28
+    },
+    {
+     "id": "w84",
+     "text": "eighteen",
+     "start": 33.36,
+     "end": 33.76
+    },
+    {
+     "id": "w85",
+     "text": "feet",
+     "start": 33.92,
+     "end": 34.08
+    },
+    {
+     "id": "w86",
+     "text": "wide,",
+     "start": 34.24,
+     "end": 34.8
+    },
+    {
+     "id": "w87",
+     "text": "hung",
+     "start": 34.88,
+     "end": 34.96
+    },
+    {
+     "id": "w88",
+     "text": "on",
+     "start": 35.04,
+     "end": 35.2
+    },
+    {
+     "id": "w89",
+     "text": "steel",
+     "start": 35.36,
+     "end": 35.52
+    },
+    {
+     "id": "w90",
+     "text": "cables",
+     "start": 35.6,
+     "end": 36
+    },
+    {
+     "id": "w91",
+     "text": "between",
+     "start": 36.08,
+     "end": 36.32
+    },
+    {
+     "id": "w92",
+     "text": "floors",
+     "start": 36.4,
+     "end": 36.8
+    },
+    {
+     "id": "w93",
+     "text": "eighty-seven",
+     "start": 36.88,
+     "end": 37.36
+    },
+    {
+     "id": "w94",
+     "text": "and",
+     "start": 37.52,
+     "end": 37.68
+    },
+    {
+     "id": "w95",
+     "text": "ninety-two.",
+     "start": 37.72,
+     "end": 38.72
+    },
+    {
+     "id": "w96",
+     "text": "The",
+     "start": 38.76,
+     "end": 38.8
+    },
+    {
+     "id": "w97",
+     "text": "trick:",
+     "start": 38.88,
+     "end": 39.52
+    },
+    {
+     "id": "w98",
+     "text": "the",
+     "start": 39.56,
+     "end": 39.6
+    },
+    {
+     "id": "w99",
+     "text": "cable",
+     "start": 39.68,
+     "end": 40
+    },
+    {
+     "id": "w100",
+     "text": "length",
+     "start": 40.08,
+     "end": 40.32
+    },
+    {
+     "id": "w101",
+     "text": "sets",
+     "start": 40.4,
+     "end": 40.56
+    },
+    {
+     "id": "w102",
+     "text": "how",
+     "start": 40.64,
+     "end": 40.88
+    },
+    {
+     "id": "w103",
+     "text": "fast",
+     "start": 41.04,
+     "end": 41.2
+    },
+    {
+     "id": "w104",
+     "text": "the",
+     "start": 41.28,
+     "end": 41.36
+    },
+    {
+     "id": "w105",
+     "text": "ball",
+     "start": 41.44,
+     "end": 41.52
+    },
+    {
+     "id": "w106",
+     "text": "swings,",
+     "start": 41.6,
+     "end": 42.32
+    },
+    {
+     "id": "w107",
+     "text": "matched",
+     "start": 42.4,
+     "end": 42.8
+    },
+    {
+     "id": "w108",
+     "text": "to",
+     "start": 42.88,
+     "end": 42.96
+    },
+    {
+     "id": "w109",
+     "text": "the",
+     "start": 43,
+     "end": 43.04
+    },
+    {
+     "id": "w110",
+     "text": "tower's",
+     "start": 43.12,
+     "end": 43.44
+    },
+    {
+     "id": "w111",
+     "text": "rhythm.",
+     "start": 43.48,
+     "end": 44.16
+    },
+    {
+     "id": "w112",
+     "text": "That's",
+     "start": 44.24,
+     "end": 44.4
+    },
+    {
+     "id": "w113",
+     "text": "why",
+     "start": 44.44,
+     "end": 44.48
+    },
+    {
+     "id": "w114",
+     "text": "it's",
+     "start": 44.56,
+     "end": 44.64
+    },
+    {
+     "id": "w115",
+     "text": "called",
+     "start": 44.72,
+     "end": 44.96
+    },
+    {
+     "id": "w116",
+     "text": "a",
+     "start": 45.04,
+     "end": 45.12
+    },
+    {
+     "id": "w117",
+     "text": "tuned",
+     "start": 45.2,
+     "end": 45.6
+    },
+    {
+     "id": "w118",
+     "text": "mass",
+     "start": 45.68,
+     "end": 46
+    },
+    {
+     "id": "w119",
+     "text": "damper.",
+     "start": 46.08,
+     "end": 46.8
+    },
+    {
+     "id": "w120",
+     "text": "When",
+     "start": 46.88,
+     "end": 46.96
+    },
+    {
+     "id": "w121",
+     "text": "wind",
+     "start": 47.04,
+     "end": 47.28
+    },
+    {
+     "id": "w122",
+     "text": "pushes",
+     "start": 47.36,
+     "end": 47.6
+    },
+    {
+     "id": "w123",
+     "text": "the",
+     "start": 47.68,
+     "end": 47.76
+    },
+    {
+     "id": "w124",
+     "text": "building",
+     "start": 47.92,
+     "end": 48.08
+    },
+    {
+     "id": "w125",
+     "text": "one",
+     "start": 48.16,
+     "end": 48.32
+    },
+    {
+     "id": "w126",
+     "text": "way,",
+     "start": 48.4,
+     "end": 48.88
+    },
+    {
+     "id": "w127",
+     "text": "the",
+     "start": 48.96,
+     "end": 49.04
+    },
+    {
+     "id": "w128",
+     "text": "ball",
+     "start": 49.2,
+     "end": 49.36
+    },
+    {
+     "id": "w129",
+     "text": "lags",
+     "start": 49.44,
+     "end": 49.84
+    },
+    {
+     "id": "w130",
+     "text": "and",
+     "start": 49.92,
+     "end": 50
+    },
+    {
+     "id": "w131",
+     "text": "swings",
+     "start": 50.08,
+     "end": 50.4
+    },
+    {
+     "id": "w132",
+     "text": "the",
+     "start": 50.48,
+     "end": 50.56
+    },
+    {
+     "id": "w133",
+     "text": "other",
+     "start": 50.68,
+     "end": 50.8
+    },
+    {
+     "id": "w134",
+     "text": "way,",
+     "start": 50.88,
+     "end": 51.2
+    },
+    {
+     "id": "w135",
+     "text": "pulling",
+     "start": 51.28,
+     "end": 51.6
+    },
+    {
+     "id": "w136",
+     "text": "against",
+     "start": 51.76,
+     "end": 51.92
+    },
+    {
+     "id": "w137",
+     "text": "the",
+     "start": 51.96,
+     "end": 52
+    },
+    {
+     "id": "w138",
+     "text": "sway.",
+     "start": 52.08,
+     "end": 52.88
+    },
+    {
+     "id": "w139",
+     "text": "Underneath,",
+     "start": 53.04,
+     "end": 53.76
+    },
+    {
+     "id": "w140",
+     "text": "eight",
+     "start": 53.88,
+     "end": 54
+    },
+    {
+     "id": "w141",
+     "text": "hydraulic",
+     "start": 54.12,
+     "end": 54.56
+    },
+    {
+     "id": "w142",
+     "text": "dampers,",
+     "start": 54.64,
+     "end": 55.28
+    },
+    {
+     "id": "w143",
+     "text": "like",
+     "start": 55.4,
+     "end": 55.52
+    },
+    {
+     "id": "w144",
+     "text": "giant",
+     "start": 55.56,
+     "end": 55.92
+    },
+    {
+     "id": "w145",
+     "text": "shock",
+     "start": 56,
+     "end": 56.24
+    },
+    {
+     "id": "w146",
+     "text": "absorbers,",
+     "start": 56.32,
+     "end": 57.04
+    },
+    {
+     "id": "w147",
+     "text": "turn",
+     "start": 57.2,
+     "end": 57.36
+    },
+    {
+     "id": "w148",
+     "text": "that",
+     "start": 57.44,
+     "end": 57.52
+    },
+    {
+     "id": "w149",
+     "text": "motion",
+     "start": 57.6,
+     "end": 57.92
+    },
+    {
+     "id": "w150",
+     "text": "into",
+     "start": 58,
+     "end": 58.24
+    },
+    {
+     "id": "w151",
+     "text": "heat.",
+     "start": 58.4,
+     "end": 58.96
+    },
+    {
+     "id": "w152",
+     "text": "Its",
+     "start": 59.04,
+     "end": 59.12
+    },
+    {
+     "id": "w153",
+     "text": "maker",
+     "start": 59.2,
+     "end": 59.52
+    },
+    {
+     "id": "w154",
+     "text": "says",
+     "start": 59.64,
+     "end": 59.76
+    },
+    {
+     "id": "w155",
+     "text": "that",
+     "start": 59.84,
+     "end": 60.08
+    },
+    {
+     "id": "w156",
+     "text": "cuts",
+     "start": 60.2,
+     "end": 60.32
+    },
+    {
+     "id": "w157",
+     "text": "the",
+     "start": 60.4,
+     "end": 60.48
+    },
+    {
+     "id": "w158",
+     "text": "sway",
+     "start": 60.56,
+     "end": 60.8
+    },
+    {
+     "id": "w159",
+     "text": "up",
+     "start": 60.88,
+     "end": 60.96
+    },
+    {
+     "id": "w160",
+     "text": "to",
+     "start": 61.08,
+     "end": 61.2
+    },
+    {
+     "id": "w161",
+     "text": "forty",
+     "start": 61.28,
+     "end": 61.56
+    },
+    {
+     "id": "w162",
+     "text": "percent.",
+     "start": 61.6,
+     "end": 62.56
+    },
+    {
+     "id": "w163",
+     "text": "In",
+     "start": 62.64,
+     "end": 62.72
+    },
+    {
+     "id": "w164",
+     "text": "2015,",
+     "start": 62.8,
+     "end": 63.68
+    },
+    {
+     "id": "w165",
+     "text": "Typhoon",
+     "start": 63.76,
+     "end": 64.24
+    },
+    {
+     "id": "w166",
+     "text": "Soudelor",
+     "start": 64.32,
+     "end": 64.8
+    },
+    {
+     "id": "w167",
+     "text": "swung",
+     "start": 64.88,
+     "end": 65.12
+    },
+    {
+     "id": "w168",
+     "text": "the",
+     "start": 65.2,
+     "end": 65.28
+    },
+    {
+     "id": "w169",
+     "text": "ball",
+     "start": 65.44,
+     "end": 65.6
+    },
+    {
+     "id": "w170",
+     "text": "over",
+     "start": 65.8,
+     "end": 66
+    },
+    {
+     "id": "w171",
+     "text": "three",
+     "start": 66.2,
+     "end": 66.4
+    },
+    {
+     "id": "w172",
+     "text": "feet,",
+     "start": 66.44,
+     "end": 66.88
+    },
+    {
+     "id": "w173",
+     "text": "the",
+     "start": 66.96,
+     "end": 67.12
+    },
+    {
+     "id": "w174",
+     "text": "biggest",
+     "start": 67.2,
+     "end": 67.52
+    },
+    {
+     "id": "w175",
+     "text": "move",
+     "start": 67.6,
+     "end": 67.76
+    },
+    {
+     "id": "w176",
+     "text": "on",
+     "start": 67.84,
+     "end": 67.92
+    },
+    {
+     "id": "w177",
+     "text": "record.",
+     "start": 68.28,
+     "end": 68.68
+    },
+    {
+     "id": "w178",
+     "text": "It",
+     "start": 68.72,
+     "end": 68.76
+    },
+    {
+     "id": "w179",
+     "text": "can",
+     "start": 68.8,
+     "end": 68.96
+    },
+    {
+     "id": "w180",
+     "text": "swing",
+     "start": 69.08,
+     "end": 69.2
+    },
+    {
+     "id": "w181",
+     "text": "almost",
+     "start": 69.28,
+     "end": 69.68
+    },
+    {
+     "id": "w182",
+     "text": "five,",
+     "start": 69.76,
+     "end": 70.4
+    },
+    {
+     "id": "w183",
+     "text": "and",
+     "start": 70.48,
+     "end": 70.56
+    },
+    {
+     "id": "w184",
+     "text": "it's",
+     "start": 70.64,
+     "end": 70.8
+    },
+    {
+     "id": "w185",
+     "text": "never",
+     "start": 70.92,
+     "end": 71.04
+    },
+    {
+     "id": "w186",
+     "text": "needed",
+     "start": 71.2,
+     "end": 71.36
+    },
+    {
+     "id": "w187",
+     "text": "to.",
+     "start": 71.68,
+     "end": 72.107
+    },
+    {
+     "id": "w188",
+     "text": "So",
+     "start": 72.213,
+     "end": 72.32
+    },
+    {
+     "id": "w189",
+     "text": "when",
+     "start": 72.4,
+     "end": 72.48
+    },
+    {
+     "id": "w190",
+     "text": "the",
+     "start": 72.52,
+     "end": 72.56
+    },
+    {
+     "id": "w191",
+     "text": "next",
+     "start": 72.64,
+     "end": 72.8
+    },
+    {
+     "id": "w192",
+     "text": "typhoon",
+     "start": 72.88,
+     "end": 73.28
+    },
+    {
+     "id": "w193",
+     "text": "hits,",
+     "start": 73.56,
+     "end": 73.893
+    },
+    {
+     "id": "w194",
+     "text": "what",
+     "start": 73.947,
+     "end": 74
+    },
+    {
+     "id": "w195",
+     "text": "keeps",
+     "start": 74.04,
+     "end": 74.24
+    },
+    {
+     "id": "w196",
+     "text": "the",
+     "start": 74.32,
+     "end": 74.4
+    },
+    {
+     "id": "w197",
+     "text": "top",
+     "start": 74.52,
+     "end": 74.64
+    },
+    {
+     "id": "w198",
+     "text": "floors",
+     "start": 74.72,
+     "end": 74.96
+    },
+    {
+     "id": "w199",
+     "text": "calm",
+     "start": 75.04,
+     "end": 75.68
+    },
+    {
+     "id": "w200",
+     "text": "is",
+     "start": 75.76,
+     "end": 76.24
+    }
+   ]
+  }
+ ]
+}
