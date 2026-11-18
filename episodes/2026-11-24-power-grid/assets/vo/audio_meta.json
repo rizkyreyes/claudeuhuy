@@ -1,0 +1,1330 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The electricity in your outlet traveled here at hundreds of thousands of volts. Let that into your house, and every wire in your walls would fail. So its voltage changes at least three times on the way. It starts at a power plant, where a generator makes it at a much lower voltage. Next door, a step-up transformer takes over. Inside, two copper coils wrap one iron core. The output coil has more turns, so the voltage climbs, up to seven hundred sixty-five thousand volts. Why go so high? Same power, higher voltage, means less current. And wires waste energy as heat, by the square of the current. Double the voltage, and that heat drops to a quarter. Now the power can cross hundreds of miles. The wires up there are bare. Aluminum, around a steel core. Air is the insulation, and insulator discs keep it off the towers. Near town, a substation steps it down to under thirty-four thousand volts, and sends it down your street. Then the gray can on the pole finishes the job: two hundred forty volts, split into two halves of one hundred twenty. Your outlet gets one half. Your dryer gets both. Only about five percent is lost on the whole trip. And none of that high voltage ever reaches you, even though",
+   "wav": "vo.wav",
+   "duration": 73.76,
+   "speechStart": 0,
+   "speechEnd": 73.84,
+   "words": [
+    {
+     "id": "w0",
+     "text": "The",
+     "start": 0,
+     "end": 0.067
+    },
+    {
+     "id": "w1",
+     "text": "electricity",
+     "start": 0.08,
+     "end": 0.667
+    },
+    {
+     "id": "w2",
+     "text": "in",
+     "start": 0.72,
+     "end": 0.84
+    },
+    {
+     "id": "w3",
+     "text": "your",
+     "start": 0.88,
+     "end": 1.02
+    },
+    {
+     "id": "w4",
+     "text": "outlet",
+     "start": 1.04,
+     "end": 1.387
+    },
+    {
+     "id": "w5",
+     "text": "traveled",
+     "start": 1.44,
+     "end": 1.8
+    },
+    {
+     "id": "w6",
+     "text": "here",
+     "start": 1.84,
+     "end": 2.05
+    },
+    {
+     "id": "w7",
+     "text": "at",
+     "start": 2.08,
+     "end": 2.26
+    },
+    {
+     "id": "w8",
+     "text": "hundreds",
+     "start": 2.32,
+     "end": 2.88
+    },
+    {
+     "id": "w9",
+     "text": "of",
+     "start": 3,
+     "end": 3.12
+    },
+    {
+     "id": "w10",
+     "text": "thousands",
+     "start": 3.2,
+     "end": 3.68
+    },
+    {
+     "id": "w11",
+     "text": "of",
+     "start": 3.76,
+     "end": 3.84
+    },
+    {
+     "id": "w12",
+     "text": "volts.",
+     "start": 3.92,
+     "end": 4.8
+    },
+    {
+     "id": "w13",
+     "text": "Let",
+     "start": 4.88,
+     "end": 4.96
+    },
+    {
+     "id": "w14",
+     "text": "that",
+     "start": 5.04,
+     "end": 5.12
+    },
+    {
+     "id": "w15",
+     "text": "into",
+     "start": 5.2,
+     "end": 5.28
+    },
+    {
+     "id": "w16",
+     "text": "your",
+     "start": 5.36,
+     "end": 5.44
+    },
+    {
+     "id": "w17",
+     "text": "house,",
+     "start": 5.52,
+     "end": 5.92
+    },
+    {
+     "id": "w18",
+     "text": "and",
+     "start": 6.04,
+     "end": 6.16
+    },
+    {
+     "id": "w19",
+     "text": "every",
+     "start": 6.24,
+     "end": 6.56
+    },
+    {
+     "id": "w20",
+     "text": "wire",
+     "start": 6.64,
+     "end": 6.88
+    },
+    {
+     "id": "w21",
+     "text": "in",
+     "start": 6.96,
+     "end": 7.04
+    },
+    {
+     "id": "w22",
+     "text": "your",
+     "start": 7.12,
+     "end": 7.2
+    },
+    {
+     "id": "w23",
+     "text": "walls",
+     "start": 7.28,
+     "end": 7.52
+    },
+    {
+     "id": "w24",
+     "text": "would",
+     "start": 7.64,
+     "end": 7.76
+    },
+    {
+     "id": "w25",
+     "text": "fail.",
+     "start": 7.84,
+     "end": 8.64
+    },
+    {
+     "id": "w26",
+     "text": "So",
+     "start": 8.8,
+     "end": 8.96
+    },
+    {
+     "id": "w27",
+     "text": "its",
+     "start": 9.04,
+     "end": 9.2
+    },
+    {
+     "id": "w28",
+     "text": "voltage",
+     "start": 9.28,
+     "end": 9.68
+    },
+    {
+     "id": "w29",
+     "text": "changes",
+     "start": 9.88,
+     "end": 10.08
+    },
+    {
+     "id": "w30",
+     "text": "at",
+     "start": 10.2,
+     "end": 10.32
+    },
+    {
+     "id": "w31",
+     "text": "least",
+     "start": 10.4,
+     "end": 10.72
+    },
+    {
+     "id": "w32",
+     "text": "three",
+     "start": 10.88,
+     "end": 11.04
+    },
+    {
+     "id": "w33",
+     "text": "times",
+     "start": 11.2,
+     "end": 11.36
+    },
+    {
+     "id": "w34",
+     "text": "on",
+     "start": 11.44,
+     "end": 11.52
+    },
+    {
+     "id": "w35",
+     "text": "the",
+     "start": 11.56,
+     "end": 11.6
+    },
+    {
+     "id": "w36",
+     "text": "way.",
+     "start": 11.68,
+     "end": 12.373
+    },
+    {
+     "id": "w37",
+     "text": "It",
+     "start": 12.427,
+     "end": 12.48
+    },
+    {
+     "id": "w38",
+     "text": "starts",
+     "start": 12.56,
+     "end": 12.8
+    },
+    {
+     "id": "w39",
+     "text": "at",
+     "start": 12.84,
+     "end": 12.88
+    },
+    {
+     "id": "w40",
+     "text": "a",
+     "start": 12.92,
+     "end": 12.96
+    },
+    {
+     "id": "w41",
+     "text": "power",
+     "start": 13.04,
+     "end": 13.28
+    },
+    {
+     "id": "w42",
+     "text": "plant,",
+     "start": 13.36,
+     "end": 13.72
+    },
+    {
+     "id": "w43",
+     "text": "where",
+     "start": 13.76,
+     "end": 13.84
+    },
+    {
+     "id": "w44",
+     "text": "a",
+     "start": 13.92,
+     "end": 14
+    },
+    {
+     "id": "w45",
+     "text": "generator",
+     "start": 14.24,
+     "end": 14.48
+    },
+    {
+     "id": "w46",
+     "text": "makes",
+     "start": 14.56,
+     "end": 14.72
+    },
+    {
+     "id": "w47",
+     "text": "it",
+     "start": 14.8,
+     "end": 14.88
+    },
+    {
+     "id": "w48",
+     "text": "at",
+     "start": 14.92,
+     "end": 14.96
+    },
+    {
+     "id": "w49",
+     "text": "a",
+     "start": 15.04,
+     "end": 15.2
+    },
+    {
+     "id": "w50",
+     "text": "much",
+     "start": 15.32,
+     "end": 15.44
+    },
+    {
+     "id": "w51",
+     "text": "lower",
+     "start": 15.52,
+     "end": 15.76
+    },
+    {
+     "id": "w52",
+     "text": "voltage.",
+     "start": 15.8,
+     "end": 16.76
+    },
+    {
+     "id": "w53",
+     "text": "Next",
+     "start": 16.8,
+     "end": 16.96
+    },
+    {
+     "id": "w54",
+     "text": "door,",
+     "start": 17.04,
+     "end": 17.48
+    },
+    {
+     "id": "w55",
+     "text": "a",
+     "start": 17.52,
+     "end": 17.6
+    },
+    {
+     "id": "w56",
+     "text": "step-up",
+     "start": 17.68,
+     "end": 18
+    },
+    {
+     "id": "w57",
+     "text": "transformer",
+     "start": 18.08,
+     "end": 18.64
+    },
+    {
+     "id": "w58",
+     "text": "takes",
+     "start": 18.76,
+     "end": 18.88
+    },
+    {
+     "id": "w59",
+     "text": "over.",
+     "start": 18.96,
+     "end": 19.64
+    },
+    {
+     "id": "w60",
+     "text": "Inside,",
+     "start": 19.68,
+     "end": 20.48
+    },
+    {
+     "id": "w61",
+     "text": "two",
+     "start": 20.56,
+     "end": 20.64
+    },
+    {
+     "id": "w62",
+     "text": "copper",
+     "start": 20.68,
+     "end": 20.96
+    },
+    {
+     "id": "w63",
+     "text": "coils",
+     "start": 21.04,
+     "end": 21.36
+    },
+    {
+     "id": "w64",
+     "text": "wrap",
+     "start": 21.52,
+     "end": 21.68
+    },
+    {
+     "id": "w65",
+     "text": "one",
+     "start": 21.76,
+     "end": 22
+    },
+    {
+     "id": "w66",
+     "text": "iron",
+     "start": 22.08,
+     "end": 22.32
+    },
+    {
+     "id": "w67",
+     "text": "core.",
+     "start": 22.4,
+     "end": 23.16
+    },
+    {
+     "id": "w68",
+     "text": "The",
+     "start": 23.2,
+     "end": 23.28
+    },
+    {
+     "id": "w69",
+     "text": "output",
+     "start": 23.36,
+     "end": 23.6
+    },
+    {
+     "id": "w70",
+     "text": "coil",
+     "start": 23.68,
+     "end": 23.92
+    },
+    {
+     "id": "w71",
+     "text": "has",
+     "start": 24,
+     "end": 24.16
+    },
+    {
+     "id": "w72",
+     "text": "more",
+     "start": 24.24,
+     "end": 24.32
+    },
+    {
+     "id": "w73",
+     "text": "turns,",
+     "start": 24.4,
+     "end": 24.96
+    },
+    {
+     "id": "w74",
+     "text": "so",
+     "start": 25.04,
+     "end": 25.12
+    },
+    {
+     "id": "w75",
+     "text": "the",
+     "start": 25.16,
+     "end": 25.2
+    },
+    {
+     "id": "w76",
+     "text": "voltage",
+     "start": 25.28,
+     "end": 25.6
+    },
+    {
+     "id": "w77",
+     "text": "climbs,",
+     "start": 25.68,
+     "end": 26.267
+    },
+    {
+     "id": "w78",
+     "text": "up",
+     "start": 26.293,
+     "end": 26.32
+    },
+    {
+     "id": "w79",
+     "text": "to",
+     "start": 26.4,
+     "end": 26.64
+    },
+    {
+     "id": "w80",
+     "text": "seven",
+     "start": 26.8,
+     "end": 26.96
+    },
+    {
+     "id": "w81",
+     "text": "hundred",
+     "start": 27,
+     "end": 27.36
+    },
+    {
+     "id": "w82",
+     "text": "sixty-five",
+     "start": 27.48,
+     "end": 28.16
+    },
+    {
+     "id": "w83",
+     "text": "thousand",
+     "start": 28.24,
+     "end": 28.64
+    },
+    {
+     "id": "w84",
+     "text": "volts.",
+     "start": 28.72,
+     "end": 29.64
+    },
+    {
+     "id": "w85",
+     "text": "Why",
+     "start": 29.68,
+     "end": 29.84
+    },
+    {
+     "id": "w86",
+     "text": "go",
+     "start": 29.92,
+     "end": 30
+    },
+    {
+     "id": "w87",
+     "text": "so",
+     "start": 30.08,
+     "end": 30.24
+    },
+    {
+     "id": "w88",
+     "text": "high?",
+     "start": 30.6,
+     "end": 31
+    },
+    {
+     "id": "w89",
+     "text": "Same",
+     "start": 31.04,
+     "end": 31.28
+    },
+    {
+     "id": "w90",
+     "text": "power,",
+     "start": 31.6,
+     "end": 32.027
+    },
+    {
+     "id": "w91",
+     "text": "higher",
+     "start": 32.133,
+     "end": 32.24
+    },
+    {
+     "id": "w92",
+     "text": "voltage,",
+     "start": 32.28,
+     "end": 32.84
+    },
+    {
+     "id": "w93",
+     "text": "means",
+     "start": 32.88,
+     "end": 33.12
+    },
+    {
+     "id": "w94",
+     "text": "less",
+     "start": 33.24,
+     "end": 33.36
+    },
+    {
+     "id": "w95",
+     "text": "current.",
+     "start": 33.76,
+     "end": 34.213
+    },
+    {
+     "id": "w96",
+     "text": "And",
+     "start": 34.267,
+     "end": 34.32
+    },
+    {
+     "id": "w97",
+     "text": "wires",
+     "start": 34.4,
+     "end": 34.8
+    },
+    {
+     "id": "w98",
+     "text": "waste",
+     "start": 34.907,
+     "end": 35.12
+    },
+    {
+     "id": "w99",
+     "text": "energy",
+     "start": 35.32,
+     "end": 35.52
+    },
+    {
+     "id": "w100",
+     "text": "as",
+     "start": 35.6,
+     "end": 35.68
+    },
+    {
+     "id": "w101",
+     "text": "heat,",
+     "start": 35.92,
+     "end": 36.187
+    },
+    {
+     "id": "w102",
+     "text": "by",
+     "start": 36.213,
+     "end": 36.24
+    },
+    {
+     "id": "w103",
+     "text": "the",
+     "start": 36.32,
+     "end": 36.4
+    },
+    {
+     "id": "w104",
+     "text": "square",
+     "start": 36.48,
+     "end": 36.8
+    },
+    {
+     "id": "w105",
+     "text": "of",
+     "start": 36.84,
+     "end": 36.88
+    },
+    {
+     "id": "w106",
+     "text": "the",
+     "start": 36.96,
+     "end": 37.04
+    },
+    {
+     "id": "w107",
+     "text": "current.",
+     "start": 37.44,
+     "end": 37.92
+    },
+    {
+     "id": "w108",
+     "text": "Double",
+     "start": 38,
+     "end": 38.08
+    },
+    {
+     "id": "w109",
+     "text": "the",
+     "start": 38.12,
+     "end": 38.16
+    },
+    {
+     "id": "w110",
+     "text": "voltage,",
+     "start": 38.24,
+     "end": 38.853
+    },
+    {
+     "id": "w111",
+     "text": "and",
+     "start": 38.907,
+     "end": 38.96
+    },
+    {
+     "id": "w112",
+     "text": "that",
+     "start": 39.04,
+     "end": 39.12
+    },
+    {
+     "id": "w113",
+     "text": "heat",
+     "start": 39.2,
+     "end": 39.44
+    },
+    {
+     "id": "w114",
+     "text": "drops",
+     "start": 39.6,
+     "end": 39.76
+    },
+    {
+     "id": "w115",
+     "text": "to",
+     "start": 39.8,
+     "end": 39.84
+    },
+    {
+     "id": "w116",
+     "text": "a",
+     "start": 39.92,
+     "end": 40
+    },
+    {
+     "id": "w117",
+     "text": "quarter.",
+     "start": 40.08,
+     "end": 41
+    },
+    {
+     "id": "w118",
+     "text": "Now",
+     "start": 41.04,
+     "end": 41.2
+    },
+    {
+     "id": "w119",
+     "text": "the",
+     "start": 41.24,
+     "end": 41.28
+    },
+    {
+     "id": "w120",
+     "text": "power",
+     "start": 41.36,
+     "end": 41.6
+    },
+    {
+     "id": "w121",
+     "text": "can",
+     "start": 41.68,
+     "end": 41.76
+    },
+    {
+     "id": "w122",
+     "text": "cross",
+     "start": 41.84,
+     "end": 42.16
+    },
+    {
+     "id": "w123",
+     "text": "hundreds",
+     "start": 42.24,
+     "end": 42.56
+    },
+    {
+     "id": "w124",
+     "text": "of",
+     "start": 42.64,
+     "end": 42.72
+    },
+    {
+     "id": "w125",
+     "text": "miles.",
+     "start": 42.76,
+     "end": 43.64
+    },
+    {
+     "id": "w126",
+     "text": "The",
+     "start": 43.68,
+     "end": 43.76
+    },
+    {
+     "id": "w127",
+     "text": "wires",
+     "start": 43.8,
+     "end": 44.08
+    },
+    {
+     "id": "w128",
+     "text": "up",
+     "start": 44.16,
+     "end": 44.24
+    },
+    {
+     "id": "w129",
+     "text": "there",
+     "start": 44.36,
+     "end": 44.48
+    },
+    {
+     "id": "w130",
+     "text": "are",
+     "start": 44.6,
+     "end": 44.72
+    },
+    {
+     "id": "w131",
+     "text": "bare.",
+     "start": 45,
+     "end": 45.333
+    },
+    {
+     "id": "w132",
+     "text": "Aluminum,",
+     "start": 45.387,
+     "end": 45.88
+    },
+    {
+     "id": "w133",
+     "text": "around",
+     "start": 45.92,
+     "end": 46.16
+    },
+    {
+     "id": "w134",
+     "text": "a",
+     "start": 46.2,
+     "end": 46.24
+    },
+    {
+     "id": "w135",
+     "text": "steel",
+     "start": 46.32,
+     "end": 46.56
+    },
+    {
+     "id": "w136",
+     "text": "core.",
+     "start": 46.92,
+     "end": 47.32
+    },
+    {
+     "id": "w137",
+     "text": "Air",
+     "start": 47.36,
+     "end": 47.6
+    },
+    {
+     "id": "w138",
+     "text": "is",
+     "start": 47.68,
+     "end": 47.76
+    },
+    {
+     "id": "w139",
+     "text": "the",
+     "start": 47.8,
+     "end": 47.84
+    },
+    {
+     "id": "w140",
+     "text": "insulation,",
+     "start": 47.92,
+     "end": 48.72
+    },
+    {
+     "id": "w141",
+     "text": "and",
+     "start": 48.8,
+     "end": 48.88
+    },
+    {
+     "id": "w142",
+     "text": "insulator",
+     "start": 48.96,
+     "end": 49.36
+    },
+    {
+     "id": "w143",
+     "text": "discs",
+     "start": 49.44,
+     "end": 49.76
+    },
+    {
+     "id": "w144",
+     "text": "keep",
+     "start": 49.84,
+     "end": 49.92
+    },
+    {
+     "id": "w145",
+     "text": "it",
+     "start": 50,
+     "end": 50.04
+    },
+    {
+     "id": "w146",
+     "text": "off",
+     "start": 50.08,
+     "end": 50.16
+    },
+    {
+     "id": "w147",
+     "text": "the",
+     "start": 50.24,
+     "end": 50.32
+    },
+    {
+     "id": "w148",
+     "text": "towers.",
+     "start": 50.36,
+     "end": 51.36
+    },
+    {
+     "id": "w149",
+     "text": "Near",
+     "start": 51.44,
+     "end": 51.52
+    },
+    {
+     "id": "w150",
+     "text": "town,",
+     "start": 51.76,
+     "end": 52.053
+    },
+    {
+     "id": "w151",
+     "text": "a",
+     "start": 52.107,
+     "end": 52.16
+    },
+    {
+     "id": "w152",
+     "text": "substation",
+     "start": 52.28,
+     "end": 52.8
+    },
+    {
+     "id": "w153",
+     "text": "steps",
+     "start": 52.88,
+     "end": 53.12
+    },
+    {
+     "id": "w154",
+     "text": "it",
+     "start": 53.2,
+     "end": 53.28
+    },
+    {
+     "id": "w155",
+     "text": "down",
+     "start": 53.4,
+     "end": 53.52
+    },
+    {
+     "id": "w156",
+     "text": "to",
+     "start": 53.6,
+     "end": 53.68
+    },
+    {
+     "id": "w157",
+     "text": "under",
+     "start": 53.76,
+     "end": 54.08
+    },
+    {
+     "id": "w158",
+     "text": "thirty-four",
+     "start": 54.12,
+     "end": 54.64
+    },
+    {
+     "id": "w159",
+     "text": "thousand",
+     "start": 54.72,
+     "end": 55.04
+    },
+    {
+     "id": "w160",
+     "text": "volts,",
+     "start": 55.12,
+     "end": 55.56
+    },
+    {
+     "id": "w161",
+     "text": "and",
+     "start": 55.6,
+     "end": 55.84
+    },
+    {
+     "id": "w162",
+     "text": "sends",
+     "start": 55.88,
+     "end": 56
+    },
+    {
+     "id": "w163",
+     "text": "it",
+     "start": 56.08,
+     "end": 56.16
+    },
+    {
+     "id": "w164",
+     "text": "down",
+     "start": 56.24,
+     "end": 56.32
+    },
+    {
+     "id": "w165",
+     "text": "your",
+     "start": 56.4,
+     "end": 56.48
+    },
+    {
+     "id": "w166",
+     "text": "street.",
+     "start": 56.88,
+     "end": 57.32
+    },
+    {
+     "id": "w167",
+     "text": "Then",
+     "start": 57.36,
+     "end": 57.6
+    },
+    {
+     "id": "w168",
+     "text": "the",
+     "start": 57.68,
+     "end": 57.76
+    },
+    {
+     "id": "w169",
+     "text": "gray",
+     "start": 57.88,
+     "end": 58
+    },
+    {
+     "id": "w170",
+     "text": "can",
+     "start": 58.08,
+     "end": 58.24
+    },
+    {
+     "id": "w171",
+     "text": "on",
+     "start": 58.28,
+     "end": 58.32
+    },
+    {
+     "id": "w172",
+     "text": "the",
+     "start": 58.4,
+     "end": 58.48
+    },
+    {
+     "id": "w173",
+     "text": "pole",
+     "start": 58.64,
+     "end": 58.8
+    },
+    {
+     "id": "w174",
+     "text": "finishes",
+     "start": 58.88,
+     "end": 59.28
+    },
+    {
+     "id": "w175",
+     "text": "the",
+     "start": 59.32,
+     "end": 59.36
+    },
+    {
+     "id": "w176",
+     "text": "job:",
+     "start": 59.44,
+     "end": 60.16
+    },
+    {
+     "id": "w177",
+     "text": "two",
+     "start": 60.24,
+     "end": 60.32
+    },
+    {
+     "id": "w178",
+     "text": "hundred",
+     "start": 60.36,
+     "end": 60.72
+    },
+    {
+     "id": "w179",
+     "text": "forty",
+     "start": 60.8,
+     "end": 61.04
+    },
+    {
+     "id": "w180",
+     "text": "volts,",
+     "start": 61.12,
+     "end": 61.64
+    },
+    {
+     "id": "w181",
+     "text": "split",
+     "start": 61.68,
+     "end": 61.92
+    },
+    {
+     "id": "w182",
+     "text": "into",
+     "start": 62.04,
+     "end": 62.16
+    },
+    {
+     "id": "w183",
+     "text": "two",
+     "start": 62.24,
+     "end": 62.4
+    },
+    {
+     "id": "w184",
+     "text": "halves",
+     "start": 62.52,
+     "end": 62.72
+    },
+    {
+     "id": "w185",
+     "text": "of",
+     "start": 62.8,
+     "end": 62.88
+    },
+    {
+     "id": "w186",
+     "text": "one",
+     "start": 62.96,
+     "end": 63.04
+    },
+    {
+     "id": "w187",
+     "text": "hundred",
+     "start": 63.12,
+     "end": 63.36
+    },
+    {
+     "id": "w188",
+     "text": "twenty.",
+     "start": 63.76,
+     "end": 64.2
+    },
+    {
+     "id": "w189",
+     "text": "Your",
+     "start": 64.24,
+     "end": 64.32
+    },
+    {
+     "id": "w190",
+     "text": "outlet",
+     "start": 64.4,
+     "end": 64.72
+    },
+    {
+     "id": "w191",
+     "text": "gets",
+     "start": 64.84,
+     "end": 64.96
+    },
+    {
+     "id": "w192",
+     "text": "one",
+     "start": 65.04,
+     "end": 65.12
+    },
+    {
+     "id": "w193",
+     "text": "half.",
+     "start": 65.2,
+     "end": 65.813
+    },
+    {
+     "id": "w194",
+     "text": "Your",
+     "start": 65.867,
+     "end": 65.92
+    },
+    {
+     "id": "w195",
+     "text": "dryer",
+     "start": 66.04,
+     "end": 66.4
+    },
+    {
+     "id": "w196",
+     "text": "gets",
+     "start": 66.48,
+     "end": 66.64
+    },
+    {
+     "id": "w197",
+     "text": "both.",
+     "start": 66.72,
+     "end": 67.52
+    },
+    {
+     "id": "w198",
+     "text": "Only",
+     "start": 67.6,
+     "end": 67.68
+    },
+    {
+     "id": "w199",
+     "text": "about",
+     "start": 67.76,
+     "end": 68.08
+    },
+    {
+     "id": "w200",
+     "text": "five",
+     "start": 68.16,
+     "end": 68.4
+    },
+    {
+     "id": "w201",
+     "text": "percent",
+     "start": 68.6,
+     "end": 68.8
+    },
+    {
+     "id": "w202",
+     "text": "is",
+     "start": 68.88,
+     "end": 68.96
+    },
+    {
+     "id": "w203",
+     "text": "lost",
+     "start": 69.08,
+     "end": 69.2
+    },
+    {
+     "id": "w204",
+     "text": "on",
+     "start": 69.28,
+     "end": 69.36
+    },
+    {
+     "id": "w205",
+     "text": "the",
+     "start": 69.4,
+     "end": 69.44
+    },
+    {
+     "id": "w206",
+     "text": "whole",
+     "start": 69.52,
+     "end": 69.6
+    },
+    {
+     "id": "w207",
+     "text": "trip.",
+     "start": 69.68,
+     "end": 70.4
+    },
+    {
+     "id": "w208",
+     "text": "And",
+     "start": 70.48,
+     "end": 70.56
+    },
+    {
+     "id": "w209",
+     "text": "none",
+     "start": 70.64,
+     "end": 70.72
+    },
+    {
+     "id": "w210",
+     "text": "of",
+     "start": 70.8,
+     "end": 70.88
+    },
+    {
+     "id": "w211",
+     "text": "that",
+     "start": 70.96,
+     "end": 71.04
+    },
+    {
+     "id": "w212",
+     "text": "high",
+     "start": 71.12,
+     "end": 71.28
+    },
+    {
+     "id": "w213",
+     "text": "voltage",
+     "start": 71.32,
+     "end": 71.84
+    },
+    {
+     "id": "w214",
+     "text": "ever",
+     "start": 71.92,
+     "end": 72.16
+    },
+    {
+     "id": "w215",
+     "text": "reaches",
+     "start": 72.2,
+     "end": 72.48
+    },
+    {
+     "id": "w216",
+     "text": "you,",
+     "start": 72.56,
+     "end": 73
+    },
+    {
+     "id": "w217",
+     "text": "even",
+     "start": 73.04,
+     "end": 73.28
+    },
+    {
+     "id": "w218",
+     "text": "though",
+     "start": 73.44,
+     "end": 73.84
+    }
+   ]
+  }
+ ]
+}

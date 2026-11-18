@@ -1,0 +1,13 @@
+{
+ "slug": "power-grid",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The electricity in your outlet traveled here at hundreds of thousands of volts. Let that into your house, and every wire in your walls would fail. So its voltage changes at least three times on the way. It starts at a power plant, where a generator makes it at a much lower voltage. Next door, a step-up transformer takes over. Inside, two copper coils wrap one iron core. The output coil has more turns, so the voltage climbs, up to seven hundred sixty-five thousand volts. Why go so high? Same power, higher voltage, means less current. And wires waste energy as heat, by the square of the current. Double the voltage, and that heat drops to a quarter. Now the power can cross hundreds of miles. The wires up there are bare. Aluminum, around a steel core. Air is the insulation, and insulator discs keep it off the towers. Near town, a substation steps it down to under thirty-four thousand volts, and sends it down your street. Then the gray can on the pole finishes the job: two hundred forty volts, split into two halves of one hundred twenty. Your outlet gets one half. Your dryer gets both. Only about five percent is lost on the whole trip. And none of that high voltage ever reaches you, even though"
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

@@ -1,0 +1,36 @@
+Sources: power-grid (3d-31), checked 18 Nov 2026 (cloud run, web search excerpts).
+
+"traveled here at hundreds of thousands of volts" / "up to seven hundred sixty-five thousand volts" / generator "at a much lower voltage"
+  -> DOE CESER Electricity Grid Backgrounder (2023): plants generate at low voltages (5-34.5 kV); step-up substations raise it; typical transmission voltages 115, 138, 230, 345, 500 and 765 kV
+     https://www.energy.gov/sites/default/files/2023-11/FINAL_CESER%20Electricity%20Grid%20Backgrounder_508.pdf
+  -> EIA "How electricity is delivered to consumers": transformers step voltage up for long-distance transmission and down for distribution
+     https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php
+  (Not every outlet's power rode a 765 kV line; "hundreds of thousands" = the 115-765 kV transmission range. 765 kV is said as the top value only.)
+"Let that into your house, and the wires in your walls would fail"
+  -> home branch wiring is 120/240 V service (sources below); NM cable is rated 600 V (NEC / UL 719), a tiny fraction of 115,000+ V. Kept general, no number spoken.
+"its voltage changes at least three times on the way" (step-up at the plant, step-down at the substation, step-down at the pole)
+  -> DOE backgrounder (step-up and step-down substations, distribution below 34 kV) + DOE archived EERE "electricity grid" page (transformers on distribution lines lower it to 120/240 V)
+     https://webarchive.library.unt.edu/eot2008/20090118060600/http://www.eere.energy.gov/de/electricity_grid.html
+  ("at least": some routes add sub-transmission steps.)
+"Inside, two copper coils wrap one iron core. The output coil has more turns, so the voltage climbs"
+  -> basic transformer principle (voltage ratio = turns ratio): Wikipedia "Transformer"; EIA delivery page. Video shows a single-phase cutaway; real step-up units are usually three-phase (not claimed otherwise). Oil-filled tank shown (mineral-oil-immersed transformers: ERMCO pole-mount spec sheet below).
+"Same power, higher voltage, means less current. And wires waste energy as heat, by the square of the current. Double the voltage, and that heat drops to a quarter."
+  -> P = V x I and resistive loss = I^2 x R (standard physics): EEPower "Principles of high voltage transmission" https://eepower.com/technical-articles/principles-of-high-voltage-transmission/
+     NASA GSFC "Why high voltage" https://pwg.gsfc.nasa.gov/Electric/-E11-reason.htm
+"Now the power can cross hundreds of miles"
+  -> EIA delivery page (long-distance high-voltage transmission lines); TANC "Understanding transmission" https://www.tanc.us/understanding-transmission/the-transmission-system-and-how-it-works/
+"The wires up there are bare. Aluminum, around a steel core. Air is the insulation, and insulator discs keep it off the towers."
+  -> Wikipedia "Overhead power line": most common transmission conductor is ACSR (aluminum conductor steel-reinforced); most of the insulation is provided by air; lines above ~69 kV use suspension strings of porcelain, glass or polymer discs, more discs at higher voltage
+     https://en.wikipedia.org/wiki/Overhead_power_line
+"Near town, a substation steps it down to under thirty-four thousand volts"
+  -> DOE backgrounder: step-down substations; distribution systems typically rated below 34 kV
+"the gray can on the pole ... two hundred forty volts, split into two halves of one hundred twenty. Your outlet gets one half. Your dryer gets both."
+  -> Wikipedia "Distribution transformer" (pole-mounted, center-tapped 120/240 V split-phase secondary): https://en.wikipedia.org/wiki/Distribution_transformer
+  -> Maddox "Low voltage distribution systems": https://www.maddox.com/resources/articles/low-voltage-distribution-systems
+  -> ERMCO single-phase pole-mount transformer spec (oil-immersed, 120/240 V secondaries): https://www.ermco-eci.com/wp-content/uploads/2026/06/SPhPlMnt-Final.pdf
+  (each hot leg is 120 V to the grounded center-tap neutral, 240 V between the two hots: dryers/ranges use 240 V)
+"Only about five percent is lost on the whole trip"
+  -> EIA FAQ "How much electricity is lost in electricity transmission and distribution in the United States?": about 5% of electricity transmitted and distributed, annual average 2018-2022
+     https://www.eia.gov/tools/faqs/faq.php?id=105&t=3
+
+Cut / not claimed: 60 Hz and real-time grid balancing (kept out for length), number of US grids, specific generator voltage, span lengths (video spaces towers 75 m apart for the frame), conductor sizes, the number of discs per voltage (sources vary).
