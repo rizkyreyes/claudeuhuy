@@ -11,3 +11,6 @@ Laptop: `bash "D:/01 Konten/Bahan Bikin Konten/tesseract/remotion/cover.sh" 2026
 - **C: "POWER / GRID"** on `cover/hero_C.png` (dusk street: pole can cut open with gold + cyan coils, three glowing service wires into a cut-away house wall with a glowing outlet = the video's B13-B14 and the hook). Good second choice; busier (pole + house).
   fal prompt: `make_covers.sh` PC
 - Checked: no readable text, no logos, no people in any of the three. None copies a real photo. Note: cover A's tank has a conservator drum and 3 bushings, the video's has 3 HV + 3 LV bushings and no drum (same object type and key parts: core + 2 coils).
+
+pos B: center 230
+pos C: right 300 420
