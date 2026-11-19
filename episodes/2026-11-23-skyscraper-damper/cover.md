@@ -11,3 +11,6 @@ Laptop: `bash "D:/01 Konten/Bahan Bikin Konten/tesseract/remotion/cover.sh" 2026
 - **B: "MASS / DAMPER"** on `cover/hero_B.png` (night typhoon, lightning, cyan wind streaks, x-ray top floors with the gold ball; tower leans dramatically)
   fal prompt: `make_covers.sh` PB. Ball is small at a glance.
 - Checked: no readable text, no logos, no people in any of the three. None copies a real photo.
+
+pos B: left 640 470
+pos C: center 250
