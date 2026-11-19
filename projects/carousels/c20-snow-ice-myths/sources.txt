@@ -1,0 +1,23 @@
+# c20 snow and ice myths: fact -> source (checked 19 Nov 2026, cloud run; checked on search excerpts, pca.state.mn.us, extension.umn.edu and pacaweb.org are not reachable from the sandbox)
+1 Rock salt (sodium chloride) loses effectiveness at about 15°F (pavement temperature, not air); below that use a cold-rated deicer or sand for traction (sand does not melt ice)
+  MPCA: https://www.pca.state.mn.us/news-and-stories/as-minnesota-prepares-for-a-cold-snowy-winter-mpca-urges-smart-salting-practices
+  U of Minnesota MN LTAP SmartWinterSalt (homeowners): https://mnltap.umn.edu/guides/smartwintersalt/homeowners/pavement/deicing-use
+  (property managers page: below 15°F "very slowly", pavement temp not air temp): https://mnltap.umn.edu/guides/smartwintersalt/property-managers/pavement/deicing-use
+  City of Minneapolis (sand gives traction, does not melt ice): https://www.minneapolismn.gov/government/programs-initiatives/environmental-programs/salt-mini-course/salt-best-practices/
+2 More salt doesn't melt faster; ~12 oz (a coffee mug) treats a 20-foot driveway or 10 sidewalk squares (~1,000 sq ft); shovel first; excess salt pollutes lakes/streams
+  MPCA: https://www.pca.state.mn.us/news-and-stories/in-de-icing-season-a-less-is-more-approach-best-protects-lakes-and-streams
+  MPCA: https://www.pca.state.mn.us/featured/nine-smart-salting-tips-protect-minnesota-waters
+  (Ramsey County uses a lower coverage figure, 250 sq ft per 12 oz; the MPCA figure is used)
+3 Avoid deicers on new concrete during its first year (young concrete is more prone to freeze-thaw scaling); sand for traction
+  Portland Cement Association scaling info sheet (hosted by Pennsylvania Aggregates and Concrete Assn): https://www.pacaweb.org/uploads/documents/PIS_Scaling.pdf
+  PCA deicer sheet: https://www.pacaweb.org/uploads/documents/ProtectingFromDeIcer.pdf
+  Cargill (salt maker) citing PCA: https://www.cargill.com/doc/1432076136045/dr-scott-answer-deicer-for-new-concrete.pdf
+4 Ice dams are caused primarily by heat flowing from the house warming the roof; snow melts, refreezes at the cold eaves; prevent by air sealing house-to-attic leaks + insulation. Gutters are not the cause.
+  U of Minnesota Extension: https://extension.umn.edu/protecting-home-rain-and-ice/dealing-and-preventing-ice-dams
+  Journal of Light Construction (gutters "not the cause of ice dams, as is commonly thought"): https://www.jlconline.com/how-to/insulation/making-a-business-of-ice-dams_o/
+5 Never chop through the ice down to the shingles or use a blowtorch; in an emergency, make channels through the dam with tap water from a hose on a warm day
+  U of Minnesota (Digital Conservancy publication): https://conservancy.umn.edu/server/api/core/bitstreams/9f82be1c-9cba-42f0-93b6-0c02113fb9fe/content
+  U of Minnesota Extension: https://extension.umn.edu/protecting-home-rain-and-ice/dealing-and-preventing-ice-dams
+  (MN Clean Energy Resource Teams also: avoid chippers, chemicals or heat): https://www.cleanenergyresourceteams.org/got-ice-dams-what-do-and-how-prevent-them
+Cut: kitty litter melts ice (only non-gov sources), roof rake damage (UMN says it "may" damage roofing, too soft), heat cables (only inspector/trade sources), shoveling and heart strain (health claim).
+Photos (Pexels): cover 35615536, salt 6104433, mug 6952499, concrete 10834248, gutter 8875446, chip 35566488, end 25381430 (no faces, no readable brands)

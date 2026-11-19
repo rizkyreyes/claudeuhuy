@@ -1,0 +1,46 @@
+Sources: subway-station (3d-32), checked 19 Nov 2026 (cloud run, web search excerpts; worksinprogress.co and flatironcorp.com not reachable from the sandbox).
+
+"Cars are driving right over this subway station while it's being built" / "lay steel beams across, and cover them with deck panels. Traffic goes right back on."
+  -> DFI abstract (Fantaye 2016), Second Avenue Subway station: "temporary street decking over the entire excavation", decking on busy Second Avenue
+     https://dfi.dcatalog.com/v/DEI-Nov-Dec-2012/?page=60  (DFI magazine) and https://ascelibrary.com/doi/10.1061/9780784479742.033
+  -> Tunnels & Tunnelling, 96th St project: "installing roadway decking to maintain existing traffic"  https://www.tunnelsandtunnelling.com/?p=30946
+  -> Wikipedia/Wikiwand, 96th Street (IND Second Avenue Line): temporary decking formed the top of the boxes and supported Second Avenue traffic
+     https://www.wikiwand.com/en/articles/96th_Street_(IND_Second_Avenue_Line)
+  -> 1984 LA Metro Rail utilities report: pavement removed, deck beams placed, decking panels on top  https://libraryarchives.metro.net:443/DPGTL/scrtd/1984-maintenance-of-utilities-during-metro-rail-construction.pdf
+"the hole goes sixty-eight feet down"
+  -> ASCE chapter (Grigson, Ho, LeMus), 2nd Ave Subway 96th St station: excavation up to 68 ft deep, within ~20 ft of buildings
+     https://ascelibrary.com/doi/10.1061/9780784479742.033
+  (Other sources give 85 ft for the wider excavation and 49 ft (fan site); the best-sourced 68 ft is used and named on screen as the 96th St station.)
+"if its dirt walls caved in, the road would drop in with them" (why the walls come first)
+  -> general excavation support logic: walls + temporary supports (tiebacks/struts) keep the sides of the excavation from collapsing (Wikipedia "Slurry wall")
+     https://en.wikipedia.org/wiki/Slurry_wall   Shown as an illustrative what-if, no numbers.
+"So the walls go in first, before anyone digs"
+  -> top-down / perimeter-wall-first sequence: "the installation of the perimeter wall is the first stage"; walls usually slurry walls (USDOT 1976 cut-and-cover report; core.ac.uk review)
+     https://libraryarchives.metro.net:443/DPGTL/usdot/1976-cut-and-cover-tunneling-volume-1-construction-methods-design-and-activity-variations-final-report-may.pdf
+"A clamshell bucket cuts a narrow trench ... kept full of liquid clay called bentonite slurry. It pushes back on the dirt, so the trench holds open with no wall at all."
+  -> Wikipedia "Slurry wall": trench kept full of bentonite-water slurry; it provides outward pressure that balances the inward forces and prevents collapse; dug with clamshell bucket or hydromill from guide walls
+     https://en.wikipedia.org/wiki/Slurry_wall
+  -> Aarsleff "What is a slurry wall?" (filter cake + fluid pressure prevents collapse)  https://aarsleff.co.uk/?p=72056
+"Then a steel cage drops in, and concrete is pumped in from the bottom. It's heavier, so it shoves the slurry up and out."
+  -> Wikipedia "Slurry wall": steel cage lowered, concrete placed by tremie pipe from the bottom up; the heavier concrete displaces the slurry, which is pumped out, filtered and reused
+     https://en.wikipedia.org/wiki/Slurry_wall
+  -> Cardiff University slurry-trench paper (concrete displaces the less-dense slurry)  https://orca.cardiff.ac.uk/107551/1/Cleall%20P%20-%20Slurry%20trench.pdf
+"Panel by panel, that becomes a solid wall, three and a half feet thick."
+  -> 96th St station: "3.5-ft-thick reinforced concrete slurry wall panels" on the east and west sides of the street (ENR / Flatiron project page via search excerpts)
+     https://enr.com/articles/11812-best-project-airportstunnel  /  https://www.flatironcorp.com/?p=2862
+"Water mains and cables get hung from the beams."
+  -> US patent 4008577 (cut and cover subway): utilities suspended by hangers from the decking beams until the subway is formed  https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4008577
+  -> 1984 LA Metro Rail report: utility support structures attached to the deck beams; DFI abstract: utility relocation and suspension
+"As it deepens, steel struts brace the walls apart, so they can't fold in."
+  -> braced-cut excavations: wales transfer lateral load from the walls to the struts, struts are compression members (slideshare braced cuts; USDOT 1976 report "wales and struts vs tiebacks"); DFI abstract: staged excavation under an intricate bracing system
+"At the bottom, crews pour the floor, then build the station up to the roof. The struts come out, dirt goes back on top, and the street is rebuilt."
+  -> 96th St station built bottom-up (Wikiwand 96th St); USDOT 1976 cut-and-cover report (bottom-up: structure built in the open excavation, backfilled, surface restored)
+"That's cut and cover, how New York built most of its first subway in 1904."
+  -> ASME landmark #31 IRT / nycsubway.org "Engineering Features of the New York Subway": primarily open excavation, the "cut-and-cover" system; opened 27 Oct 1904
+     https://www.asme.org/about-asme/engineering-history/landmarks/31-interborough-rapid-transit-system
+     https://nycsubway.org/wiki/Chapter_14:_Engineering_Features_of_the_New_York_Subway
+  -> ASCE Civil Engineering 2024 "The first New York City subway delivers speed" (Parsons chose shallow cut-and-cover)
+     https://www.asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/issues/magazine-issue/article/2024/05/the-first-new-york-city-subway-delivers-speed
+
+Cut / not used: panel lengths (60-120 ft, unclear if length or depth), 211,000 sq ft of slurry wall, Milan method history, top-down variant (96th St was bottom-up, so the video follows bottom-up), dewatering (no clean source found).
+Simplified on screen: generic two-track island-platform station with a partial mezzanine, shortened length; deck shown as panels on beams; strut spacing illustrative.

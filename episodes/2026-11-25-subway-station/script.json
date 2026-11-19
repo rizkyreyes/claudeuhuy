@@ -1,0 +1,13 @@
+{
+ "slug": "subway-station",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Cars are driving right over this subway station while it's being built. Under them, the hole goes sixty-eight feet down, and if its dirt walls caved in, the road would drop in with them. So the walls go in first, before anyone digs. A clamshell bucket cuts a narrow trench along the street, kept full of liquid clay called bentonite slurry. It pushes back on the dirt, so the trench holds open with no wall at all. Then a steel cage drops in, and concrete is pumped in from the bottom. It's heavier, so it shoves the slurry up and out. Panel by panel, that becomes a solid wall, three and a half feet thick. Now crews dig out just the top, lay steel beams across, and cover them with deck panels. Traffic goes right back on. Water mains and cables get hung from the beams. Then the real digging starts, under the deck. As it deepens, steel struts brace the walls apart, so they can't fold in. At the bottom, crews pour the floor, then build the station up to the roof. The struts come out, dirt goes back on top, and the street is rebuilt. That's cut and cover, how New York built most of its first subway in 1904. And when the deck comes off, the street looks normal again, with a whole station hiding under the cars."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

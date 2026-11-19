@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 snow and ice myths to drop before the first big storm", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/salt.jpg", "myth": "Rock salt works no matter how cold it gets.",
+      "fact": "Regular rock salt slows way down once the pavement drops below about 15°F. Use a deicer rated for the cold, or sand for grip.",
+      "source": "Minnesota Pollution Control Agency, U of Minnesota" },
+    { "type": "myth", "bg": "bg/mug.jpg", "myth": "More salt melts the ice faster.",
+      "fact": "About 12 ounces, one coffee mug, treats a 20-foot driveway or 10 sidewalk squares. Shovel first. Extra salt just ends up in local water.",
+      "source": "Minnesota Pollution Control Agency" },
+    { "type": "myth", "bg": "bg/concrete.jpg", "myth": "Salting a brand-new concrete driveway is fine.",
+      "fact": "Concrete pros say to keep deicers off it for the first year. Young concrete scales and flakes more easily. Use sand for traction.",
+      "source": "Portland Cement Association" },
+    { "type": "myth", "bg": "bg/gutter.jpg", "myth": "Ice dams mean your gutters are clogged.",
+      "fact": "Ice dams start in the attic. Heat leaking from the house melts roof snow, and it refreezes at the cold edge. Air sealing and insulation fix it.",
+      "source": "University of Minnesota Extension" },
+    { "type": "myth", "bg": "bg/chip.jpg", "myth": "Just chip the ice dam off with a hammer.",
+      "fact": "Never chop through the ice down to the shingles, and never use a blowtorch. In a pinch, hose channels through it with tap water on a warm day.",
+      "source": "University of Minnesota Extension" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one were you doing?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Minnesota Pollution Control Agency: smart salting", "U of Minnesota MN LTAP: SmartWinterSalt", "Portland Cement Association: scaling", "U of Minnesota Extension: ice dams"] }
+  ]
+}
