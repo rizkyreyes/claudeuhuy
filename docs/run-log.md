@@ -667,3 +667,8 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
   - Covers: 3 fal.ai heroes (MEDIUM, no retries). B (rainy blue-hour avenue over a glowing finished station) suggested; A (golden hour, braced hole under the deck = hook frame) close second; C (clamshell + cage) weakest. Remotion cover.sh on the laptop adds "SUBWAY / STATION".
   - Open issues for the laptop: on GPU check the cave-in sim (8-11 s, chunks should fall into the hole, red light level), the clamshell bucket reading inside the translucent slurry (15-21 s), the x-ray panel beat (32.7-37.6 s), the train arrival (63-67 s), optional `--bake-fluid`; titles not vidIQ-scored.
 - Step 9: c20 snow & ice myths (Sat 21 Nov 9 AM ET, ~44 h away) made, 7 tt slides, row `ready`; c21 row added (Mon 23 Nov).
+
+## 2026-11-20 laptop run (3d-32 subway-station)
+- GPU stills OK, no scene fixes. Final render 2208 frames. First assemble failed (render asset import half-done, "neither packaged nor runtime-owned"): moved the new Subway.tsrct aside and re-assembled clean. Subway.mp4 73.6 s, -15.7 LUFS, peak -1.0 dBTP. Covers A/B/C via Remotion (SUBWAY / STATION). Waiting for setuju.
+- c20 snow-ice carousel scheduled on TikTok (notification) Sat 21 Nov 9 AM ET, Buffer 6afff71c7b0a126cebb8049e; c15/c16 media removed.
+- YouTube comments: nothing new unanswered.
