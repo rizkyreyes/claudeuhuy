@@ -1,1712 +1,1718 @@
 [
  {
   "id": "w0",
-  "text": "But",
+  "text": "So",
   "start": 0,
-  "end": 0.08
+  "end": 0.16
  },
  {
   "id": "w1",
-  "text": "a",
-  "start": 0.16,
-  "end": 0.24
- },
- {
-  "id": "w2",
-  "text": "river",
-  "start": 0.32,
+  "text": "what",
+  "start": 0.48,
   "end": 0.56
  },
  {
-  "id": "w3",
-  "text": "bottom",
+  "id": "w2",
+  "text": "are",
   "start": 0.64,
+  "end": 0.72
+ },
+ {
+  "id": "w3",
+  "text": "those",
+  "start": 0.84,
   "end": 0.96
  },
  {
   "id": "w4",
-  "text": "is",
+  "text": "piles?",
   "start": 1.04,
-  "end": 1.2
- },
- {
-  "id": "w5",
-  "text": "soft.",
-  "start": 1.28,
   "end": 2.08
  },
  {
-  "id": "w6",
+  "id": "w5",
   "text": "A",
-  "start": 2.16,
-  "end": 2.24
+  "start": 2.12,
+  "end": 2.16
+ },
+ {
+  "id": "w6",
+  "text": "river",
+  "start": 2.24,
+  "end": 2.4
  },
  {
   "id": "w7",
-  "text": "tower",
-  "start": 2.44,
-  "end": 2.64
+  "text": "bottom",
+  "start": 2.48,
+  "end": 2.8
  },
  {
   "id": "w8",
-  "text": "weighing",
-  "start": 2.72,
+  "text": "is",
+  "start": 2.88,
   "end": 3.04
  },
  {
   "id": "w9",
-  "text": "tens",
-  "start": 3.12,
-  "end": 3.44
+  "text": "soft.",
+  "start": 3.28,
+  "end": 3.84
  },
  {
   "id": "w10",
-  "text": "of",
-  "start": 3.56,
-  "end": 3.68
+  "text": "A",
+  "start": 3.92,
+  "end": 4
  },
  {
   "id": "w11",
-  "text": "thousands",
-  "start": 3.76,
-  "end": 4.16
+  "text": "tower",
+  "start": 4.2,
+  "end": 4.4
  },
  {
   "id": "w12",
-  "text": "of",
-  "start": 4.24,
-  "end": 4.32
+  "text": "weighing",
+  "start": 4.48,
+  "end": 4.8
  },
  {
   "id": "w13",
-  "text": "tons",
-  "start": 4.52,
-  "end": 4.72
+  "text": "tens",
+  "start": 4.88,
+  "end": 5.2
  },
  {
   "id": "w14",
-  "text": "would",
-  "start": 4.8,
-  "end": 5.04
+  "text": "of",
+  "start": 5.28,
+  "end": 5.36
  },
  {
   "id": "w15",
-  "text": "sink",
-  "start": 5.12,
-  "end": 5.28
+  "text": "thousands",
+  "start": 5.44,
+  "end": 5.92
  },
  {
   "id": "w16",
-  "text": "into",
-  "start": 5.36,
-  "end": 5.6
+  "text": "of",
+  "start": 6,
+  "end": 6.08
  },
  {
   "id": "w17",
-  "text": "it.",
-  "start": 5.92,
-  "end": 6.32
+  "text": "tons",
+  "start": 6.28,
+  "end": 6.48
  },
  {
   "id": "w18",
-  "text": "So",
-  "start": 6.44,
-  "end": 6.56
+  "text": "would",
+  "start": 6.6,
+  "end": 6.72
  },
  {
   "id": "w19",
-  "text": "before",
-  "start": 6.64,
+  "text": "sink",
+  "start": 6.84,
   "end": 6.96
  },
  {
   "id": "w20",
-  "text": "the",
-  "start": 7.04,
-  "end": 7.12
+  "text": "into",
+  "start": 7.08,
+  "end": 7.2
  },
  {
   "id": "w21",
-  "text": "footing,",
-  "start": 7.2,
-  "end": 7.653
+  "text": "it.",
+  "start": 7.28,
+  "end": 7.92
  },
  {
   "id": "w22",
-  "text": "the",
-  "start": 7.707,
-  "end": 7.76
+  "text": "So",
+  "start": 8.08,
+  "end": 8.24
  },
  {
   "id": "w23",
-  "text": "crew",
-  "start": 7.88,
-  "end": 8
+  "text": "it",
+  "start": 8.32,
+  "end": 8.4
  },
  {
   "id": "w24",
-  "text": "drives",
-  "start": 8.08,
-  "end": 8.48
+  "text": "stands",
+  "start": 8.48,
+  "end": 8.72
  },
  {
   "id": "w25",
-  "text": "piles:",
-  "start": 8.56,
-  "end": 9.4
+  "text": "on",
+  "start": 8.8,
+  "end": 8.88
  },
  {
   "id": "w26",
-  "text": "steel",
-  "start": 9.44,
-  "end": 9.76
+  "text": "piles:",
+  "start": 8.96,
+  "end": 9.8
  },
  {
   "id": "w27",
-  "text": "or",
+  "text": "steel",
   "start": 9.84,
-  "end": 10
+  "end": 10.24
  },
  {
   "id": "w28",
-  "text": "concrete",
-  "start": 10.12,
+  "text": "or",
+  "start": 10.32,
   "end": 10.4
  },
  {
   "id": "w29",
-  "text": "columns",
+  "text": "concrete",
   "start": 10.48,
-  "end": 10.88
+  "end": 10.96
  },
  {
   "id": "w30",
-  "text": "that",
-  "start": 10.96,
-  "end": 11.04
+  "text": "columns",
+  "start": 11.2,
+  "end": 11.44
  },
  {
   "id": "w31",
-  "text": "reach",
-  "start": 11.12,
-  "end": 11.36
- },
- {
-  "id": "w32",
-  "text": "down",
-  "start": 11.48,
+  "text": "that",
+  "start": 11.52,
   "end": 11.6
  },
  {
-  "id": "w33",
-  "text": "to",
+  "id": "w32",
+  "text": "reach",
   "start": 11.72,
   "end": 11.84
  },
  {
-  "id": "w34",
-  "text": "firmer",
+  "id": "w33",
+  "text": "down",
   "start": 11.92,
   "end": 12.16
  },
  {
+  "id": "w34",
+  "text": "to",
+  "start": 12.28,
+  "end": 12.4
+ },
+ {
   "id": "w35",
-  "text": "ground,",
-  "start": 12.24,
-  "end": 12.92
+  "text": "firmer",
+  "start": 12.48,
+  "end": 12.72
  },
  {
   "id": "w36",
-  "text": "some",
-  "start": 12.96,
-  "end": 13.2
+  "text": "ground,",
+  "start": 13.08,
+  "end": 13.48
  },
  {
   "id": "w37",
-  "text": "over",
-  "start": 13.28,
-  "end": 13.36
+  "text": "some",
+  "start": 13.52,
+  "end": 13.76
  },
  {
   "id": "w38",
-  "text": "a",
-  "start": 13.6,
-  "end": 13.64
- },
- {
-  "id": "w39",
-  "text": "hundred",
-  "start": 13.68,
+  "text": "over",
+  "start": 13.88,
   "end": 14
  },
  {
+  "id": "w39",
+  "text": "a",
+  "start": 14.24,
+  "end": 14.267
+ },
+ {
   "id": "w40",
-  "text": "feet",
-  "start": 14.08,
-  "end": 14.32
+  "text": "hundred",
+  "start": 14.293,
+  "end": 14.64
  },
  {
   "id": "w41",
-  "text": "long.",
-  "start": 14.76,
-  "end": 15.227
+  "text": "feet",
+  "start": 14.68,
+  "end": 14.88
  },
  {
   "id": "w42",
-  "text": "To",
-  "start": 15.253,
-  "end": 15.28
+  "text": "long.",
+  "start": 15.32,
+  "end": 15.813
  },
  {
   "id": "w43",
-  "text": "drive",
-  "start": 15.36,
-  "end": 15.6
+  "text": "To",
+  "start": 15.867,
+  "end": 15.92
  },
  {
   "id": "w44",
-  "text": "them,",
-  "start": 15.68,
-  "end": 15.96
- },
- {
-  "id": "w45",
-  "text": "you",
-  "start": 16,
-  "end": 16.08
- },
- {
-  "id": "w46",
-  "text": "need",
-  "start": 16.16,
+  "text": "drive",
+  "start": 16.08,
   "end": 16.24
  },
  {
-  "id": "w47",
-  "text": "a",
-  "start": 16.32,
-  "end": 16.4
+  "id": "w45",
+  "text": "them,",
+  "start": 16.4,
+  "end": 16.6
  },
  {
-  "id": "w48",
-  "text": "hammer",
-  "start": 16.56,
+  "id": "w46",
+  "text": "you",
+  "start": 16.64,
   "end": 16.72
  },
  {
-  "id": "w49",
-  "text": "that",
-  "start": 16.8,
+  "id": "w47",
+  "text": "need",
+  "start": 16.76,
+  "end": 16.8
+ },
+ {
+  "id": "w48",
+  "text": "a",
+  "start": 16.88,
   "end": 16.96
  },
  {
-  "id": "w50",
-  "text": "lifts",
+  "id": "w49",
+  "text": "hammer",
   "start": 17.04,
   "end": 17.36
  },
  {
+  "id": "w50",
+  "text": "that",
+  "start": 17.48,
+  "end": 17.6
+ },
+ {
   "id": "w51",
-  "text": "itself.",
-  "start": 17.44,
-  "end": 18.28
+  "text": "lifts",
+  "start": 17.68,
+  "end": 17.92
  },
  {
   "id": "w52",
-  "text": "Inside",
-  "start": 18.32,
-  "end": 18.64
+  "text": "itself.",
+  "start": 18.04,
+  "end": 19.08
  },
  {
   "id": "w53",
-  "text": "a",
-  "start": 18.72,
-  "end": 18.8
+  "text": "Inside",
+  "start": 19.12,
+  "end": 19.44
  },
  {
   "id": "w54",
-  "text": "steel",
-  "start": 18.88,
-  "end": 19.12
+  "text": "a",
+  "start": 19.48,
+  "end": 19.52
  },
  {
   "id": "w55",
-  "text": "cylinder",
-  "start": 19.2,
-  "end": 19.68
+  "text": "steel",
+  "start": 19.6,
+  "end": 19.92
  },
  {
   "id": "w56",
-  "text": "sits",
-  "start": 19.72,
-  "end": 19.84
+  "text": "cylinder",
+  "start": 19.96,
+  "end": 20.4
  },
  {
   "id": "w57",
-  "text": "a",
-  "start": 20,
-  "end": 20.04
- },
- {
-  "id": "w58",
-  "text": "heavy",
-  "start": 20.08,
-  "end": 20.32
- },
- {
-  "id": "w59",
-  "text": "weight",
-  "start": 20.4,
+  "text": "sits",
+  "start": 20.48,
   "end": 20.64
  },
  {
+  "id": "w58",
+  "text": "a",
+  "start": 20.8,
+  "end": 20.907
+ },
+ {
+  "id": "w59",
+  "text": "heavy",
+  "start": 21.013,
+  "end": 21.12
+ },
+ {
   "id": "w60",
-  "text": "called",
-  "start": 20.72,
-  "end": 20.96
+  "text": "weight",
+  "start": 21.28,
+  "end": 21.44
  },
  {
   "id": "w61",
-  "text": "the",
-  "start": 21.04,
-  "end": 21.2
+  "text": "called",
+  "start": 21.52,
+  "end": 21.84
  },
  {
   "id": "w62",
-  "text": "ram.",
-  "start": 21.28,
-  "end": 22.04
+  "text": "the",
+  "start": 21.92,
+  "end": 22.08
  },
  {
   "id": "w63",
-  "text": "When",
-  "start": 22.08,
-  "end": 22.16
+  "text": "ram.",
+  "start": 22.52,
+  "end": 23.013
  },
  {
   "id": "w64",
-  "text": "the",
-  "start": 22.2,
-  "end": 22.24
+  "text": "When",
+  "start": 23.067,
+  "end": 23.12
  },
  {
   "id": "w65",
-  "text": "ram",
-  "start": 22.32,
-  "end": 22.56
- },
- {
-  "id": "w66",
-  "text": "falls,",
-  "start": 22.64,
+  "text": "the",
+  "start": 23.16,
   "end": 23.2
  },
  {
-  "id": "w67",
-  "text": "it",
+  "id": "w66",
+  "text": "ram",
   "start": 23.28,
-  "end": 23.36
+  "end": 23.52
+ },
+ {
+  "id": "w67",
+  "text": "falls,",
+  "start": 23.6,
+  "end": 24.12
  },
  {
   "id": "w68",
-  "text": "squeezes",
-  "start": 23.44,
-  "end": 23.92
- },
- {
-  "id": "w69",
-  "text": "the",
-  "start": 24,
-  "end": 24.08
- },
- {
-  "id": "w70",
-  "text": "air",
+  "text": "it",
   "start": 24.16,
   "end": 24.32
  },
  {
-  "id": "w71",
-  "text": "underneath",
-  "start": 24.44,
+  "id": "w69",
+  "text": "squeezes",
+  "start": 24.4,
   "end": 24.8
  },
  {
-  "id": "w72",
-  "text": "it,",
+  "id": "w70",
+  "text": "the",
   "start": 24.88,
+  "end": 24.96
+ },
+ {
+  "id": "w71",
+  "text": "air",
+  "start": 25.04,
   "end": 25.2
  },
  {
+  "id": "w72",
+  "text": "underneath",
+  "start": 25.32,
+  "end": 25.68
+ },
+ {
   "id": "w73",
-  "text": "and",
-  "start": 25.28,
-  "end": 25.36
+  "text": "it,",
+  "start": 25.8,
+  "end": 25.96
  },
  {
   "id": "w74",
-  "text": "squeezed",
-  "start": 25.4,
-  "end": 25.76
+  "text": "and",
+  "start": 26,
+  "end": 26.24
  },
  {
   "id": "w75",
-  "text": "air",
-  "start": 25.84,
-  "end": 26.08
+  "text": "squeezed",
+  "start": 26.32,
+  "end": 26.64
  },
  {
   "id": "w76",
-  "text": "gets",
-  "start": 26.2,
-  "end": 26.32
+  "text": "air",
+  "start": 26.72,
+  "end": 26.96
  },
  {
   "id": "w77",
-  "text": "hot.",
-  "start": 26.4,
-  "end": 27.16
+  "text": "gets",
+  "start": 27.04,
+  "end": 27.28
  },
  {
   "id": "w78",
-  "text": "A",
-  "start": 27.2,
-  "end": 27.24
+  "text": "hot.",
+  "start": 27.68,
+  "end": 28.12
  },
  {
   "id": "w79",
-  "text": "little",
-  "start": 27.28,
-  "end": 27.52
+  "text": "A",
+  "start": 28.16,
+  "end": 28.2
  },
  {
   "id": "w80",
-  "text": "diesel",
-  "start": 27.56,
-  "end": 27.84
+  "text": "little",
+  "start": 28.24,
+  "end": 28.48
  },
  {
   "id": "w81",
-  "text": "is",
-  "start": 27.92,
-  "end": 28
- },
- {
-  "id": "w82",
-  "text": "sprayed",
-  "start": 28.08,
-  "end": 28.32
- },
- {
-  "id": "w83",
-  "text": "in,",
-  "start": 28.48,
-  "end": 28.747
- },
- {
-  "id": "w84",
-  "text": "and",
-  "start": 28.773,
+  "text": "diesel",
+  "start": 28.52,
   "end": 28.8
  },
  {
+  "id": "w82",
+  "text": "is",
+  "start": 28.88,
+  "end": 28.96
+ },
+ {
+  "id": "w83",
+  "text": "sprayed",
+  "start": 29.04,
+  "end": 29.28
+ },
+ {
+  "id": "w84",
+  "text": "in,",
+  "start": 29.36,
+  "end": 29.627
+ },
+ {
   "id": "w85",
-  "text": "it",
-  "start": 28.84,
-  "end": 28.88
- },
- {
-  "id": "w86",
-  "text": "ignites",
-  "start": 28.96,
-  "end": 29.44
- },
- {
-  "id": "w87",
-  "text": "from",
-  "start": 29.52,
+  "text": "and",
+  "start": 29.653,
   "end": 29.68
  },
  {
-  "id": "w88",
-  "text": "that",
+  "id": "w86",
+  "text": "it",
   "start": 29.76,
-  "end": 29.92
+  "end": 29.84
+ },
+ {
+  "id": "w87",
+  "text": "ignites",
+  "start": 29.96,
+  "end": 30.32
+ },
+ {
+  "id": "w88",
+  "text": "from",
+  "start": 30.4,
+  "end": 30.48
  },
  {
   "id": "w89",
-  "text": "heat",
-  "start": 30,
-  "end": 30.16
+  "text": "that",
+  "start": 30.56,
+  "end": 30.72
  },
  {
   "id": "w90",
-  "text": "alone.",
-  "start": 30.24,
-  "end": 31
+  "text": "heat",
+  "start": 30.84,
+  "end": 30.96
  },
  {
   "id": "w91",
-  "text": "No",
-  "start": 31.04,
-  "end": 31.2
- },
- {
-  "id": "w92",
-  "text": "spark,",
-  "start": 31.28,
+  "text": "alone.",
+  "start": 31.36,
   "end": 31.8
  },
  {
-  "id": "w93",
-  "text": "exactly",
+  "id": "w92",
+  "text": "No",
   "start": 31.84,
-  "end": 32.4
+  "end": 32
  },
  {
-  "id": "w94",
-  "text": "like",
-  "start": 32.48,
-  "end": 32.56
- },
- {
-  "id": "w95",
-  "text": "a",
-  "start": 32.64,
+  "id": "w93",
+  "text": "spark,",
+  "start": 32.08,
   "end": 32.68
  },
  {
-  "id": "w96",
-  "text": "diesel",
+  "id": "w94",
+  "text": "exactly",
   "start": 32.72,
-  "end": 32.96
+  "end": 33.2
+ },
+ {
+  "id": "w95",
+  "text": "like",
+  "start": 33.28,
+  "end": 33.36
+ },
+ {
+  "id": "w96",
+  "text": "a",
+  "start": 33.44,
+  "end": 33.48
  },
  {
   "id": "w97",
-  "text": "engine.",
-  "start": 33.04,
-  "end": 33.8
+  "text": "diesel",
+  "start": 33.52,
+  "end": 33.76
  },
  {
   "id": "w98",
-  "text": "The",
+  "text": "engine.",
   "start": 33.84,
-  "end": 33.92
+  "end": 34.693
  },
  {
   "id": "w99",
-  "text": "blast",
-  "start": 34.16,
-  "end": 34.4
- },
- {
-  "id": "w100",
-  "text": "drives",
-  "start": 34.52,
+  "text": "The",
+  "start": 34.747,
   "end": 34.8
  },
  {
-  "id": "w101",
-  "text": "the",
-  "start": 34.88,
-  "end": 34.96
- },
- {
-  "id": "w102",
-  "text": "pile",
-  "start": 35.12,
+  "id": "w100",
+  "text": "blast",
+  "start": 35.04,
   "end": 35.28
  },
  {
-  "id": "w103",
-  "text": "down",
-  "start": 35.44,
-  "end": 35.6
+  "id": "w101",
+  "text": "drives",
+  "start": 35.4,
+  "end": 35.68
  },
  {
-  "id": "w104",
-  "text": "and",
-  "start": 35.72,
+  "id": "w102",
+  "text": "the",
+  "start": 35.76,
   "end": 35.84
  },
  {
-  "id": "w105",
-  "text": "throws",
+  "id": "w103",
+  "text": "pile",
   "start": 36,
   "end": 36.16
  },
  {
+  "id": "w104",
+  "text": "down",
+  "start": 36.32,
+  "end": 36.48
+ },
+ {
+  "id": "w105",
+  "text": "and",
+  "start": 36.6,
+  "end": 36.72
+ },
+ {
   "id": "w106",
-  "text": "the",
-  "start": 36.2,
-  "end": 36.24
+  "text": "throws",
+  "start": 36.88,
+  "end": 37.04
  },
  {
   "id": "w107",
-  "text": "ram",
-  "start": 36.32,
-  "end": 36.56
+  "text": "the",
+  "start": 37.12,
+  "end": 37.2
  },
  {
   "id": "w108",
-  "text": "back",
-  "start": 36.68,
-  "end": 36.8
+  "text": "ram",
+  "start": 37.32,
+  "end": 37.44
  },
  {
   "id": "w109",
-  "text": "up.",
-  "start": 36.88,
-  "end": 37.413
+  "text": "back",
+  "start": 37.52,
+  "end": 37.68
  },
  {
   "id": "w110",
-  "text": "It",
-  "start": 37.467,
-  "end": 37.52
+  "text": "up.",
+  "start": 37.76,
+  "end": 38.36
  },
  {
   "id": "w111",
-  "text": "falls",
-  "start": 37.64,
-  "end": 37.76
- },
- {
-  "id": "w112",
-  "text": "again,",
-  "start": 38.08,
-  "end": 38.427
- },
- {
-  "id": "w113",
-  "text": "and",
-  "start": 38.453,
+  "text": "It",
+  "start": 38.4,
   "end": 38.48
  },
  {
-  "id": "w114",
+  "id": "w112",
+  "text": "falls",
+  "start": 38.56,
+  "end": 38.72
+ },
+ {
+  "id": "w113",
   "text": "again,",
-  "start": 38.72,
-  "end": 39.32
+  "start": 38.8,
+  "end": 39.4
+ },
+ {
+  "id": "w114",
+  "text": "and",
+  "start": 39.44,
+  "end": 39.52
  },
  {
   "id": "w115",
-  "text": "forty",
-  "start": 39.36,
-  "end": 39.68
+  "text": "again,",
+  "start": 39.6,
+  "end": 40.28
  },
  {
   "id": "w116",
-  "text": "to",
-  "start": 39.8,
-  "end": 39.92
+  "text": "forty",
+  "start": 40.32,
+  "end": 40.6
  },
  {
   "id": "w117",
-  "text": "fifty",
-  "start": 39.96,
-  "end": 40.24
+  "text": "to",
+  "start": 40.64,
+  "end": 40.88
  },
  {
   "id": "w118",
-  "text": "times",
-  "start": 40.32,
-  "end": 40.56
+  "text": "fifty",
+  "start": 40.92,
+  "end": 41.2
  },
  {
   "id": "w119",
-  "text": "a",
-  "start": 40.64,
-  "end": 40.72
- },
- {
-  "id": "w120",
-  "text": "minute,",
-  "start": 40.8,
-  "end": 41.32
- },
- {
-  "id": "w121",
-  "text": "all",
+  "text": "times",
   "start": 41.36,
   "end": 41.52
  },
  {
-  "id": "w122",
-  "text": "on",
+  "id": "w120",
+  "text": "a",
   "start": 41.6,
-  "end": 41.64
+  "end": 41.68
+ },
+ {
+  "id": "w121",
+  "text": "minute,",
+  "start": 41.96,
+  "end": 42.28
+ },
+ {
+  "id": "w122",
+  "text": "all",
+  "start": 42.32,
+  "end": 42.4
  },
  {
   "id": "w123",
-  "text": "its",
-  "start": 41.68,
-  "end": 41.84
+  "text": "on",
+  "start": 42.48,
+  "end": 42.56
  },
  {
   "id": "w124",
-  "text": "own.",
-  "start": 41.92,
-  "end": 42.6
- },
- {
-  "id": "w125",
-  "text": "A",
+  "text": "its",
   "start": 42.64,
   "end": 42.72
  },
  {
-  "id": "w126",
-  "text": "steel",
+  "id": "w125",
+  "text": "own.",
   "start": 42.8,
-  "end": 43.04
+  "end": 43.573
+ },
+ {
+  "id": "w126",
+  "text": "A",
+  "start": 43.627,
+  "end": 43.68
  },
  {
   "id": "w127",
-  "text": "frame",
-  "start": 43.12,
-  "end": 43.44
+  "text": "steel",
+  "start": 43.76,
+  "end": 44
  },
  {
   "id": "w128",
-  "text": "called",
-  "start": 43.52,
-  "end": 43.6
+  "text": "frame",
+  "start": 44.08,
+  "end": 44.4
  },
  {
   "id": "w129",
-  "text": "the",
-  "start": 43.68,
-  "end": 43.84
+  "text": "called",
+  "start": 44.52,
+  "end": 44.64
  },
  {
   "id": "w130",
-  "text": "leads",
-  "start": 44.04,
-  "end": 44.24
+  "text": "the",
+  "start": 44.72,
+  "end": 44.8
  },
  {
   "id": "w131",
-  "text": "keeps",
-  "start": 44.32,
-  "end": 44.56
+  "text": "leads",
+  "start": 44.88,
+  "end": 45.28
  },
  {
   "id": "w132",
-  "text": "every",
-  "start": 44.64,
-  "end": 44.88
+  "text": "keeps",
+  "start": 45.32,
+  "end": 45.6
  },
  {
   "id": "w133",
-  "text": "blow",
-  "start": 44.96,
-  "end": 45.2
+  "text": "every",
+  "start": 45.68,
+  "end": 45.92
  },
  {
   "id": "w134",
-  "text": "straight,",
-  "start": 45.28,
-  "end": 45.787
+  "text": "blow",
+  "start": 45.96,
+  "end": 46.16
  },
  {
   "id": "w135",
-  "text": "and",
-  "start": 45.813,
-  "end": 45.84
+  "text": "straight,",
+  "start": 46.24,
+  "end": 46.827
  },
  {
   "id": "w136",
-  "text": "a",
-  "start": 46,
-  "end": 46.027
+  "text": "and",
+  "start": 46.853,
+  "end": 46.88
  },
  {
   "id": "w137",
-  "text": "cushioned",
-  "start": 46.053,
-  "end": 46.32
+  "text": "a",
+  "start": 47.04,
+  "end": 47.08
  },
  {
   "id": "w138",
-  "text": "helmet",
-  "start": 46.4,
-  "end": 46.72
- },
- {
-  "id": "w139",
-  "text": "keeps",
-  "start": 46.76,
-  "end": 46.96
- },
- {
-  "id": "w140",
-  "text": "the",
-  "start": 47,
-  "end": 47.04
- },
- {
-  "id": "w141",
-  "text": "pile",
+  "text": "cushioned",
   "start": 47.12,
   "end": 47.44
  },
  {
+  "id": "w139",
+  "text": "helmet",
+  "start": 47.56,
+  "end": 47.84
+ },
+ {
+  "id": "w140",
+  "text": "keeps",
+  "start": 47.92,
+  "end": 48.08
+ },
+ {
+  "id": "w141",
+  "text": "the",
+  "start": 48.16,
+  "end": 48.24
+ },
+ {
   "id": "w142",
-  "text": "head",
-  "start": 47.52,
-  "end": 47.6
+  "text": "pile",
+  "start": 48.4,
+  "end": 48.56
  },
  {
   "id": "w143",
-  "text": "from",
-  "start": 47.68,
-  "end": 47.76
+  "text": "head",
+  "start": 48.64,
+  "end": 48.72
  },
  {
   "id": "w144",
-  "text": "being",
-  "start": 47.84,
-  "end": 48
+  "text": "from",
+  "start": 48.8,
+  "end": 48.88
  },
  {
   "id": "w145",
-  "text": "crushed.",
-  "start": 48.08,
-  "end": 48.987
+  "text": "being",
+  "start": 48.96,
+  "end": 49.12
  },
  {
   "id": "w146",
-  "text": "The",
-  "start": 49.013,
-  "end": 49.04
+  "text": "crushed.",
+  "start": 49.2,
+  "end": 50.187
  },
  {
   "id": "w147",
-  "text": "crew",
-  "start": 49.12,
-  "end": 49.36
+  "text": "The",
+  "start": 50.213,
+  "end": 50.24
  },
  {
   "id": "w148",
-  "text": "counts",
-  "start": 49.52,
-  "end": 49.68
+  "text": "crew",
+  "start": 50.32,
+  "end": 50.56
  },
  {
   "id": "w149",
-  "text": "how",
-  "start": 49.76,
-  "end": 49.84
+  "text": "counts",
+  "start": 50.72,
+  "end": 50.88
  },
  {
   "id": "w150",
-  "text": "many",
-  "start": 49.92,
-  "end": 50.08
+  "text": "how",
+  "start": 50.96,
+  "end": 51.04
  },
  {
   "id": "w151",
-  "text": "blows",
-  "start": 50.16,
-  "end": 50.32
- },
- {
-  "id": "w152",
-  "text": "it",
-  "start": 50.4,
-  "end": 50.48
- },
- {
-  "id": "w153",
-  "text": "takes",
-  "start": 50.56,
-  "end": 50.8
- },
- {
-  "id": "w154",
-  "text": "to",
-  "start": 50.88,
-  "end": 50.96
- },
- {
-  "id": "w155",
-  "text": "sink",
-  "start": 51.04,
+  "text": "many",
+  "start": 51.12,
   "end": 51.28
  },
  {
-  "id": "w156",
-  "text": "each",
+  "id": "w152",
+  "text": "blows",
   "start": 51.36,
-  "end": 51.6
+  "end": 51.52
  },
  {
-  "id": "w157",
-  "text": "foot.",
-  "start": 51.68,
-  "end": 52.28
+  "id": "w153",
+  "text": "it",
+  "start": 51.6,
+  "end": 51.68
  },
  {
-  "id": "w158",
-  "text": "When",
-  "start": 52.32,
-  "end": 52.4
+  "id": "w154",
+  "text": "takes",
+  "start": 51.76,
+  "end": 52
  },
  {
-  "id": "w159",
-  "text": "the",
-  "start": 52.44,
+  "id": "w155",
+  "text": "to",
+  "start": 52.08,
+  "end": 52.16
+ },
+ {
+  "id": "w156",
+  "text": "sink",
+  "start": 52.24,
   "end": 52.48
  },
  {
-  "id": "w160",
-  "text": "count",
+  "id": "w157",
+  "text": "each",
   "start": 52.56,
-  "end": 52.72
+  "end": 52.8
+ },
+ {
+  "id": "w158",
+  "text": "foot.",
+  "start": 53.12,
+  "end": 53.48
+ },
+ {
+  "id": "w159",
+  "text": "When",
+  "start": 53.52,
+  "end": 53.6
+ },
+ {
+  "id": "w160",
+  "text": "the",
+  "start": 53.64,
+  "end": 53.68
  },
  {
   "id": "w161",
-  "text": "climbs,",
-  "start": 52.8,
-  "end": 53.467
+  "text": "count",
+  "start": 53.8,
+  "end": 53.92
  },
  {
   "id": "w162",
-  "text": "the",
-  "start": 53.493,
-  "end": 53.52
+  "text": "climbs,",
+  "start": 54,
+  "end": 54.613
  },
  {
   "id": "w163",
-  "text": "pile",
-  "start": 53.6,
-  "end": 53.84
+  "text": "the",
+  "start": 54.667,
+  "end": 54.72
  },
  {
   "id": "w164",
-  "text": "has",
-  "start": 53.92,
-  "end": 54.08
+  "text": "pile",
+  "start": 54.88,
+  "end": 55.04
  },
  {
   "id": "w165",
-  "text": "reached",
-  "start": 54.12,
-  "end": 54.32
+  "text": "has",
+  "start": 55.16,
+  "end": 55.28
  },
  {
   "id": "w166",
-  "text": "ground",
-  "start": 54.4,
-  "end": 54.64
+  "text": "reached",
+  "start": 55.32,
+  "end": 55.52
  },
  {
   "id": "w167",
-  "text": "that",
-  "start": 54.72,
-  "end": 54.8
+  "text": "ground",
+  "start": 55.6,
+  "end": 55.92
  },
  {
   "id": "w168",
-  "text": "can",
-  "start": 54.88,
-  "end": 54.96
- },
- {
-  "id": "w169",
-  "text": "hold.",
-  "start": 55.04,
-  "end": 55.893
- },
- {
-  "id": "w170",
-  "text": "On",
-  "start": 55.947,
+  "text": "that",
+  "start": 55.96,
   "end": 56
  },
  {
+  "id": "w169",
+  "text": "can",
+  "start": 56.12,
+  "end": 56.24
+ },
+ {
+  "id": "w170",
+  "text": "hold.",
+  "start": 56.68,
+  "end": 57.16
+ },
+ {
   "id": "w171",
-  "text": "top",
-  "start": 56.08,
-  "end": 56.16
- },
- {
-  "id": "w172",
-  "text": "of",
-  "start": 56.24,
-  "end": 56.32
- },
- {
-  "id": "w173",
-  "text": "the",
-  "start": 56.36,
-  "end": 56.4
- },
- {
-  "id": "w174",
-  "text": "piles,",
-  "start": 56.48,
-  "end": 56.933
- },
- {
-  "id": "w175",
-  "text": "they",
-  "start": 56.987,
-  "end": 57.04
- },
- {
-  "id": "w176",
-  "text": "pour",
-  "start": 57.12,
+  "text": "On",
+  "start": 57.2,
   "end": 57.28
  },
  {
-  "id": "w177",
-  "text": "the",
-  "start": 57.4,
+  "id": "w172",
+  "text": "top",
+  "start": 57.36,
   "end": 57.52
  },
  {
+  "id": "w173",
+  "text": "of",
+  "start": 57.56,
+  "end": 57.6
+ },
+ {
+  "id": "w174",
+  "text": "the",
+  "start": 57.68,
+  "end": 57.76
+ },
+ {
+  "id": "w175",
+  "text": "piles,",
+  "start": 57.8,
+  "end": 58.2
+ },
+ {
+  "id": "w176",
+  "text": "they",
+  "start": 58.24,
+  "end": 58.4
+ },
+ {
+  "id": "w177",
+  "text": "pour",
+  "start": 58.48,
+  "end": 58.56
+ },
+ {
   "id": "w178",
-  "text": "footing,",
-  "start": 57.6,
-  "end": 58.107
+  "text": "the",
+  "start": 58.64,
+  "end": 58.8
  },
  {
   "id": "w179",
-  "text": "a",
-  "start": 58.133,
-  "end": 58.16
- },
- {
-  "id": "w180",
-  "text": "slab",
-  "start": 58.24,
-  "end": 58.48
- },
- {
-  "id": "w181",
-  "text": "of",
-  "start": 58.56,
-  "end": 58.64
- },
- {
-  "id": "w182",
-  "text": "concrete",
-  "start": 58.72,
-  "end": 59.2
- },
- {
-  "id": "w183",
-  "text": "as",
-  "start": 59.32,
+  "text": "footing,",
+  "start": 58.88,
   "end": 59.44
  },
  {
-  "id": "w184",
-  "text": "big",
+  "id": "w180",
+  "text": "a",
   "start": 59.52,
-  "end": 59.6
+  "end": 59.56
+ },
+ {
+  "id": "w181",
+  "text": "slab",
+  "start": 59.6,
+  "end": 59.84
+ },
+ {
+  "id": "w182",
+  "text": "of",
+  "start": 59.92,
+  "end": 60
+ },
+ {
+  "id": "w183",
+  "text": "concrete",
+  "start": 60.12,
+  "end": 60.48
+ },
+ {
+  "id": "w184",
+  "text": "as",
+  "start": 60.64,
+  "end": 60.8
  },
  {
   "id": "w185",
-  "text": "as",
-  "start": 59.68,
-  "end": 59.76
+  "text": "big",
+  "start": 60.88,
+  "end": 60.96
  },
  {
   "id": "w186",
-  "text": "a",
-  "start": 59.92,
-  "end": 59.96
+  "text": "as",
+  "start": 61,
+  "end": 61.04
  },
  {
   "id": "w187",
-  "text": "house.",
-  "start": 60,
-  "end": 60.92
+  "text": "a",
+  "start": 61.2,
+  "end": 61.24
  },
  {
   "id": "w188",
-  "text": "Then",
-  "start": 60.96,
-  "end": 61.2
+  "text": "house.",
+  "start": 61.28,
+  "end": 62.2
  },
  {
   "id": "w189",
-  "text": "the",
-  "start": 61.28,
-  "end": 61.36
+  "text": "Then",
+  "start": 62.24,
+  "end": 62.48
  },
  {
   "id": "w190",
-  "text": "pier",
-  "start": 61.44,
-  "end": 61.76
+  "text": "the",
+  "start": 62.56,
+  "end": 62.64
  },
  {
   "id": "w191",
-  "text": "rises",
-  "start": 61.84,
-  "end": 62.16
+  "text": "pier",
+  "start": 62.72,
+  "end": 63.04
  },
  {
   "id": "w192",
-  "text": "out",
-  "start": 62.24,
-  "end": 62.32
- },
- {
-  "id": "w193",
-  "text": "of",
-  "start": 62.36,
-  "end": 62.4
- },
- {
-  "id": "w194",
-  "text": "the",
-  "start": 62.48,
-  "end": 62.56
- },
- {
-  "id": "w195",
-  "text": "water.",
-  "start": 62.96,
-  "end": 63.4
- },
- {
-  "id": "w196",
-  "text": "When",
-  "start": 63.44,
+  "text": "rises",
+  "start": 63.12,
   "end": 63.52
  },
  {
-  "id": "w197",
-  "text": "it's",
+  "id": "w193",
+  "text": "out",
   "start": 63.56,
-  "end": 63.68
+  "end": 63.6
+ },
+ {
+  "id": "w194",
+  "text": "of",
+  "start": 63.68,
+  "end": 63.76
+ },
+ {
+  "id": "w195",
+  "text": "the",
+  "start": 63.8,
+  "end": 63.84
+ },
+ {
+  "id": "w196",
+  "text": "water.",
+  "start": 63.92,
+  "end": 64.76
+ },
+ {
+  "id": "w197",
+  "text": "When",
+  "start": 64.8,
+  "end": 64.88
  },
  {
   "id": "w198",
-  "text": "done,",
-  "start": 63.76,
-  "end": 64.213
+  "text": "it's",
+  "start": 64.92,
+  "end": 65.04
  },
  {
   "id": "w199",
-  "text": "the",
-  "start": 64.267,
-  "end": 64.32
+  "text": "done,",
+  "start": 65.12,
+  "end": 65.573
  },
  {
   "id": "w200",
-  "text": "steel",
-  "start": 64.4,
-  "end": 64.64
+  "text": "the",
+  "start": 65.627,
+  "end": 65.68
  },
  {
   "id": "w201",
-  "text": "sheets",
-  "start": 64.72,
-  "end": 64.96
- },
- {
-  "id": "w202",
-  "text": "are",
-  "start": 65.04,
-  "end": 65.12
- },
- {
-  "id": "w203",
-  "text": "pulled",
-  "start": 65.16,
-  "end": 65.36
- },
- {
-  "id": "w204",
-  "text": "back",
-  "start": 65.44,
-  "end": 65.6
- },
- {
-  "id": "w205",
-  "text": "out,",
-  "start": 65.68,
-  "end": 65.947
- },
- {
-  "id": "w206",
-  "text": "and",
-  "start": 65.973,
+  "text": "steel",
+  "start": 65.76,
   "end": 66
  },
  {
-  "id": "w207",
-  "text": "the",
+  "id": "w202",
+  "text": "sheets",
   "start": 66.08,
-  "end": 66.16
+  "end": 66.24
  },
  {
-  "id": "w208",
-  "text": "river",
-  "start": 66.24,
-  "end": 66.48
+  "id": "w203",
+  "text": "are",
+  "start": 66.32,
+  "end": 66.4
  },
  {
-  "id": "w209",
-  "text": "closes",
-  "start": 66.56,
+  "id": "w204",
+  "text": "pulled",
+  "start": 66.48,
+  "end": 66.72
+ },
+ {
+  "id": "w205",
+  "text": "back",
+  "start": 66.8,
   "end": 66.96
  },
  {
-  "id": "w210",
-  "text": "in",
-  "start": 67,
-  "end": 67.04
+  "id": "w206",
+  "text": "out,",
+  "start": 67.04,
+  "end": 67.307
  },
  {
-  "id": "w211",
-  "text": "around",
-  "start": 67.12,
+  "id": "w207",
+  "text": "and",
+  "start": 67.333,
   "end": 67.36
  },
  {
-  "id": "w212",
+  "id": "w208",
   "text": "the",
   "start": 67.44,
   "end": 67.52
  },
  {
+  "id": "w209",
+  "text": "river",
+  "start": 67.68,
+  "end": 67.84
+ },
+ {
+  "id": "w210",
+  "text": "closes",
+  "start": 67.92,
+  "end": 68.32
+ },
+ {
+  "id": "w211",
+  "text": "in",
+  "start": 68.36,
+  "end": 68.4
+ },
+ {
+  "id": "w212",
+  "text": "around",
+  "start": 68.48,
+  "end": 68.72
+ },
+ {
   "id": "w213",
-  "text": "new",
-  "start": 67.6,
-  "end": 67.76
+  "text": "the",
+  "start": 68.8,
+  "end": 68.88
  },
  {
   "id": "w214",
-  "text": "pier",
-  "start": 67.84,
-  "end": 68.16
+  "text": "new",
+  "start": 68.96,
+  "end": 69.04
  },
  {
   "id": "w215",
-  "text": "as",
-  "start": 68.2,
-  "end": 68.24
+  "text": "pier",
+  "start": 69.12,
+  "end": 69.44
  },
  {
   "id": "w216",
-  "text": "if",
-  "start": 68.36,
-  "end": 68.48
+  "text": "as",
+  "start": 69.48,
+  "end": 69.52
  },
  {
   "id": "w217",
-  "text": "nothing",
-  "start": 68.56,
-  "end": 68.8
- },
- {
-  "id": "w218",
-  "text": "happened.",
-  "start": 68.96,
-  "end": 69.72
- },
- {
-  "id": "w219",
-  "text": "The",
-  "start": 69.76,
+  "text": "if",
+  "start": 69.6,
   "end": 69.84
  },
  {
+  "id": "w218",
+  "text": "nothing",
+  "start": 70,
+  "end": 70.16
+ },
+ {
+  "id": "w219",
+  "text": "happened.",
+  "start": 70.24,
+  "end": 71.16
+ },
+ {
   "id": "w220",
-  "text": "Romans",
-  "start": 69.92,
-  "end": 70.24
+  "text": "The",
+  "start": 71.2,
+  "end": 71.28
  },
  {
   "id": "w221",
-  "text": "did",
-  "start": 70.32,
-  "end": 70.4
+  "text": "Romans",
+  "start": 71.4,
+  "end": 71.68
  },
  {
   "id": "w222",
-  "text": "the",
-  "start": 70.48,
-  "end": 70.56
+  "text": "did",
+  "start": 71.76,
+  "end": 71.84
  },
  {
   "id": "w223",
-  "text": "same",
-  "start": 70.72,
-  "end": 70.88
+  "text": "the",
+  "start": 71.92,
+  "end": 72
  },
  {
   "id": "w224",
-  "text": "thing",
-  "start": 71.04,
-  "end": 71.2
+  "text": "same",
+  "start": 72.08,
+  "end": 72.32
  },
  {
   "id": "w225",
-  "text": "two",
-  "start": 71.28,
-  "end": 71.52
- },
- {
-  "id": "w226",
-  "text": "thousand",
-  "start": 71.56,
-  "end": 71.92
- },
- {
-  "id": "w227",
-  "text": "years",
-  "start": 72,
-  "end": 72.16
- },
- {
-  "id": "w228",
-  "text": "ago,",
-  "start": 72.24,
+  "text": "thing",
+  "start": 72.4,
   "end": 72.72
  },
  {
-  "id": "w229",
-  "text": "with",
-  "start": 72.8,
-  "end": 72.88
- },
- {
-  "id": "w230",
+  "id": "w226",
   "text": "two",
-  "start": 73,
-  "end": 73.12
+  "start": 72.84,
+  "end": 72.96
  },
  {
-  "id": "w231",
-  "text": "rings",
-  "start": 73.16,
+  "id": "w227",
+  "text": "thousand",
+  "start": 73,
   "end": 73.36
  },
  {
-  "id": "w232",
-  "text": "of",
+  "id": "w228",
+  "text": "years",
   "start": 73.44,
   "end": 73.52
  },
  {
-  "id": "w233",
-  "text": "wooden",
+  "id": "w229",
+  "text": "ago,",
   "start": 73.6,
-  "end": 73.84
+  "end": 74.08
+ },
+ {
+  "id": "w230",
+  "text": "with",
+  "start": 74.16,
+  "end": 74.24
+ },
+ {
+  "id": "w231",
+  "text": "two",
+  "start": 74.36,
+  "end": 74.48
+ },
+ {
+  "id": "w232",
+  "text": "rings",
+  "start": 74.52,
+  "end": 74.72
+ },
+ {
+  "id": "w233",
+  "text": "of",
+  "start": 74.8,
+  "end": 74.96
  },
  {
   "id": "w234",
-  "text": "posts",
-  "start": 73.92,
-  "end": 74.32
+  "text": "wooden",
+  "start": 75,
+  "end": 75.2
  },
  {
   "id": "w235",
-  "text": "packed",
-  "start": 74.4,
-  "end": 74.56
+  "text": "posts",
+  "start": 75.28,
+  "end": 75.68
  },
  {
   "id": "w236",
-  "text": "with",
-  "start": 74.64,
-  "end": 74.8
+  "text": "packed",
+  "start": 75.84,
+  "end": 76
  },
  {
   "id": "w237",
-  "text": "clay.",
-  "start": 74.88,
-  "end": 75.64
+  "text": "with",
+  "start": 76.08,
+  "end": 76.16
  },
  {
   "id": "w238",
-  "text": "Same",
-  "start": 75.68,
-  "end": 75.84
+  "text": "clay.",
+  "start": 76.24,
+  "end": 77.04
  },
  {
   "id": "w239",
-  "text": "idea:",
-  "start": 75.92,
-  "end": 76.613
+  "text": "Same",
+  "start": 77.12,
+  "end": 77.2
  },
  {
   "id": "w240",
-  "text": "keep",
-  "start": 76.667,
-  "end": 76.72
+  "text": "idea:",
+  "start": 77.28,
+  "end": 77.96
  },
  {
   "id": "w241",
-  "text": "the",
-  "start": 76.8,
-  "end": 76.88
- },
- {
-  "id": "w242",
-  "text": "water",
-  "start": 77,
-  "end": 77.12
- },
- {
-  "id": "w243",
-  "text": "out,",
-  "start": 77.2,
-  "end": 77.6
- },
- {
-  "id": "w244",
-  "text": "and",
-  "start": 77.68,
-  "end": 77.76
- },
- {
-  "id": "w245",
-  "text": "build",
-  "start": 77.88,
-  "end": 78
- },
- {
-  "id": "w246",
-  "text": "in",
-  "start": 78.08,
+  "text": "keep",
+  "start": 78,
   "end": 78.16
  },
  {
-  "id": "w247",
+  "id": "w242",
   "text": "the",
   "start": 78.2,
   "end": 78.24
  },
  {
-  "id": "w248",
-  "text": "dry.",
+  "id": "w243",
+  "text": "water",
   "start": 78.32,
-  "end": 79.24
+  "end": 78.56
  },
  {
-  "id": "w249",
-  "text": "One",
-  "start": 79.28,
+  "id": "w244",
+  "text": "out,",
+  "start": 78.64,
+  "end": 78.96
+ },
+ {
+  "id": "w245",
+  "text": "and",
+  "start": 79.04,
+  "end": 79.12
+ },
+ {
+  "id": "w246",
+  "text": "build",
+  "start": 79.24,
+  "end": 79.36
+ },
+ {
+  "id": "w247",
+  "text": "in",
+  "start": 79.4,
   "end": 79.44
  },
  {
-  "id": "w250",
-  "text": "pier",
-  "start": 79.48,
-  "end": 79.76
+  "id": "w248",
+  "text": "the",
+  "start": 79.52,
+  "end": 79.6
  },
  {
-  "id": "w251",
-  "text": "is",
-  "start": 79.84,
-  "end": 79.92
- },
- {
-  "id": "w252",
-  "text": "done.",
-  "start": 80,
+  "id": "w249",
+  "text": "dry.",
+  "start": 80.08,
   "end": 80.6
  },
  {
-  "id": "w253",
-  "text": "A",
+  "id": "w250",
+  "text": "One",
   "start": 80.64,
   "end": 80.8
  },
  {
+  "id": "w251",
+  "text": "pier",
+  "start": 80.88,
+  "end": 81.12
+ },
+ {
+  "id": "w252",
+  "text": "is",
+  "start": 81.2,
+  "end": 81.28
+ },
+ {
+  "id": "w253",
+  "text": "done.",
+  "start": 81.36,
+  "end": 82.04
+ },
+ {
   "id": "w254",
-  "text": "big",
-  "start": 80.92,
-  "end": 81.04
+  "text": "A",
+  "start": 82.08,
+  "end": 82.16
  },
  {
   "id": "w255",
-  "text": "bridge",
-  "start": 81.2,
-  "end": 81.36
- },
- {
-  "id": "w256",
-  "text": "needs",
-  "start": 81.56,
-  "end": 81.76
- },
- {
-  "id": "w257",
-  "text": "two",
-  "start": 81.84,
-  "end": 81.92
- },
- {
-  "id": "w258",
-  "text": "of",
-  "start": 81.96,
-  "end": 82
- },
- {
-  "id": "w259",
-  "text": "them",
-  "start": 82.08,
-  "end": 82.24
- },
- {
-  "id": "w260",
-  "text": "for",
-  "start": 82.28,
-  "end": 82.32
- },
- {
-  "id": "w261",
-  "text": "the",
-  "start": 82.36,
+  "text": "big",
+  "start": 82.24,
   "end": 82.4
  },
  {
-  "id": "w262",
-  "text": "main",
-  "start": 82.48,
+  "id": "w256",
+  "text": "bridge",
+  "start": 82.56,
   "end": 82.72
  },
  {
-  "id": "w263",
-  "text": "towers,",
-  "start": 82.76,
-  "end": 83.32
+  "id": "w257",
+  "text": "needs",
+  "start": 82.88,
+  "end": 83.04
  },
  {
-  "id": "w264",
-  "text": "and",
-  "start": 83.36,
+  "id": "w258",
+  "text": "two",
+  "start": 83.12,
+  "end": 83.2
+ },
+ {
+  "id": "w259",
+  "text": "of",
+  "start": 83.28,
+  "end": 83.36
+ },
+ {
+  "id": "w260",
+  "text": "them",
+  "start": 83.44,
   "end": 83.52
  },
  {
-  "id": "w265",
-  "text": "every",
+  "id": "w261",
+  "text": "for",
   "start": 83.6,
-  "end": 83.92
+  "end": 83.68
  },
  {
-  "id": "w266",
-  "text": "one",
-  "start": 84,
-  "end": 84.08
+  "id": "w262",
+  "text": "the",
+  "start": 83.72,
+  "end": 83.76
  },
  {
-  "id": "w267",
-  "text": "is",
-  "start": 84.16,
-  "end": 84.32
+  "id": "w263",
+  "text": "main",
+  "start": 83.84,
+  "end": 84
  },
  {
-  "id": "w268",
-  "text": "built",
-  "start": 84.44,
-  "end": 84.56
+  "id": "w264",
+  "text": "towers,",
+  "start": 84.08,
+  "end": 84.68
  },
  {
-  "id": "w269",
-  "text": "this",
-  "start": 84.64,
+  "id": "w265",
+  "text": "and",
+  "start": 84.72,
   "end": 84.88
  },
  {
-  "id": "w270",
-  "text": "same",
-  "start": 85.04,
+  "id": "w266",
+  "text": "every",
+  "start": 84.96,
   "end": 85.2
  },
  {
+  "id": "w267",
+  "text": "one",
+  "start": 85.28,
+  "end": 85.36
+ },
+ {
+  "id": "w268",
+  "text": "is",
+  "start": 85.44,
+  "end": 85.6
+ },
+ {
+  "id": "w269",
+  "text": "built",
+  "start": 85.72,
+  "end": 85.84
+ },
+ {
+  "id": "w270",
+  "text": "this",
+  "start": 85.96,
+  "end": 86.08
+ },
+ {
   "id": "w271",
-  "text": "way:",
-  "start": 85.48,
-  "end": 85.8
+  "text": "same",
+  "start": 86.16,
+  "end": 86.4
  },
  {
   "id": "w272",
-  "text": "a",
-  "start": 85.84,
-  "end": 85.92
+  "text": "way:",
+  "start": 86.48,
+  "end": 87.12
  },
  {
   "id": "w273",
-  "text": "box,",
-  "start": 86,
-  "end": 86.6
+  "text": "a",
+  "start": 87.2,
+  "end": 87.24
  },
  {
   "id": "w274",
-  "text": "a",
-  "start": 86.64,
-  "end": 86.8
+  "text": "box,",
+  "start": 87.28,
+  "end": 87.96
  },
  {
   "id": "w275",
-  "text": "seal,",
-  "start": 86.88,
-  "end": 87.48
- },
- {
-  "id": "w276",
   "text": "a",
-  "start": 87.6,
-  "end": 87.64
- },
- {
-  "id": "w277",
-  "text": "forest",
-  "start": 87.68,
-  "end": 88
- },
- {
-  "id": "w278",
-  "text": "of",
-  "start": 88.04,
+  "start": 88,
   "end": 88.08
  },
  {
-  "id": "w279",
-  "text": "piles,",
+  "id": "w276",
+  "text": "seal,",
   "start": 88.16,
-  "end": 88.827
+  "end": 88.8
+ },
+ {
+  "id": "w277",
+  "text": "a",
+  "start": 88.88,
+  "end": 88.92
+ },
+ {
+  "id": "w278",
+  "text": "forest",
+  "start": 88.96,
+  "end": 89.28
+ },
+ {
+  "id": "w279",
+  "text": "of",
+  "start": 89.36,
+  "end": 89.44
  },
  {
   "id": "w280",
-  "text": "and",
-  "start": 88.853,
-  "end": 88.88
+  "text": "piles,",
+  "start": 89.52,
+  "end": 90.027
  },
  {
   "id": "w281",
-  "text": "a",
-  "start": 89.04,
-  "end": 89.08
+  "text": "and",
+  "start": 90.053,
+  "end": 90.08
  },
  {
   "id": "w282",
-  "text": "footing",
-  "start": 89.12,
-  "end": 89.36
+  "text": "a",
+  "start": 90.32,
+  "end": 90.373
  },
  {
   "id": "w283",
-  "text": "on",
-  "start": 89.44,
-  "end": 89.52
+  "text": "footing",
+  "start": 90.427,
+  "end": 90.56
  },
  {
   "id": "w284",
+  "text": "on",
+  "start": 90.64,
+  "end": 90.8
+ },
+ {
+  "id": "w285",
   "text": "top.",
-  "start": 89.6,
-  "end": 90.08
+  "start": 90.96,
+  "end": 91.36
  }
 ]
