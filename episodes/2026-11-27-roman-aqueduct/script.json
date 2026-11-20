@@ -1,0 +1,13 @@
+{
+ "slug": "roman-aqueduct",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The water on top of this bridge drops less than an inch from one end to the other. That's on purpose. Romans moved this water thirty miles with no pumps, only gravity, on a slope so gentle one bad measurement could stop the flow. This is the Pont du Gard in southern France, built around fifty AD for the city of Nîmes. The springs were barely higher than the city, so the channel winds thirty miles, falling a tiny bit the whole way. Most of it runs underground: a stone channel lined with waterproof mortar made from lime and crushed tile. Arches only show up where a valley gets in the way. Here, three tiers lift the channel about one hundred sixty feet above the river. Some stones weigh six tons, stacked with no mortar at all, and it is still standing almost two thousand years later. For deeper valleys, Romans used sealed lead pipes. Water rushes down one side, and pressure pushes it back up the other. At the city, a round tank split the flow into ten pipes. But the water carried dissolved limestone. It coated the channel, layer by layer, and crews chipped it out every few years. Would you drink water that flowed thirty miles through stone? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

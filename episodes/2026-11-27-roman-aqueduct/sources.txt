@@ -1,0 +1,35 @@
+# roman-aqueduct (3d-34) - claim -> source. Checked 20 Nov 2026 (cloud run). wikipedia.org is not reachable from the sandbox (DNS):
+# facts below come from search-engine excerpts of these pages, cross-checked across at least two sources where possible.
+
+"The water on top of this bridge drops less than an inch from one end to the other."
+  -> Wikipedia, Pont du Gard: "The Pont du Gard itself descends 2.5 cm (0.98 in) in 456 m (1,496 ft), a gradient of 1 in 18,241" https://en.wikipedia.org/wiki/Pont_du_Gard
+  -> same figure in the Bananas-for-Scale / EPFL graphsearch copies of the article: https://graphsearch.epfl.ch/concept/198030
+Romans moved this water ~30 miles (about 50 km) by gravity alone, no pumps; straight-line distance only ~20 km
+  -> Wikipedia, Pont du Gard (50 km / 31 mi, straight line ~20 km); Pont du Gard official site https://pontdugard.fr/en/discover/monument ; Livius https://livius.org/articles/place/pont-du-gard
+  -> Roman aqueducts are gravity-fed channels: National Geographic, "Aqueducts: Quenching Rome's Thirst" https://www.nationalgeographic.com/history/history-magazine/article/roman-aqueducts-engineering-innovation
+"a slope so gentle one bad measurement could stop the flow" = physics of open-channel gravity flow (water only moves downhill); no number claimed.
+  Surveying tools (chorobates etc.) and route planning: penn.museum Expedition https://penn.museum/sites/expedition/?p=2157 ; World Atlas https://www.worldatlas.com/ancient-world/how-the-romans-built-aqueducts-that-still-carry-water.html
+Pont du Gard, southern France (Gard, near Nimes), built around 50 AD (c. 40-60 AD; official site: c. 50 AD under Claudius or Nero), for Nemausus/Nimes
+  -> Wikipedia (construction c. 40-60 AD); pontdugard.fr history https://www.pontdugard.fr/en/discover/history ; Britannica https://www.britannica.com/EBchecked/topic/225706/Pont-du-Gard
+"The springs were barely higher than the city"
+  -> sources give a total fall of only ~11-17 m over ~50 km (archaeology-travel: source only 11.2 m above the city; others 12.6 m / 17 m). Sources disagree -> NO number in the script, only "barely higher".
+     https://archaeology-travel.com/france/nimes-aqueduct/ ; https://romaq.org/the-project/aqueducts/178-nemausus.html
+"Most of it runs underground"
+  -> Nimes aqueduct mostly buried / at ground level (archaeology-travel, romaq); Rome's network: ~269 of ~315 miles underground, only ~12% on arches (National Geographic above), "vast majority built underground" (Ancient Rome Live https://ancientromelive.org/aqueducts-general/). Frontinus' own paces (LacusCurtius) https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/De_Aquis/
+"a stone channel lined with waterproof mortar made from lime and crushed tile" (opus signinum)
+  -> World Atlas (crushed tiles/amphorae fragments in mortar), Interesting Engineering https://interestingengineering.com/culture/the-rise-and-fall-of-roman-aqueducts ; Knossos aqueduct report (channel lined with opus signinum) https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E8A90C60B965D1BB999C3B850E12321E/S0068245422000156a.pdf
+"three tiers ... about one hundred sixty feet above the river"
+  -> official site 48.77 m; Wikipedia / others 48.8 m (about 160 ft); three tiers of arches (all sources). (Livius: 49 m / 161 ft above the river at low water)
+"Some stones weigh six tons, stacked with no mortar at all"
+  -> UNRV / Smarthistory: built without mortar or clamps, some stones up to six tonnes; opus quadratum (dry-laid ashlar) https://www.unrv.com/articles/pont-du-gard.php ; https://smarthistory.org/?p=63414 ; History Hit https://www.historyhit.com/the-pont-du-gard-the-finest-example-of-a-roman-aqueduct/
+"it is still standing almost two thousand years later" -> built c. 40-60 AD, still standing (UNESCO World Heritage site, 1985); simple arithmetic, ~1,970 years.
+"For deeper valleys, Romans used sealed lead pipes. Water rushes down one side, and pressure pushes it back up the other." (inverted siphon)
+  -> Aqueduct of the Gier (Lyon): header tank, airtight lead pipes down the slope, across on a bridge, up to a slightly lower receiving tank https://en.wikipedia.org/wiki/Aqueduct_of_the_Gier ; https://www.ancient-history-sites.com/sites/gier-roman-aqueduct/ ; Hodge, "Siphons in Roman aqueducts", PBSR https://core-cms.cambridgecore.org/core/journals/papers-of-the-british-school-at-rome/article/siphons-in-roman-aqueducts/B381D0F65D1B8B516886D4DFCBEAEE76
+  (illustration is generic, not the Gier; script names no site and no pipe count)
+"At the city, a round tank split the flow into ten pipes" (castellum divisorium, Nimes)
+  -> Northwestern U. figure caption (circular settling tank at the aqueduct head) https://www.earth.northwestern.edu/public/craig/teach/102-6/figs/divis.html ; Ortloff 2021, Water 13(1):54 (ten distribution pipelines) https://mdpi.com/2073-4441/13/1/54 ; archaeology-travel (circular basin, outlets to different parts of the town)
+"the water carried dissolved limestone. It coated the channel, layer by layer, and crews chipped it out every few years."
+  -> sinter (calcium carbonate) deposits narrowed the channel; Nimes study: deposits many cm thick, Roman crews removed them every one to five years: Sürmelihindi et al. 2019 / Oxford news https://www.ox.ac.uk/node/8609900 ; https://hal.sorbonne-universite.fr/hal-02094472v1/document ; Wikipedia (flow reduced by calcareous sinter)
+
+Dropped / not used: total fall in metres (11.2 vs 12.6 vs 17 m), daily volume (20,000 vs 35,000-40,000 m3), Vitruvius gradient, channel size (1.8 x 1.2 m, single source), arch counts per tier (shown generic), Rome's network length (sources 315 mi vs 780 km), "11 aqueducts", siphon counts at Lyon (sources disagree).
+Illustration notes: generic three-tier arched bridge in Pont du Gard proportions (not a survey model), map not to scale, siphon/castellum generic, sinter chunks oversized.
