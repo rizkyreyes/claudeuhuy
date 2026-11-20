@@ -1,0 +1,13 @@
+{
+ "slug": "hydro-dam-power",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "This dam makes electricity without burning a thing. It just lets water fall, through pipes so full of force that shutting them too fast can burst them. The lake is stored energy, held up high. At Hoover Dam, intake towers let it into steel pipes called penstocks, thirty feet wide. The water drops about five hundred feet, picking up speed. Then a spiral casing wraps it around the turbine. A ring of wicket gates aims it onto curved blades, and the runner spins. Good turbines capture over ninety percent of that energy. But those gates can't slam shut. Stop all that water at once, and it hammers back up the pipe. In Japan, in 1950, a surge like that burst a penstock. So the gates close gradually. The shaft runs straight up into the generator. A rotor ringed with electromagnets, over three hundred tons, spins inside coils of copper wire. Moving magnets push electrons through the copper. That's electricity. A transformer steps it up for the power lines. The water slows in a widening draft tube and returns to the river, just lower. Hoover has seventeen of these. Would you ride the elevator down inside this dam? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

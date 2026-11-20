@@ -1,0 +1,1228 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "This dam makes electricity without burning a thing. It just lets water fall, through pipes so full of force that shutting them too fast can burst them. The lake is stored energy, held up high. At Hoover Dam, intake towers let it into steel pipes called penstocks, thirty feet wide. The water drops about five hundred feet, picking up speed. Then a spiral casing wraps it around the turbine. A ring of wicket gates aims it onto curved blades, and the runner spins. Good turbines capture over ninety percent of that energy. But those gates can't slam shut. Stop all that water at once, and it hammers back up the pipe. In Japan, in 1950, a surge like that burst a penstock. So the gates close gradually. The shaft runs straight up into the generator. A rotor ringed with electromagnets, over three hundred tons, spins inside coils of copper wire. Moving magnets push electrons through the copper. That's electricity. A transformer steps it up for the power lines. The water slows in a widening draft tube and returns to the river, just lower. Hoover has seventeen of these. Would you ride the elevator down inside this dam? Tell me in the comments.",
+   "wav": "vo.wav",
+   "duration": 73.2,
+   "speechStart": 0,
+   "speechEnd": 73.2,
+   "words": [
+    {
+     "id": "w0",
+     "text": "This",
+     "start": 0,
+     "end": 0.21
+    },
+    {
+     "id": "w1",
+     "text": "dam",
+     "start": 0.24,
+     "end": 0.48
+    },
+    {
+     "id": "w2",
+     "text": "makes",
+     "start": 0.56,
+     "end": 0.776
+    },
+    {
+     "id": "w3",
+     "text": "electricity",
+     "start": 0.8,
+     "end": 1.6
+    },
+    {
+     "id": "w4",
+     "text": "without",
+     "start": 1.8,
+     "end": 2
+    },
+    {
+     "id": "w5",
+     "text": "burning",
+     "start": 2.12,
+     "end": 2.4
+    },
+    {
+     "id": "w6",
+     "text": "a",
+     "start": 2.48,
+     "end": 2.6
+    },
+    {
+     "id": "w7",
+     "text": "thing.",
+     "start": 2.72,
+     "end": 3.44
+    },
+    {
+     "id": "w8",
+     "text": "It",
+     "start": 3.52,
+     "end": 3.6
+    },
+    {
+     "id": "w9",
+     "text": "just",
+     "start": 3.68,
+     "end": 3.76
+    },
+    {
+     "id": "w10",
+     "text": "lets",
+     "start": 3.88,
+     "end": 4
+    },
+    {
+     "id": "w11",
+     "text": "water",
+     "start": 4.2,
+     "end": 4.4
+    },
+    {
+     "id": "w12",
+     "text": "fall,",
+     "start": 4.52,
+     "end": 5.04
+    },
+    {
+     "id": "w13",
+     "text": "through",
+     "start": 5.16,
+     "end": 5.28
+    },
+    {
+     "id": "w14",
+     "text": "pipes",
+     "start": 5.52,
+     "end": 5.76
+    },
+    {
+     "id": "w15",
+     "text": "so",
+     "start": 5.92,
+     "end": 6.08
+    },
+    {
+     "id": "w16",
+     "text": "full",
+     "start": 6.16,
+     "end": 6.24
+    },
+    {
+     "id": "w17",
+     "text": "of",
+     "start": 6.32,
+     "end": 6.4
+    },
+    {
+     "id": "w18",
+     "text": "force",
+     "start": 6.48,
+     "end": 6.8
+    },
+    {
+     "id": "w19",
+     "text": "that",
+     "start": 6.92,
+     "end": 7.04
+    },
+    {
+     "id": "w20",
+     "text": "shutting",
+     "start": 7.12,
+     "end": 7.36
+    },
+    {
+     "id": "w21",
+     "text": "them",
+     "start": 7.44,
+     "end": 7.52
+    },
+    {
+     "id": "w22",
+     "text": "too",
+     "start": 7.64,
+     "end": 7.76
+    },
+    {
+     "id": "w23",
+     "text": "fast",
+     "start": 7.92,
+     "end": 8.08
+    },
+    {
+     "id": "w24",
+     "text": "can",
+     "start": 8.16,
+     "end": 8.48
+    },
+    {
+     "id": "w25",
+     "text": "burst",
+     "start": 8.64,
+     "end": 8.8
+    },
+    {
+     "id": "w26",
+     "text": "them.",
+     "start": 8.92,
+     "end": 9.52
+    },
+    {
+     "id": "w27",
+     "text": "The",
+     "start": 9.6,
+     "end": 9.68
+    },
+    {
+     "id": "w28",
+     "text": "lake",
+     "start": 9.84,
+     "end": 10
+    },
+    {
+     "id": "w29",
+     "text": "is",
+     "start": 10.08,
+     "end": 10.24
+    },
+    {
+     "id": "w30",
+     "text": "stored",
+     "start": 10.44,
+     "end": 10.64
+    },
+    {
+     "id": "w31",
+     "text": "energy,",
+     "start": 10.72,
+     "end": 11.36
+    },
+    {
+     "id": "w32",
+     "text": "held",
+     "start": 11.48,
+     "end": 11.6
+    },
+    {
+     "id": "w33",
+     "text": "up",
+     "start": 11.68,
+     "end": 11.76
+    },
+    {
+     "id": "w34",
+     "text": "high.",
+     "start": 11.92,
+     "end": 12.56
+    },
+    {
+     "id": "w35",
+     "text": "At",
+     "start": 12.64,
+     "end": 12.72
+    },
+    {
+     "id": "w36",
+     "text": "Hoover",
+     "start": 12.76,
+     "end": 12.96
+    },
+    {
+     "id": "w37",
+     "text": "Dam,",
+     "start": 13.04,
+     "end": 13.6
+    },
+    {
+     "id": "w38",
+     "text": "intake",
+     "start": 13.72,
+     "end": 14
+    },
+    {
+     "id": "w39",
+     "text": "towers",
+     "start": 14.08,
+     "end": 14.4
+    },
+    {
+     "id": "w40",
+     "text": "let",
+     "start": 14.48,
+     "end": 14.56
+    },
+    {
+     "id": "w41",
+     "text": "it",
+     "start": 14.6,
+     "end": 14.64
+    },
+    {
+     "id": "w42",
+     "text": "into",
+     "start": 14.72,
+     "end": 14.96
+    },
+    {
+     "id": "w43",
+     "text": "steel",
+     "start": 15.12,
+     "end": 15.28
+    },
+    {
+     "id": "w44",
+     "text": "pipes",
+     "start": 15.36,
+     "end": 15.68
+    },
+    {
+     "id": "w45",
+     "text": "called",
+     "start": 15.8,
+     "end": 15.92
+    },
+    {
+     "id": "w46",
+     "text": "penstocks,",
+     "start": 16.08,
+     "end": 16.8
+    },
+    {
+     "id": "w47",
+     "text": "thirty",
+     "start": 16.88,
+     "end": 17.04
+    },
+    {
+     "id": "w48",
+     "text": "feet",
+     "start": 17.2,
+     "end": 17.44
+    },
+    {
+     "id": "w49",
+     "text": "wide.",
+     "start": 17.6,
+     "end": 18.24
+    },
+    {
+     "id": "w50",
+     "text": "The",
+     "start": 18.32,
+     "end": 18.4
+    },
+    {
+     "id": "w51",
+     "text": "water",
+     "start": 18.56,
+     "end": 18.72
+    },
+    {
+     "id": "w52",
+     "text": "drops",
+     "start": 18.88,
+     "end": 19.04
+    },
+    {
+     "id": "w53",
+     "text": "about",
+     "start": 19.2,
+     "end": 19.36
+    },
+    {
+     "id": "w54",
+     "text": "five",
+     "start": 19.44,
+     "end": 19.6
+    },
+    {
+     "id": "w55",
+     "text": "hundred",
+     "start": 19.68,
+     "end": 19.84
+    },
+    {
+     "id": "w56",
+     "text": "feet,",
+     "start": 20.08,
+     "end": 20.4
+    },
+    {
+     "id": "w57",
+     "text": "picking",
+     "start": 20.44,
+     "end": 20.72
+    },
+    {
+     "id": "w58",
+     "text": "up",
+     "start": 20.76,
+     "end": 20.8
+    },
+    {
+     "id": "w59",
+     "text": "speed.",
+     "start": 20.88,
+     "end": 21.76
+    },
+    {
+     "id": "w60",
+     "text": "Then",
+     "start": 21.84,
+     "end": 22.08
+    },
+    {
+     "id": "w61",
+     "text": "a",
+     "start": 22.16,
+     "end": 22.32
+    },
+    {
+     "id": "w62",
+     "text": "spiral",
+     "start": 22.44,
+     "end": 22.8
+    },
+    {
+     "id": "w63",
+     "text": "casing",
+     "start": 22.88,
+     "end": 23.28
+    },
+    {
+     "id": "w64",
+     "text": "wraps",
+     "start": 23.36,
+     "end": 23.6
+    },
+    {
+     "id": "w65",
+     "text": "it",
+     "start": 23.68,
+     "end": 23.76
+    },
+    {
+     "id": "w66",
+     "text": "around",
+     "start": 23.88,
+     "end": 24
+    },
+    {
+     "id": "w67",
+     "text": "the",
+     "start": 24.04,
+     "end": 24.08
+    },
+    {
+     "id": "w68",
+     "text": "turbine.",
+     "start": 24.16,
+     "end": 25.04
+    },
+    {
+     "id": "w69",
+     "text": "A",
+     "start": 25.12,
+     "end": 25.2
+    },
+    {
+     "id": "w70",
+     "text": "ring",
+     "start": 25.28,
+     "end": 25.36
+    },
+    {
+     "id": "w71",
+     "text": "of",
+     "start": 25.44,
+     "end": 25.52
+    },
+    {
+     "id": "w72",
+     "text": "wicket",
+     "start": 25.6,
+     "end": 25.84
+    },
+    {
+     "id": "w73",
+     "text": "gates",
+     "start": 25.92,
+     "end": 26.24
+    },
+    {
+     "id": "w74",
+     "text": "aims",
+     "start": 26.36,
+     "end": 26.48
+    },
+    {
+     "id": "w75",
+     "text": "it",
+     "start": 26.56,
+     "end": 26.64
+    },
+    {
+     "id": "w76",
+     "text": "onto",
+     "start": 26.8,
+     "end": 26.96
+    },
+    {
+     "id": "w77",
+     "text": "curved",
+     "start": 27.04,
+     "end": 27.28
+    },
+    {
+     "id": "w78",
+     "text": "blades,",
+     "start": 27.36,
+     "end": 28
+    },
+    {
+     "id": "w79",
+     "text": "and",
+     "start": 28.04,
+     "end": 28.08
+    },
+    {
+     "id": "w80",
+     "text": "the",
+     "start": 28.16,
+     "end": 28.2
+    },
+    {
+     "id": "w81",
+     "text": "runner",
+     "start": 28.24,
+     "end": 28.56
+    },
+    {
+     "id": "w82",
+     "text": "spins.",
+     "start": 28.64,
+     "end": 29.68
+    },
+    {
+     "id": "w83",
+     "text": "Good",
+     "start": 29.76,
+     "end": 29.92
+    },
+    {
+     "id": "w84",
+     "text": "turbines",
+     "start": 29.96,
+     "end": 30.4
+    },
+    {
+     "id": "w85",
+     "text": "capture",
+     "start": 30.6,
+     "end": 30.8
+    },
+    {
+     "id": "w86",
+     "text": "over",
+     "start": 30.96,
+     "end": 31.12
+    },
+    {
+     "id": "w87",
+     "text": "ninety",
+     "start": 31.2,
+     "end": 31.44
+    },
+    {
+     "id": "w88",
+     "text": "percent",
+     "start": 31.52,
+     "end": 31.92
+    },
+    {
+     "id": "w89",
+     "text": "of",
+     "start": 31.96,
+     "end": 32
+    },
+    {
+     "id": "w90",
+     "text": "that",
+     "start": 32.08,
+     "end": 32.16
+    },
+    {
+     "id": "w91",
+     "text": "energy.",
+     "start": 32.24,
+     "end": 33.12
+    },
+    {
+     "id": "w92",
+     "text": "But",
+     "start": 33.2,
+     "end": 33.28
+    },
+    {
+     "id": "w93",
+     "text": "those",
+     "start": 33.4,
+     "end": 33.52
+    },
+    {
+     "id": "w94",
+     "text": "gates",
+     "start": 33.56,
+     "end": 33.84
+    },
+    {
+     "id": "w95",
+     "text": "can't",
+     "start": 33.92,
+     "end": 34.24
+    },
+    {
+     "id": "w96",
+     "text": "slam",
+     "start": 34.28,
+     "end": 34.56
+    },
+    {
+     "id": "w97",
+     "text": "shut.",
+     "start": 34.64,
+     "end": 35.36
+    },
+    {
+     "id": "w98",
+     "text": "Stop",
+     "start": 35.44,
+     "end": 35.68
+    },
+    {
+     "id": "w99",
+     "text": "all",
+     "start": 35.76,
+     "end": 35.84
+    },
+    {
+     "id": "w100",
+     "text": "that",
+     "start": 35.92,
+     "end": 36
+    },
+    {
+     "id": "w101",
+     "text": "water",
+     "start": 36.12,
+     "end": 36.24
+    },
+    {
+     "id": "w102",
+     "text": "at",
+     "start": 36.32,
+     "end": 36.4
+    },
+    {
+     "id": "w103",
+     "text": "once,",
+     "start": 36.48,
+     "end": 36.84
+    },
+    {
+     "id": "w104",
+     "text": "and",
+     "start": 36.88,
+     "end": 36.92
+    },
+    {
+     "id": "w105",
+     "text": "it",
+     "start": 36.96,
+     "end": 37.12
+    },
+    {
+     "id": "w106",
+     "text": "hammers",
+     "start": 37.2,
+     "end": 37.6
+    },
+    {
+     "id": "w107",
+     "text": "back",
+     "start": 37.68,
+     "end": 37.76
+    },
+    {
+     "id": "w108",
+     "text": "up",
+     "start": 37.84,
+     "end": 37.92
+    },
+    {
+     "id": "w109",
+     "text": "the",
+     "start": 38,
+     "end": 38.08
+    },
+    {
+     "id": "w110",
+     "text": "pipe.",
+     "start": 38.24,
+     "end": 38.88
+    },
+    {
+     "id": "w111",
+     "text": "In",
+     "start": 38.96,
+     "end": 39
+    },
+    {
+     "id": "w112",
+     "text": "Japan,",
+     "start": 39.04,
+     "end": 39.6
+    },
+    {
+     "id": "w113",
+     "text": "in",
+     "start": 39.68,
+     "end": 39.76
+    },
+    {
+     "id": "w114",
+     "text": "1950,",
+     "start": 39.8,
+     "end": 40.8
+    },
+    {
+     "id": "w115",
+     "text": "a",
+     "start": 40.88,
+     "end": 40.96
+    },
+    {
+     "id": "w116",
+     "text": "surge",
+     "start": 41.04,
+     "end": 41.2
+    },
+    {
+     "id": "w117",
+     "text": "like",
+     "start": 41.28,
+     "end": 41.44
+    },
+    {
+     "id": "w118",
+     "text": "that",
+     "start": 41.52,
+     "end": 41.76
+    },
+    {
+     "id": "w119",
+     "text": "burst",
+     "start": 41.84,
+     "end": 42.08
+    },
+    {
+     "id": "w120",
+     "text": "a",
+     "start": 42.16,
+     "end": 42.2
+    },
+    {
+     "id": "w121",
+     "text": "penstock.",
+     "start": 42.24,
+     "end": 43.36
+    },
+    {
+     "id": "w122",
+     "text": "So",
+     "start": 43.52,
+     "end": 43.68
+    },
+    {
+     "id": "w123",
+     "text": "the",
+     "start": 43.84,
+     "end": 43.92
+    },
+    {
+     "id": "w124",
+     "text": "gates",
+     "start": 43.96,
+     "end": 44.24
+    },
+    {
+     "id": "w125",
+     "text": "close",
+     "start": 44.32,
+     "end": 44.64
+    },
+    {
+     "id": "w126",
+     "text": "gradually.",
+     "start": 44.72,
+     "end": 45.76
+    },
+    {
+     "id": "w127",
+     "text": "The",
+     "start": 45.84,
+     "end": 45.92
+    },
+    {
+     "id": "w128",
+     "text": "shaft",
+     "start": 46.12,
+     "end": 46.32
+    },
+    {
+     "id": "w129",
+     "text": "runs",
+     "start": 46.48,
+     "end": 46.64
+    },
+    {
+     "id": "w130",
+     "text": "straight",
+     "start": 46.72,
+     "end": 47.04
+    },
+    {
+     "id": "w131",
+     "text": "up",
+     "start": 47.12,
+     "end": 47.2
+    },
+    {
+     "id": "w132",
+     "text": "into",
+     "start": 47.32,
+     "end": 47.44
+    },
+    {
+     "id": "w133",
+     "text": "the",
+     "start": 47.48,
+     "end": 47.52
+    },
+    {
+     "id": "w134",
+     "text": "generator.",
+     "start": 47.8,
+     "end": 48.48
+    },
+    {
+     "id": "w135",
+     "text": "A",
+     "start": 48.56,
+     "end": 48.64
+    },
+    {
+     "id": "w136",
+     "text": "rotor",
+     "start": 48.72,
+     "end": 49.12
+    },
+    {
+     "id": "w137",
+     "text": "ringed",
+     "start": 49.2,
+     "end": 49.44
+    },
+    {
+     "id": "w138",
+     "text": "with",
+     "start": 49.48,
+     "end": 49.52
+    },
+    {
+     "id": "w139",
+     "text": "electromagnets,",
+     "start": 49.6,
+     "end": 50.56
+    },
+    {
+     "id": "w140",
+     "text": "over",
+     "start": 50.72,
+     "end": 50.88
+    },
+    {
+     "id": "w141",
+     "text": "three",
+     "start": 50.96,
+     "end": 51.2
+    },
+    {
+     "id": "w142",
+     "text": "hundred",
+     "start": 51.28,
+     "end": 51.6
+    },
+    {
+     "id": "w143",
+     "text": "tons,",
+     "start": 51.68,
+     "end": 52.32
+    },
+    {
+     "id": "w144",
+     "text": "spins",
+     "start": 52.4,
+     "end": 52.8
+    },
+    {
+     "id": "w145",
+     "text": "inside",
+     "start": 53.04,
+     "end": 53.28
+    },
+    {
+     "id": "w146",
+     "text": "coils",
+     "start": 53.36,
+     "end": 53.68
+    },
+    {
+     "id": "w147",
+     "text": "of",
+     "start": 53.76,
+     "end": 53.84
+    },
+    {
+     "id": "w148",
+     "text": "copper",
+     "start": 53.88,
+     "end": 54.16
+    },
+    {
+     "id": "w149",
+     "text": "wire.",
+     "start": 54.24,
+     "end": 55.12
+    },
+    {
+     "id": "w150",
+     "text": "Moving",
+     "start": 55.28,
+     "end": 55.44
+    },
+    {
+     "id": "w151",
+     "text": "magnets",
+     "start": 55.52,
+     "end": 56
+    },
+    {
+     "id": "w152",
+     "text": "push",
+     "start": 56.12,
+     "end": 56.24
+    },
+    {
+     "id": "w153",
+     "text": "electrons",
+     "start": 56.4,
+     "end": 56.88
+    },
+    {
+     "id": "w154",
+     "text": "through",
+     "start": 56.96,
+     "end": 57.04
+    },
+    {
+     "id": "w155",
+     "text": "the",
+     "start": 57.08,
+     "end": 57.12
+    },
+    {
+     "id": "w156",
+     "text": "copper.",
+     "start": 57.2,
+     "end": 57.92
+    },
+    {
+     "id": "w157",
+     "text": "That's",
+     "start": 58.04,
+     "end": 58.24
+    },
+    {
+     "id": "w158",
+     "text": "electricity.",
+     "start": 58.32,
+     "end": 59.493
+    },
+    {
+     "id": "w159",
+     "text": "A",
+     "start": 59.547,
+     "end": 59.6
+    },
+    {
+     "id": "w160",
+     "text": "transformer",
+     "start": 59.84,
+     "end": 60.24
+    },
+    {
+     "id": "w161",
+     "text": "steps",
+     "start": 60.4,
+     "end": 60.56
+    },
+    {
+     "id": "w162",
+     "text": "it",
+     "start": 60.6,
+     "end": 60.64
+    },
+    {
+     "id": "w163",
+     "text": "up",
+     "start": 60.72,
+     "end": 60.8
+    },
+    {
+     "id": "w164",
+     "text": "for",
+     "start": 60.84,
+     "end": 60.88
+    },
+    {
+     "id": "w165",
+     "text": "the",
+     "start": 60.96,
+     "end": 61.04
+    },
+    {
+     "id": "w166",
+     "text": "power",
+     "start": 61.16,
+     "end": 61.28
+    },
+    {
+     "id": "w167",
+     "text": "lines.",
+     "start": 61.36,
+     "end": 62.12
+    },
+    {
+     "id": "w168",
+     "text": "The",
+     "start": 62.16,
+     "end": 62.24
+    },
+    {
+     "id": "w169",
+     "text": "water",
+     "start": 62.44,
+     "end": 62.64
+    },
+    {
+     "id": "w170",
+     "text": "slows",
+     "start": 62.72,
+     "end": 63.04
+    },
+    {
+     "id": "w171",
+     "text": "in",
+     "start": 63.12,
+     "end": 63.16
+    },
+    {
+     "id": "w172",
+     "text": "a",
+     "start": 63.2,
+     "end": 63.36
+    },
+    {
+     "id": "w173",
+     "text": "widening",
+     "start": 63.44,
+     "end": 63.76
+    },
+    {
+     "id": "w174",
+     "text": "draft",
+     "start": 63.84,
+     "end": 64.16
+    },
+    {
+     "id": "w175",
+     "text": "tube",
+     "start": 64.32,
+     "end": 64.48
+    },
+    {
+     "id": "w176",
+     "text": "and",
+     "start": 64.52,
+     "end": 64.56
+    },
+    {
+     "id": "w177",
+     "text": "returns",
+     "start": 64.64,
+     "end": 65.04
+    },
+    {
+     "id": "w178",
+     "text": "to",
+     "start": 65.08,
+     "end": 65.12
+    },
+    {
+     "id": "w179",
+     "text": "the",
+     "start": 65.2,
+     "end": 65.28
+    },
+    {
+     "id": "w180",
+     "text": "river,",
+     "start": 65.4,
+     "end": 65.84
+    },
+    {
+     "id": "w181",
+     "text": "just",
+     "start": 65.92,
+     "end": 66.24
+    },
+    {
+     "id": "w182",
+     "text": "lower.",
+     "start": 66.32,
+     "end": 67.16
+    },
+    {
+     "id": "w183",
+     "text": "Hoover",
+     "start": 67.2,
+     "end": 67.6
+    },
+    {
+     "id": "w184",
+     "text": "has",
+     "start": 67.76,
+     "end": 67.92
+    },
+    {
+     "id": "w185",
+     "text": "seventeen",
+     "start": 68,
+     "end": 68.48
+    },
+    {
+     "id": "w186",
+     "text": "of",
+     "start": 68.56,
+     "end": 68.64
+    },
+    {
+     "id": "w187",
+     "text": "these.",
+     "start": 68.72,
+     "end": 69.48
+    },
+    {
+     "id": "w188",
+     "text": "Would",
+     "start": 69.52,
+     "end": 69.68
+    },
+    {
+     "id": "w189",
+     "text": "you",
+     "start": 69.72,
+     "end": 69.76
+    },
+    {
+     "id": "w190",
+     "text": "ride",
+     "start": 69.84,
+     "end": 70
+    },
+    {
+     "id": "w191",
+     "text": "the",
+     "start": 70.08,
+     "end": 70.16
+    },
+    {
+     "id": "w192",
+     "text": "elevator",
+     "start": 70.2,
+     "end": 70.56
+    },
+    {
+     "id": "w193",
+     "text": "down",
+     "start": 70.64,
+     "end": 70.8
+    },
+    {
+     "id": "w194",
+     "text": "inside",
+     "start": 70.88,
+     "end": 71.2
+    },
+    {
+     "id": "w195",
+     "text": "this",
+     "start": 71.28,
+     "end": 71.36
+    },
+    {
+     "id": "w196",
+     "text": "dam?",
+     "start": 71.44,
+     "end": 72.08
+    },
+    {
+     "id": "w197",
+     "text": "Tell",
+     "start": 72.16,
+     "end": 72.24
+    },
+    {
+     "id": "w198",
+     "text": "me",
+     "start": 72.32,
+     "end": 72.36
+    },
+    {
+     "id": "w199",
+     "text": "in",
+     "start": 72.4,
+     "end": 72.44
+    },
+    {
+     "id": "w200",
+     "text": "the",
+     "start": 72.48,
+     "end": 72.56
+    },
+    {
+     "id": "w201",
+     "text": "comments.",
+     "start": 72.8,
+     "end": 73.2
+    }
+   ]
+  }
+ ]
+}

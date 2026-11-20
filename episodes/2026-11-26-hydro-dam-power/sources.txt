@@ -1,0 +1,24 @@
+# hydro-dam-power (3d-33) - claim -> source. Checked 20 Nov 2026 (cloud run). usbr.gov and wikipedia.org were not reachable from the sandbox; facts below come from search-engine excerpts of these pages (quoted), cross-checked across at least two sources where possible.
+
+Hydropower: water from a reservoir flows through the penstock to a turbine, the turbine turns a generator; no fuel burned
+  -> U.S. DOE glossary of hydropower terms (archived): https://webarchive.library.unt.edu/web/20161228074400/https://energy.gov/eere/water/glossary-hydropower-terms
+  -> USGS Water Science School "Hydroelectric power: how it works": https://www.usgs.gov/special-topics/water-science-school/science/hydroelectric-power-how-it-works
+  -> EIA Energy Explained, hydropower: https://www.eia.gov/energyexplained/hydropower/
+Penstock = pressurized pipe from the intake to the turbine; pressure rises toward the turbine -> DOE glossary (above); HowStuffWorks hydropower plant: https://science.howstuffworks.com/environmental/energy/hydropower-plant1.htm
+Hoover Dam: intake towers in the reservoir feed 30-foot-diameter steel penstocks ("the two inner tunnels now contain 30-foot-diameter steel pipes (penstocks) which connect the intake towers in the reservoir with the powerplant")
+  -> USBR Hoover Dam tunnel FAQ: https://usbr.gov/lc/hooverdam/faqs/tunlfaqs.html
+Water falls "some 500 feet (150 metres) through the pipes" to the plant -> Britannica, Hoover Dam: https://www.britannica.com/topic/Hoover-Dam  (script: "about five hundred feet")
+Spiral (scroll) case guides the flow into the wicket gates just before the turbine; wicket gates are adjustable and control the flow (and speed) -> DOE glossary (above); USBR glossary: https://www.usbr.gov/power/edu/Glossary%20of%20Hydropower%20Terms.pdf
+Francis turbine efficiency "typically over 90%" -> Wikipedia, Francis turbine: https://en.wikipedia.org/wiki/Francis_turbine  (script: "Good turbines capture over ninety percent")
+Gates closing fast -> water hammer pressure surge in the penstock; designers limit closing speed / add surge tanks -> Power Magazine, hydraulic stability of surge tanks: https://www.powermag.com/hydraulic-stability-of-surge-tanks/ ; Renewable Energy World, runaway effect in Francis turbines: https://www.renewableenergyworld.com/?p=728921369
+1950 Japan: "the water hammer surge that caused the burst of penstock ... at the Oigawa Power Station in Japan in 1950"
+  -> IAHR HydroLink 2020/2 "Hydraulic transients": https://static.iahr.org/library/HydroLink/HydroLink2020_02_Hydraulic_Transients_d9824750k893409.pdf  (single source; the script names only "Japan, 1950", no station name, no casualty number)
+Generator: the shaft drives the generator; rotor electromagnets spin past stationary copper coils (stator = "coils of copper wire") -> USBR Hoover power FAQ: https://usbr.gov/lc/hooverdam/faqs/powerfaq.html ; HowStuffWorks (above)
+Hoover rotor "weighs more than 300 tons" -> Power Engineering, technical tour Hoover Dam: https://www.power-eng.com/coal/technical-tour-hoover-dam/  (original 1930s rotors were heavier, ~500 tons per Missouri S&T: https://web.mst.edu/rogersda/hoover_dam/Rogers-HooverDam-Pt4.pdf; script says "over three hundred tons")
+Transformer steps the voltage up for transmission -> EIA electricity delivery: https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php
+Draft tube connects the turbine outlet to the tailrace and widens gradually to slow the water -> DOE glossary; theconstructor.org: https://theconstructor.org/structures/hydropower-plant-components-functions/19705/
+Hoover: 17 main Francis turbines (9 Arizona wing, 8 Nevada wing) -> USBR project page: https://www.usbr.gov/projects/index.php?id=540 ; Britannica (above)
+Hoover tours take visitors down by elevator into the dam / powerplant -> USBR Hoover Dam visitor info (tours) (general knowledge of the public tour; the CTA asks a question, no claim)
+
+Dropped / not used: 180 rpm and 700-ton turbine (single trade source), capacity (sources disagree: 2,074-2,080 MW), annual generation (4.4 vs 4.5 billion kWh), 250 psi, intake tower height (380 vs 395 ft), US hydro share (5.5 vs 5.6 %), station name and casualties of the 1950 burst.
+Illustration notes (in build_scene.py header): generic concrete gravity dam, one unit drawn, penstock drawn in the section plane under the dam (Hoover's run through canyon-wall tunnels), 1950 set is a generic riveted pipe on a hillside.
