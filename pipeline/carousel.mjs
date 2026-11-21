@@ -40,7 +40,7 @@ const total = cfg.slides.filter((s) => s.type === "myth").length;
 function page(s, i, W, H, video = false, phase = "b") {
   const tall = H > 1500;
   const pad = 84;
-  const padB = video ? 380 : pad - 8;   // video: keep text above the caption and buttons the apps draw over the bottom
+  const padB = video ? 380 : (tall ? 340 : pad - 8);   // keep text above the caption and buttons TikTok draws over the bottom (Rizky, 21 Nov 2026: photo carousels too)
   const padR = video ? 150 : pad;
   let n = 0; for (let k = 0; k <= i; k++) if (cfg.slides[k].type === "myth") n++;
   const top = `<div class="top"><span class="chip">Myth vs fact</span>${s.type === "myth" ? `<span class="count">${n}/${total}</span>` : ""}</div>`;

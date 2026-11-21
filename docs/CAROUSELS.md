@@ -6,6 +6,7 @@
 > - Theme choice follows the demand-first rule: themes people actually search ("is it true that…", "myths about…"), seasonal when it fits (November: heating, winter driving, Thanksgiving cooking). Never bust a myth that an upcoming 3D video (`state/queue-3d.md`) is about.
 > - **Posting = phone notification** (Rizky, 17 Nov 2026, replaces the 4 Nov automatic mode): every carousel uses `schedulingType: "notification"`, so Buffer pings Rizky's phone at the slot and he adds a TikTok sound before posting (the API cannot attach one).
 > - Closing slide: the question + "Follow for the real reason behind everyday stuff". No @handle, no hashtags (rules below still apply).
+> - **Text height (Rizky, 21 Nov 2026):** the TikTok caption covered the bottom text, so `pipeline/carousel.mjs` now keeps 340 px free at the bottom of the 1080x1920 slides. Check slides 2 and 7 on the contact sheet: the last text line must end above y = 1580.
 
 Photo carousels between the videos, decided with Rizky on 30 Sep 2026. **History:** c01 was a photo carousel. c02 (5 Oct) went out as a slideshow video with music because Rizky wanted a background track. On 6 Oct 2026 he decided to go **back to photos** from c03 on. So: no video, no music. `pipeline/slideshow.mjs` and `pipeline/music/` stay in the repo but are not used.
 
