@@ -185,7 +185,7 @@ tracked("LIMESTONE CRUST", "sinter", C.coated + 0.2, C.crews - 0.1, 120, -120, G
 show(text("CHIPPED\nOUT", 540, H, 980, 300, 128, WHITE), C.chipped - 0.05, C.would - 0.1, "slam", "impact");
 small("EVERY FEW YEARS", C.every - 0.05, C.would - 0.1, GOLD);
 // B14 CTA: spoken question as the closing title, NEXT small over the last 2 s, fade out
-show(text("DRINK WATER THAT\nFLOWED 30 MILES?", 540, H, 980, 300, 92, WHITE), C.would - 0.05, TL.duration, "slam", "impact");
+show(text("DRINK WATER THAT\nFLOWED 30 MILES?", 540, H, 980, 300, 80, WHITE), C.would - 0.05, TL.duration, "slam", "impact");
 show(text("TELL ME IN THE COMMENTS", 540, H + 230, 980, 110, 56, GOLD, BODY, { tracking: 10 }), C.tell - 0.05, TL.duration, "pop", "ping");
 { const nx = text("NEXT: FIXING PIPES WITHOUT DIGGING", 540, 1240, 880, 70, 40, WHITE, BODY, { stroke: 8, tracking: 20, name: "Next tease" });
   const t0 = TL.duration - 2.0; nx.activeRange = R(ms(t0), DUR - ms(t0)); kf(nx.id, "opacity", [[0, 0], [150, 100]]); layers.push(nx); TITLES.push({ t0, t1: TL.duration, text: nx.sourceText.text }); }
