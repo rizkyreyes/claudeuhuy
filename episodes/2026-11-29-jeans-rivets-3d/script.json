@@ -1,0 +1,13 @@
+{
+ "slug": "jeans-rivets-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Those little copper dots on your jeans were patented in eighteen seventy-three. They're holding your pockets together. Without them, the corner of a work-pants pocket was the first thing to rip, and everything inside fell out. Here's why. When you shove a hand or a tool into a pocket, the pull runs along the opening, but the seam just stops at the corner. So the force piles onto the last few stitches, the thread snaps, and the tear runs. A Reno tailor named Jacob Davis had a customer whose work pants kept tearing like that. Davis already used copper rivets to fasten straps on horse blankets. So he set one at each pocket corner. A rivet has two parts: a post pushed through every layer of denim from the inside, and a cap on the outside. One hit of the hammer crushes them together, clamping the layers like a tiny metal sandwich. Now the pull spreads into metal instead of a few threads. Davis couldn't afford the patent fee, so he teamed up with the man who sold him his cloth, Levi Strauss. They got the patent on May twentieth, eighteen seventy-three. And that tiny pocket inside the right front pocket? It was made for a pocket watch, safe from getting smashed. Do you actually use the tiny pocket on your jeans? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
