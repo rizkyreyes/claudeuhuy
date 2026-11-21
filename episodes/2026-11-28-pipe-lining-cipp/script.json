@@ -1,0 +1,13 @@
+{
+ "slug": "pipe-lining-cipp",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "They fixed this broken pipe without breaking the floor. The new pipe was built inside the old one. Normally, a cracked drain under a house means jackhammers, a trench through your floor, and a giant mess. Instead, the crew opens one cleanout. First, a camera crawls in to find the cracks and the roots, and the old pipe gets scrubbed clean. Next comes the liner: a soft felt tube, soaked in resin like a sponge. Here's the trick. They push it in inside out. Air pressure unrolls it down the pipe like a sock turning inside out, pressing the wet resin hard against the old walls. Because it's still soft, it follows every bend. Then they cure it with hot water, steam, or ultraviolet light. The resin hardens into one seamless pipe, with no joints for roots to sneak into. It's designed to stand on its own, even if the old pipe crumbles around it. But the liner also sealed over every side branch. So a little robot with a camera rolls in and cuts each opening back out. These liners are designed to last fifty years. The very first one went into a London sewer in nineteen seventy-one, and it's still in service today. Would you let a robot fix the pipes under your house? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
