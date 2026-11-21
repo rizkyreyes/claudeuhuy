@@ -114,4 +114,4 @@ One 8-12 min 16:9 video every 2 weeks, stitched from winning Shorts topics of on
 
 ## Short captions + titles (Rizky 15 Nov 2026, overrides longer caption rules)
 - Caption (TikTok/IG/YouTube text): ONE short line (claim or stake, max ~12 words) + the viewer question + an emoji, then a blank line and 5 relevant hashtags (topic, topic variant, field, #howitworks or #engineering, #3danimation). No paragraph retelling the video. IG keeps the "Send this to someone who … 👇" first line.
-- YouTube title: max ~45 characters, the hook in 3-6 words + "#shorts" + one topic hashtag, e.g. "This Hammer Lifts Itself #shorts #piledriver".
+- YouTube title (Rizky, 21 Nov 2026, replaces every older title rule): **short, max ~30 characters, NO hashtags in the title** (no "#shorts", no topic hashtag), the search phrase or the hook only, e.g. "How Pipe Lining Works", "Taipei 101's Giant Steel Ball". Hashtags: exactly 5, only in the caption. YouTube tags: 5 only.
