@@ -1,0 +1,21 @@
+# c21 fireplace and chimney myths: fact -> source (checked 21 Nov 2026, cloud run; checked on search excerpts, csia.org, usfa.fema.gov, cpsc.gov and epa.gov are not reachable from the sandbox)
+1 Creosote sweeping logs / chemical cleaners are not an adequate substitute for mechanical chimney cleaning and annual inspection
+  CSIA FAQ: https://csia.org/faq.html
+  CSIA page on the sweeping log (does not take the place of inspection and professional cleaning): https://csia.org/creosote_sweeping_log.html
+2 Don't burn wrapping paper in the fireplace: wrappings can ignite suddenly and burn intensely, a flash fire may result
+  CPSC holiday safety tips (1998): https://www.cpsc.gov/en/Newsroom/News-Releases/1998/CPSC-Releases-Safety-Tips-for-the-Holiday-Season/
+  CPSC holiday decoration tips (2002): https://www.cpsc.gov/Newsroom/News-Releases/2002/CPSC-Releases-Holiday-Decoration-Safety-Tips-for-Avoiding-Fires-and-Injuries
+3 Ashes stay hot: put them in a metal container with a lid, outside, at least 10 feet from the home ("for days": Fairfax County says wait at least 4 days before dumping)
+  U.S. Fire Administration fireplace/woodstove safety card: https://www.usfa.fema.gov/downloads/pdf/publications/fireplace_woodstove_safety_card.pdf
+  Fairfax County Fire and Rescue: https://www.fairfaxcounty.gov/fire-ems/sites/fire-ems/files/Assets/Documents/PDF/fireplace_and_ashes_safety_tips.pdf
+4 Season firewood at least 6 months (softwood) / 12 months (hardwood); burns best under 20% moisture; check with a moisture meter (about $15-40)
+  EPA Burn Wise best practices (program archived Oct 2025, guidance still online): https://www.epa.gov/burnwise/best-wood-burning-practices
+  EPA Burn Wise moisture meter: https://epa.gov/burnwise/test-your-wood-moisture-meter
+5 Chimneys, fireplaces and vents should be inspected at least once a year (NFPA 211, cited by CSIA, applies to gas systems too); CPSC: yearly inspection should check chimneys, flues and vents for leakage and blockage by debris
+  CSIA homeowner resources (NFPA 211, annual inspection): https://csia.org/homeowner-resources
+  CSIA FAQ (annual inspections for all chimneys, gas included): https://csia.org/faq.html
+  CPSC annual fuel-burning appliance inspection: https://www.cpsc.gov/content/cpsc-urges-annual-fuel-burning-appliance-inspection-to-prevent-deaths-fires
+  NFPA heating safety tip sheet (Michigan copy): https://www.michigan.gov/documents/lara/NFPA._Heating_safety_tips._7._2019._MIPLogo._ECS._Final__663826_7.pdf
+  Napoleon (fireplace maker) on annual gas fireplace inspection: https://www.napoleon.com/en/us/fireplaces/blog/why-gas-fireplaces-need-annual-inspections
+Cut: burning pine causes creosote (extension sources disagree), damper/fireplace heats the house (done in c12), CO from gas logs (health angle).
+Photos (Pexels): cover 34963015, log 15505770, wrap 35096933, ashes 32960606, wood 11285636, gas 38774079, end 35382187 (no faces, no readable brands; gift wrap shows only "Merry Christmas" / "Ho Ho Ho" print)

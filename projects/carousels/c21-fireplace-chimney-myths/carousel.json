@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 fireplace myths to drop before you light the first fire", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/log.jpg", "myth": "A creosote sweeping log replaces a chimney sweep.",
+      "fact": "Those logs can loosen some buildup, but chimney pros say they're no substitute for a real mechanical sweep and a yearly inspection.",
+      "source": "Chimney Safety Institute of America" },
+    { "type": "myth", "bg": "bg/wrap.jpg", "myth": "Toss the wrapping paper in the fireplace after presents.",
+      "fact": "Wrapping paper can catch all at once and burn super hot, causing a flash fire. Bag it or recycle it instead.",
+      "source": "U.S. Consumer Product Safety Commission" },
+    { "type": "myth", "bg": "bg/ashes.jpg", "myth": "The ashes are cold by the next morning.",
+      "fact": "Coals can stay hot for days. Scoop ashes into a metal can with a lid and set it outside, at least 10 feet from the house.",
+      "source": "U.S. Fire Administration" },
+    { "type": "myth", "bg": "bg/wood.jpg", "myth": "Wood you cut this fall is ready to burn this winter.",
+      "fact": "Softwood needs at least 6 months to dry and hardwood about a year. It's ready under 20% moisture, and a cheap meter can check.",
+      "source": "EPA Burn Wise" },
+    { "type": "myth", "bg": "bg/gas.jpg", "myth": "Gas fireplaces never need a checkup.",
+      "fact": "No soot doesn't mean no problems. Vents can get blocked by nests or debris. Chimneys, fireplaces and vents should be inspected every year.",
+      "source": "CSIA, NFPA 211, CPSC" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one were you doing?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["CSIA: sweeping logs and annual inspections", "CPSC: holiday fireplace safety", "U.S. Fire Administration: ash disposal", "EPA Burn Wise: seasoned firewood", "NFPA 211 and CPSC: yearly vent checks"] }
+  ]
+}
