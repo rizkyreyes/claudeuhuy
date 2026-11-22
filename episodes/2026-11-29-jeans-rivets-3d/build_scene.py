@@ -664,8 +664,12 @@ windows(WATCH, [(C["watch"] - 1.0, C["do"]), (C["do"], DUR)])
 CHAIN = poly_obj("WatchChain", sag_pts((12.2, 0.4, 36.5), (7.0, -0.5, 37.5), 2.0, 16), 0.09, M_GOLDW, seg=6)
 windows(CHAIN, [(W_IN + 0.9, DUR)])
 glow(B_GOLDW, [(0, 0.0), (C["watch"] - 0.05, 0.0), (C["watch"] + 0.2, 0.5), (C["safe"] + 0.8, 0.5), (C["do"], 0.0)])
-WP_GLOW = box("WatchPocketGlow", WP_X0 - 0.15, WP_X1 + 0.15, 0.30, 0.34, WP_Z0 - 0.15, WP_Z1 + 0.15, M_GOLDG)
-windows(WP_GLOW, [(C["tiny"] - 0.05, C["made"] - 0.2)])
+# outline frame (a solid panel hid the pocket on the laptop GPU check, 22 Nov)
+_wx0, _wx1, _wz0, _wz1, _t = WP_X0 - 0.15, WP_X1 + 0.15, WP_Z0 - 0.15, WP_Z1 + 0.15, 0.14
+for _n, _b in (("L", (_wx0, _wx0 + _t, _wz0, _wz1)), ("R", (_wx1 - _t, _wx1, _wz0, _wz1)),
+               ("B", (_wx0, _wx1, _wz0, _wz0 + _t)), ("T", (_wx0, _wx1, _wz1 - _t, _wz1))):
+    WP_GLOW = box("WatchPocketGlow" + _n, _b[0], _b[1], 0.30, 0.34, _b[2], _b[3], M_GOLDG)
+    windows(WP_GLOW, [(C["tiny"] - 0.05, C["made"] - 0.2)])
 
 # ================= BENCH SET (1870s tailor's bench, no people) =================
 BENCH = box("BenchTop", BX - 45, BX + 45, -18, 30, -5, 0, M_WOOD)
