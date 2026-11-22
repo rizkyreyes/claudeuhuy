@@ -1,0 +1,13 @@
+{
+ "slug": "shower-drain",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Your shower drain is full of water, all the time. Right under the floor, the pipe bends into a U, and that U never empties. Without it, sewer gas from the street would rise straight into your bathroom. Here's what happens when you shower. Water drops through the grate, down a short pipe, and into the U-bend, called a P-trap. New water pushes the old water out the far side, and a few inches always stay behind. That little puddle is the seal. Then the water runs down a pipe that slopes just a quarter inch per foot. Too flat, and the gunk settles. Too steep, and the water races ahead of the solids. But there's a catch. Water rushing down a pipe pulls air behind it, and that suction could drain the trap dry. So every trap connects to a vent pipe that climbs through the walls and pokes out of your roof, letting air in. That's the pipe you see sticking out up there. From here, the shower joins the toilet and the sinks in one big drain under the house, out to the city sewer or your septic tank. And if a shower goes unused for weeks, that seal slowly evaporates. That's when a guest bathroom starts to smell. Do you have a shower nobody ever uses? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

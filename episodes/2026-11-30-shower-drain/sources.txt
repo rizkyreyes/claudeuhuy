@@ -1,0 +1,5 @@
+- International Plumbing Code (ICC) 1002.1 / 1002.4: fixture traps, liquid seal 2-4 inches; trap seal loss by evaporation must be prevented on rarely used drains.
+- IPC 704.1 / UPC 708: horizontal drainage 2.5 in or smaller slopes at least 1/4 inch per foot.
+- IPC chapter 9 (vents): vents protect trap seals from siphonage and back pressure; vent terminals extend through the roof.
+- Family Handyman / This Old House "how plumbing vents work", "why does my drain smell" (dried-out trap, sewer gas, fix: run water).
+- Too flat = solids settle; too steep = liquid outruns solids (common plumbing guidance; the 1/4 in/ft standard exists for this reason).

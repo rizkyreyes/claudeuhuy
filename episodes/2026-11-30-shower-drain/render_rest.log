@@ -1,0 +1,235 @@
+D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\build_scene.py:123: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  try: m.use_nodes = True
+00:11.187  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+01:31.047  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+01:35.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2109.png'
+01:35.094  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+01:38.141  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2110.png'
+01:38.250  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+01:41.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2111.png'
+01:41.141  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+01:44.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2112.png'
+01:44.937  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+01:47.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2113.png'
+01:47.734  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+01:50.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2114.png'
+01:50.578  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+01:54.672  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2115.png'
+01:54.766  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+01:58.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2116.png'
+01:59.031  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:03.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2117.png'
+02:03.281  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:07.391  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2118.png'
+02:07.469  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:11.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2119.png'
+02:11.562  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:15.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2120.png'
+02:15.687  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:20.016  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2121.png'
+02:20.094  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:24.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2122.png'
+02:24.266  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:28.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2123.png'
+02:28.641  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:32.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2124.png'
+02:32.781  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:36.922  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2125.png'
+02:37.000  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:41.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2126.png'
+02:41.453  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:45.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2127.png'
+02:45.656  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:49.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2128.png'
+02:49.672  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:53.844  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2129.png'
+02:53.937  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+02:58.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2130.png'
+02:58.203  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:02.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2131.png'
+03:02.953  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:07.172  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2132.png'
+03:07.250  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:11.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2133.png'
+03:11.531  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:15.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2134.png'
+03:16.016  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:19.797  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2135.png'
+03:19.859  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:24.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2136.png'
+03:24.109  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:28.297  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2137.png'
+03:28.359  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:32.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2138.png'
+03:32.641  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:36.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2139.png'
+03:36.906  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:41.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2140.png'
+03:41.531  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:46.297  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2141.png'
+03:46.375  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:50.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2142.png'
+03:50.953  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+03:55.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2143.png'
+03:55.656  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:00.469  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2144.png'
+04:00.547  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:04.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2145.png'
+04:04.812  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:10.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2146.png'
+04:10.312  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:14.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2147.png'
+04:14.516  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:18.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2148.png'
+04:18.812  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:22.891  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2149.png'
+04:22.969  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:27.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2150.png'
+04:27.437  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:31.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2151.png'
+04:31.516  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:34.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2152.png'
+04:34.484  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:38.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2153.png'
+04:38.484  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:42.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2154.png'
+04:42.766  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:46.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2155.png'
+04:47.062  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:51.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2156.png'
+04:51.656  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+04:55.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2157.png'
+04:55.359  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:00.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2158.png'
+05:00.141  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:04.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2159.png'
+05:04.266  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:08.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2160.png'
+05:08.141  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:12.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2161.png'
+05:12.562  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:16.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2162.png'
+05:16.891  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:21.141  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2163.png'
+05:21.219  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:25.391  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2164.png'
+05:25.469  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:30.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2165.png'
+05:30.328  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:33.969  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2166.png'
+05:34.047  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:37.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2167.png'
+05:37.812  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:42.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2168.png'
+05:42.297  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:46.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2169.png'
+05:46.391  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:50.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2170.png'
+05:50.531  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:54.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2171.png'
+05:54.656  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+05:58.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2172.png'
+05:58.984  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:03.219  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2173.png'
+06:03.297  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:07.422  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2174.png'
+06:07.500  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:11.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2175.png'
+06:11.609  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:15.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2176.png'
+06:15.453  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:19.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2177.png'
+06:19.734  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:23.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2178.png'
+06:23.812  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:28.016  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2179.png'
+06:28.094  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:32.469  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2180.png'
+06:32.562  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:36.922  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2181.png'
+06:37.000  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:41.391  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2182.png'
+06:41.469  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:45.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2183.png'
+06:45.891  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:50.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2184.png'
+06:50.203  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:54.516  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2185.png'
+06:54.594  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+06:58.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2186.png'
+06:58.953  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:03.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2187.png'
+07:03.437  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:07.672  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2188.png'
+07:07.750  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:12.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2189.png'
+07:12.391  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:17.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2190.png'
+07:17.156  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:20.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2191.png'
+07:20.266  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:23.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2192.png'
+07:23.625  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:26.844  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2193.png'
+07:26.937  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:29.969  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2194.png'
+07:30.078  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:33.297  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2195.png'
+07:33.375  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:36.422  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2196.png'
+07:36.500  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:39.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2197.png'
+07:39.687  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:42.766  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2198.png'
+07:42.844  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:46.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2199.png'
+07:46.141  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:49.297  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2200.png'
+07:49.391  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:52.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2201.png'
+07:52.703  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:55.922  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2202.png'
+07:56.016  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+07:59.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2203.png'
+07:59.453  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:02.891  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2204.png'
+08:02.984  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:06.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2205.png'
+08:06.359  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:09.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2206.png'
+08:09.625  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:13.016  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2207.png'
+08:13.109  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:16.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2208.png'
+08:16.328  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:19.469  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2209.png'
+08:19.547  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:22.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2210.png'
+08:22.781  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:26.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2211.png'
+08:26.078  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:29.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2212.png'
+08:29.422  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:32.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2213.png'
+08:32.703  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:35.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2214.png'
+08:36.062  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:39.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2215.png'
+08:39.375  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:43.219  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2216.png'
+08:43.328  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:46.547  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2217.png'
+08:46.656  cycles           | WARNING Maximum number of closures exceeded: 77 > 64
+08:49.969  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-30-shower-drain\frames_final\f_2218.png'
+[fx] hdri sunset.exr
+[fx] glare on
+[fx] particles rain on SprayEmitter
+[fx] particles dust on VapourEmitter
+[fx] scatter TuftProto on GrassL
+[fx] scatter TuftProto on GrassR
+[fx] engine CYCLES
+Cycles device: GPU
+EVENTS {'hook': [0.0, 9.46], 'stake': [9.46, 13.98], 'on': [13.98, 21.26], 'push': [21.26, 28.86], 'slope': [28.86, 33.26], 'flat': [33.26, 35.26], 'steep': [35.26, 38.62], 'siphon': [38.62, 45.78], 'vent': [45.78, 51.9], 'roof': [51.9, 54.14], 'house': [54.14, 61.78], 'septic': 60.68, 'dry': [61.78, 66.66], 'smell': [66.66, 69.42], 'cta': [69.42, 73.94], 'gas': 10.14, 'drain_dry': 44.78, 'seal': 27.9} DUR 73.94 FRAMES 2218
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
