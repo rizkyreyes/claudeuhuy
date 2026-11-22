@@ -1,0 +1,8 @@
+{
+  "name": "claudeuhuy",
+  "private": true,
+  "description": "Content pipeline dependencies",
+  "dependencies": {
+    "mediabunny": "^1.66.2"
+  }
+}
