@@ -1,0 +1,13 @@
+{
+ "slug": "hair-dryer-plug-block-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "That chunky block on your hair dryer plug is a tiny safety switch. It's there because hair dryers used to electrocute about eighteen Americans a year. A dryer that fell into a bathtub could electrify the water, even switched off. Power goes out to the dryer on one wire and comes back on the other. Both wires pass through a little ring-shaped coil. Normally the two currents are equal, so their magnetic fields cancel, and the coil feels nothing. Now drop the dryer into the sink. Some of the current leaks into the water and finds another way home. Out and back don't match anymore. A leak of about six milliamps is enough. The coil sends a signal to a tiny circuit, the circuit fires an electromagnet, and it snaps the contacts open in a few thousandths of a second. The power is cut, and the reset button pops up. The test button fakes a leak on purpose. Press reset, then test. If it doesn't pop, stop using that dryer. About half of those victims were small children. Since 1991, the protection has to work with the dryer on or off, and by 1992, deaths were down to two a year. Still, if a dryer falls in the water, unplug it first, then reach in. Does your hair dryer have one of these blocks? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

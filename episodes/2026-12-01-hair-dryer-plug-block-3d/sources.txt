@@ -1,0 +1,24 @@
+# Sources: hair-dryer-plug-block-3d (3d-37), checked 22 Nov 2026 (cloud run)
+# cpsc.gov, ul.com, code-authorities.ul.com, openstax.org were NOT reachable from the sandbox (DNS blocked): every claim below is locked
+# from concordant search-result excerpts of these pages (same method as the Oct b-roll version, projects/hair-dryer-plug-block/publish/sources.txt).
+
+1. The block is an ALCI (appliance leakage current interrupter) / immersion protection device built into the plug: a block-shaped plug with Test and Reset buttons.
+   - CPSC Hand Supported Hair Dryers (business guidance + FAQ): UL 859 / UL 1727 immersion protection, "block-shaped plug with a circuit interrupter" https://www.cpsc.gov/FAQ/Hand-Supported-Hair-Dryers
+   - UL, "What is the reset button on your hair dryer and when to use it" https://www.ul.com/insights/what-reset-button-your-hair-dryer-and-when-use-it
+   - Hunker, "What are ALCI safety plugs" https://www.hunker.com/13418888/what-are-alci-safety-plugs
+2. "used to electrocute about eighteen Americans a year": CPSC recall releases 1995-1997: "an average of 18 electrocutions involving hand-held hair dryers each year" before immersion protection devices.
+   - https://www.cpsc.gov/Recalls/1996/CPSC-And-Seven-Importers-Recall-Electric-Hair-Dryers ; https://www.cpsc.gov/Recalls/1997/cpsc-and-mbr-industries-inc-recall-hair-dryers ; https://www.cpsc.gov/Recalls/1995/cpsc-and-seven-importers-recall-electric-hair-dryers
+3. A dryer in the bathtub can electrify the water even switched off: CPSC 1982 "CPSC Cautions Hair Dryer Owners": "it doesn't matter if the dryer's switch is on or off. If the dryer is plugged in, the water may be electrified." https://www.cpsc.gov/Newsroom/News-Releases/1982/CPSC-Cautions-Hair-Dryer-Owners
+4. Mechanism (out on one wire, back on the other, both through a sensing coil; equal currents = fields cancel; an imbalance induces a signal, a circuit fires a trip coil that opens the contacts): HyperPhysics (Georgia State University) "Ground Fault Interrupter" https://hyperphysics.gsu.edu/hbase/electric/gfi2.html and gfi3.html ; BCIT physics demo dem84 https://commons.bcit.ca/physics-resources/physics-demonstration-manual/electromagnetism/dem84-ground-fault-circuit-interrupter/ ; ALCI patent US 5,943,199 (transformer on a common core around the line pair) https://uspto.report/patent/grant/5943199
+   Simplification: the GFCI principle is applied to the ALCI (same differential-current method per UL code authorities + engineerfix). "electromagnet" = the trip coil / solenoid.
+5. "A leak of about six milliamps": UL code authorities blog "Understanding ground fault and leakage current protection" (ALCIs interrupt when ground fault current exceeds 6 mA) https://code-authorities.ul.com/about/blog/understanding-ground-fault-and-leakage-current-protection/ ; engineerfix "What is an ALCI plug" (trips at 6 mA or more) https://engineerfix.com/what-is-an-alci-plug-and-how-does-it-work/
+6. "a few thousandths of a second": UL (cuts power within a few milliseconds).
+7. Test/Reset: Test simulates a leak; press Reset, press Test, Reset should pop out; if not, stop using the dryer (UL; Remington D8700 manual https://s7cdn.spectrumbrands.com/~/media/PersonalCare/Remington2017/Files/Manuals/Womens/Dryers/D8700SP%20PROtect%20Hair%20Dryer%20Manual.pdf ; BaBylissPRO manuals).
+8. "About half of those victims were small children": CPSC recall releases (about half of the victims were children under 10). https://www.cpsc.gov/s3fs-public/pdfs/blk_pdf_hairdryers.pdf
+9. "Since 1991, the protection has to work with the dryer on or off": UL 859 revision; protection in the off position from 1987, on or off since 1 Jan 1991 (CPSC 1990 release https://www.cpsc.gov/Newsroom/News-Releases/1990/Some-New-Hair-Dryers-Offer-Improved-Electrocution-Protection-When-Immersed-In-Water ; CPSC recall notices; Federal Register 28 Jun 2011 https://www.govinfo.gov/content/pkg/FR-2011-06-28/html/2011-15981.htm).
+10. "by 1992, deaths were down to two a year": CPSC 1996 release: "Since the introduction of immersion protection devices ... the number decreased to two electrocution deaths in 1992." (CPSC's own figure; one year, said as "two a year" for 1992).
+11. "if a dryer falls in the water, unplug it first, then reach in": CPSC (unplug immediately, then remove it; don't reach for it while plugged in); Hunker (don't rely on the ALCI, unplug before removing it from the water).
+
+DROPPED: the 1987 off-only rule (too many dates), "73 electrocutions 1984-1990" (not needed), shock-threshold tables (let-go current etc.), any brand.
+Not claimed: any person, any brand, the exact trip time in ms. The 3D block is a generic illustration (no text, no logos); the internal layout is simplified and enlarged.
+Covers: fal.ai openai/gpt-image-2 (MEDIUM), AI illustration of a generic block plug, prompts in make_covers.sh.
