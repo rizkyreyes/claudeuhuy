@@ -9,9 +9,9 @@ const base = path.basename(epDir), slug = base.split("-").slice(3).join("-");
 
 const row = fs.readFileSync(path.join(REPO, "state/queue-3d.md"), "utf8").split(/\r?\n/).find(l => l.includes(`| ${slug} |`));
 if (!row) throw new Error(`no queue row for ${slug}`);
-const m = row.match(/\| (Mon|Tue|Wed|Thu|Fri|Sat|Sun) (\d{1,2}) (\w{3}) (\d{4})/);
+const m = row.match(/\| (Mon|Tue|Wed|Thu|Fri|Sat|Sun) (\d{1,2}) (\w{3}) (\d{4})( AM| PM)?/);
 if (!m) throw new Error(`no target day in row: ${row}`);
-const [, dow, dd, mon, yyyy] = m;
+const [, dow, dd, mon, yyyy, half] = m; const AM = (half || "").trim() === "AM";
 const MM = { Jan: 1, Feb: 2, Mar: 3, Apr: 4, May: 5, Jun: 6, Jul: 7, Aug: 8, Sep: 9, Oct: 10, Nov: 11, Dec: 12 }[mon];
 const date = `${yyyy}-${String(MM).padStart(2, "0")}-${dd.padStart(2, "0")}`;
 const edt = (date >= "2026-03-08" && date < "2026-11-01") || (date >= "2027-03-14" && date < "2027-11-07");
@@ -21,9 +21,10 @@ const off = edt ? "-04:00" : "-05:00";
 const SLOTS = { Mon: { tiktok: 18, instagram: 12, youtube: 20 }, Tue: { tiktok: 18, instagram: 19, youtube: 20 },
   Wed: { tiktok: 22, instagram: 12, youtube: 19 }, Thu: { tiktok: 17, instagram: 9, youtube: 19 },
   Fri: { tiktok: 18, instagram: 22, youtube: 16 }, Sat: { tiktok: 17, instagram: 21, youtube: 19 }, Sun: { tiktok: 9, instagram: 21, youtube: 19 } }[dow];
+if (AM) Object.assign(SLOTS, { tiktok: 9, instagram: 9, youtube: 12 });   // 2 videos/day from 1 Dec 2026: AM slot
 
 const pub = fs.readFileSync(path.join(epDir, "publish.md"), "utf8");
-const title = (pub.match(/\*\*([^*]*#shorts)\*\*/) || [])[1];
+const title = (pub.match(/\*\*([^*]*#shorts)\*\*/) || (pub.split(/^## YouTube title.*$/m)[1] || "").match(/\*\*([^*]+)\*\*/) || [])[1];   // 21 Nov: short title, no #shorts
 const cap = (pub.split(/^## Caption.*$/m)[1] || "").split(/^## /m)[0].trim();
 if (!title || !cap) throw new Error("publish.md: title or caption not found");
 if (title.length > 100) throw new Error(`YouTube title too long (${title.length})`);

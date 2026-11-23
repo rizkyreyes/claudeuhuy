@@ -4,7 +4,7 @@ Hidden In Your Home switched from b-roll videos to **3D cross-section explainers
 
 ## Format
 - Vertical 1080x1920, 30 fps, **about 75 s** (target 70–78 s). English narration, US audience.
-- One topic per day. **New topics after the current queue: big systems only** (Rizky, 2 Nov 2026; ROUTINE.md Step 1). Scope was broad: "how it works" AND "how it's built" (household objects, construction, infrastructure, machines). Not only things in the home.
+- **Two 3D episodes per ET day from Tue 1 Dec 2026** (Rizky, 23 Nov 2026): an AM slot and a PM slot, both full Blender episodes. **New topics: hidden systems in or right under the home first** (Rizky 23 Nov, from FB + Buffer data 21-22 Nov: P-trap, anode rod, septic beat big systems on FB/TikTok/YouTube); big systems now and then. (Old, superseded: big systems only, 2 Nov 2026; ROUTINE.md Step 1.) Scope was broad: "how it works" AND "how it's built" (household objects, construction, infrastructure, machines). Not only things in the home.
 - Register: the hero is always a **3D cross-section / cutaway** rendered in Blender Cycles: dark studio backdrop for objects, real-world terrain (Poly Haven CC0 textures, HDRI) for construction.
 - Topic must have evergreen proof (old uploads still getting views) and be buildable procedurally in a Blender Python script.
 
@@ -85,7 +85,7 @@ Check the `[fx]` lines in the render log; a "skipped" line must be fixed or expl
 | Fri | 6 PM | 10 PM | 4 PM |
 | Sat | 5 PM | 9 PM | 7 PM |
 | Sun | 9 AM | 9 PM | 7 PM |
-**One video per ET day, never two** (Rizky, 27 Oct 2026). Before scheduling, list the scheduled posts in Buffer; if the target day already has a video, move the new one (and the rest of the queue) to the next free day. Days Rizky blocks stay empty: **Thu 29 Oct 2026 = no posts**.
+**Two videos per ET day from Tue 1 Dec 2026** (Rizky, 23 Nov 2026; replaces "one per day, never two" of 27 Oct): PM video = the table above, AM video = TikTok 9 AM, Instagram 9 AM, YouTube 12 PM ET, every day. At least 6 h between the two on one platform. Buffer free plan: 10 scheduled posts per channel = only ~5 days ahead, so schedule in order and hold the rest (buffer-full rule). Before scheduling, list the scheduled posts in Buffer; if the target day already has a video, move the new one (and the rest of the queue) to the next free day. Days Rizky blocks stay empty: **Thu 29 Oct 2026 = no posts**.
 Offset −04:00 until 31 Oct 2026, −05:00 from 1 Nov 2026. Buffer free plan: max 10 scheduled posts per channel. Nothing is published without Rizky's "setuju" on the final video + caption.
 
 ## Laptop scripts (pipeline3d/bin)
