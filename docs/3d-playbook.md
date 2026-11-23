@@ -86,6 +86,8 @@ Check the `[fx]` lines in the render log; a "skipped" line must be fixed or expl
 | Sat | 5 PM | 9 PM | 7 PM |
 | Sun | 9 AM | 9 PM | 7 PM |
 **Two videos per ET day from Tue 1 Dec 2026** (Rizky, 23 Nov 2026; replaces "one per day, never two" of 27 Oct): PM video = the table above, AM video = TikTok 9 AM, Instagram 9 AM, YouTube 12 PM ET, every day. At least 6 h between the two on one platform. Buffer free plan: 10 scheduled posts per channel = only ~5 days ahead, so schedule in order and hold the rest (buffer-full rule). Before scheduling, list the scheduled posts in Buffer; if the target day already has a video, move the new one (and the rest of the queue) to the next free day. Days Rizky blocks stay empty: **Thu 29 Oct 2026 = no posts**.
+
+**Instagram is NOT scheduled in Buffer from 24 Nov 2026 (first: jeans-rivets-3d, 29 Nov).** Rizky uploads each reel by hand from the Instagram app with "Share to Facebook" on (API posts do not cross-post to the FB Page). The laptop task `fb-page-push` sends him the MP4 + title + Instagram caption 1 h before the slot: AM video 9 AM ET, PM video and single-video days 7 PM ET (published FB studies, 23 Nov 2026). Buffer = TikTok + YouTube only. The Instagram caption in publish.md is still written.
 Offset −04:00 until 31 Oct 2026, −05:00 from 1 Nov 2026. Buffer free plan: max 10 scheduled posts per channel. Nothing is published without Rizky's "setuju" on the final video + caption.
 
 ## Laptop scripts (pipeline3d/bin)
