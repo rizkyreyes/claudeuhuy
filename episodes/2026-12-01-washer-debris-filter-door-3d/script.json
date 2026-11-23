@@ -1,0 +1,13 @@
+{
+ "slug": "washer-debris-filter-door-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "That tiny door at the bottom of your front-load washer hides a trap for everything your pockets forget. Ignore it, and the washer can stop draining, leaving your clothes in dirty water. At the end of every wash and rinse, an electric pump switches on. Its spinning impeller pushes the water out of the drum, up the drain hose, and into your drain pipe. But that water carries passengers: coins, buttons, bits of plastic, and loads of lint. That junk can chew up the impeller. So in front of the pump sits a plastic strainer. Water slips through its slots. Junk doesn't. It's also the lint filter. Over months, it packs tight. The water slows to a trickle, and the drain takes too long. On some Whirlpool washers, a drain over eight minutes throws an error code. Before opening the door, lay down towels and a shallow pan. Water waits down there, and after a hot cycle it can burn. Many have a small hose to drain it. Twist the filter counterclockwise, pull it out, rinse it in warm water. Check the impeller spins freely. Screw it back in tight, or it will leak. LG says every month. Samsung says five or six times a year. When did you last open yours? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

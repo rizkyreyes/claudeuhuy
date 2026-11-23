@@ -1,0 +1,9431 @@
+{
+ "width": 1080,
+ "height": 1920,
+ "fps": 30,
+ "duration": 74.26,
+ "composition": {
+  "id": "main",
+  "layers": [
+   {
+    "type": "Text",
+    "id": 217,
+    "name": "Caption - leak.",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 65380,
+     "duration": 840
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "leak.",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 216,
+    "name": "Caption - or it will",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 64753,
+     "duration": 627
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "or it will",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 215,
+    "name": "Caption - Many have a",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 55140,
+     "duration": 440
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "Many have a",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 214,
+    "name": "Caption - and after a",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 52380,
+     "duration": 760
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "and after a",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 213,
+    "name": "Caption - lay down towels",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 48860,
+     "duration": 880
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "lay down towels",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 212,
+    "name": "Caption - door,",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 48380,
+     "duration": 480
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "door,",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 211,
+    "name": "Caption - Before opening the",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 47500,
+     "duration": 880
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "Before opening the",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 210,
+    "name": "Caption - a drain over",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 44540,
+     "duration": 800
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "a drain over",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 209,
+    "name": "Caption - The water slows",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 39580,
+     "duration": 800
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "The water slows",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 208,
+    "name": "Caption - its slots.",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 33580,
+     "duration": 960
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "its slots.",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 207,
+    "name": "Caption - That junk can",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 27220,
+     "duration": 760
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "That junk can",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 206,
+    "name": "Caption - But that water",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 20860,
+     "duration": 800
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "But that water",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 205,
+    "name": "Caption - and into your",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 19180,
+     "duration": 600
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "and into your",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 204,
+    "name": "Caption - pushes the water",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 16300,
+     "duration": 960
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "pushes the water",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 203,
+    "name": "Caption - switches on.",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 14060,
+     "duration": 1120
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "switches on.",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 202,
+    "name": "Caption - and rinse,",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 12500,
+     "duration": 653
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "and rinse,",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 201,
+    "name": "Caption - of every wash",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 11740,
+     "duration": 760
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "of every wash",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 200,
+    "name": "Caption - At the end",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 11260,
+     "duration": 480
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "At the end",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 199,
+    "name": "Caption - and the washer",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 7100,
+     "duration": 560
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "and the washer",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 198,
+    "name": "Caption - Ignore it,",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 6500,
+     "duration": 600
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "Ignore it,",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 197,
+    "name": "Caption - your pockets forget.",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 4940,
+     "duration": 1560
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "your pockets forget.",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 196,
+    "name": "Caption - washer hides a",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 2620,
+     "duration": 1160
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "washer hides a",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 195,
+    "name": "Caption - of your front-load",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 1860,
+     "duration": 760
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "of your front-load",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 194,
+    "name": "Caption - at the bottom",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 1260,
+     "duration": 600
+    },
+    "transform": {
+     "anchorPoint": [
+      440,
+      75
+     ],
+     "position": [
+      510,
+      1395
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "at the bottom",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 62,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 10,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      880,
+      150
+     ],
+     "verticalAlign": "center",
+     "tracking": 0,
+     "leading": 65.10000000000001
+    }
+   },
+   {
+    "type": "Rect",
+    "id": 193,
+    "name": "Fade out",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 73460,
+     "duration": 800
+    },
+    "transform": {
+     "anchorPoint": [
+      540,
+      960
+     ],
+     "position": [
+      540,
+      960
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "rect": {
+     "size": [
+      1080,
+      1920
+     ],
+     "fillColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "roundness": 0
+    }
+   },
+   {
+    "type": "Text",
+    "id": 192,
+    "name": "Next tease",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 72260,
+     "duration": 2000
+    },
+    "transform": {
+     "anchorPoint": [
+      425,
+      35
+     ],
+     "position": [
+      525,
+      1240
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "NEXT: YOUR DISPOSAL HAS NO BLADES",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 40,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 8,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      850,
+      70
+     ],
+     "verticalAlign": "center",
+     "tracking": 20,
+     "leading": 42
+    }
+   },
+   {
+    "type": "Text",
+    "id": 191,
+    "name": "Type - TELL ME IN THE COMMENTS",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 72197,
+     "duration": 2063
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      55
+     ],
+     "position": [
+      505,
+      602
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "TELL ME IN THE COMMENTS",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 56,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 8,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      110
+     ],
+     "verticalAlign": "center",
+     "tracking": 10,
+     "leading": 58.800000000000004
+    }
+   },
+   {
+    "type": "Text",
+    "id": 190,
+    "name": "Type - WHEN DID YOU LAST OPEN YOURS?",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 70570,
+     "duration": 3690
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "WHEN DID YOU LAST\nOPEN YOURS?",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 84,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 88.2
+    }
+   },
+   {
+    "type": "Text",
+    "id": 189,
+    "name": "Type - SAMSUNG: 5-6× A YEAR",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 68090,
+     "duration": 2430
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "SAMSUNG:\n5-6× A YEAR",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 108,
+     "fillColor": [
+      0.3,
+      0.92,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 113.4
+    }
+   },
+   {
+    "type": "Text",
+    "id": 188,
+    "name": "Type - LG: EVERY MONTH",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 66170,
+     "duration": 1870
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "LG:\nEVERY MONTH",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 108,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 113.4
+    }
+   },
+   {
+    "type": "Text",
+    "id": 187,
+    "name": "Type - OR IT LEAKS",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 65330,
+     "duration": 790
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "OR IT LEAKS",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 116,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 121.80000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 186,
+    "name": "Type - SCREW IT BACK TIGHT",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 63450,
+     "duration": 1830
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "SCREW IT\nBACK TIGHT",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 108,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 113.4
+    }
+   },
+   {
+    "type": "Group",
+    "id": 181,
+    "name": "Label - IMPELLER",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 61600,
+     "duration": 1800
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 184,
+      "name": "IMPELLER text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1800
+      },
+      "transform": {
+       "anchorPoint": [
+        167,
+        32
+       ],
+       "position": [
+        -277,
+        140
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "IMPELLER",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        334,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 185,
+      "name": "IMPELLER backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1800
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        -444,
+        140
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        334,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 183,
+      "name": "IMPELLER leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1800
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 128.15722658736905,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        178.04493814764854,
+        4
+       ],
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 182,
+      "name": "IMPELLER dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1800
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 180,
+    "name": "Type - SPINS FREELY?",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 61450,
+     "duration": 1950
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "SPINS FREELY?",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      0.3,
+      0.92,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Text",
+    "id": 179,
+    "name": "Type - RINSE IN WARM WATER",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 59930,
+     "duration": 1470
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "RINSE IN\nWARM WATER",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      0.3,
+      0.92,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Group",
+    "id": 174,
+    "name": "Label - LINT + COINS",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 59450,
+     "duration": 730
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 177,
+      "name": "LINT + COINS text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 730
+      },
+      "transform": {
+       "anchorPoint": [
+        233,
+        32
+       ],
+       "position": [
+        -143,
+        -150
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "LINT + COINS",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        1,
+        0.3,
+        0.24,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        466,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 178,
+      "name": "LINT + COINS backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 730
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        -376,
+        -150
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        466,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 176,
+      "name": "LINT + COINS leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 730
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": -90,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        150,
+        4
+       ],
+       "fillColor": [
+        1,
+        0.3,
+        0.24,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 175,
+      "name": "LINT + COINS dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 730
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        1,
+        0.3,
+        0.24,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 173,
+    "name": "Type - PULL IT OUT",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 59130,
+     "duration": 750
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "PULL IT OUT",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 116,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 121.80000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 172,
+    "name": "Type - TWIST COUNTERCLOCKWISE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 57210,
+     "duration": 1870
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "TWIST\nCOUNTERCLOCKWISE",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 76,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 8,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 79.8
+    }
+   },
+   {
+    "type": "Text",
+    "id": 171,
+    "name": "Type - DRAIN IT",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 56290,
+     "duration": 870
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "DRAIN IT",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 128,
+     "fillColor": [
+      0.3,
+      0.92,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 134.4
+    }
+   },
+   {
+    "type": "Group",
+    "id": 166,
+    "name": "Label - EMERGENCY HOSE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 55850,
+     "duration": 1310
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 169,
+      "name": "EMERGENCY HOSE text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1310
+      },
+      "transform": {
+       "anchorPoint": [
+        266,
+        32
+       ],
+       "position": [
+        134.39999999999998,
+        -170
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "EMERGENCY HOSE",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        532,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 170,
+      "name": "EMERGENCY HOSE backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1310
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        -131.60000000000002,
+        -170
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        532,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 168,
+      "name": "EMERGENCY HOSE leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1310
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": -90,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        170,
+        4
+       ],
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 167,
+      "name": "EMERGENCY HOSE dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1310
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 165,
+    "name": "Type - HOT WATER CAN BURN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 53090,
+     "duration": 1950
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "HOT WATER\nCAN BURN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 110,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 115.5
+    }
+   },
+   {
+    "type": "Text",
+    "id": 164,
+    "name": "Type - WATER WAITS DOWN THERE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 51290,
+     "duration": 1750
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "WATER WAITS\nDOWN THERE",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      0.3,
+      0.92,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Text",
+    "id": 163,
+    "name": "Type - TOWELS + SHALLOW PAN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 48810,
+     "duration": 2430
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "TOWELS +\nSHALLOW PAN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Text",
+    "id": 162,
+    "name": "Type - ERROR CODE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 46410,
+     "duration": 990
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "ERROR CODE",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 124,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 130.20000000000002
+    }
+   },
+   {
+    "type": "Text",
+    "id": 161,
+    "name": "Type - 8 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45479,
+     "duration": 521
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "8 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 160,
+    "name": "Type - 7 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45456,
+     "duration": 24
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "7 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 159,
+    "name": "Type - 6 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45432,
+     "duration": 24
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "6 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 158,
+    "name": "Type - 5 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45408,
+     "duration": 24
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "5 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 157,
+    "name": "Type - 4 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45385,
+     "duration": 24
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "4 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 156,
+    "name": "Type - 3 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45361,
+     "duration": 24
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "3 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 155,
+    "name": "Type - 2 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45337,
+     "duration": 24
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "2 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 154,
+    "name": "Type - 1 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45314,
+     "duration": 24
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "1 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 153,
+    "name": "Type - 0 MIN",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 45290,
+     "duration": 24
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "0 MIN",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 140,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 147
+    }
+   },
+   {
+    "type": "Text",
+    "id": 152,
+    "name": "Note - SOME WHIRLPOOL WASHERS",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 43420,
+     "duration": 1820
+    },
+    "transform": {
+     "anchorPoint": [
+      425,
+      35
+     ],
+     "position": [
+      525,
+      1240
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "SOME WHIRLPOOL WASHERS",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 40,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 8,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      850,
+      70
+     ],
+     "verticalAlign": "center",
+     "tracking": 20,
+     "leading": 42
+    }
+   },
+   {
+    "type": "Text",
+    "id": 151,
+    "name": "Type - DRAIN TAKES TOO LONG",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 41290,
+     "duration": 1930
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "DRAIN TAKES\nTOO LONG",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Text",
+    "id": 150,
+    "name": "Type - A TRICKLE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 40010,
+     "duration": 1230
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "A TRICKLE",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 128,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 134.4
+    }
+   },
+   {
+    "type": "Text",
+    "id": 149,
+    "name": "Type - PACKED TIGHT",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 38450,
+     "duration": 1510
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "PACKED TIGHT",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 110,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 115.5
+    }
+   },
+   {
+    "type": "Text",
+    "id": 148,
+    "name": "Type - OVER MONTHS",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 37490,
+     "duration": 910
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "OVER MONTHS",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 110,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 115.5
+    }
+   },
+   {
+    "type": "Text",
+    "id": 147,
+    "name": "Type - ALSO THE LINT FILTER",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 35930,
+     "duration": 1510
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "ALSO THE\nLINT FILTER",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 108,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 113.4
+    }
+   },
+   {
+    "type": "Text",
+    "id": 146,
+    "name": "Type - JUNK DOESN'T",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 34490,
+     "duration": 1390
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "JUNK DOESN'T",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 110,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 115.5
+    }
+   },
+   {
+    "type": "Text",
+    "id": 145,
+    "name": "Type - WATER SLIPS THROUGH",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 32650,
+     "duration": 1790
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "WATER SLIPS\nTHROUGH",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      0.3,
+      0.92,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Group",
+    "id": 140,
+    "name": "Label - PLASTIC STRAINER",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 31210,
+     "duration": 1390
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 143,
+      "name": "PLASTIC STRAINER text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1390
+      },
+      "transform": {
+       "anchorPoint": [
+        299,
+        32
+       ],
+       "position": [
+        -122.60000000000002,
+        150
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "PLASTIC STRAINER",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        598,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 144,
+      "name": "PLASTIC STRAINER backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1390
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        -421.6,
+        150
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        598,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 142,
+      "name": "PLASTIC STRAINER leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1390
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 90,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        150,
+        4
+       ],
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 141,
+      "name": "PLASTIC STRAINER dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1390
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 139,
+    "name": "Type - IN FRONT OF THE PUMP",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 29530,
+     "duration": 1630
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "IN FRONT\nOF THE PUMP",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Text",
+    "id": 138,
+    "name": "Type - CAN CHEW UP THE IMPELLER",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 27930,
+     "duration": 1550
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "CAN CHEW UP\nTHE IMPELLER",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 100,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 105
+    }
+   },
+   {
+    "type": "Group",
+    "id": 133,
+    "name": "Label - SUMP HOSE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 25980,
+     "duration": 1900
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 136,
+      "name": "SUMP HOSE text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1900
+      },
+      "transform": {
+       "anchorPoint": [
+        183.5,
+        32
+       ],
+       "position": [
+        217.39999999999998,
+        110
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "SUMP HOSE",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        367,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 137,
+      "name": "SUMP HOSE backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1900
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        33.89999999999998,
+        110
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        367,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 135,
+      "name": "SUMP HOSE leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1900
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 72.87165334891739,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        115.10521274034464,
+        4
+       ],
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 134,
+      "name": "SUMP HOSE dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1900
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 132,
+    "name": "Type - LOADS OF LINT",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 25930,
+     "duration": 1390
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "LOADS OF LINT",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Text",
+    "id": 131,
+    "name": "Type - PLASTIC",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 24650,
+     "duration": 1230
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "PLASTIC",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 128,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 134.4
+    }
+   },
+   {
+    "type": "Text",
+    "id": 130,
+    "name": "Type - BUTTONS",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 24130,
+     "duration": 470
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "BUTTONS",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 128,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 134.4
+    }
+   },
+   {
+    "type": "Text",
+    "id": 129,
+    "name": "Type - COINS",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 23330,
+     "duration": 750
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "COINS",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 128,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 134.4
+    }
+   },
+   {
+    "type": "Text",
+    "id": 128,
+    "name": "Type - PASSENGERS",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 22090,
+     "duration": 1190
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "PASSENGERS",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 116,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 121.80000000000001
+    }
+   },
+   {
+    "type": "Group",
+    "id": 123,
+    "name": "Label - STANDPIPE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 19560,
+     "duration": 1200
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 126,
+      "name": "STANDPIPE text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1200
+      },
+      "transform": {
+       "anchorPoint": [
+        183.5,
+        32
+       ],
+       "position": [
+        -303.5,
+        90
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "STANDPIPE",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        367,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 127,
+      "name": "STANDPIPE backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1200
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        -487,
+        90
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        367,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 125,
+      "name": "STANDPIPE leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1200
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 143.13010235415598,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        150,
+        4
+       ],
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 124,
+      "name": "STANDPIPE dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 1200
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 122,
+    "name": "Type - INTO YOUR DRAIN PIPE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 19410,
+     "duration": 1350
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "INTO YOUR\nDRAIN PIPE",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 110,
+     "fillColor": [
+      0.3,
+      0.92,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 115.5
+    }
+   },
+   {
+    "type": "Text",
+    "id": 121,
+    "name": "Type - UP THE DRAIN HOSE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 18170,
+     "duration": 1190
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "UP THE\nDRAIN HOSE",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 110,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 115.5
+    }
+   },
+   {
+    "type": "Text",
+    "id": 120,
+    "name": "Type - OUT OF THE DRUM",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 16250,
+     "duration": 1870
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "OUT OF\nTHE DRUM",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 110,
+     "fillColor": [
+      0.3,
+      0.92,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 115.5
+    }
+   },
+   {
+    "type": "Group",
+    "id": 115,
+    "name": "Label - IMPELLER",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 15370,
+     "duration": 880
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 118,
+      "name": "IMPELLER text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 880
+      },
+      "transform": {
+       "anchorPoint": [
+        167,
+        32
+       ],
+       "position": [
+        277,
+        120
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "IMPELLER",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        0.3,
+        0.92,
+        1,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        334,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 119,
+      "name": "IMPELLER backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 880
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        110,
+        120
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        334,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 117,
+      "name": "IMPELLER leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 880
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 47.48955292199915,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        162.78820596099706,
+        4
+       ],
+       "fillColor": [
+        0.3,
+        0.92,
+        1,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 116,
+      "name": "IMPELLER dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 880
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        0.3,
+        0.92,
+        1,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 114,
+    "name": "Type - PUMP ON",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 14010,
+     "duration": 1070
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "PUMP ON",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 128,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 134.4
+    }
+   },
+   {
+    "type": "Group",
+    "id": 109,
+    "name": "Label - DRAIN PUMP",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 13260,
+     "duration": 2940
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 112,
+      "name": "DRAIN PUMP text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2940
+      },
+      "transform": {
+       "anchorPoint": [
+        200,
+        32
+       ],
+       "position": [
+        -310,
+        110
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "DRAIN PUMP",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        400,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 113,
+      "name": "DRAIN PUMP backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2940
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        -510,
+        110
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        400,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 111,
+      "name": "DRAIN PUMP leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2940
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 135,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        155.56349186104046,
+        4
+       ],
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 110,
+      "name": "DRAIN PUMP dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2940
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        0.98,
+        0.74,
+        0.27,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 108,
+    "name": "Type - END OF EVERY WASH + RINSE",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 74160,
+     "duration": 1
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "END OF EVERY\nWASH + RINSE",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 96,
+     "fillColor": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 100.80000000000001
+    }
+   },
+   {
+    "type": "Text",
+    "id": 107,
+    "name": "Type - CLOTHES IN DIRTY WATER",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 8850,
+     "duration": 2310
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "CLOTHES IN\nDIRTY WATER",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 104,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 109.2
+    }
+   },
+   {
+    "type": "Text",
+    "id": 106,
+    "name": "Type - STOPS DRAINING",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 7850,
+     "duration": 950
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      100
+     ],
+     "position": [
+      505,
+      352
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "STOPS DRAINING",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 100,
+     "fillColor": [
+      1,
+      0.3,
+      0.24,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      200
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 105
+    }
+   },
+   {
+    "type": "Group",
+    "id": 101,
+    "name": "Label - TINY DOOR",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 500,
+     "duration": 2580
+    },
+    "transform": {
+     "anchorPoint": [
+      0,
+      0
+     ],
+     "position": [
+      0,
+      0
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "layers": [
+     {
+      "type": "Text",
+      "id": 104,
+      "name": "TINY DOOR text",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2580
+      },
+      "transform": {
+       "anchorPoint": [
+        183.5,
+        32
+       ],
+       "position": [
+        -303.5,
+        -140
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "sourceText": {
+       "text": "TINY DOOR",
+       "fontFamily": "Poppins",
+       "fontStyle": "ExtraBold",
+       "fontSize": 40,
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "applyStroke": false,
+       "strokeColor": [
+        0,
+        0,
+        0,
+        1
+       ],
+       "strokeWidth": 0,
+       "strokeOverFill": false,
+       "justification": "center",
+       "boxText": true,
+       "boxPosition": [
+        0,
+        0
+       ],
+       "boxSize": [
+        367,
+        64
+       ],
+       "verticalAlign": "center",
+       "tracking": 60,
+       "leading": 42
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 105,
+      "name": "TINY DOOR backing",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2580
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        32
+       ],
+       "position": [
+        -487,
+        -140
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        367,
+        64
+       ],
+       "fillColor": [
+        0,
+        0,
+        0,
+        0.55
+       ],
+       "roundness": 14
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 103,
+      "name": "TINY DOOR leader",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2580
+      },
+      "transform": {
+       "anchorPoint": [
+        0,
+        2
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": -130.6012946450045,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        184.39088914585773,
+        4
+       ],
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "roundness": 0
+      }
+     },
+     {
+      "type": "Rect",
+      "id": 102,
+      "name": "TINY DOOR dot",
+      "blendMode": "normal",
+      "activeRange": {
+       "start": 0,
+       "duration": 2580
+      },
+      "transform": {
+       "anchorPoint": [
+        9,
+        9
+       ],
+       "position": [
+        0,
+        0
+       ],
+       "scale": [
+        100,
+        100
+       ],
+       "rotation": 0,
+       "opacity": 100
+      },
+      "rect": {
+       "size": [
+        18,
+        18
+       ],
+       "fillColor": [
+        1,
+        1,
+        1,
+        1
+       ],
+       "roundness": 9
+      }
+     }
+    ]
+   },
+   {
+    "type": "Text",
+    "id": 100,
+    "name": "Type - A TRAP FOR POCKET JUNK",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 0,
+     "duration": 6400
+    },
+    "transform": {
+     "anchorPoint": [
+      445,
+      150
+     ],
+     "position": [
+      505,
+      372
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "sourceText": {
+     "text": "A TRAP FOR\nPOCKET JUNK",
+     "fontFamily": "Poppins",
+     "fontStyle": "ExtraBold",
+     "fontSize": 112,
+     "fillColor": [
+      0.98,
+      0.74,
+      0.27,
+      1
+     ],
+     "applyStroke": true,
+     "strokeColor": [
+      0,
+      0,
+      0,
+      1
+     ],
+     "strokeWidth": 6,
+     "strokeOverFill": false,
+     "justification": "center",
+     "boxText": true,
+     "boxPosition": [
+      0,
+      0
+     ],
+     "boxSize": [
+      890,
+      300
+     ],
+     "verticalAlign": "center",
+     "tracking": -10,
+     "leading": 117.60000000000001
+    }
+   },
+   {
+    "type": "Video",
+    "id": 1,
+    "name": "Blender render - washer debris filter cutaway",
+    "blendMode": "normal",
+    "activeRange": {
+     "start": 0,
+     "duration": 74260
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 74260
+    },
+    "sourceIntrinsicDuration": 74260,
+    "volume": 0,
+    "transform": {
+     "anchorPoint": [
+      540,
+      960
+     ],
+     "position": [
+      540,
+      960
+     ],
+     "scale": [
+      100,
+      100
+     ],
+     "rotation": 0,
+     "opacity": 100
+    },
+    "source": {
+     "assetId": "proxy",
+     "fit": "contain"
+    }
+   },
+   {
+    "type": "Audio",
+    "id": 2000,
+    "name": "VO - Liam (Eleven v4 Turbo)",
+    "windowMs": 72880,
+    "activeRange": {
+     "start": 300,
+     "duration": 72880
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 72880
+    },
+    "sourceIntrinsicDuration": 72880,
+    "source": {
+     "assetId": "vo"
+    },
+    "volume": 0.85,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2001,
+    "name": "Bed - ambient pad",
+    "windowMs": 76000,
+    "activeRange": {
+     "start": 0,
+     "duration": 74260
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 74260
+    },
+    "sourceIntrinsicDuration": 76000,
+    "source": {
+     "assetId": "sfx-pad-bed"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2002,
+    "name": "SFX - room @0.00",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2003,
+    "name": "SFX - impact @0.00",
+    "windowMs": 450,
+    "activeRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "sfx-ui-soft-impact"
+    },
+    "volume": 0.75,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2004,
+    "name": "SFX - ping @0.94",
+    "windowMs": 480,
+    "activeRange": {
+     "start": 940,
+     "duration": 480
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 480
+    },
+    "sourceIntrinsicDuration": 480,
+    "source": {
+     "assetId": "sfx-ui-clear-ping"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2005,
+    "name": "SFX - room @2.90",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 2900,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2006,
+    "name": "SFX - whoosh @3.13",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 3130,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2007,
+    "name": "SFX - room @5.80",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 5800,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2008,
+    "name": "SFX - deny @7.90",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 7900,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-deny-thud"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2009,
+    "name": "SFX - room @8.70",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 8700,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2010,
+    "name": "SFX - whoosh @8.85",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 8850,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2011,
+    "name": "SFX - room @11.60",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 11600,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2012,
+    "name": "SFX - pop @13.31",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 13310,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2013,
+    "name": "SFX - impact @14.01",
+    "windowMs": 450,
+    "activeRange": {
+     "start": 14010,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "sfx-ui-soft-impact"
+    },
+    "volume": 0.75,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2014,
+    "name": "SFX - whir @14.06",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 14060,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2015,
+    "name": "SFX - room @14.50",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 14500,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2016,
+    "name": "SFX - pop @15.42",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 15420,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2017,
+    "name": "SFX - whir @16.01",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 16010,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2018,
+    "name": "SFX - whoosh @16.25",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 16250,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2019,
+    "name": "SFX - rush @16.30",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 16300,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2020,
+    "name": "SFX - room @17.40",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 17400,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2021,
+    "name": "SFX - whir @17.96",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 17960,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2022,
+    "name": "SFX - whoosh @18.17",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 18170,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2023,
+    "name": "SFX - rush @19.20",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 19200,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2024,
+    "name": "SFX - pop @19.41",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 19410,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2025,
+    "name": "SFX - whir @19.91",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 19910,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2026,
+    "name": "SFX - room @20.30",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 20300,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2027,
+    "name": "SFX - whir @21.86",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 21860,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2028,
+    "name": "SFX - impact @22.09",
+    "windowMs": 450,
+    "activeRange": {
+     "start": 22090,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "sfx-ui-soft-impact"
+    },
+    "volume": 0.75,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2029,
+    "name": "SFX - rush @22.10",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 22100,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2030,
+    "name": "SFX - room @23.20",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 23200,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2031,
+    "name": "SFX - pop @23.33",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 23330,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2032,
+    "name": "SFX - whir @23.81",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 23810,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2033,
+    "name": "SFX - pop @24.13",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 24130,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2034,
+    "name": "SFX - pop @24.65",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 24650,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2035,
+    "name": "SFX - rush @25.00",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 25000,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2036,
+    "name": "SFX - whir @25.76",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 25760,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2037,
+    "name": "SFX - clink @25.93",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 25930,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2038,
+    "name": "SFX - pop @25.93",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 25930,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2039,
+    "name": "SFX - clink @26.05",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 26050,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2040,
+    "name": "SFX - room @26.10",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 26100,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2041,
+    "name": "SFX - clink @26.17",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 26170,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2042,
+    "name": "SFX - clink @26.73",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 26730,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2043,
+    "name": "SFX - clink @26.85",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 26850,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2044,
+    "name": "SFX - clink @27.57",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 27570,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2045,
+    "name": "SFX - whir @27.71",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 27710,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2046,
+    "name": "SFX - clink @27.81",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 27810,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2047,
+    "name": "SFX - rush @27.90",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 27900,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2048,
+    "name": "SFX - spark @28.46",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 28460,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-spark-crackle"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2049,
+    "name": "SFX - deny @28.51",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 28510,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-deny-thud"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2050,
+    "name": "SFX - pop @28.93",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 28930,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.25,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2051,
+    "name": "SFX - room @29.00",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 29000,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2052,
+    "name": "SFX - pop @29.05",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 29050,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.25,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2053,
+    "name": "SFX - pop @29.17",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 29170,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.25,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2054,
+    "name": "SFX - whoosh @29.53",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 29530,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2055,
+    "name": "SFX - whir @29.66",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 29660,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2056,
+    "name": "SFX - rush @30.80",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 30800,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2057,
+    "name": "SFX - pop @31.26",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 31260,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2058,
+    "name": "SFX - whir @31.61",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 31610,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2059,
+    "name": "SFX - room @31.90",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 31900,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2060,
+    "name": "SFX - whoosh @32.65",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 32650,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2061,
+    "name": "SFX - whir @33.56",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 33560,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2062,
+    "name": "SFX - rush @33.70",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 33700,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2063,
+    "name": "SFX - deny @34.49",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 34490,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-deny-thud"
+    },
+    "volume": 0.6,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2064,
+    "name": "SFX - room @34.80",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 34800,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2065,
+    "name": "SFX - whir @35.51",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 35510,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2066,
+    "name": "SFX - pop @35.93",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 35930,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2067,
+    "name": "SFX - rush @36.60",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 36600,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2068,
+    "name": "SFX - whir @37.46",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 37460,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2069,
+    "name": "SFX - whoosh @37.49",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 37490,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2070,
+    "name": "SFX - room @37.70",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 37700,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2071,
+    "name": "SFX - deny @38.45",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 38450,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-deny-thud"
+    },
+    "volume": 0.6,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2072,
+    "name": "SFX - whir @39.41",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 39410,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2073,
+    "name": "SFX - rush @39.50",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 39500,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.18,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2074,
+    "name": "SFX - down @40.01",
+    "windowMs": 900,
+    "activeRange": {
+     "start": 40010,
+     "duration": 900
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 900
+    },
+    "sourceIntrinsicDuration": 900,
+    "source": {
+     "assetId": "sfx-ui-downlifter"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2075,
+    "name": "SFX - room @40.60",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 40600,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2076,
+    "name": "SFX - whir @41.36",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 41360,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2077,
+    "name": "SFX - whir @43.31",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 43310,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2078,
+    "name": "SFX - room @43.50",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 43500,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2079,
+    "name": "SFX - whir @45.26",
+    "windowMs": 2000,
+    "activeRange": {
+     "start": 45260,
+     "duration": 2000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 2000
+    },
+    "sourceIntrinsicDuration": 2000,
+    "source": {
+     "assetId": "sfx-pump-whir"
+    },
+    "volume": 0.22,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2080,
+    "name": "SFX - tick @45.29",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 45290,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2081,
+    "name": "SFX - tick @45.31",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 45314,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2082,
+    "name": "SFX - tick @45.34",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 45337,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2083,
+    "name": "SFX - tick @45.36",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 45361,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2084,
+    "name": "SFX - tick @45.38",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 45385,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2085,
+    "name": "SFX - tick @45.41",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 45408,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2086,
+    "name": "SFX - tick @45.43",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 45432,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2087,
+    "name": "SFX - tick @45.46",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 45456,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2088,
+    "name": "SFX - ping @45.50",
+    "windowMs": 480,
+    "activeRange": {
+     "start": 45503,
+     "duration": 480
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 480
+    },
+    "sourceIntrinsicDuration": 480,
+    "source": {
+     "assetId": "sfx-ui-clear-ping"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2089,
+    "name": "SFX - room @46.40",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 46400,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2090,
+    "name": "SFX - deny @46.41",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 46410,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-deny-thud"
+    },
+    "volume": 0.6,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2091,
+    "name": "SFX - beep @46.46",
+    "windowMs": 350,
+    "activeRange": {
+     "start": 46460,
+     "duration": 350
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 350
+    },
+    "sourceIntrinsicDuration": 350,
+    "source": {
+     "assetId": "sfx-error-beep"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2092,
+    "name": "SFX - beep @46.96",
+    "windowMs": 350,
+    "activeRange": {
+     "start": 46960,
+     "duration": 350
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 350
+    },
+    "sourceIntrinsicDuration": 350,
+    "source": {
+     "assetId": "sfx-error-beep"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2093,
+    "name": "SFX - beep @47.46",
+    "windowMs": 350,
+    "activeRange": {
+     "start": 47460,
+     "duration": 350
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 350
+    },
+    "sourceIntrinsicDuration": 350,
+    "source": {
+     "assetId": "sfx-error-beep"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2094,
+    "name": "SFX - beep @47.96",
+    "windowMs": 350,
+    "activeRange": {
+     "start": 47960,
+     "duration": 350
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 350
+    },
+    "sourceIntrinsicDuration": 350,
+    "source": {
+     "assetId": "sfx-error-beep"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2095,
+    "name": "SFX - pop @48.81",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 48810,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2096,
+    "name": "SFX - whoosh @48.86",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 48860,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2097,
+    "name": "SFX - room @49.30",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 49300,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2098,
+    "name": "SFX - clank @50.53",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 50530,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-pan-clank"
+    },
+    "volume": 0.6,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2099,
+    "name": "SFX - click @50.78",
+    "windowMs": 250,
+    "activeRange": {
+     "start": 50780,
+     "duration": 250
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 250
+    },
+    "sourceIntrinsicDuration": 250,
+    "source": {
+     "assetId": "sfx-button-click"
+    },
+    "volume": 0.6,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2100,
+    "name": "SFX - whoosh @51.29",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 51290,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2101,
+    "name": "SFX - room @52.20",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 52200,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2102,
+    "name": "SFX - deny @53.09",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 53090,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-deny-thud"
+    },
+    "volume": 0.6,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2103,
+    "name": "SFX - room @55.10",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 55100,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2104,
+    "name": "SFX - pop @55.90",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 55900,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2105,
+    "name": "SFX - pop @55.90",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 55900,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2106,
+    "name": "SFX - rush @56.34",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 56340,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2107,
+    "name": "SFX - splash @56.44",
+    "windowMs": 1200,
+    "activeRange": {
+     "start": 56440,
+     "duration": 1200
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 1200
+    },
+    "sourceIntrinsicDuration": 1200,
+    "source": {
+     "assetId": "sfx-splash"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2108,
+    "name": "SFX - whoosh @57.21",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 57210,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-ui-air-whoosh"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2109,
+    "name": "SFX - twist @57.46",
+    "windowMs": 1000,
+    "activeRange": {
+     "start": 57460,
+     "duration": 1000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 1000
+    },
+    "sourceIntrinsicDuration": 1000,
+    "source": {
+     "assetId": "sfx-filter-twist"
+    },
+    "volume": 0.6,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2110,
+    "name": "SFX - room @58.00",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 58000,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2111,
+    "name": "SFX - impact @59.13",
+    "windowMs": 450,
+    "activeRange": {
+     "start": 59130,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "sfx-ui-soft-impact"
+    },
+    "volume": 0.75,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2112,
+    "name": "SFX - pull @59.18",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 59180,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-plug-pull"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2113,
+    "name": "SFX - pop @59.50",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 59500,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2114,
+    "name": "SFX - pop @59.93",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 59930,
+     "duration": 180
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 180
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2115,
+    "name": "SFX - rush @59.98",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 59980,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-water-rush"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2116,
+    "name": "SFX - clink @60.45",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 60450,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2117,
+    "name": "SFX - clink @60.54",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 60540,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2118,
+    "name": "SFX - clink @60.63",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 60630,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2119,
+    "name": "SFX - clink @60.72",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 60720,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2120,
+    "name": "SFX - clink @60.81",
+    "windowMs": 500,
+    "activeRange": {
+     "start": 60810,
+     "duration": 500
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 500
+    },
+    "sourceIntrinsicDuration": 500,
+    "source": {
+     "assetId": "sfx-coin-clink"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2121,
+    "name": "SFX - room @60.90",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 60900,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2122,
+    "name": "SFX - ping @61.45",
+    "windowMs": 480,
+    "activeRange": {
+     "start": 61450,
+     "duration": 480
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 480
+    },
+    "sourceIntrinsicDuration": 480,
+    "source": {
+     "assetId": "sfx-ui-clear-ping"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2123,
+    "name": "SFX - impact @63.45",
+    "windowMs": 450,
+    "activeRange": {
+     "start": 63450,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "sfx-ui-soft-impact"
+    },
+    "volume": 0.75,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2124,
+    "name": "SFX - pull @63.50",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 63500,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-plug-pull"
+    },
+    "volume": 0.4,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2125,
+    "name": "SFX - room @63.80",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 63800,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2126,
+    "name": "SFX - twist @64.05",
+    "windowMs": 1000,
+    "activeRange": {
+     "start": 64050,
+     "duration": 1000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 1000
+    },
+    "sourceIntrinsicDuration": 1000,
+    "source": {
+     "assetId": "sfx-filter-twist"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2127,
+    "name": "SFX - deny @65.33",
+    "windowMs": 600,
+    "activeRange": {
+     "start": 65330,
+     "duration": 600
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 600
+    },
+    "sourceIntrinsicDuration": 600,
+    "source": {
+     "assetId": "sfx-deny-thud"
+    },
+    "volume": 0.6,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2128,
+    "name": "SFX - click @65.40",
+    "windowMs": 250,
+    "activeRange": {
+     "start": 65400,
+     "duration": 250
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 250
+    },
+    "sourceIntrinsicDuration": 250,
+    "source": {
+     "assetId": "sfx-button-click"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2129,
+    "name": "SFX - drip @65.63",
+    "windowMs": 300,
+    "activeRange": {
+     "start": 65630,
+     "duration": 300
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 300
+    },
+    "sourceIntrinsicDuration": 300,
+    "source": {
+     "assetId": "sfx-drip"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2130,
+    "name": "SFX - drip @65.81",
+    "windowMs": 300,
+    "activeRange": {
+     "start": 65810,
+     "duration": 300
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 300
+    },
+    "sourceIntrinsicDuration": 300,
+    "source": {
+     "assetId": "sfx-drip"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2131,
+    "name": "SFX - drip @65.99",
+    "windowMs": 300,
+    "activeRange": {
+     "start": 65990,
+     "duration": 300
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 300
+    },
+    "sourceIntrinsicDuration": 300,
+    "source": {
+     "assetId": "sfx-drip"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2132,
+    "name": "SFX - drip @66.17",
+    "windowMs": 300,
+    "activeRange": {
+     "start": 66170,
+     "duration": 300
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 300
+    },
+    "sourceIntrinsicDuration": 300,
+    "source": {
+     "assetId": "sfx-drip"
+    },
+    "volume": 0.5,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2133,
+    "name": "SFX - impact @66.17",
+    "windowMs": 450,
+    "activeRange": {
+     "start": 66170,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "sfx-ui-soft-impact"
+    },
+    "volume": 0.75,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2134,
+    "name": "SFX - room @66.70",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 66700,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2135,
+    "name": "SFX - tick @67.10",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67100,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2136,
+    "name": "SFX - tick @67.16",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67160,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2137,
+    "name": "SFX - tick @67.22",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67220,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2138,
+    "name": "SFX - tick @67.28",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67280,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2139,
+    "name": "SFX - tick @67.34",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67340,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2140,
+    "name": "SFX - tick @67.40",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67400,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2141,
+    "name": "SFX - tick @67.46",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67460,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2142,
+    "name": "SFX - tick @67.52",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67520,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2143,
+    "name": "SFX - tick @67.58",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67580,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2144,
+    "name": "SFX - tick @67.64",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67640,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2145,
+    "name": "SFX - tick @67.70",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67700,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2146,
+    "name": "SFX - tick @67.76",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 67760,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.3,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2147,
+    "name": "SFX - impact @68.09",
+    "windowMs": 450,
+    "activeRange": {
+     "start": 68090,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "sfx-ui-soft-impact"
+    },
+    "volume": 0.75,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2148,
+    "name": "SFX - tick @69.02",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 69020,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2149,
+    "name": "SFX - tick @69.26",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 69260,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2150,
+    "name": "SFX - tick @69.50",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 69500,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2151,
+    "name": "SFX - room @69.60",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 69600,
+     "duration": 3000
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 3000
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2152,
+    "name": "SFX - tick @69.74",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 69740,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2153,
+    "name": "SFX - tick @69.98",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 69980,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2154,
+    "name": "SFX - tick @70.22",
+    "windowMs": 65,
+    "activeRange": {
+     "start": 70220,
+     "duration": 65
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 65
+    },
+    "sourceIntrinsicDuration": 65,
+    "source": {
+     "assetId": "sfx-ui-dry-click"
+    },
+    "volume": 0.35,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2155,
+    "name": "SFX - impact @70.57",
+    "windowMs": 450,
+    "activeRange": {
+     "start": 70570,
+     "duration": 450
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 450
+    },
+    "sourceIntrinsicDuration": 450,
+    "source": {
+     "assetId": "sfx-ui-soft-impact"
+    },
+    "volume": 0.75,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2156,
+    "name": "SFX - ping @72.20",
+    "windowMs": 480,
+    "activeRange": {
+     "start": 72197,
+     "duration": 480
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 480
+    },
+    "sourceIntrinsicDuration": 480,
+    "source": {
+     "assetId": "sfx-ui-clear-ping"
+    },
+    "volume": 0.45,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2157,
+    "name": "SFX - room @72.50",
+    "windowMs": 3000,
+    "activeRange": {
+     "start": 72500,
+     "duration": 1760
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 1760
+    },
+    "sourceIntrinsicDuration": 3000,
+    "source": {
+     "assetId": "sfx-room-tone"
+    },
+    "volume": 0.2,
+    "captionsEnabled": false
+   },
+   {
+    "type": "Audio",
+    "id": 2158,
+    "name": "SFX - pop @74.16",
+    "windowMs": 180,
+    "activeRange": {
+     "start": 74160,
+     "duration": 100
+    },
+    "sourceRange": {
+     "start": 0,
+     "duration": 100
+    },
+    "sourceIntrinsicDuration": 180,
+    "source": {
+     "assetId": "sfx-ui-soft-pop"
+    },
+    "volume": 0.55,
+    "captionsEnabled": false
+   }
+  ]
+ }
+}

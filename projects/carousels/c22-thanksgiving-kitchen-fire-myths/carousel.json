@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 kitchen fire myths to drop before Thanksgiving dinner", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/day.jpg", "myth": "Thanksgiving is just another day in the kitchen.",
+      "fact": "It's the No. 1 day of the year for home cooking fires in the U.S., with about 1,450 reported on Thanksgiving 2023 alone.",
+      "source": "National Fire Protection Association (NFPA)" },
+    { "type": "myth", "bg": "bg/away.jpg", "myth": "It's fine to step away from the stove for a minute.",
+      "fact": "Unattended cooking is the leading cause of home cooking fires. Leaving the kitchen, even briefly? Turn the burner off first.",
+      "source": "NFPA, CPSC" },
+    { "type": "myth", "bg": "bg/flour.jpg", "myth": "Throw flour on a grease fire to smother it.",
+      "fact": "Never use flour or water. Slide a lid over the pan, turn off the heat and leave the lid on until it cools.",
+      "source": "U.S. Consumer Product Safety Commission" },
+    { "type": "myth", "bg": "bg/oven.jpg", "myth": "Open the oven to see how bad the fire is.",
+      "fact": "Keep the door shut and turn off the heat. Closed, the fire runs out of air. Opening it feeds the flames.",
+      "source": "CPSC, University of Illinois Extension" },
+    { "type": "myth", "bg": "bg/fryer.jpg", "myth": "A turkey fryer is fine on the porch or in the garage.",
+      "fact": "Fry outdoors in the open, away from walls and anything that burns. Thaw and dry the bird first: a frozen or wet one makes the oil spatter.",
+      "source": "U.S. Consumer Product Safety Commission" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one surprised you?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["NFPA: Thanksgiving cooking fires", "NFPA + CPSC: unattended cooking", "CPSC: Recipe for Safer Cooking", "CPSC + Illinois Extension: oven fires", "CPSC: turkey fryer safety"] }
+  ]
+}

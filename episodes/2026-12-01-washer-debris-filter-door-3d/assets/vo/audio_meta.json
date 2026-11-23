@@ -1,0 +1,1318 @@
+{
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "modelId": "eleven_v4_turbo",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "That tiny door at the bottom of your front-load washer hides a trap for everything your pockets forget. Ignore it, and the washer can stop draining, leaving your clothes in dirty water. At the end of every wash and rinse, an electric pump switches on. Its spinning impeller pushes the water out of the drum, up the drain hose, and into your drain pipe. But that water carries passengers: coins, buttons, bits of plastic, and loads of lint. That junk can chew up the impeller. So in front of the pump sits a plastic strainer. Water slips through its slots. Junk doesn't. It's also the lint filter. Over months, it packs tight. The water slows to a trickle, and the drain takes too long. On some Whirlpool washers, a drain over eight minutes throws an error code. Before opening the door, lay down towels and a shallow pan. Water waits down there, and after a hot cycle it can burn. Many have a small hose to drain it. Twist the filter counterclockwise, pull it out, rinse it in warm water. Check the impeller spins freely. Screw it back in tight, or it will leak. LG says every month. Samsung says five or six times a year. When did you last open yours? Tell me in the comments.",
+   "wav": "vo.wav",
+   "duration": 72.88,
+   "speechStart": 0,
+   "speechEnd": 72.96,
+   "words": [
+    {
+     "id": "w0",
+     "text": "That",
+     "start": 0,
+     "end": 0.21
+    },
+    {
+     "id": "w1",
+     "text": "tiny",
+     "start": 0.24,
+     "end": 0.56
+    },
+    {
+     "id": "w2",
+     "text": "door",
+     "start": 0.64,
+     "end": 0.9
+    },
+    {
+     "id": "w3",
+     "text": "at",
+     "start": 0.96,
+     "end": 1.02
+    },
+    {
+     "id": "w4",
+     "text": "the",
+     "start": 1.04,
+     "end": 1.173
+    },
+    {
+     "id": "w5",
+     "text": "bottom",
+     "start": 1.2,
+     "end": 1.52
+    },
+    {
+     "id": "w6",
+     "text": "of",
+     "start": 1.56,
+     "end": 1.6
+    },
+    {
+     "id": "w7",
+     "text": "your",
+     "start": 1.68,
+     "end": 1.76
+    },
+    {
+     "id": "w8",
+     "text": "front-load",
+     "start": 1.84,
+     "end": 2.24
+    },
+    {
+     "id": "w9",
+     "text": "washer",
+     "start": 2.32,
+     "end": 2.72
+    },
+    {
+     "id": "w10",
+     "text": "hides",
+     "start": 2.88,
+     "end": 3.12
+    },
+    {
+     "id": "w11",
+     "text": "a",
+     "start": 3.2,
+     "end": 3.28
+    },
+    {
+     "id": "w12",
+     "text": "trap",
+     "start": 3.48,
+     "end": 3.68
+    },
+    {
+     "id": "w13",
+     "text": "for",
+     "start": 3.76,
+     "end": 4
+    },
+    {
+     "id": "w14",
+     "text": "everything",
+     "start": 4.08,
+     "end": 4.56
+    },
+    {
+     "id": "w15",
+     "text": "your",
+     "start": 4.64,
+     "end": 4.72
+    },
+    {
+     "id": "w16",
+     "text": "pockets",
+     "start": 4.76,
+     "end": 5.04
+    },
+    {
+     "id": "w17",
+     "text": "forget.",
+     "start": 5.12,
+     "end": 6
+    },
+    {
+     "id": "w18",
+     "text": "Ignore",
+     "start": 6.2,
+     "end": 6.4
+    },
+    {
+     "id": "w19",
+     "text": "it,",
+     "start": 6.52,
+     "end": 6.72
+    },
+    {
+     "id": "w20",
+     "text": "and",
+     "start": 6.8,
+     "end": 6.88
+    },
+    {
+     "id": "w21",
+     "text": "the",
+     "start": 6.92,
+     "end": 6.96
+    },
+    {
+     "id": "w22",
+     "text": "washer",
+     "start": 7.12,
+     "end": 7.28
+    },
+    {
+     "id": "w23",
+     "text": "can",
+     "start": 7.36,
+     "end": 7.52
+    },
+    {
+     "id": "w24",
+     "text": "stop",
+     "start": 7.6,
+     "end": 7.84
+    },
+    {
+     "id": "w25",
+     "text": "draining,",
+     "start": 7.92,
+     "end": 8.56
+    },
+    {
+     "id": "w26",
+     "text": "leaving",
+     "start": 8.6,
+     "end": 8.8
+    },
+    {
+     "id": "w27",
+     "text": "your",
+     "start": 8.88,
+     "end": 8.96
+    },
+    {
+     "id": "w28",
+     "text": "clothes",
+     "start": 9.04,
+     "end": 9.36
+    },
+    {
+     "id": "w29",
+     "text": "in",
+     "start": 9.44,
+     "end": 9.6
+    },
+    {
+     "id": "w30",
+     "text": "dirty",
+     "start": 9.76,
+     "end": 9.92
+    },
+    {
+     "id": "w31",
+     "text": "water.",
+     "start": 10,
+     "end": 10.88
+    },
+    {
+     "id": "w32",
+     "text": "At",
+     "start": 10.96,
+     "end": 11.04
+    },
+    {
+     "id": "w33",
+     "text": "the",
+     "start": 11.08,
+     "end": 11.12
+    },
+    {
+     "id": "w34",
+     "text": "end",
+     "start": 11.2,
+     "end": 11.36
+    },
+    {
+     "id": "w35",
+     "text": "of",
+     "start": 11.44,
+     "end": 11.52
+    },
+    {
+     "id": "w36",
+     "text": "every",
+     "start": 11.6,
+     "end": 11.84
+    },
+    {
+     "id": "w37",
+     "text": "wash",
+     "start": 11.92,
+     "end": 12.16
+    },
+    {
+     "id": "w38",
+     "text": "and",
+     "start": 12.2,
+     "end": 12.24
+    },
+    {
+     "id": "w39",
+     "text": "rinse,",
+     "start": 12.32,
+     "end": 12.827
+    },
+    {
+     "id": "w40",
+     "text": "an",
+     "start": 12.853,
+     "end": 12.88
+    },
+    {
+     "id": "w41",
+     "text": "electric",
+     "start": 12.96,
+     "end": 13.44
+    },
+    {
+     "id": "w42",
+     "text": "pump",
+     "start": 13.48,
+     "end": 13.68
+    },
+    {
+     "id": "w43",
+     "text": "switches",
+     "start": 13.76,
+     "end": 14.16
+    },
+    {
+     "id": "w44",
+     "text": "on.",
+     "start": 14.24,
+     "end": 14.84
+    },
+    {
+     "id": "w45",
+     "text": "Its",
+     "start": 14.88,
+     "end": 15.04
+    },
+    {
+     "id": "w46",
+     "text": "spinning",
+     "start": 15.12,
+     "end": 15.36
+    },
+    {
+     "id": "w47",
+     "text": "impeller",
+     "start": 15.44,
+     "end": 15.92
+    },
+    {
+     "id": "w48",
+     "text": "pushes",
+     "start": 16,
+     "end": 16.32
+    },
+    {
+     "id": "w49",
+     "text": "the",
+     "start": 16.4,
+     "end": 16.48
+    },
+    {
+     "id": "w50",
+     "text": "water",
+     "start": 16.68,
+     "end": 16.88
+    },
+    {
+     "id": "w51",
+     "text": "out",
+     "start": 16.96,
+     "end": 17.04
+    },
+    {
+     "id": "w52",
+     "text": "of",
+     "start": 17.08,
+     "end": 17.12
+    },
+    {
+     "id": "w53",
+     "text": "the",
+     "start": 17.2,
+     "end": 17.28
+    },
+    {
+     "id": "w54",
+     "text": "drum,",
+     "start": 17.36,
+     "end": 17.84
+    },
+    {
+     "id": "w55",
+     "text": "up",
+     "start": 17.92,
+     "end": 18
+    },
+    {
+     "id": "w56",
+     "text": "the",
+     "start": 18.08,
+     "end": 18.16
+    },
+    {
+     "id": "w57",
+     "text": "drain",
+     "start": 18.24,
+     "end": 18.4
+    },
+    {
+     "id": "w58",
+     "text": "hose,",
+     "start": 18.48,
+     "end": 18.84
+    },
+    {
+     "id": "w59",
+     "text": "and",
+     "start": 18.88,
+     "end": 19.04
+    },
+    {
+     "id": "w60",
+     "text": "into",
+     "start": 19.16,
+     "end": 19.28
+    },
+    {
+     "id": "w61",
+     "text": "your",
+     "start": 19.36,
+     "end": 19.44
+    },
+    {
+     "id": "w62",
+     "text": "drain",
+     "start": 19.48,
+     "end": 19.68
+    },
+    {
+     "id": "w63",
+     "text": "pipe.",
+     "start": 19.76,
+     "end": 20.48
+    },
+    {
+     "id": "w64",
+     "text": "But",
+     "start": 20.56,
+     "end": 20.64
+    },
+    {
+     "id": "w65",
+     "text": "that",
+     "start": 20.76,
+     "end": 20.88
+    },
+    {
+     "id": "w66",
+     "text": "water",
+     "start": 21.08,
+     "end": 21.28
+    },
+    {
+     "id": "w67",
+     "text": "carries",
+     "start": 21.36,
+     "end": 21.68
+    },
+    {
+     "id": "w68",
+     "text": "passengers:",
+     "start": 21.84,
+     "end": 22.8
+    },
+    {
+     "id": "w69",
+     "text": "coins,",
+     "start": 23.08,
+     "end": 23.6
+    },
+    {
+     "id": "w70",
+     "text": "buttons,",
+     "start": 23.88,
+     "end": 24.32
+    },
+    {
+     "id": "w71",
+     "text": "bits",
+     "start": 24.4,
+     "end": 24.48
+    },
+    {
+     "id": "w72",
+     "text": "of",
+     "start": 24.56,
+     "end": 24.64
+    },
+    {
+     "id": "w73",
+     "text": "plastic,",
+     "start": 24.72,
+     "end": 25.24
+    },
+    {
+     "id": "w74",
+     "text": "and",
+     "start": 25.28,
+     "end": 25.52
+    },
+    {
+     "id": "w75",
+     "text": "loads",
+     "start": 25.68,
+     "end": 25.84
+    },
+    {
+     "id": "w76",
+     "text": "of",
+     "start": 25.92,
+     "end": 26
+    },
+    {
+     "id": "w77",
+     "text": "lint.",
+     "start": 26.08,
+     "end": 26.8
+    },
+    {
+     "id": "w78",
+     "text": "That",
+     "start": 26.92,
+     "end": 27.04
+    },
+    {
+     "id": "w79",
+     "text": "junk",
+     "start": 27.12,
+     "end": 27.36
+    },
+    {
+     "id": "w80",
+     "text": "can",
+     "start": 27.48,
+     "end": 27.6
+    },
+    {
+     "id": "w81",
+     "text": "chew",
+     "start": 27.68,
+     "end": 27.84
+    },
+    {
+     "id": "w82",
+     "text": "up",
+     "start": 27.92,
+     "end": 28
+    },
+    {
+     "id": "w83",
+     "text": "the",
+     "start": 28.04,
+     "end": 28.08
+    },
+    {
+     "id": "w84",
+     "text": "impeller.",
+     "start": 28.16,
+     "end": 29.12
+    },
+    {
+     "id": "w85",
+     "text": "So",
+     "start": 29.28,
+     "end": 29.44
+    },
+    {
+     "id": "w86",
+     "text": "in",
+     "start": 29.68,
+     "end": 29.84
+    },
+    {
+     "id": "w87",
+     "text": "front",
+     "start": 29.92,
+     "end": 30
+    },
+    {
+     "id": "w88",
+     "text": "of",
+     "start": 30.04,
+     "end": 30.08
+    },
+    {
+     "id": "w89",
+     "text": "the",
+     "start": 30.16,
+     "end": 30.24
+    },
+    {
+     "id": "w90",
+     "text": "pump",
+     "start": 30.28,
+     "end": 30.56
+    },
+    {
+     "id": "w91",
+     "text": "sits",
+     "start": 30.6,
+     "end": 30.8
+    },
+    {
+     "id": "w92",
+     "text": "a",
+     "start": 30.84,
+     "end": 30.88
+    },
+    {
+     "id": "w93",
+     "text": "plastic",
+     "start": 30.96,
+     "end": 31.36
+    },
+    {
+     "id": "w94",
+     "text": "strainer.",
+     "start": 31.44,
+     "end": 32.32
+    },
+    {
+     "id": "w95",
+     "text": "Water",
+     "start": 32.4,
+     "end": 32.72
+    },
+    {
+     "id": "w96",
+     "text": "slips",
+     "start": 32.8,
+     "end": 33.04
+    },
+    {
+     "id": "w97",
+     "text": "through",
+     "start": 33.12,
+     "end": 33.2
+    },
+    {
+     "id": "w98",
+     "text": "its",
+     "start": 33.28,
+     "end": 33.36
+    },
+    {
+     "id": "w99",
+     "text": "slots.",
+     "start": 33.6,
+     "end": 34.16
+    },
+    {
+     "id": "w100",
+     "text": "Junk",
+     "start": 34.24,
+     "end": 34.48
+    },
+    {
+     "id": "w101",
+     "text": "doesn't.",
+     "start": 34.64,
+     "end": 35.44
+    },
+    {
+     "id": "w102",
+     "text": "It's",
+     "start": 35.52,
+     "end": 35.6
+    },
+    {
+     "id": "w103",
+     "text": "also",
+     "start": 35.68,
+     "end": 35.92
+    },
+    {
+     "id": "w104",
+     "text": "the",
+     "start": 36,
+     "end": 36.08
+    },
+    {
+     "id": "w105",
+     "text": "lint",
+     "start": 36.2,
+     "end": 36.32
+    },
+    {
+     "id": "w106",
+     "text": "filter.",
+     "start": 36.4,
+     "end": 37.12
+    },
+    {
+     "id": "w107",
+     "text": "Over",
+     "start": 37.24,
+     "end": 37.36
+    },
+    {
+     "id": "w108",
+     "text": "months,",
+     "start": 37.44,
+     "end": 37.88
+    },
+    {
+     "id": "w109",
+     "text": "it",
+     "start": 37.92,
+     "end": 38.08
+    },
+    {
+     "id": "w110",
+     "text": "packs",
+     "start": 38.2,
+     "end": 38.48
+    },
+    {
+     "id": "w111",
+     "text": "tight.",
+     "start": 38.56,
+     "end": 39.2
+    },
+    {
+     "id": "w112",
+     "text": "The",
+     "start": 39.28,
+     "end": 39.36
+    },
+    {
+     "id": "w113",
+     "text": "water",
+     "start": 39.52,
+     "end": 39.68
+    },
+    {
+     "id": "w114",
+     "text": "slows",
+     "start": 39.76,
+     "end": 40
+    },
+    {
+     "id": "w115",
+     "text": "to",
+     "start": 40.08,
+     "end": 40.16
+    },
+    {
+     "id": "w116",
+     "text": "a",
+     "start": 40.2,
+     "end": 40.24
+    },
+    {
+     "id": "w117",
+     "text": "trickle,",
+     "start": 40.32,
+     "end": 40.773
+    },
+    {
+     "id": "w118",
+     "text": "and",
+     "start": 40.827,
+     "end": 40.88
+    },
+    {
+     "id": "w119",
+     "text": "the",
+     "start": 40.92,
+     "end": 40.96
+    },
+    {
+     "id": "w120",
+     "text": "drain",
+     "start": 41.04,
+     "end": 41.36
+    },
+    {
+     "id": "w121",
+     "text": "takes",
+     "start": 41.44,
+     "end": 41.76
+    },
+    {
+     "id": "w122",
+     "text": "too",
+     "start": 41.88,
+     "end": 42
+    },
+    {
+     "id": "w123",
+     "text": "long.",
+     "start": 42.08,
+     "end": 42.88
+    },
+    {
+     "id": "w124",
+     "text": "On",
+     "start": 42.96,
+     "end": 43.04
+    },
+    {
+     "id": "w125",
+     "text": "some",
+     "start": 43.12,
+     "end": 43.2
+    },
+    {
+     "id": "w126",
+     "text": "Whirlpool",
+     "start": 43.28,
+     "end": 43.68
+    },
+    {
+     "id": "w127",
+     "text": "washers,",
+     "start": 43.8,
+     "end": 44.2
+    },
+    {
+     "id": "w128",
+     "text": "a",
+     "start": 44.24,
+     "end": 44.32
+    },
+    {
+     "id": "w129",
+     "text": "drain",
+     "start": 44.4,
+     "end": 44.64
+    },
+    {
+     "id": "w130",
+     "text": "over",
+     "start": 44.72,
+     "end": 44.96
+    },
+    {
+     "id": "w131",
+     "text": "eight",
+     "start": 45.04,
+     "end": 45.28
+    },
+    {
+     "id": "w132",
+     "text": "minutes",
+     "start": 45.48,
+     "end": 45.68
+    },
+    {
+     "id": "w133",
+     "text": "throws",
+     "start": 45.8,
+     "end": 45.92
+    },
+    {
+     "id": "w134",
+     "text": "an",
+     "start": 46,
+     "end": 46.08
+    },
+    {
+     "id": "w135",
+     "text": "error",
+     "start": 46.16,
+     "end": 46.4
+    },
+    {
+     "id": "w136",
+     "text": "code.",
+     "start": 46.48,
+     "end": 47.16
+    },
+    {
+     "id": "w137",
+     "text": "Before",
+     "start": 47.2,
+     "end": 47.52
+    },
+    {
+     "id": "w138",
+     "text": "opening",
+     "start": 47.6,
+     "end": 47.92
+    },
+    {
+     "id": "w139",
+     "text": "the",
+     "start": 47.96,
+     "end": 48
+    },
+    {
+     "id": "w140",
+     "text": "door,",
+     "start": 48.08,
+     "end": 48.52
+    },
+    {
+     "id": "w141",
+     "text": "lay",
+     "start": 48.56,
+     "end": 48.72
+    },
+    {
+     "id": "w142",
+     "text": "down",
+     "start": 48.84,
+     "end": 48.96
+    },
+    {
+     "id": "w143",
+     "text": "towels",
+     "start": 49.04,
+     "end": 49.36
+    },
+    {
+     "id": "w144",
+     "text": "and",
+     "start": 49.44,
+     "end": 49.52
+    },
+    {
+     "id": "w145",
+     "text": "a",
+     "start": 49.6,
+     "end": 49.68
+    },
+    {
+     "id": "w146",
+     "text": "shallow",
+     "start": 49.72,
+     "end": 50
+    },
+    {
+     "id": "w147",
+     "text": "pan.",
+     "start": 50.08,
+     "end": 50.88
+    },
+    {
+     "id": "w148",
+     "text": "Water",
+     "start": 51.04,
+     "end": 51.2
+    },
+    {
+     "id": "w149",
+     "text": "waits",
+     "start": 51.24,
+     "end": 51.52
+    },
+    {
+     "id": "w150",
+     "text": "down",
+     "start": 51.6,
+     "end": 51.68
+    },
+    {
+     "id": "w151",
+     "text": "there,",
+     "start": 51.76,
+     "end": 52.04
+    },
+    {
+     "id": "w152",
+     "text": "and",
+     "start": 52.08,
+     "end": 52.32
+    },
+    {
+     "id": "w153",
+     "text": "after",
+     "start": 52.4,
+     "end": 52.56
+    },
+    {
+     "id": "w154",
+     "text": "a",
+     "start": 52.64,
+     "end": 52.72
+    },
+    {
+     "id": "w155",
+     "text": "hot",
+     "start": 52.84,
+     "end": 52.96
+    },
+    {
+     "id": "w156",
+     "text": "cycle",
+     "start": 53.2,
+     "end": 53.44
+    },
+    {
+     "id": "w157",
+     "text": "it",
+     "start": 53.48,
+     "end": 53.52
+    },
+    {
+     "id": "w158",
+     "text": "can",
+     "start": 53.6,
+     "end": 53.84
+    },
+    {
+     "id": "w159",
+     "text": "burn.",
+     "start": 54.24,
+     "end": 54.72
+    },
+    {
+     "id": "w160",
+     "text": "Many",
+     "start": 54.84,
+     "end": 54.96
+    },
+    {
+     "id": "w161",
+     "text": "have",
+     "start": 55.04,
+     "end": 55.12
+    },
+    {
+     "id": "w162",
+     "text": "a",
+     "start": 55.2,
+     "end": 55.24
+    },
+    {
+     "id": "w163",
+     "text": "small",
+     "start": 55.28,
+     "end": 55.52
+    },
+    {
+     "id": "w164",
+     "text": "hose",
+     "start": 55.6,
+     "end": 55.84
+    },
+    {
+     "id": "w165",
+     "text": "to",
+     "start": 55.92,
+     "end": 56
+    },
+    {
+     "id": "w166",
+     "text": "drain",
+     "start": 56.04,
+     "end": 56.24
+    },
+    {
+     "id": "w167",
+     "text": "it.",
+     "start": 56.56,
+     "end": 56.92
+    },
+    {
+     "id": "w168",
+     "text": "Twist",
+     "start": 56.96,
+     "end": 57.2
+    },
+    {
+     "id": "w169",
+     "text": "the",
+     "start": 57.24,
+     "end": 57.28
+    },
+    {
+     "id": "w170",
+     "text": "filter",
+     "start": 57.36,
+     "end": 57.68
+    },
+    {
+     "id": "w171",
+     "text": "counterclockwise,",
+     "start": 57.76,
+     "end": 58.84
+    },
+    {
+     "id": "w172",
+     "text": "pull",
+     "start": 58.88,
+     "end": 58.96
+    },
+    {
+     "id": "w173",
+     "text": "it",
+     "start": 59.04,
+     "end": 59.12
+    },
+    {
+     "id": "w174",
+     "text": "out,",
+     "start": 59.2,
+     "end": 59.64
+    },
+    {
+     "id": "w175",
+     "text": "rinse",
+     "start": 59.68,
+     "end": 59.84
+    },
+    {
+     "id": "w176",
+     "text": "it",
+     "start": 59.88,
+     "end": 59.92
+    },
+    {
+     "id": "w177",
+     "text": "in",
+     "start": 60,
+     "end": 60.08
+    },
+    {
+     "id": "w178",
+     "text": "warm",
+     "start": 60.16,
+     "end": 60.4
+    },
+    {
+     "id": "w179",
+     "text": "water.",
+     "start": 60.76,
+     "end": 61.16
+    },
+    {
+     "id": "w180",
+     "text": "Check",
+     "start": 61.2,
+     "end": 61.36
+    },
+    {
+     "id": "w181",
+     "text": "the",
+     "start": 61.4,
+     "end": 61.44
+    },
+    {
+     "id": "w182",
+     "text": "impeller",
+     "start": 61.52,
+     "end": 61.92
+    },
+    {
+     "id": "w183",
+     "text": "spins",
+     "start": 62,
+     "end": 62.24
+    },
+    {
+     "id": "w184",
+     "text": "freely.",
+     "start": 62.32,
+     "end": 63.16
+    },
+    {
+     "id": "w185",
+     "text": "Screw",
+     "start": 63.2,
+     "end": 63.36
+    },
+    {
+     "id": "w186",
+     "text": "it",
+     "start": 63.44,
+     "end": 63.52
+    },
+    {
+     "id": "w187",
+     "text": "back",
+     "start": 63.6,
+     "end": 63.68
+    },
+    {
+     "id": "w188",
+     "text": "in",
+     "start": 63.76,
+     "end": 63.92
+    },
+    {
+     "id": "w189",
+     "text": "tight,",
+     "start": 64,
+     "end": 64.427
+    },
+    {
+     "id": "w190",
+     "text": "or",
+     "start": 64.453,
+     "end": 64.48
+    },
+    {
+     "id": "w191",
+     "text": "it",
+     "start": 64.56,
+     "end": 64.72
+    },
+    {
+     "id": "w192",
+     "text": "will",
+     "start": 64.8,
+     "end": 65.04
+    },
+    {
+     "id": "w193",
+     "text": "leak.",
+     "start": 65.08,
+     "end": 65.84
+    },
+    {
+     "id": "w194",
+     "text": "LG",
+     "start": 65.92,
+     "end": 66.32
+    },
+    {
+     "id": "w195",
+     "text": "says",
+     "start": 66.52,
+     "end": 66.72
+    },
+    {
+     "id": "w196",
+     "text": "every",
+     "start": 66.8,
+     "end": 67.12
+    },
+    {
+     "id": "w197",
+     "text": "month.",
+     "start": 67.44,
+     "end": 67.8
+    },
+    {
+     "id": "w198",
+     "text": "Samsung",
+     "start": 67.84,
+     "end": 68.32
+    },
+    {
+     "id": "w199",
+     "text": "says",
+     "start": 68.4,
+     "end": 68.64
+    },
+    {
+     "id": "w200",
+     "text": "five",
+     "start": 68.72,
+     "end": 68.8
+    },
+    {
+     "id": "w201",
+     "text": "or",
+     "start": 68.88,
+     "end": 68.96
+    },
+    {
+     "id": "w202",
+     "text": "six",
+     "start": 69.04,
+     "end": 69.12
+    },
+    {
+     "id": "w203",
+     "text": "times",
+     "start": 69.2,
+     "end": 69.44
+    },
+    {
+     "id": "w204",
+     "text": "a",
+     "start": 69.48,
+     "end": 69.52
+    },
+    {
+     "id": "w205",
+     "text": "year.",
+     "start": 69.6,
+     "end": 70.28
+    },
+    {
+     "id": "w206",
+     "text": "When",
+     "start": 70.32,
+     "end": 70.4
+    },
+    {
+     "id": "w207",
+     "text": "did",
+     "start": 70.48,
+     "end": 70.56
+    },
+    {
+     "id": "w208",
+     "text": "you",
+     "start": 70.64,
+     "end": 70.72
+    },
+    {
+     "id": "w209",
+     "text": "last",
+     "start": 70.84,
+     "end": 70.96
+    },
+    {
+     "id": "w210",
+     "text": "open",
+     "start": 71.04,
+     "end": 71.2
+    },
+    {
+     "id": "w211",
+     "text": "yours?",
+     "start": 71.28,
+     "end": 71.893
+    },
+    {
+     "id": "w212",
+     "text": "Tell",
+     "start": 71.947,
+     "end": 72
+    },
+    {
+     "id": "w213",
+     "text": "me",
+     "start": 72.04,
+     "end": 72.08
+    },
+    {
+     "id": "w214",
+     "text": "in",
+     "start": 72.12,
+     "end": 72.16
+    },
+    {
+     "id": "w215",
+     "text": "the",
+     "start": 72.2,
+     "end": 72.24
+    },
+    {
+     "id": "w216",
+     "text": "comments.",
+     "start": 72.48,
+     "end": 72.96
+    }
+   ]
+  }
+ ]
+}

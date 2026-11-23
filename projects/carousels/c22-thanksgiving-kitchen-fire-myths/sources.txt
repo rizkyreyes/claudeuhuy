@@ -1,0 +1,19 @@
+# c22 Thanksgiving kitchen fire myths: fact -> source (checked 23 Nov 2026, cloud run; nfpa.org and cpsc.gov checked on search excerpts, both not reachable from the sandbox)
+1 Thanksgiving is the leading (No. 1) day of the year for U.S. home cooking fires; an estimated 1,446 home cooking fires on Thanksgiving Day 2023 (NFPA, reported Nov 2025)
+  NFPA via Carrier Management (13 Nov 2025): https://www.carriermanagement.com/news/2025/11/13/281415.htm
+  NFPA via ISHN: https://ishn.com/articles/109812-thanksgiving-is-1-day-for-us-home-cooking-fires
+  ("about 1,450" = rounded 1,446)
+2 Unattended cooking is the leading contributing factor in home cooking fires; turn off the stove if you leave the kitchen, even briefly
+  NFPA (via Carrier Management above); CPSC "Stand By Your Pan" Thanksgiving tips: https://www.cpsc.gov/Newsroom/News-Releases/2018/Stand-By-Your-Pan-Thanksgiving-Cooking-Tips-That-You-Can-Be-Thankful-For
+  NFPA tip as reproduced by Joint Base San Antonio: https://www.jbsa.mil/Portals/102/Documents/Fire%20Emergency%20Services/Cooking%20Safety.pdf ; Sacramento Fire: https://www.cityofsacramento.gov/fire/fire-prevention/safety-tips/cooking-safety
+3 Grease fire: slide a lid over the pan, turn off the heat, keep the lid on until the pan cools; never use water or flour
+  CPSC "Recipe for Safer Cooking": https://www.cpsc.gov/safety-education/safety-guides/home-fire/recipe-safer-cooking
+  University of Illinois Extension "Kitchen fires" (flour can ignite): https://extension.illinois.edu/food-safety/kitchen-fires
+4 Oven/broiler fire: keep the door shut and turn off the heat to smother it
+  CPSC "Recipe for Safer Cooking" (above); Illinois Extension (keep the oven door closed until the fire is out)
+5 Turkey fryers: use outdoors in an open area away from walls, fences and other structures; not on a porch, in a garage or next to the house; thaw fully and dry the bird, partially frozen/wet turkeys cause excessive hot-oil spatter
+  CPSC "Issues Safety Tips for Turkey Fryers" (2004): https://www.cpsc.gov/Newsroom/News-Releases/2004/CPSC-Issues-Safety-Tips-for-Turkey-Fryers
+  NPR on CPSC warnings (22 Nov 2023): https://www.npr.org/2023/11/22/1214667773/frying-turkey-safely-thanksgiving
+Cut: water on a grease fire (done in c10), "388 % above the daily average" multiple (changes by year), NFPA's stronger "don't use outdoor gas fryers" position (kept to CPSC tips).
+Not busting any upcoming 3D video topic (garbage disposal, dryer vent, sump pump, breaker, gas meter, smoke alarm, T&P valve, iron, pot lid, wine punt, bottle cap).
+Photos (Pexels, no faces, no readable brands): cover 5876741, day 6937450, away 30745118, flour 34541986, oven 10855209, fryer 13533551, end 35193026
