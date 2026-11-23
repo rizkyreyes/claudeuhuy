@@ -2,7 +2,7 @@
 
 Nothing is posted until Rizky says "setuju" on the final video + caption. One video per ET day: check Buffer for Sun 29 Nov first.
 3d-35 pipe-lining-cipp (Sat 28 Nov) ends on "NEXT: WHY JEANS HAVE RIVETS", so this one must be the next video posted.
-This video ends on "NEXT: HAIR DRYER PLUG" = 3d-37 hair-dryer-plug-block-3d, which must stay the next video posted.
+This video ends on "NEXT: WHERE SHOWER WATER GOES" = 3d-36b shower-drain (Mon 30 Nov), which must stay the next video posted.
 
 ## YouTube title (21 Nov rule: max ~30 chars, NO hashtags in the title)
 - **Why Jeans Have Copper Rivets** (kept; 28 chars, search phrase "why do jeans have rivets")

@@ -1,0 +1,2066 @@
+D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\build_scene.py:124: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  try: m.use_nodes = True
+D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\build_scene.py:476: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  try: M_INV.use_nodes = True
+00:03.984  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+bake: frame 310 :: 1403
+bake: frame 311 :: 1403
+bake: frame 312 :: 1403
+bake: frame 313 :: 1403
+bake: frame 314 :: 1403
+bake: frame 315 :: 1403
+bake: frame 316 :: 1403
+bake: frame 317 :: 1403
+bake: frame 318 :: 1403
+bake: frame 319 :: 1403
+bake: frame 320 :: 1403
+bake: frame 321 :: 1403
+bake: frame 322 :: 1403
+bake: frame 323 :: 1403
+bake: frame 324 :: 1403
+bake: frame 325 :: 1403
+bake: frame 326 :: 1403
+bake: frame 327 :: 1403
+bake: frame 328 :: 1403
+bake: frame 329 :: 1403
+bake: frame 330 :: 1403
+bake: frame 331 :: 1403
+bake: frame 332 :: 1403
+bake: frame 333 :: 1403
+bake: frame 334 :: 1403
+bake: frame 335 :: 1403
+bake: frame 336 :: 1403
+bake: frame 337 :: 1403
+bake: frame 338 :: 1403
+bake: frame 339 :: 1403
+bake: frame 340 :: 1403
+bake: frame 341 :: 1403
+bake: frame 342 :: 1403
+bake: frame 343 :: 1403
+bake: frame 344 :: 1403
+bake: frame 345 :: 1403
+bake: frame 346 :: 1403
+bake: frame 347 :: 1403
+bake: frame 348 :: 1403
+bake: frame 349 :: 1403
+bake: frame 350 :: 1403
+bake: frame 351 :: 1403
+bake: frame 352 :: 1403
+bake: frame 353 :: 1403
+bake: frame 354 :: 1403
+bake: frame 355 :: 1403
+bake: frame 356 :: 1403
+bake: frame 357 :: 1403
+bake: frame 358 :: 1403
+bake: frame 359 :: 1403
+bake: frame 360 :: 1403
+bake: frame 361 :: 1403
+bake: frame 362 :: 1403
+bake: frame 363 :: 1403
+bake: frame 364 :: 1403
+bake: frame 365 :: 1403
+bake: frame 366 :: 1403
+bake: frame 367 :: 1403
+bake: frame 368 :: 1403
+bake: frame 369 :: 1403
+bake: frame 370 :: 1403
+bake: frame 371 :: 1403
+bake: frame 372 :: 1403
+bake: frame 373 :: 1403
+bake: frame 374 :: 1403
+bake: frame 375 :: 1403
+bake: frame 376 :: 1403
+bake: frame 377 :: 1403
+bake: frame 378 :: 1403
+bake: frame 379 :: 1403
+bake: frame 380 :: 1403
+bake: frame 381 :: 1403
+bake: frame 382 :: 1403
+bake: frame 383 :: 1403
+bake: frame 384 :: 1403
+bake: frame 385 :: 1403
+bake: frame 386 :: 1403
+bake: frame 387 :: 1403
+bake: frame 388 :: 1403
+bake: frame 389 :: 1403
+bake: frame 390 :: 1403
+bake: frame 391 :: 1403
+bake: frame 392 :: 1403
+bake: frame 393 :: 1403
+bake: frame 394 :: 1403
+bake: frame 395 :: 1403
+bake: frame 396 :: 1403
+bake: frame 397 :: 1403
+bake: frame 398 :: 1403
+bake: frame 399 :: 1403
+bake: frame 400 :: 1403
+bake: frame 401 :: 1403
+bake: frame 402 :: 1403
+bake: frame 403 :: 1403
+bake: frame 404 :: 1403
+bake: frame 405 :: 1403
+bake: frame 406 :: 1403
+bake: frame 407 :: 1403
+bake: frame 408 :: 1403
+bake: frame 409 :: 1403
+bake: frame 410 :: 1403
+bake: frame 411 :: 1403
+bake: frame 412 :: 1403
+bake: frame 413 :: 1403
+bake: frame 414 :: 1403
+bake: frame 415 :: 1403
+bake: frame 416 :: 1403
+bake: frame 417 :: 1403
+bake: frame 418 :: 1403
+bake: frame 419 :: 1403
+bake: frame 420 :: 1403
+bake: frame 421 :: 1403
+bake: frame 422 :: 1403
+bake: frame 423 :: 1403
+bake: frame 424 :: 1403
+bake: frame 425 :: 1403
+bake: frame 426 :: 1403
+bake: frame 427 :: 1403
+bake: frame 428 :: 1403
+bake: frame 429 :: 1403
+bake: frame 430 :: 1403
+bake: frame 431 :: 1403
+bake: frame 432 :: 1403
+bake: frame 433 :: 1403
+bake: frame 434 :: 1403
+bake: frame 435 :: 1403
+bake: frame 436 :: 1403
+bake: frame 437 :: 1403
+bake: frame 438 :: 1403
+bake: frame 439 :: 1403
+bake: frame 440 :: 1403
+bake: frame 441 :: 1403
+bake: frame 442 :: 1403
+bake: frame 443 :: 1403
+bake: frame 444 :: 1403
+bake: frame 445 :: 1403
+bake: frame 446 :: 1403
+bake: frame 447 :: 1403
+bake: frame 448 :: 1403
+bake: frame 449 :: 1403
+bake: frame 450 :: 1403
+bake: frame 451 :: 1403
+bake: frame 452 :: 1403
+bake: frame 453 :: 1403
+bake: frame 454 :: 1403
+bake: frame 455 :: 1403
+bake: frame 456 :: 1403
+bake: frame 457 :: 1403
+bake: frame 458 :: 1403
+bake: frame 459 :: 1403
+bake: frame 460 :: 1403
+bake: frame 461 :: 1403
+bake: frame 462 :: 1403
+bake: frame 463 :: 1403
+bake: frame 464 :: 1403
+bake: frame 465 :: 1403
+bake: frame 466 :: 1403
+bake: frame 467 :: 1403
+bake: frame 468 :: 1403
+bake: frame 469 :: 1403
+bake: frame 470 :: 1403
+bake: frame 471 :: 1403
+bake: frame 472 :: 1403
+bake: frame 473 :: 1403
+bake: frame 474 :: 1403
+bake: frame 475 :: 1403
+bake: frame 476 :: 1403
+bake: frame 477 :: 1403
+bake: frame 478 :: 1403
+bake: frame 479 :: 1403
+bake: frame 480 :: 1403
+bake: frame 481 :: 1403
+bake: frame 482 :: 1403
+bake: frame 483 :: 1403
+bake: frame 484 :: 1403
+bake: frame 485 :: 1403
+bake: frame 486 :: 1403
+bake: frame 487 :: 1403
+bake: frame 488 :: 1403
+bake: frame 489 :: 1403
+bake: frame 490 :: 1403
+bake: frame 491 :: 1403
+bake: frame 492 :: 1403
+bake: frame 493 :: 1403
+bake: frame 494 :: 1403
+bake: frame 495 :: 1403
+bake: frame 496 :: 1403
+bake: frame 497 :: 1403
+bake: frame 498 :: 1403
+bake: frame 499 :: 1403
+bake: frame 500 :: 1403
+bake: frame 501 :: 1403
+bake: frame 502 :: 1403
+bake: frame 503 :: 1403
+bake: frame 504 :: 1403
+bake: frame 505 :: 1403
+bake: frame 506 :: 1403
+bake: frame 507 :: 1403
+bake: frame 508 :: 1403
+bake: frame 509 :: 1403
+bake: frame 510 :: 1403
+bake: frame 511 :: 1403
+bake: frame 512 :: 1403
+bake: frame 513 :: 1403
+bake: frame 514 :: 1403
+bake: frame 515 :: 1403
+bake: frame 516 :: 1403
+bake: frame 517 :: 1403
+bake: frame 518 :: 1403
+bake: frame 519 :: 1403
+bake: frame 520 :: 1403
+bake: frame 521 :: 1403
+bake: frame 522 :: 1403
+bake: frame 523 :: 1403
+bake: frame 524 :: 1403
+bake: frame 525 :: 1403
+bake: frame 526 :: 1403
+bake: frame 527 :: 1403
+bake: frame 528 :: 1403
+bake: frame 529 :: 1403
+bake: frame 530 :: 1403
+bake: frame 531 :: 1403
+bake: frame 532 :: 1403
+bake: frame 533 :: 1403
+bake: frame 534 :: 1403
+bake: frame 535 :: 1403
+bake: frame 536 :: 1403
+bake: frame 537 :: 1403
+bake: frame 538 :: 1403
+bake: frame 539 :: 1403
+bake: frame 540 :: 1403
+bake: frame 541 :: 1403
+bake: frame 542 :: 1403
+bake: frame 543 :: 1403
+bake: frame 544 :: 1403
+bake: frame 545 :: 1403
+bake: frame 546 :: 1403
+bake: frame 547 :: 1403
+bake: frame 548 :: 1403
+bake: frame 549 :: 1403
+bake: frame 550 :: 1403
+bake: frame 551 :: 1403
+bake: frame 552 :: 1403
+bake: frame 553 :: 1403
+bake: frame 554 :: 1403
+bake: frame 555 :: 1403
+bake: frame 556 :: 1403
+bake: frame 557 :: 1403
+bake: frame 558 :: 1403
+bake: frame 559 :: 1403
+bake: frame 560 :: 1403
+bake: frame 561 :: 1403
+bake: frame 562 :: 1403
+bake: frame 563 :: 1403
+bake: frame 564 :: 1403
+bake: frame 565 :: 1403
+bake: frame 566 :: 1403
+bake: frame 567 :: 1403
+bake: frame 568 :: 1403
+bake: frame 569 :: 1403
+bake: frame 570 :: 1403
+bake: frame 571 :: 1403
+bake: frame 572 :: 1403
+bake: frame 573 :: 1403
+bake: frame 574 :: 1403
+bake: frame 575 :: 1403
+bake: frame 576 :: 1403
+bake: frame 577 :: 1403
+bake: frame 578 :: 1403
+bake: frame 579 :: 1403
+bake: frame 580 :: 1403
+bake: frame 581 :: 1403
+bake: frame 582 :: 1403
+bake: frame 583 :: 1403
+bake: frame 584 :: 1403
+bake: frame 585 :: 1403
+bake: frame 586 :: 1403
+bake: frame 587 :: 1403
+bake: frame 588 :: 1403
+bake: frame 589 :: 1403
+bake: frame 590 :: 1403
+bake: frame 591 :: 1403
+bake: frame 592 :: 1403
+bake: frame 593 :: 1403
+bake: frame 594 :: 1403
+bake: frame 595 :: 1403
+bake: frame 596 :: 1403
+bake: frame 597 :: 1403
+bake: frame 598 :: 1403
+bake: frame 599 :: 1403
+bake: frame 600 :: 1403
+bake: frame 601 :: 1403
+bake: frame 602 :: 1403
+bake: frame 603 :: 1403
+bake: frame 604 :: 1403
+bake: frame 605 :: 1403
+bake: frame 606 :: 1403
+bake: frame 607 :: 1403
+bake: frame 608 :: 1403
+bake: frame 609 :: 1403
+bake: frame 610 :: 1403
+bake: frame 611 :: 1403
+bake: frame 612 :: 1403
+bake: frame 613 :: 1403
+bake: frame 614 :: 1403
+bake: frame 615 :: 1403
+bake: frame 616 :: 1403
+bake: frame 617 :: 1403
+bake: frame 618 :: 1403
+bake: frame 619 :: 1403
+bake: frame 620 :: 1403
+bake: frame 621 :: 1403
+bake: frame 622 :: 1403
+bake: frame 623 :: 1403
+bake: frame 624 :: 1403
+bake: frame 625 :: 1403
+bake: frame 626 :: 1403
+bake: frame 627 :: 1403
+bake: frame 628 :: 1403
+bake: frame 629 :: 1403
+bake: frame 630 :: 1403
+bake: frame 631 :: 1403
+bake: frame 632 :: 1403
+bake: frame 633 :: 1403
+bake: frame 634 :: 1403
+bake: frame 635 :: 1403
+bake: frame 636 :: 1403
+bake: frame 637 :: 1403
+bake: frame 638 :: 1403
+bake: frame 639 :: 1403
+bake: frame 640 :: 1403
+bake: frame 641 :: 1403
+bake: frame 642 :: 1403
+bake: frame 643 :: 1403
+bake: frame 644 :: 1403
+bake: frame 645 :: 1403
+bake: frame 646 :: 1403
+bake: frame 647 :: 1403
+bake: frame 648 :: 1403
+bake: frame 649 :: 1403
+bake: frame 650 :: 1403
+bake: frame 651 :: 1403
+bake: frame 652 :: 1403
+bake: frame 653 :: 1403
+bake: frame 654 :: 1403
+bake: frame 655 :: 1403
+bake: frame 656 :: 1403
+bake: frame 657 :: 1403
+bake: frame 658 :: 1403
+bake: frame 659 :: 1403
+bake: frame 660 :: 1403
+bake: frame 661 :: 1403
+bake: frame 662 :: 1403
+bake: frame 663 :: 1403
+bake: frame 664 :: 1403
+bake: frame 665 :: 1403
+bake: frame 666 :: 1403
+bake: frame 667 :: 1403
+bake: frame 668 :: 1403
+bake: frame 669 :: 1403
+bake: frame 670 :: 1403
+bake: frame 671 :: 1403
+bake: frame 672 :: 1403
+bake: frame 673 :: 1403
+bake: frame 674 :: 1403
+bake: frame 675 :: 1403
+bake: frame 676 :: 1403
+bake: frame 677 :: 1403
+bake: frame 678 :: 1403
+bake: frame 679 :: 1403
+bake: frame 680 :: 1403
+bake: frame 681 :: 1403
+bake: frame 682 :: 1403
+bake: frame 683 :: 1403
+bake: frame 684 :: 1403
+bake: frame 685 :: 1403
+bake: frame 686 :: 1403
+bake: frame 687 :: 1403
+bake: frame 688 :: 1403
+bake: frame 689 :: 1403
+bake: frame 690 :: 1403
+bake: frame 691 :: 1403
+bake: frame 692 :: 1403
+bake: frame 693 :: 1403
+bake: frame 694 :: 1403
+bake: frame 695 :: 1403
+bake: frame 696 :: 1403
+bake: frame 697 :: 1403
+bake: frame 698 :: 1403
+bake: frame 699 :: 1403
+bake: frame 700 :: 1403
+bake: frame 701 :: 1403
+bake: frame 702 :: 1403
+bake: frame 703 :: 1403
+bake: frame 704 :: 1403
+bake: frame 705 :: 1403
+bake: frame 706 :: 1403
+bake: frame 707 :: 1403
+bake: frame 708 :: 1403
+bake: frame 709 :: 1403
+bake: frame 710 :: 1403
+bake: frame 711 :: 1403
+bake: frame 712 :: 1403
+bake: frame 713 :: 1403
+bake: frame 714 :: 1403
+bake: frame 715 :: 1403
+bake: frame 716 :: 1403
+bake: frame 717 :: 1403
+bake: frame 718 :: 1403
+bake: frame 719 :: 1403
+bake: frame 720 :: 1403
+bake: frame 721 :: 1403
+bake: frame 722 :: 1403
+bake: frame 723 :: 1403
+bake: frame 724 :: 1403
+bake: frame 725 :: 1403
+bake: frame 726 :: 1403
+bake: frame 727 :: 1403
+bake: frame 728 :: 1403
+bake: frame 729 :: 1403
+bake: frame 730 :: 1403
+bake: frame 731 :: 1403
+bake: frame 732 :: 1403
+bake: frame 733 :: 1403
+bake: frame 734 :: 1403
+bake: frame 735 :: 1403
+bake: frame 736 :: 1403
+bake: frame 737 :: 1403
+bake: frame 738 :: 1403
+bake: frame 739 :: 1403
+bake: frame 740 :: 1403
+bake: frame 741 :: 1403
+bake: frame 742 :: 1403
+bake: frame 743 :: 1403
+bake: frame 744 :: 1403
+bake: frame 745 :: 1403
+bake: frame 746 :: 1403
+bake: frame 747 :: 1403
+bake: frame 748 :: 1403
+bake: frame 749 :: 1403
+bake: frame 750 :: 1403
+bake: frame 751 :: 1403
+bake: frame 752 :: 1403
+bake: frame 753 :: 1403
+bake: frame 754 :: 1403
+bake: frame 755 :: 1403
+bake: frame 756 :: 1403
+bake: frame 757 :: 1403
+bake: frame 758 :: 1403
+bake: frame 759 :: 1403
+bake: frame 760 :: 1403
+bake: frame 761 :: 1403
+bake: frame 762 :: 1403
+bake: frame 763 :: 1403
+bake: frame 764 :: 1403
+bake: frame 765 :: 1403
+bake: frame 766 :: 1403
+bake: frame 767 :: 1403
+bake: frame 768 :: 1403
+bake: frame 769 :: 1403
+bake: frame 770 :: 1403
+bake: frame 771 :: 1403
+bake: frame 772 :: 1403
+bake: frame 773 :: 1403
+bake: frame 774 :: 1403
+bake: frame 775 :: 1403
+bake: frame 776 :: 1403
+bake: frame 777 :: 1403
+bake: frame 778 :: 1403
+bake: frame 779 :: 1403
+bake: frame 780 :: 1403
+bake: frame 781 :: 1403
+bake: frame 782 :: 1403
+bake: frame 783 :: 1403
+bake: frame 784 :: 1403
+bake: frame 785 :: 1403
+bake: frame 786 :: 1403
+bake: frame 787 :: 1403
+bake: frame 788 :: 1403
+bake: frame 789 :: 1403
+bake: frame 790 :: 1403
+bake: frame 791 :: 1403
+bake: frame 792 :: 1403
+bake: frame 793 :: 1403
+bake: frame 794 :: 1403
+bake: frame 795 :: 1403
+bake: frame 796 :: 1403
+bake: frame 797 :: 1403
+bake: frame 798 :: 1403
+bake: frame 799 :: 1403
+bake: frame 800 :: 1403
+bake: frame 801 :: 1403
+bake: frame 802 :: 1403
+bake: frame 803 :: 1403
+bake: frame 804 :: 1403
+bake: frame 805 :: 1403
+bake: frame 806 :: 1403
+bake: frame 807 :: 1403
+bake: frame 808 :: 1403
+bake: frame 809 :: 1403
+bake: frame 810 :: 1403
+bake: frame 811 :: 1403
+bake: frame 812 :: 1403
+bake: frame 813 :: 1403
+bake: frame 814 :: 1403
+bake: frame 815 :: 1403
+bake: frame 816 :: 1403
+bake: frame 817 :: 1403
+bake: frame 818 :: 1403
+bake: frame 819 :: 1403
+bake: frame 820 :: 1403
+bake: frame 821 :: 1403
+bake: frame 822 :: 1403
+bake: frame 823 :: 1403
+bake: frame 824 :: 1403
+bake: frame 825 :: 1403
+bake: frame 826 :: 1403
+bake: frame 827 :: 1403
+bake: frame 828 :: 1403
+bake: frame 829 :: 1403
+bake: frame 830 :: 1403
+bake: frame 831 :: 1403
+bake: frame 832 :: 1403
+bake: frame 833 :: 1403
+bake: frame 834 :: 1403
+bake: frame 835 :: 1403
+bake: frame 836 :: 1403
+bake: frame 837 :: 1403
+bake: frame 838 :: 1403
+bake: frame 839 :: 1403
+bake: frame 840 :: 1403
+bake: frame 841 :: 1403
+bake: frame 842 :: 1403
+bake: frame 843 :: 1403
+bake: frame 844 :: 1403
+bake: frame 845 :: 1403
+bake: frame 846 :: 1403
+bake: frame 847 :: 1403
+bake: frame 848 :: 1403
+bake: frame 849 :: 1403
+bake: frame 850 :: 1403
+bake: frame 851 :: 1403
+bake: frame 852 :: 1403
+bake: frame 853 :: 1403
+bake: frame 854 :: 1403
+bake: frame 855 :: 1403
+bake: frame 856 :: 1403
+bake: frame 857 :: 1403
+bake: frame 858 :: 1403
+bake: frame 859 :: 1403
+bake: frame 860 :: 1403
+bake: frame 861 :: 1403
+bake: frame 862 :: 1403
+bake: frame 863 :: 1403
+bake: frame 864 :: 1403
+bake: frame 865 :: 1403
+bake: frame 866 :: 1403
+bake: frame 867 :: 1403
+bake: frame 868 :: 1403
+bake: frame 869 :: 1403
+bake: frame 870 :: 1403
+bake: frame 871 :: 1403
+bake: frame 872 :: 1403
+bake: frame 873 :: 1403
+bake: frame 874 :: 1403
+bake: frame 875 :: 1403
+bake: frame 876 :: 1403
+bake: frame 877 :: 1403
+bake: frame 878 :: 1403
+bake: frame 879 :: 1403
+bake: frame 880 :: 1403
+bake: frame 881 :: 1403
+bake: frame 882 :: 1403
+bake: frame 883 :: 1403
+bake: frame 884 :: 1403
+bake: frame 885 :: 1403
+bake: frame 886 :: 1403
+bake: frame 887 :: 1403
+bake: frame 888 :: 1403
+bake: frame 889 :: 1403
+bake: frame 890 :: 1403
+bake: frame 891 :: 1403
+bake: frame 892 :: 1403
+bake: frame 893 :: 1403
+bake: frame 894 :: 1403
+bake: frame 895 :: 1403
+bake: frame 896 :: 1403
+bake: frame 897 :: 1403
+bake: frame 898 :: 1403
+bake: frame 899 :: 1403
+bake: frame 900 :: 1403
+bake: frame 901 :: 1403
+bake: frame 902 :: 1403
+bake: frame 903 :: 1403
+bake: frame 904 :: 1403
+bake: frame 905 :: 1403
+bake: frame 906 :: 1403
+bake: frame 907 :: 1403
+bake: frame 908 :: 1403
+bake: frame 909 :: 1403
+bake: frame 910 :: 1403
+bake: frame 911 :: 1403
+bake: frame 912 :: 1403
+bake: frame 913 :: 1403
+bake: frame 914 :: 1403
+bake: frame 915 :: 1403
+bake: frame 916 :: 1403
+bake: frame 917 :: 1403
+bake: frame 918 :: 1403
+bake: frame 919 :: 1403
+bake: frame 920 :: 1403
+bake: frame 921 :: 1403
+bake: frame 922 :: 1403
+bake: frame 923 :: 1403
+bake: frame 924 :: 1403
+bake: frame 925 :: 1403
+bake: frame 926 :: 1403
+bake: frame 927 :: 1403
+bake: frame 928 :: 1403
+bake: frame 929 :: 1403
+bake: frame 930 :: 1403
+bake: frame 931 :: 1403
+bake: frame 932 :: 1403
+bake: frame 933 :: 1403
+bake: frame 934 :: 1403
+bake: frame 935 :: 1403
+bake: frame 936 :: 1403
+bake: frame 937 :: 1403
+bake: frame 938 :: 1403
+bake: frame 939 :: 1403
+bake: frame 940 :: 1403
+bake: frame 941 :: 1403
+bake: frame 942 :: 1403
+bake: frame 943 :: 1403
+bake: frame 944 :: 1403
+bake: frame 945 :: 1403
+bake: frame 946 :: 1403
+bake: frame 947 :: 1403
+bake: frame 948 :: 1403
+bake: frame 949 :: 1403
+bake: frame 950 :: 1403
+bake: frame 951 :: 1403
+bake: frame 952 :: 1403
+bake: frame 953 :: 1403
+bake: frame 954 :: 1403
+bake: frame 955 :: 1403
+bake: frame 956 :: 1403
+bake: frame 957 :: 1403
+bake: frame 958 :: 1403
+bake: frame 959 :: 1403
+bake: frame 960 :: 1403
+bake: frame 961 :: 1403
+bake: frame 962 :: 1403
+bake: frame 963 :: 1403
+bake: frame 964 :: 1403
+bake: frame 965 :: 1403
+bake: frame 966 :: 1403
+bake: frame 967 :: 1403
+bake: frame 968 :: 1403
+bake: frame 969 :: 1403
+bake: frame 970 :: 1403
+bake: frame 971 :: 1403
+bake: frame 972 :: 1403
+bake: frame 973 :: 1403
+bake: frame 974 :: 1403
+bake: frame 975 :: 1403
+bake: frame 976 :: 1403
+bake: frame 977 :: 1403
+bake: frame 978 :: 1403
+bake: frame 979 :: 1403
+bake: frame 980 :: 1403
+bake: frame 981 :: 1403
+bake: frame 982 :: 1403
+bake: frame 983 :: 1403
+bake: frame 984 :: 1403
+bake: frame 985 :: 1403
+bake: frame 986 :: 1403
+bake: frame 987 :: 1403
+bake: frame 988 :: 1403
+bake: frame 989 :: 1403
+bake: frame 990 :: 1403
+bake: frame 991 :: 1403
+bake: frame 992 :: 1403
+bake: frame 993 :: 1403
+bake: frame 994 :: 1403
+bake: frame 995 :: 1403
+bake: frame 996 :: 1403
+bake: frame 997 :: 1403
+bake: frame 998 :: 1403
+bake: frame 999 :: 1403
+bake: frame 1000 :: 1403
+bake: frame 1001 :: 1403
+bake: frame 1002 :: 1403
+bake: frame 1003 :: 1403
+bake: frame 1004 :: 1403
+bake: frame 1005 :: 1403
+bake: frame 1006 :: 1403
+bake: frame 1007 :: 1403
+bake: frame 1008 :: 1403
+bake: frame 1009 :: 1403
+bake: frame 1010 :: 1403
+bake: frame 1011 :: 1403
+bake: frame 1012 :: 1403
+bake: frame 1013 :: 1403
+bake: frame 1014 :: 1403
+bake: frame 1015 :: 1403
+bake: frame 1016 :: 1403
+bake: frame 1017 :: 1403
+bake: frame 1018 :: 1403
+bake: frame 1019 :: 1403
+bake: frame 1020 :: 1403
+bake: frame 1021 :: 1403
+bake: frame 1022 :: 1403
+bake: frame 1023 :: 1403
+bake: frame 1024 :: 1403
+bake: frame 1025 :: 1403
+bake: frame 1026 :: 1403
+bake: frame 1027 :: 1403
+bake: frame 1028 :: 1403
+bake: frame 1029 :: 1403
+bake: frame 1030 :: 1403
+bake: frame 1031 :: 1403
+bake: frame 1032 :: 1403
+bake: frame 1033 :: 1403
+bake: frame 1034 :: 1403
+bake: frame 1035 :: 1403
+bake: frame 1036 :: 1403
+bake: frame 1037 :: 1403
+bake: frame 1038 :: 1403
+bake: frame 1039 :: 1403
+bake: frame 1040 :: 1403
+bake: frame 1041 :: 1403
+bake: frame 1042 :: 1403
+bake: frame 1043 :: 1403
+bake: frame 1044 :: 1403
+bake: frame 1045 :: 1403
+bake: frame 1046 :: 1403
+bake: frame 1047 :: 1403
+bake: frame 1048 :: 1403
+bake: frame 1049 :: 1403
+bake: frame 1050 :: 1403
+bake: frame 1051 :: 1403
+bake: frame 1052 :: 1403
+bake: frame 1053 :: 1403
+bake: frame 1054 :: 1403
+bake: frame 1055 :: 1403
+bake: frame 1056 :: 1403
+bake: frame 1057 :: 1403
+bake: frame 1058 :: 1403
+bake: frame 1059 :: 1403
+bake: frame 1060 :: 1403
+bake: frame 1061 :: 1403
+bake: frame 1062 :: 1403
+bake: frame 1063 :: 1403
+bake: frame 1064 :: 1403
+bake: frame 1065 :: 1403
+bake: frame 1066 :: 1403
+bake: frame 1067 :: 1403
+bake: frame 1068 :: 1403
+bake: frame 1069 :: 1403
+bake: frame 1070 :: 1403
+bake: frame 1071 :: 1403
+bake: frame 1072 :: 1403
+bake: frame 1073 :: 1403
+bake: frame 1074 :: 1403
+bake: frame 1075 :: 1403
+bake: frame 1076 :: 1403
+bake: frame 1077 :: 1403
+bake: frame 1078 :: 1403
+bake: frame 1079 :: 1403
+bake: frame 1080 :: 1403
+bake: frame 1081 :: 1403
+bake: frame 1082 :: 1403
+bake: frame 1083 :: 1403
+bake: frame 1084 :: 1403
+bake: frame 1085 :: 1403
+bake: frame 1086 :: 1403
+bake: frame 1087 :: 1403
+bake: frame 1088 :: 1403
+bake: frame 1089 :: 1403
+bake: frame 1090 :: 1403
+bake: frame 1091 :: 1403
+bake: frame 1092 :: 1403
+bake: frame 1093 :: 1403
+bake: frame 1094 :: 1403
+bake: frame 1095 :: 1403
+bake: frame 1096 :: 1403
+bake: frame 1097 :: 1403
+bake: frame 1098 :: 1403
+bake: frame 1099 :: 1403
+bake: frame 1100 :: 1403
+bake: frame 1101 :: 1403
+bake: frame 1102 :: 1403
+bake: frame 1103 :: 1403
+bake: frame 1104 :: 1403
+bake: frame 1105 :: 1403
+bake: frame 1106 :: 1403
+bake: frame 1107 :: 1403
+bake: frame 1108 :: 1403
+bake: frame 1109 :: 1403
+bake: frame 1110 :: 1403
+bake: frame 1111 :: 1403
+bake: frame 1112 :: 1403
+bake: frame 1113 :: 1403
+bake: frame 1114 :: 1403
+bake: frame 1115 :: 1403
+bake: frame 1116 :: 1403
+bake: frame 1117 :: 1403
+bake: frame 1118 :: 1403
+bake: frame 1119 :: 1403
+bake: frame 1120 :: 1403
+bake: frame 1121 :: 1403
+bake: frame 1122 :: 1403
+bake: frame 1123 :: 1403
+bake: frame 1124 :: 1403
+bake: frame 1125 :: 1403
+bake: frame 1126 :: 1403
+bake: frame 1127 :: 1403
+bake: frame 1128 :: 1403
+bake: frame 1129 :: 1403
+bake: frame 1130 :: 1403
+bake: frame 1131 :: 1403
+bake: frame 1132 :: 1403
+bake: frame 1133 :: 1403
+bake: frame 1134 :: 1403
+bake: frame 1135 :: 1403
+bake: frame 1136 :: 1403
+bake: frame 1137 :: 1403
+bake: frame 1138 :: 1403
+bake: frame 1139 :: 1403
+bake: frame 1140 :: 1403
+bake: frame 1141 :: 1403
+bake: frame 1142 :: 1403
+bake: frame 1143 :: 1403
+bake: frame 1144 :: 1403
+bake: frame 1145 :: 1403
+bake: frame 1146 :: 1403
+bake: frame 1147 :: 1403
+bake: frame 1148 :: 1403
+bake: frame 1149 :: 1403
+bake: frame 1150 :: 1403
+bake: frame 1151 :: 1403
+bake: frame 1152 :: 1403
+bake: frame 1153 :: 1403
+bake: frame 1154 :: 1403
+bake: frame 1155 :: 1403
+bake: frame 1156 :: 1403
+bake: frame 1157 :: 1403
+bake: frame 1158 :: 1403
+bake: frame 1159 :: 1403
+bake: frame 1160 :: 1403
+bake: frame 1161 :: 1403
+bake: frame 1162 :: 1403
+bake: frame 1163 :: 1403
+bake: frame 1164 :: 1403
+bake: frame 1165 :: 1403
+bake: frame 1166 :: 1403
+bake: frame 1167 :: 1403
+bake: frame 1168 :: 1403
+bake: frame 1169 :: 1403
+bake: frame 1170 :: 1403
+bake: frame 1171 :: 1403
+bake: frame 1172 :: 1403
+bake: frame 1173 :: 1403
+bake: frame 1174 :: 1403
+bake: frame 1175 :: 1403
+bake: frame 1176 :: 1403
+bake: frame 1177 :: 1403
+bake: frame 1178 :: 1403
+bake: frame 1179 :: 1403
+bake: frame 1180 :: 1403
+bake: frame 1181 :: 1403
+bake: frame 1182 :: 1403
+bake: frame 1183 :: 1403
+bake: frame 1184 :: 1403
+bake: frame 1185 :: 1403
+bake: frame 1186 :: 1403
+bake: frame 1187 :: 1403
+bake: frame 1188 :: 1403
+bake: frame 1189 :: 1403
+bake: frame 1190 :: 1403
+bake: frame 1191 :: 1403
+bake: frame 1192 :: 1403
+bake: frame 1193 :: 1403
+bake: frame 1194 :: 1403
+bake: frame 1195 :: 1403
+bake: frame 1196 :: 1403
+bake: frame 1197 :: 1403
+bake: frame 1198 :: 1403
+bake: frame 1199 :: 1403
+bake: frame 1200 :: 1403
+bake: frame 1201 :: 1403
+bake: frame 1202 :: 1403
+bake: frame 1203 :: 1403
+bake: frame 1204 :: 1403
+bake: frame 1205 :: 1403
+bake: frame 1206 :: 1403
+bake: frame 1207 :: 1403
+bake: frame 1208 :: 1403
+bake: frame 1209 :: 1403
+bake: frame 1210 :: 1403
+bake: frame 1211 :: 1403
+bake: frame 1212 :: 1403
+bake: frame 1213 :: 1403
+bake: frame 1214 :: 1403
+bake: frame 1215 :: 1403
+bake: frame 1216 :: 1403
+bake: frame 1217 :: 1403
+bake: frame 1218 :: 1403
+bake: frame 1219 :: 1403
+bake: frame 1220 :: 1403
+bake: frame 1221 :: 1403
+bake: frame 1222 :: 1403
+bake: frame 1223 :: 1403
+bake: frame 1224 :: 1403
+bake: frame 1225 :: 1403
+bake: frame 1226 :: 1403
+bake: frame 1227 :: 1403
+bake: frame 1228 :: 1403
+bake: frame 1229 :: 1403
+bake: frame 1230 :: 1403
+bake: frame 1231 :: 1403
+bake: frame 1232 :: 1403
+bake: frame 1233 :: 1403
+bake: frame 1234 :: 1403
+bake: frame 1235 :: 1403
+bake: frame 1236 :: 1403
+bake: frame 1237 :: 1403
+bake: frame 1238 :: 1403
+bake: frame 1239 :: 1403
+bake: frame 1240 :: 1403
+bake: frame 1241 :: 1403
+bake: frame 1242 :: 1403
+bake: frame 1243 :: 1403
+bake: frame 1244 :: 1403
+bake: frame 1245 :: 1403
+bake: frame 1246 :: 1403
+bake: frame 1247 :: 1403
+bake: frame 1248 :: 1403
+bake: frame 1249 :: 1403
+bake: frame 1250 :: 1403
+bake: frame 1251 :: 1403
+bake: frame 1252 :: 1403
+bake: frame 1253 :: 1403
+bake: frame 1254 :: 1403
+bake: frame 1255 :: 1403
+bake: frame 1256 :: 1403
+bake: frame 1257 :: 1403
+bake: frame 1258 :: 1403
+bake: frame 1259 :: 1403
+bake: frame 1260 :: 1403
+bake: frame 1261 :: 1403
+bake: frame 1262 :: 1403
+bake: frame 1263 :: 1403
+bake: frame 1264 :: 1403
+bake: frame 1265 :: 1403
+bake: frame 1266 :: 1403
+bake: frame 1267 :: 1403
+bake: frame 1268 :: 1403
+bake: frame 1269 :: 1403
+bake: frame 1270 :: 1403
+bake: frame 1271 :: 1403
+bake: frame 1272 :: 1403
+bake: frame 1273 :: 1403
+bake: frame 1274 :: 1403
+bake: frame 1275 :: 1403
+bake: frame 1276 :: 1403
+bake: frame 1277 :: 1403
+bake: frame 1278 :: 1403
+bake: frame 1279 :: 1403
+bake: frame 1280 :: 1403
+bake: frame 1281 :: 1403
+bake: frame 1282 :: 1403
+bake: frame 1283 :: 1403
+bake: frame 1284 :: 1403
+bake: frame 1285 :: 1403
+bake: frame 1286 :: 1403
+bake: frame 1287 :: 1403
+bake: frame 1288 :: 1403
+bake: frame 1289 :: 1403
+bake: frame 1290 :: 1403
+bake: frame 1291 :: 1403
+bake: frame 1292 :: 1403
+bake: frame 1293 :: 1403
+bake: frame 1294 :: 1403
+bake: frame 1295 :: 1403
+bake: frame 1296 :: 1403
+bake: frame 1297 :: 1403
+bake: frame 1298 :: 1403
+bake: frame 1299 :: 1403
+bake: frame 1300 :: 1403
+bake: frame 1301 :: 1403
+bake: frame 1302 :: 1403
+bake: frame 1303 :: 1403
+bake: frame 1304 :: 1403
+bake: frame 1305 :: 1403
+bake: frame 1306 :: 1403
+bake: frame 1307 :: 1403
+bake: frame 1308 :: 1403
+bake: frame 1309 :: 1403
+bake: frame 1310 :: 1403
+bake: frame 1311 :: 1403
+bake: frame 1312 :: 1403
+bake: frame 1313 :: 1403
+bake: frame 1314 :: 1403
+bake: frame 1315 :: 1403
+bake: frame 1316 :: 1403
+bake: frame 1317 :: 1403
+ba02:01.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0001.png'
+02:03.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0002.png'
+02:05.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0003.png'
+02:08.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0004.png'
+02:10.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0005.png'
+02:12.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0006.png'
+02:14.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0007.png'
+02:16.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0008.png'
+02:19.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0009.png'
+02:21.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0010.png'
+02:23.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0011.png'
+02:25.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0012.png'
+02:27.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0013.png'
+02:29.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0014.png'
+02:32.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0015.png'
+02:33.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0016.png'
+02:36.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0017.png'
+02:38.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0018.png'
+02:40.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0019.png'
+02:42.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0020.png'
+02:45.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0021.png'
+02:47.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0022.png'
+02:49.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0023.png'
+02:51.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0024.png'
+02:53.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0025.png'
+02:55.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0026.png'
+02:57.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0027.png'
+03:02.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0028.png'
+03:04.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0029.png'
+03:09.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0030.png'
+03:12.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0031.png'
+03:15.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0032.png'
+03:17.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0033.png'
+03:20.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0034.png'
+03:22.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0035.png'
+03:24.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0036.png'
+03:27.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0037.png'
+03:29.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0038.png'
+03:31.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0039.png'
+03:33.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0040.png'
+03:36.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0041.png'
+03:39.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0042.png'
+03:41.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0043.png'
+03:43.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0044.png'
+03:45.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0045.png'
+03:47.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0046.png'
+03:50.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0047.png'
+03:52.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0048.png'
+03:54.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0049.png'
+03:56.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0050.png'
+03:58.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0051.png'
+04:00.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0052.png'
+04:03.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0053.png'
+04:05.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0054.png'
+04:07.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0055.png'
+04:09.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0056.png'
+04:11.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0057.png'
+04:14.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0058.png'
+04:17.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0059.png'
+04:19.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0060.png'
+04:21.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0061.png'
+04:23.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0062.png'
+04:25.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0063.png'
+04:28.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0064.png'
+04:30.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0065.png'
+04:32.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0066.png'
+04:34.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0067.png'
+04:36.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0068.png'
+04:46.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0069.png'
+04:52.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0070.png'
+04:55.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0071.png'
+04:57.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0072.png'
+04:59.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0073.png'
+05:01.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0074.png'
+05:03.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0075.png'
+05:05.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0076.png'
+05:08.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0077.png'
+05:11.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0078.png'
+05:14.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0079.png'
+05:16.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0080.png'
+05:19.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0081.png'
+05:21.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0082.png'
+05:23.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0083.png'
+05:25.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0084.png'
+05:27.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0085.png'
+05:30.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0086.png'
+05:32.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0087.png'
+05:34.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0088.png'
+05:36.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0089.png'
+05:38.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0090.png'
+05:40.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0091.png'
+05:43.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0092.png'
+05:45.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0093.png'
+05:47.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0094.png'
+05:49.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0095.png'
+05:51.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0096.png'
+05:54.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0097.png'
+05:56.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0098.png'
+05:58.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0099.png'
+06:00.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0100.png'
+06:03.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0101.png'
+06:05.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0102.png'
+06:07.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0103.png'
+06:09.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0104.png'
+06:11.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0105.png'
+06:14.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0106.png'
+06:16.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0107.png'
+06:18.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0108.png'
+06:20.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0109.png'
+06:23.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0110.png'
+06:25.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0111.png'
+06:27.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0112.png'
+06:29.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0113.png'
+06:31.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0114.png'
+06:34.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0115.png'
+06:36.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0116.png'
+06:38.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0117.png'
+06:40.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0118.png'
+06:44.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0119.png'
+06:46.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0120.png'
+06:50.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0121.png'
+06:53.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0122.png'
+06:57.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0123.png'
+06:59.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0124.png'
+07:01.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0125.png'
+07:04.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0126.png'
+07:06.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0127.png'
+07:08.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0128.png'
+07:10.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0129.png'
+07:14.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0130.png'
+07:18.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0131.png'
+07:21.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0132.png'
+07:23.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0133.png'
+07:25.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0134.png'
+07:28.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0135.png'
+07:30.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0136.png'
+07:32.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0137.png'
+07:35.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0138.png'
+07:37.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0139.png'
+07:39.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0140.png'
+07:41.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0141.png'
+07:44.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0142.png'
+07:46.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0143.png'
+07:48.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0144.png'
+07:50.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0145.png'
+07:53.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0146.png'
+07:55.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0147.png'
+07:57.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0148.png'
+07:59.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0149.png'
+08:02.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0150.png'
+08:04.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0151.png'
+08:06.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0152.png'
+08:08.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0153.png'
+08:10.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0154.png'
+08:12.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0155.png'
+08:14.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0156.png'
+08:16.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0157.png'
+08:18.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0158.png'
+08:20.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0159.png'
+08:22.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0160.png'
+08:24.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0161.png'
+08:26.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0162.png'
+08:29.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0163.png'
+08:32.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0164.png'
+08:34.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0165.png'
+08:36.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0166.png'
+08:38.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0167.png'
+08:40.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0168.png'
+08:42.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0169.png'
+08:44.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0170.png'
+08:46.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0171.png'
+08:50.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0172.png'
+08:52.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0173.png'
+08:54.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0174.png'
+08:56.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0175.png'
+08:58.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0176.png'
+09:00.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0177.png'
+09:02.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0178.png'
+09:04.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0179.png'
+09:06.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0180.png'
+09:09.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0181.png'
+09:11.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0182.png'
+09:13.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0183.png'
+09:15.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0184.png'
+09:18.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0185.png'
+09:21.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0186.png'
+09:23.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0187.png'
+09:25.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0188.png'
+09:27.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0189.png'
+09:29.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0190.png'
+09:31.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0191.png'
+09:33.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0192.png'
+09:35.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0193.png'
+09:39.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0194.png'
+09:41.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0195.png'
+09:43.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0196.png'
+09:46.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0197.png'
+09:49.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0198.png'
+09:51.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0199.png'
+09:53.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0200.png'
+09:55.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0201.png'
+09:57.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0202.png'
+09:59.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0203.png'
+10:01.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0204.png'
+10:04.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0205.png'
+10:05.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0206.png'
+10:08.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0207.png'
+10:10.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0208.png'
+10:12.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0209.png'
+10:14.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0210.png'
+10:16.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0211.png'
+10:19.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0212.png'
+10:21.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0213.png'
+10:23.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0214.png'
+10:25.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0215.png'
+10:27.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0216.png'
+10:30.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0217.png'
+10:32.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0218.png'
+10:34.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0219.png'
+10:38.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0220.png'
+10:40.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0221.png'
+10:42.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0222.png'
+10:44.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0223.png'
+10:46.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0224.png'
+10:49.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0225.png'
+10:51.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0226.png'
+10:53.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0227.png'
+10:55.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0228.png'
+10:57.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0229.png'
+10:59.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0230.png'
+11:01.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0231.png'
+11:03.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0232.png'
+11:06.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0233.png'
+11:08.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0234.png'
+11:10.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0235.png'
+11:12.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0236.png'
+11:14.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0237.png'
+11:16.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0238.png'
+11:18.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0239.png'
+11:21.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0240.png'
+11:23.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0241.png'
+11:25.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0242.png'
+11:28.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0243.png'
+11:30.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0244.png'
+11:32.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0245.png'
+11:34.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0246.png'
+11:36.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0247.png'
+11:38.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0248.png'
+11:40.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0249.png'
+11:43.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0250.png'
+11:45.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0251.png'
+11:47.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0252.png'
+11:49.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0253.png'
+11:51.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0254.png'
+11:53.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0255.png'
+11:55.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0256.png'
+11:57.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0257.png'
+11:59.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0258.png'
+12:01.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0259.png'
+12:04.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0260.png'
+12:06.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0261.png'
+12:08.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0262.png'
+12:10.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0263.png'
+12:12.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0264.png'
+12:15.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0265.png'
+12:17.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0266.png'
+12:19.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0267.png'
+12:21.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0268.png'
+12:23.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0269.png'
+12:25.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0270.png'
+12:27.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0271.png'
+12:29.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0272.png'
+12:31.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0273.png'
+12:34.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0274.png'
+12:36.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0275.png'
+12:39.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0276.png'
+12:41.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0277.png'
+12:43.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0278.png'
+12:45.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0279.png'
+12:47.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0280.png'
+12:49.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0281.png'
+12:51.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0282.png'
+12:53.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0283.png'
+12:55.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0284.png'
+12:57.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0285.png'
+12:59.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0286.png'
+13:01.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0287.png'
+13:04.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0288.png'
+13:06.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0289.png'
+13:08.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0290.png'
+13:10.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0291.png'
+13:12.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0292.png'
+13:14.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0293.png'
+13:17.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0294.png'
+13:19.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0295.png'
+13:21.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0296.png'
+13:23.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0297.png'
+13:25.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0298.png'
+13:27.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0299.png'
+13:29.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0300.png'
+13:31.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0301.png'
+13:33.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0302.png'
+13:36.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0303.png'
+13:38.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0304.png'
+13:40.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0305.png'
+13:42.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0306.png'
+13:44.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0307.png'
+13:46.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0308.png'
+13:48.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0309.png'
+13:50.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0310.png'
+13:53.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0311.png'
+13:55.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0312.png'
+13:57.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0313.png'
+13:59.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0314.png'
+14:01.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0315.png'
+14:03.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0316.png'
+14:05.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0317.png'
+14:07.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0318.png'
+14:10.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0319.png'
+14:12.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0320.png'
+14:14.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0321.png'
+14:16.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0322.png'
+14:18.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0323.png'
+14:20.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0324.png'
+14:22.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0325.png'
+14:24.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0326.png'
+14:27.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0327.png'
+14:29.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0328.png'
+14:31.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0329.png'
+14:33.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0330.png'
+14:35.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0331.png'
+14:37.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0332.png'
+14:39.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0333.png'
+14:41.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0334.png'
+14:44.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0335.png'
+14:46.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0336.png'
+14:48.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0337.png'
+14:50.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0338.png'
+14:52.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0339.png'
+14:54.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0340.png'
+14:56.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0341.png'
+14:58.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0342.png'
+15:01.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0343.png'
+15:03.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0344.png'
+15:05.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0345.png'
+15:07.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0346.png'
+15:09.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0347.png'
+15:11.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0348.png'
+15:13.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0349.png'
+15:16.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0350.png'
+15:18.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0351.png'
+15:20.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0352.png'
+15:22.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0353.png'
+15:24.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0354.png'
+15:26.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0355.png'
+15:28.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0356.png'
+15:30.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0357.png'
+15:33.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0358.png'
+15:35.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0359.png'
+15:38.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0360.png'
+15:40.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0361.png'
+15:42.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0362.png'
+15:44.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0363.png'
+15:47.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0364.png'
+15:49.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0365.png'
+15:51.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0366.png'
+15:53.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0367.png'
+15:55.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0368.png'
+15:57.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0369.png'
+15:59.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0370.png'
+16:02.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0371.png'
+16:04.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0372.png'
+16:06.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0373.png'
+16:08.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0374.png'
+16:10.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0375.png'
+16:12.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0376.png'
+16:14.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0377.png'
+16:17.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0378.png'
+16:19.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0379.png'
+16:21.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0380.png'
+16:23.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0381.png'
+16:26.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0382.png'
+16:28.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0383.png'
+16:30.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0384.png'
+16:32.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0385.png'
+16:34.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0386.png'
+16:36.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0387.png'
+16:38.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0388.png'
+16:40.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0389.png'
+16:42.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0390.png'
+16:45.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0391.png'
+16:47.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0392.png'
+16:49.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0393.png'
+16:51.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0394.png'
+16:53.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0395.png'
+16:55.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0396.png'
+16:57.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0397.png'
+16:59.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0398.png'
+17:01.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0399.png'
+17:03.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0400.png'
+17:05.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0401.png'
+17:08.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0402.png'
+17:10.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0403.png'
+17:12.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0404.png'
+17:14.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0405.png'
+17:17.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0406.png'
+17:19.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0407.png'
+17:21.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0408.png'
+17:23.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0409.png'
+17:25.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0410.png'
+17:27.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0411.png'
+17:29.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0412.png'
+17:31.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0413.png'
+17:33.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0414.png'
+17:35.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0415.png'
+17:37.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0416.png'
+17:40.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0417.png'
+17:42.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0418.png'
+17:44.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0419.png'
+17:46.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0420.png'
+17:48.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0421.png'
+17:50.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0422.png'
+17:52.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0423.png'
+17:54.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0424.png'
+17:59.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0425.png'
+18:01.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0426.png'
+18:03.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0427.png'
+18:06.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0428.png'
+18:08.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0429.png'
+18:10.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0430.png'
+18:12.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0431.png'
+18:14.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0432.png'
+18:18.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0433.png'
+18:19.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0434.png'
+18:22.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0435.png'
+18:24.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0436.png'
+18:26.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0437.png'
+18:28.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0438.png'
+18:30.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0439.png'
+18:32.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0440.png'
+18:34.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0441.png'
+18:36.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0442.png'
+18:39.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0443.png'
+18:41.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0444.png'
+18:43.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0445.png'
+18:45.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0446.png'
+18:47.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0447.png'
+18:50.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0448.png'
+18:52.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0449.png'
+18:54.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0450.png'
+18:56.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0451.png'
+18:58.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0452.png'
+19:00.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0453.png'
+19:06.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0454.png'
+19:10.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0455.png'
+19:15.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0456.png'
+19:21.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0457.png'
+19:23.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0458.png'
+19:27.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0459.png'
+19:30.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0460.png'
+19:32.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0461.png'
+19:34.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0462.png'
+19:36.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0463.png'
+19:39.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0464.png'
+19:41.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0465.png'
+19:47.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0466.png'
+19:50.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0467.png'
+19:53.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0468.png'
+19:58.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0469.png'
+20:00.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0470.png'
+20:02.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0471.png'
+20:05.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0472.png'
+20:07.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0473.png'
+20:10.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0474.png'
+20:12.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0475.png'
+20:14.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0476.png'
+20:16.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0477.png'
+20:19.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0478.png'
+20:21.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0479.png'
+20:23.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0480.png'
+20:25.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0481.png'
+20:27.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0482.png'
+20:29.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0483.png'
+20:32.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0484.png'
+20:34.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0485.png'
+20:38.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0486.png'
+20:41.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0487.png'
+20:43.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0488.png'
+20:45.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0489.png'
+20:47.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0490.png'
+20:49.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0491.png'
+20:51.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0492.png'
+20:57.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0493.png'
+21:01.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0494.png'
+21:04.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0495.png'
+21:06.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0496.png'
+21:09.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0497.png'
+21:11.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0498.png'
+21:13.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0499.png'
+21:16.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0500.png'
+21:18.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0501.png'
+21:21.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0502.png'
+21:23.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0503.png'
+21:25.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0504.png'
+21:29.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0505.png'
+21:31.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0506.png'
+21:34.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0507.png'
+21:37.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0508.png'
+21:39.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0509.png'
+21:43.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0510.png'
+21:46.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0511.png'
+21:48.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0512.png'
+21:50.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0513.png'
+21:53.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0514.png'
+21:55.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0515.png'
+21:57.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0516.png'
+22:01.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0517.png'
+22:03.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0518.png'
+22:05.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0519.png'
+22:09.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0520.png'
+22:12.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0521.png'
+22:16.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0522.png'
+22:18.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0523.png'
+22:21.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0524.png'
+22:24.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0525.png'
+22:26.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0526.png'
+22:29.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0527.png'
+22:31.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0528.png'
+22:33.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0529.png'
+22:36.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0530.png'
+22:38.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0531.png'
+22:41.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0532.png'
+22:43.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0533.png'
+22:45.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0534.png'
+22:48.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0535.png'
+22:50.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0536.png'
+22:53.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0537.png'
+22:56.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0538.png'
+22:58.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0539.png'
+23:01.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0540.png'
+23:04.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0541.png'
+23:08.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0542.png'
+23:11.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0543.png'
+23:14.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0544.png'
+23:17.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0545.png'
+23:20.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0546.png'
+23:22.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0547.png'
+23:25.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0548.png'
+23:28.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0549.png'
+23:30.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0550.png'
+23:33.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0551.png'
+23:35.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0552.png'
+23:39.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0553.png'
+23:42.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0554.png'
+23:44.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0555.png'
+23:47.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0556.png'
+23:49.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0557.png'
+23:52.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0558.png'
+23:54.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0559.png'
+23:57.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0560.png'
+23:59.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0561.png'
+24:01.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0562.png'
+24:04.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0563.png'
+24:07.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0564.png'
+24:10.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0565.png'
+24:12.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0566.png'
+24:15.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0567.png'
+24:17.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0568.png'
+24:20.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0569.png'
+24:22.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0570.png'
+24:25.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0571.png'
+24:27.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0572.png'
+24:30.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0573.png'
+24:32.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0574.png'
+24:35.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0575.png'
+24:37.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0576.png'
+24:40.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0577.png'
+24:42.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0578.png'
+24:45.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0579.png'
+24:48.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0580.png'
+24:51.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0581.png'
+24:54.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0582.png'
+24:56.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0583.png'
+24:59.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0584.png'
+25:01.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0585.png'
+25:04.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0586.png'
+25:06.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0587.png'
+25:11.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0588.png'
+25:14.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0589.png'
+25:17.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0590.png'
+25:21.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0591.png'
+25:23.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0592.png'
+25:26.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0593.png'
+25:28.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0594.png'
+25:31.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0595.png'
+25:35.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0596.png'
+25:38.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0597.png'
+25:42.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0598.png'
+25:45.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0599.png'
+25:49.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0600.png'
+25:52.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0601.png'
+25:55.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0602.png'
+25:58.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0603.png'
+26:00.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0604.png'
+26:03.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0605.png'
+26:07.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0606.png'
+26:09.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0607.png'
+26:12.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0608.png'
+26:16.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0609.png'
+26:19.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0610.png'
+26:22.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0611.png'
+26:26.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0612.png'
+26:30.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0613.png'
+26:32.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0614.png'
+26:37.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0615.png'
+26:42.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0616.png'
+26:46.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0617.png'
+26:52.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0618.png'
+26:58.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0619.png'
+27:03.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0620.png'
+27:08.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0621.png'
+27:13.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0622.png'
+27:17.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0623.png'
+27:21.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0624.png'
+27:24.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0625.png'
+27:28.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0626.png'
+27:30.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0627.png'
+27:35.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0628.png'
+27:40.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0629.png'
+27:43.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0630.png'
+27:45.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0631.png'
+27:49.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0632.png'
+27:53.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0633.png'
+27:56.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0634.png'
+28:00.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0635.png'
+28:02.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0636.png'
+28:07.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0637.png'
+28:10.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0638.png'
+28:13.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0639.png'
+28:16.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0640.png'
+28:19.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0641.png'
+28:21.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0642.png'
+28:24.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0643.png'
+28:28.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0644.png'
+28:31.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0645.png'
+28:33.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0646.png'
+28:39.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0647.png'
+28:41.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0648.png'
+28:44.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0649.png'
+28:46.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0650.png'
+28:49.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0651.png'
+28:52.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0652.png'
+28:54.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0653.png'
+28:57.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0654.png'
+28:59.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0655.png'
+29:03.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0656.png'
+29:07.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0657.png'
+29:10.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0658.png'
+29:13.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0659.png'
+29:15.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0660.png'
+29:19.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0661.png'
+29:23.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0662.png'
+29:26.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0663.png'
+29:30.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0664.png'
+29:34.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0665.png'
+29:38.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0666.png'
+29:41.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0667.png'
+29:44.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0668.png'
+29:47.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0669.png'
+29:51.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0670.png'
+29:55.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0671.png'
+29:58.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0672.png'
+30:01.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0673.png'
+30:05.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0674.png'
+30:09.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0675.png'
+30:11.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0676.png'
+30:14.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0677.png'
+30:17.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0678.png'
+30:20.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0679.png'
+30:23.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0680.png'
+30:28.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0681.png'
+30:31.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0682.png'
+30:35.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0683.png'
+30:39.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0684.png'
+30:43.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0685.png'
+30:46.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0686.png'
+30:50.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0687.png'
+30:53.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0688.png'
+30:57.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0689.png'
+31:00.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0690.png'
+31:03.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0691.png'
+31:06.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0692.png'
+31:09.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0693.png'
+31:12.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0694.png'
+31:14.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0695.png'
+31:17.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0696.png'
+31:20.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0697.png'
+31:22.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0698.png'
+31:25.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0699.png'
+31:28.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0700.png'
+31:32.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0701.png'
+31:35.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0702.png'
+31:39.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0703.png'
+31:43.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0704.png'
+31:46.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0705.png'
+31:50.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0706.png'
+31:53.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0707.png'
+31:56.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0708.png'
+31:59.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0709.png'
+32:01.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0710.png'
+32:04.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0711.png'
+32:06.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0712.png'
+32:09.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0713.png'
+32:12.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0714.png'
+32:15.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0715.png'
+32:18.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0716.png'
+32:22.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0717.png'
+32:26.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0718.png'
+32:29.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0719.png'
+32:32.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0720.png'
+32:36.046  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0721.png'
+32:39.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0722.png'
+32:42.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0723.png'
+32:46.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0724.png'
+32:49.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0725.png'
+32:52.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0726.png'
+32:56.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0727.png'
+32:59.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0728.png'
+33:03.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0729.png'
+33:06.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0730.png'
+33:10.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0731.png'
+33:14.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0732.png'
+33:17.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0733.png'
+33:21.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0734.png'
+33:24.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0735.png'
+33:27.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0736.png'
+33:31.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0737.png'
+33:33.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0738.png'
+33:36.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0739.png'
+33:39.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0740.png'
+33:42.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0741.png'
+33:45.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0742.png'
+33:47.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0743.png'
+33:52.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0744.png'
+34:00.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0745.png'
+34:08.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0746.png'
+34:12.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0747.png'
+34:17.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0748.png'
+34:20.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0749.png'
+34:24.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0750.png'
+34:27.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0751.png'
+34:31.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0752.png'
+34:35.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0753.png'
+34:39.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0754.png'
+34:43.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0755.png'
+34:46.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0756.png'
+34:49.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0757.png'
+34:52.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0758.png'
+34:55.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0759.png'
+34:57.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0760.png'
+35:00.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0761.png'
+35:02.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0762.png'
+35:04.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0763.png'
+35:12.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0764.png'
+35:17.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0765.png'
+35:20.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0766.png'
+35:24.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0767.png'
+35:27.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0768.png'
+35:30.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0769.png'
+35:32.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0770.png'
+35:34.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0771.png'
+35:37.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0772.png'
+35:39.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0773.png'
+35:43.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0774.png'
+35:45.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0775.png'
+35:48.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0776.png'
+35:51.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0777.png'
+35:54.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0778.png'
+35:56.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0779.png'
+35:58.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0780.png'
+36:01.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0781.png'
+36:04.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0782.png'
+36:06.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0783.png'
+36:10.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0784.png'
+36:12.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0785.png'
+36:14.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0786.png'
+36:18.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0787.png'
+36:21.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0788.png'
+36:23.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0789.png'
+36:26.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0790.png'
+36:28.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0791.png'
+36:32.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0792.png'
+36:35.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0793.png'
+36:37.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0794.png'
+36:40.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0795.png'
+36:43.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0796.png'
+36:46.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0797.png'
+36:48.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0798.png'
+36:51.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0799.png'
+36:56.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0800.png'
+36:58.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0801.png'
+37:00.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0802.png'
+37:03.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0803.png'
+37:05.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0804.png'
+37:09.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0805.png'
+37:11.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0806.png'
+37:14.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0807.png'
+37:16.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0808.png'
+37:18.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0809.png'
+37:20.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0810.png'
+37:22.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0811.png'
+37:24.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0812.png'
+37:27.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0813.png'
+37:29.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0814.png'
+37:31.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0815.png'
+37:33.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0816.png'
+37:35.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0817.png'
+37:37.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0818.png'
+37:39.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0819.png'
+37:41.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0820.png'
+37:44.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0821.png'
+37:46.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0822.png'
+37:48.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0823.png'
+37:50.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0824.png'
+37:53.109  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0825.png'
+37:55.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0826.png'
+37:57.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0827.png'
+38:00.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0828.png'
+38:02.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0829.png'
+38:06.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0830.png'
+38:11.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0831.png'
+38:15.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0832.png'
+38:17.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0833.png'
+38:20.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0834.png'
+38:24.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0835.png'
+38:27.625  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0836.png'
+38:30.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0837.png'
+38:34.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0838.png'
+38:39.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0839.png'
+38:43.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0840.png'
+38:45.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0841.png'
+38:49.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0842.png'
+38:50.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0843.png'
+38:53.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0844.png'
+38:55.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0845.png'
+38:57.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0846.png'
+38:59.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0847.png'
+39:01.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0848.png'
+39:04.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0849.png'
+39:05.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0850.png'
+39:08.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0851.png'
+39:10.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0852.png'
+39:12.656  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0853.png'
+39:15.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0854.png'
+39:17.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0855.png'
+39:20.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0856.png'
+39:23.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0857.png'
+39:25.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0858.png'
+39:28.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0859.png'
+39:31.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0860.png'
+39:33.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0861.png'
+39:36.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0862.png'
+39:39.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0863.png'
+39:41.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0864.png'
+39:42.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0865.png'
+39:45.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0866.png'
+39:47.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0867.png'
+39:49.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0868.png'
+39:52.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0869.png'
+39:54.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0870.png'
+39:56.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0871.png'
+39:58.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0872.png'
+40:01.859  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0873.png'
+40:04.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0874.png'
+40:07.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0875.png'
+40:09.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0876.png'
+40:12.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0877.png'
+40:14.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0878.png'
+40:16.312  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0879.png'
+40:19.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0880.png'
+40:21.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0881.png'
+40:23.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0882.png'
+40:25.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0883.png'
+40:28.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0884.png'
+40:30.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0885.png'
+40:32.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0886.png'
+40:34.593  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0887.png'
+40:37.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0888.png'
+40:39.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0889.png'
+40:41.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0890.png'
+40:43.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0891.png'
+40:45.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0892.png'
+40:48.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0893.png'
+40:50.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0894.png'
+40:52.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0895.png'
+40:54.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0896.png'
+40:56.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0897.png'
+40:59.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0898.png'
+41:01.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0899.png'
+41:03.640  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0900.png'
+41:05.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0901.png'
+41:07.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0902.png'
+41:09.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0903.png'
+41:11.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0904.png'
+41:14.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0905.png'
+41:16.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0906.png'
+41:18.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0907.png'
+41:20.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0908.png'
+41:22.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0909.png'
+41:24.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0910.png'
+41:26.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0911.png'
+41:28.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0912.png'
+41:30.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0913.png'
+41:32.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0914.png'
+41:34.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0915.png'
+41:36.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0916.png'
+41:39.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0917.png'
+41:41.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0918.png'
+41:43.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0919.png'
+41:45.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0920.png'
+41:47.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0921.png'
+41:50.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0922.png'
+41:52.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0923.png'
+41:55.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0924.png'
+41:57.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0925.png'
+41:59.171  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0926.png'
+42:01.531  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0927.png'
+42:03.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0928.png'
+42:05.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0929.png'
+42:08.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0930.png'
+42:10.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0931.png'
+42:12.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0932.png'
+42:15.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0933.png'
+42:17.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0934.png'
+42:18.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0935.png'
+42:21.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0936.png'
+42:23.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0937.png'
+42:25.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0938.png'
+42:28.031  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0939.png'
+42:29.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0940.png'
+42:32.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0941.png'
+42:34.484  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0942.png'
+42:36.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0943.png'
+42:40.125  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0944.png'
+42:42.093  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0945.png'
+42:43.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0946.png'
+42:46.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0947.png'
+42:48.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0948.png'
+42:51.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0949.png'
+42:53.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0950.png'
+42:56.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0951.png'
+42:58.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0952.png'
+43:01.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0953.png'
+43:03.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0954.png'
+43:06.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0955.png'
+43:08.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0956.png'
+43:11.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0957.png'
+43:13.796  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0958.png'
+43:16.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0959.png'
+43:19.781  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0960.png'
+43:22.390  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0961.png'
+43:24.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0962.png'
+43:27.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0963.png'
+43:29.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0964.png'
+43:32.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0965.png'
+43:34.953  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0966.png'
+43:37.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0967.png'
+43:39.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0968.png'
+43:42.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0969.png'
+43:44.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0970.png'
+43:47.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0971.png'
+43:49.875  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0972.png'
+43:52.406  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0973.png'
+43:54.906  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0974.png'
+43:57.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0975.png'
+43:59.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0976.png'
+44:02.328  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0977.png'
+44:04.750  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0978.png'
+44:07.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0979.png'
+44:09.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0980.png'
+44:12.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0981.png'
+44:14.562  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0982.png'
+44:17.015  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0983.png'
+44:19.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0984.png'
+44:21.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0985.png'
+44:24.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0986.png'
+44:26.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0987.png'
+44:29.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0988.png'
+44:31.843  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0989.png'
+44:34.343  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0990.png'
+44:36.812  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0991.png'
+44:40.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0992.png'
+44:42.734  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0993.png'
+44:45.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0994.png'
+44:47.718  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0995.png'
+44:50.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0996.png'
+44:52.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0997.png'
+44:55.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0998.png'
+44:57.609  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_0999.png'
+45:00.078  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1000.png'
+45:02.546  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1001.png'
+45:05.062  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1002.png'
+45:07.515  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1003.png'
+45:10.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1004.png'
+45:12.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1005.png'
+45:15.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1006.png'
+45:17.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1007.png'
+45:19.984  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1008.png'
+45:22.500  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1009.png'
+45:24.921  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1010.png'
+45:27.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1011.png'
+45:29.828  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1012.png'
+45:32.375  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1013.png'
+45:34.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1014.png'
+45:37.296  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1015.png'
+45:39.765  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1016.png'
+45:42.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1017.png'
+45:44.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1018.png'
+45:47.234  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1019.png'
+45:49.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1020.png'
+45:52.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1021.png'
+45:54.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1022.png'
+45:57.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1023.png'
+45:59.687  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1024.png'
+46:02.218  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1025.png'
+46:04.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1026.png'
+46:07.156  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1027.png'
+46:09.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1028.png'
+46:12.187  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1029.png'
+46:14.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1030.png'
+46:17.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1031.png'
+46:19.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1032.png'
+46:22.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1033.png'
+46:24.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1034.png'
+46:27.437  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1035.png'
+46:29.937  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1036.png'
+46:32.453  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1037.png'
+46:35.000  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1038.png'
+46:38.968  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1039.png'
+46:41.265  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1040.png'
+46:45.250  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1041.png'
+46:47.468  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1042.png'
+46:49.671  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1043.png'
+46:51.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1044.png'
+46:54.140  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1045.png'
+46:56.359  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1046.png'
+46:58.578  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1047.png'
+47:00.890  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1048.png'
+47:03.203  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1049.png'
+47:05.421  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1050.png'
+47:07.703  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1051.png'
+47:11.281  render           | Saved: 'D:\01 Konten\Bahan Bikin Konten\tesseract\claudeuhuy\episodes\2026-11-29-jeans-rivets-3d\frames_final\f_1052.png'

@@ -175,7 +175,7 @@ show(text("SAFE FROM\nGETTING SMASHED", 540, H, 980, 300, 88, WHITE), C.safe - 0
 // B10 CTA: spoken question as the closing title, NEXT small over the last 2 s, fade out
 show(text("DO YOU USE THE\nTINY POCKET?", 540, H, 980, 300, 92, WHITE), C.do - 0.05, TL.duration, "slam", "impact");
 show(text("TELL ME IN THE COMMENTS", 540, H + 230, 980, 110, 56, GOLD, BODY, { tracking: 10 }), C.tell - 0.05, TL.duration, "pop", "ping");
-{ const nx = text("NEXT: HAIR DRYER PLUG", 540, 1240, 880, 70, 40, WHITE, BODY, { stroke: 8, tracking: 20, name: "Next tease" });
+{ const nx = text("NEXT: WHERE SHOWER WATER GOES", 540, 1240, 880, 70, 40, WHITE, BODY, { stroke: 8, tracking: 20, name: "Next tease" });
   const t0 = TL.duration - 2.0; nx.activeRange = R(ms(t0), DUR - ms(t0)); kf(nx.id, "opacity", [[0, 0], [150, 100]]); layers.push(nx); TITLES.push({ t0, t1: TL.duration, text: nx.sourceText.text }); }
 { const fo = rect("Fade out", 1080, 1920, [0, 0, 0, 1], { pos: [540, 960], anchor: [540, 960] }); const t0 = TL.duration - 0.8;
   fo.activeRange = R(ms(t0), DUR - ms(t0)); kf(fo.id, "opacity", [[0, 0], [ms(0.8), 100]]); layers.push(fo); }
