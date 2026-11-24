@@ -53,3 +53,5 @@ Evidence is web search only today; re-check demand with vidIQ `vidiq_keyword_res
 | 3d-33 | Thu 26 Nov | How does a dam make electricity? | follow-up to our dam-construction video (3d-12) | not searched | high: reuse dam set, penstock, turbine, generator |
 | 3d-34 | Fri 27 Nov | How did Roman aqueducts work? | backup list 24 Oct: Roman aqueducts 15.5M (2025) | 15.5M short (2025) | high: arches, channel with a gentle slope, siphon |
 
+
+- Requested in comments (24 Nov 2026, @BA_Aviations on "How Wind Turbine Blades Work", 23 Nov): "We need one on an a320!" -> idea: what is inside an airliner wing (fuel tanks, flaps, spar) as a big-system episode. Same viewer also comments on the runway video; good TikTok/YT video-reply candidate.
