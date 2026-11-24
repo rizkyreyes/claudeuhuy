@@ -54,7 +54,7 @@ function sound(name, t, vol = null, peak = 0) {        // peak: seconds from fil
 const SFXF = {
   pop: { file: "ui-soft-pop", ms: 180, vol: 0.55 }, tick: { file: "ui-dry-click", ms: 65, vol: 0.5 }, ping: { file: "ui-clear-ping", ms: 480, vol: 0.45 },
   whoosh: { file: "ui-air-whoosh", ms: 500, vol: 0.5 }, impact: { file: "ui-soft-impact", ms: 450, vol: 0.75 }, riser: { file: "ui-short-riser", ms: 1100, vol: 0.4 },
-  down: { file: "ui-downlifter", ms: 900, vol: 0.5 }, deny: { file: "deny-thud", ms: 600, vol: 0.6 }, rush: { file: "water-rush", ms: 3000, vol: 0.3 },
+  down: { file: "ui-downlifter", ms: 900, vol: 0.5 }, deny: { file: "deny-thud", ms: 600, vol: 0.32 }, rush: { file: "water-rush", ms: 3000, vol: 0.3 },
   splash: { file: "splash", ms: 1200, vol: 0.7 }, spark: { file: "spark-crackle", ms: 500, vol: 0.5 }, click: { file: "button-click", ms: 250, vol: 0.6 },
   pull: { file: "plug-pull", ms: 600, vol: 0.6 }, room: { file: "room-tone", ms: 3000, vol: 0.25 }, whir: { file: "pump-whir", ms: 2000, vol: 0.22 },
   clink: { file: "coin-clink", ms: 500, vol: 0.45 }, clank: { file: "pan-clank", ms: 600, vol: 0.6 }, twist: { file: "filter-twist", ms: 1000, vol: 0.6 },
