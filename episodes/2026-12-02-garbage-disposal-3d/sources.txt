@@ -1,0 +1,38 @@
+# garbage-disposal-3d (3d-45a) — claim -> source. Checked 24 Nov 2026 (cloud).
+# insinkerator.emerson.com and en.wikipedia.org did not resolve from the sandbox (DNS): every claim below is locked from search-result
+# excerpts of these pages (each excerpt quoted the page), plus patents. Re-open the links on the laptop if in doubt.
+
+"Your garbage disposal has no blades."
+  - InSinkErator, How a garbage disposal works: no blades; impellers (lugs) mounted on a spinning plate use centrifugal force to push food against a stationary grind ring. https://insinkerator.emerson.com/en-us/kitchen-better/how-a-garbage-disposal-works
+  - Appliance Parts Pros: the pieces aren't sharp like blades; they rely on speed and force. https://www.appliancepartspros.com/c/?p=13163
+  - Angi, Parts of a garbage disposal: some people call the impellers "blades", but they aren't blades. https://www.angi.com/articles/parts-of-garbage-disposal.htm
+  - Repair Clinic, Three garbage disposal myths. https://www.repairclinic.com/Repair-Library/Article/117/Three-Garbage-Disposal-Myths
+"Treat it like a blender and it jams, or it clogs the pipe under your sink."
+  - Jams: InSinkErator, Fixing a jammed garbage disposal; Moen, How to unjam a garbage disposal. https://www.insinkerator.com/en-us/support/fixing-a-jammed-garbage-disposal https://solutions.moen.com/Article_Library/How_to_Unjam_a_Garbage_Disposal
+  - Clogs: Roto-Rooter (grease can solidify inside your drain, forming a clog); Consumer Reports "no" list (grease, fibrous peels, corn husks). https://www.rotorooter.com/blog/garbage-disposal/what-not-to-put-in-garbage-disposal https://www.consumerreports.org/appliances/garbage-disposals/foods-you-can-cant-put-down-a-garbage-disposal-a1074300549
+"Below the drain sits a steel chamber, and at its bottom a flat spinning plate."
+  - InSinkErator (grind chamber, spinning plate/turntable); Sears Home Services, How does a garbage disposal work. https://www.searshomeservices.com/blog/how-does-a-garbage-disposal-work-overview
+"On many models a motor spins that plate about 1,700 times a minute."
+  - Ferguson listings: InSinkErator Evolution 3/4 hp 1725 RPM; commercial 1 hp 1725 RPM induction motor (1725 rpm = 4-pole induction motor on 60 Hz). Other models differ (one listing 2800 rpm) -> "on many models", "about". https://m.ferguson.com/product/insinkerator-evolution-3%2F4-hp-1725-rpm-garbage-disposal-in-black-enamel-iprocovercontrol/2927013.html https://www.ferguson.com/product/insinkerator-1-hp-1-phase-commercial-disposal-in-stainless-steel-iss10028/_/R-293473
+"Two small metal lugs called impellers. They're blunt, and they swivel."
+  - InSinkErator (impellers/lugs); patents: swivel lugs vs fixed lugs, free-swinging lugs cut shut-downs. https://patents.google.com/patent/US2912176A/en https://patents.google.com/patent/US2838245
+  - Two lugs per plate: shown in InSinkErator/Angi parts diagrams (2 swivel impellers on standard models). The VO says "two" as the common layout; the scene draws two.
+"They fling the food outward, hard, into the wall." (centrifugal force)
+  - InSinkErator (centrifugal force); US2566069A (centrifugal force holds water and food in the shredding ring zone). https://patents.google.com/patent/US2566069A/en
+"That wall is the grind ring. It never moves. Sharp teeth and narrow slots."
+  - Sears: a stationary perforated metal ring; Wikipedia, Garbage disposal unit: sharp cutting edges in the grind ring break the waste down until it passes through openings in the ring; patents: teeth of the shredder ring, in-cut vertical passages. https://wikipedia.com/wiki/Food_disposal https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6439487
+"Torn apart against those teeth, kind of like a cheese grater."
+  - Southern Living via AOL: works more like a cheese grater than a blender with sharp blades. https://www.aol.com/articles/ice-cubes-actually-sharpen-garbage-190000237.html
+"Only bits small enough to fit through the slots escape, and your running water flushes them down the drain."
+  - InSinkErator: particles are flushed by the running water through the grind ring into the waste pipe; patent: grind ring passages discharge ground waste with the flushing water.
+"The ice cube trick can't sharpen anything. There's nothing to sharpen. Ice just scrubs gunk off the ring."
+  - House Digest, The truth about sharpening your garbage disposal's blades; AOL (nothing to sharpen; ice knocks built-up debris off the impellers and grind ring); InSinkErator, How to clean a garbage disposal. https://www.housedigest.com/1949057/ice-sharpen-garbage-disposal-blades-myth https://insinkerator.emerson.com/en-us/support/how-to/how-to-clean-garbage-disposal
+"Run cold water, so grease stays solid and gets chopped up. Hot water melts it, and it can harden again further down the pipe."
+  - InSinkErator, Using cold water when running a garbage disposal; Whirlpool, Operating a continuous-feed disposer (cold water hardens greasy substances so they grind into tiny particles); Roto-Rooter (hot water liquefies fat; grease can solidify inside your drain). https://www.insinkerator.com/en-us/support/how-to/using-cold-water-when-running-a-garbage-disposal https://producthelp.whirlpool.com/Other_Products/Disposers/Product_Info/Disposer_Product_Assistance/Operating_a_Continuous-Feed_Waste_Disposer
+"If it hums but won't spin, it's jammed. Cut the power first. Turn the hex socket on the bottom with the little wrench, press the red reset button."
+  - iFixit, Garbage disposal hums (motor gets power but something blocks the plate; cut power first; reset button; InSinkErator-type units come with an Allen wrench for the hole in the center of the bottom, or a 1/4-inch Allen wrench). https://www.ifixit.com/Wiki/Garbage_Disposal_Hums
+  - InSinkErator, Resetting a garbage disposal (red reset button on the bottom); Bob Vila; Maytag/Whirlpool Clearing a jammed disposer. https://www.insinkerator.com/en-us/support/resetting-a-garbage-disposal https://producthelp.whirlpool.com/Other_Products/Disposers/Product_Info/Disposer_Product_Assistance/Clearing_a_Jammed_Disposer
+
+# Not used (kept for the caption / pinned comment / later): John W. Hammes, Racine WI architect, built the first disposer in 1927, patent 1935, InSinkErator founded 1938 (company history; Wikipedia notes GE's 1935 Disposall disputes "first"); NYC banned disposals in most of the city until 1997.
+# Dropped: "never put X in" lists beyond grease (sources disagree on celery, pasta, rice, eggshells, coffee grounds by model).
+# Illustrative: the stuck object in the jam beat is a generic fruit pit (an example, no claim in the VO); dishwasher inlet stub drawn, not mentioned.

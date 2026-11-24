@@ -1,0 +1,13 @@
+{
+ "slug": "garbage-disposal-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Your garbage disposal has no blades. Not one. Treat it like a blender, and it jams, or it clogs the pipe under your sink. Here's what's really down there. Below the drain sits a steel chamber, and at its bottom, a flat spinning plate. Flip the switch, and on many models a motor spins that plate about seventeen hundred times a minute. On top of the plate ride two small metal lugs called impellers. They're blunt, and they swivel. As the plate spins, they fling the food outward, hard, into the wall. That wall is the grind ring. It never moves. It's lined with sharp teeth and narrow slots. The food gets torn apart against those teeth, kind of like a cheese grater. Only bits small enough to fit through the slots escape, and your running water flushes them down the drain. That's why the ice cube trick can't sharpen anything. There's nothing to sharpen. Ice just scrubs gunk off the ring. Run cold water, so grease stays solid and gets chopped up. Hot water melts it, and it can harden again further down the pipe. If it hums but won't spin, it's jammed. Cut the power first. Then turn the hex socket on the bottom with the little wrench, and press the red reset button. Did you think it had blades? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
