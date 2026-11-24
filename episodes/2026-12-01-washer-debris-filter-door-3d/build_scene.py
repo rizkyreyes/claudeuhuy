@@ -696,8 +696,8 @@ def omega(t):
 _ang = [0.0]
 for i in range(1, len(TS)): _ang.append(_ang[-1] + omega(TS[i]) / FPS)
 bake(IMP, "rotation_euler", 1, _ang)
-glow(B_IMP, pulse(C["spinning"], 4.0, hold=0.6) + pulse(C["impeller3"], 5.0, hold=1.2))
-glow(B_HOUSE, pulse(C["chew"], 4.0, hold=0.8) + pulse(C["trickle"], 3.0, hold=1.2))
+glow(B_IMP, pulse(C["spinning"], 1.2, hold=0.6) + pulse(C["impeller3"], 1.5, hold=1.2))
+glow(B_HOUSE, pulse(C["chew"], 1.6, hold=0.8) + pulse(C["trickle"], 1.4, hold=1.2))
 # hoses: sump (tub -> housing top), drain (chamber top -> back -> over -> standpipe), all half-cut at PX
 SUMP_PTS = [(1.5, -4.0, 19.6), (4.0, -6.0, 17.5), (10.0, -12.0, 16.0), (PX, -18.0, 15.5), (PX, -20.0, 13.4)]
 sump, SUMP_S = sec_pipe("SumpHose", SUMP_PTS, 1.9, M_HOSE)
@@ -717,7 +717,7 @@ cage = mesh_obj("CartCage", bm, M_CART); par(cage, CART)
 for k, yy in enumerate([0.5, 5.5, 10.5, 15.7]):
     rg = torus(f"CartRing{k}", 3.6, 0.35, M_CART, (0, yy, 0)); rg.rotation_euler = (math.pi / 2, 0, 0); par(rg, CART)
 endc = cyl("CartEnd", 3.8, 0.6, "Y", (0, 16.2, 0), M_CART); par(endc, CART)
-glow(B_CART, pulse(C["trap"], 5.0, hold=1.0) + pulse(C["strainer"], 5.0, hold=1.2) + pulse(C["slots"], 3.0, hold=0.5))
+glow(B_CART, pulse(C["trap"], 0.9, hold=1.0) + pulse(C["strainer"], 0.9, hold=1.2) + pulse(C["slots"], 0.7, hold=0.5))
 T_CCW0, T_CCW1 = C["twist"] + 0.2, C["pull"] - 0.2
 T_PULL0, T_PULL1 = C["pull"], C["pull"] + 0.7
 T_LIFT0, T_LIFT1 = C["rinse2"] - 0.1, C["rinse2"] + 0.25
@@ -778,7 +778,7 @@ for i, (kind, cue, rest, me, m_) in enumerate(JUNK):
     rb = obj_from(f"Rigid_{i}", me.copy(), m_); rb.location = tuple(cart_world(T_R, rest)); rb.rotation_euler = rs.rotation_euler
     windows_r(rb, [(T_R, C["screw"] + 0.1)]); RIGIDS.append(rb)
 # junk flashes red on "doesn't"
-for m_ in [M_JUNK[k][1] for k in range(4)]: glow(m_, pulse(C["doesnt"], 4.0, hold=0.6))
+for m_ in [M_JUNK[k][1] for k in range(4)]: glow(m_, pulse(C["doesnt"], 2.0, hold=0.6))
 glow(B_LINT, pulse(C["lint2"], 3.0, hold=0.8) + pulse(C["out"], 1.5, hold=0.6))
 # what-if ghost coin into the impeller (red)
 GC = obj_from("GhostCoin", coin_me("GhostCoinMe", 1.1), M_RED)
