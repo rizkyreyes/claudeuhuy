@@ -1,0 +1,13 @@
+{
+ "slug": "tp-valve-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "This little brass valve is all that stops your water heater from turning into a rocket. If it's capped or stuck, the tank can blast through your roof. Inside the tank, water heats up under pressure. Normally a thermostat cuts the heat at the temperature you set. But if that thermostat fails, the heat keeps climbing. Hot water expands, so the pressure climbs too. Under that pressure, water can get hotter than two hundred twelve degrees and still not boil. That's superheated water. If the tank splits, it flashes into steam, over a thousand times bigger, all at once. So this valve watches both. A long probe hangs into the top six inches of the tank, where the water is hottest. At about two hundred ten degrees, the element inside it expands and lifts a disc off its seat. Hot water rushes out before it can superheat. A spring also holds it shut, until the pressure hits about one hundred fifty psi. Then the water shoves it open. Either way, it drains down a pipe that ends near the floor. Once a year, lift the little test lever, and hot water should gush out. Never cap that pipe, even if it drips. A drip means something's wrong, so call a plumber. Have you ever tested yours? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

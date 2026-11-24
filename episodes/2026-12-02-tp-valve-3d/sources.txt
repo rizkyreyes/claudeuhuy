@@ -1,0 +1,37 @@
+# tp-valve-3d (3d-44a) — claim -> source. Checked 24 Nov 2026 (cloud). en.wikipedia.org does not resolve from the sandbox (DNS);
+# other claims locked from search-result excerpts of the pages below (each excerpt quoted the page). Re-open the links on the laptop if in doubt.
+
+"This little brass valve is all that stops your water heater from turning into a rocket." / "If it's capped or stuck, the tank can blast through your roof."
+  - InspectAPedia, BLEVE explosions: when the tank splits, the superheated water flashes to steam, "often propelling the tank like a rocket"; the T&P valve must be non-functional (corrosion, sediment, capped or plugged) for an explosion. https://inspectapedia.com/plumbing/BLEVE-Explosions.php
+  - Bob Vila, Can a water heater explode? https://www.bobvila.com/articles/can-a-water-heater-explode/
+  - MythBusters "Exploding Water Heater" (Discovery, aired 7 Nov 2007, S5 E20): tested whether a water heater can rocket through a house roof (safety devices defeated). https://www.discovery.com/shows/mythbusters/episodes/exploding-water-heater
+  - "all that stops" = the T&P valve is the last safety device when the thermostat fails (InspectAPedia; Sears Home Services below). Rocket height NOT claimed (no official figure; dropped).
+"Inside the tank, water heats up under pressure. Normally a thermostat cuts the heat at the temperature you set. But if that thermostat fails, the heat keeps climbing."
+  - Sears Home Services, How does a pressure relief valve work: the thermostat shuts off the heat source at the set temperature; if it fails, a continuous rise in temperature and pressure (from expansion of the water). https://www.searshomeservices.com/blog/how-does-a-pressure-relief-valve-work-explanation
+"Hot water expands, so the pressure climbs too."
+  - Sears (above); City of Wilsonville, Thermal expansion (heated water expands in a closed system and raises pressure). https://www.wilsonvilleoregon.gov/sites/default/files/fileattachments/public_works/page/1141/thermal_expansion.pdf
+"Under that pressure, water can get hotter than 212 degrees and still not boil. That's superheated water. If the tank splits, it flashes into steam, over a thousand times bigger, all at once."
+  - InspectAPedia BLEVE; EngineerFix, Can a water heater explosion kill you? (rapid depressurization -> superheated water flashes into steam, ~1,600 times the volume of the liquid). https://engineerfix.com/can-a-water-heater-explosion-kill-you/
+  - Heating Help / PM Engineer notes: below 212 F a pressure failure just drops to atmospheric, no forceful burst -> the danger is superheat. https://digitaledition.pmmag.com/pme-may-2021/from-the-mechanical-room
+  - VO says "over a thousand" (sources give ~1,600; kept conservative). Visual: droplet radius x10 = volume x1,000.
+"A long probe hangs into the top six inches of the tank, where the water is hottest."
+  - Watts installation instructions: the temperature-sensing element must be immersed in the water within the top 6 in (152 mm) of the tank; Lowe's/Watts packaging: the probe must extend into the top 6 in. https://www.pexuniverse.com/uploads/literature/wts-lf40-instal.pdf https://pdf.lowes.com/productdocuments/bcb0ee71-a1d2-44c1-b314-d305b9f4e1ba/01049231.pdf
+  - Hot water rises to the top (stratification) -> "hottest" (InspectAPedia, Relief valves guide). https://inspectapedia.com/plumbing/Relief_Valves.php
+"At about 210 degrees, the element inside it expands and lifts a disc off its seat. Hot water rushes out before it can superheat."
+  - Watts T&P references: the internal thermostatic element expands, lifting the disc off its seat to discharge overheated water; typical rating 210 F. https://www.watts.com/resources/references-tools/t-and-p-relief-valves https://www.watts.com/products/plumbing-flow-control-solutions/relief-valves/temperature-and-pressure-relief-valves/lf40l/lf40xl-150210-34
+  - This Old House / plumbingsupply.com: opens at 150 psi or 210 F. https://www.thisoldhouse.com/plumbing/how-and-why-to-maintain-a-temperature-and-pressure-valve
+  - Discharging below 212 F prevents the flash-to-steam condition (InspectAPedia BLEVE). "About" because some valves trip a bit lower (NACHI: above 200 F).
+"A spring also holds it shut, until the pressure hits about 150 psi. Then the water shoves it open."
+  - Sears Home Services, How does a pressure relief valve work (spring-loaded, opens when pressure overcomes the spring, reseats when it drops); Watts 150/210 ratings (also 100 and 125 psi versions exist -> "about"). https://searshomeservices.com/blog/how-does-a-pressure-relief-valve-work
+  - The scene shows ONE disc for both trips (as in a combination T&P valve, Watts).
+"Either way, it drains down a pipe that ends near the floor."
+  - ICC, Plumbing Code Essentials: relief valve discharge (full size, no valves, no threaded end, indirect / to the floor or a drain). https://www.iccsafe.org/building-safety-journal/bsj-technical/plumbing-code-essentials-relief-valve-discharge/
+  - WAC 296-104-320 (end not more than 2 ft and not less than 6 in above the floor/ground, pointing down); San Diego County, T&P drain valves. https://lawfilesext.leg.wa.gov/Law/WACArchive/2024/htm/WAC%20296%20-104%20%20CHAPTER/WAC%20296%20-104%20-320.htm https://www.sandiegocounty.gov/content/sdc/sdhcd/rental-assistance/current-participants/inspections/tp-drain-valves.html
+  - Heights vary by local code -> VO says only "near the floor".
+"Once a year, lift the little test lever, and hot water should gush out."
+  - InspectAPedia (manufacturers recommend testing at least annually); Watts LF40 sheet "Annual operation of T&P relief valves"; This Old House (lift the lever, water should flow). Watts also asks for a full inspection every 2-4 years (in the description).
+"Never cap that pipe, even if it drips. A drip means something's wrong, so call a plumber."
+  - ICC (no valve or obstruction on the discharge line); InspectAPedia BLEVE (capped or plugged valves behind explosions); Angi / Hunker (a leaking T&P valve = faulty valve or a heater that runs too hot/high pressure; fix the cause). https://www.angi.com/articles/hot-water-tank-relief-valve-leaking.htm https://www.hunker.com/13417340/leaking-pressure-relief-valves-in-water-heaters
+
+# Dropped: MythBusters launch height (only fan estimates, ~500 ft), the 314,095 ft-lb energy figure (one source), exact discharge heights.
+# Illustrative: gas burner + flue drawn (generic gas tank heater; electric heaters have elements instead, not mentioned in the VO).
