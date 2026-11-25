@@ -1,0 +1,13 @@
+{
+ "slug": "smoke-alarm-date-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Every smoke alarm in your house has an expiration date. And past it, there's a real chance it stays quiet in a fire. Twist yours down and flip it over. The date on the back is when it was made, not when it went up. Ten years from that date, it's done. Inside is a small dark chamber that lets air in, but not light. In a photoelectric alarm, a tiny light shines across it, aimed away from a sensor. Clean air, the sensor sees nothing. Smoke drifts in, the particles bounce light onto the sensor, and the horn goes off. Ionization alarms use a tiny speck of radioactive americium. It charges the air between two metal plates, so a weak current flows. Smoke grabs those charged particles, the current drops, and it screams. But for years, dust, bugs, grease and damp air drift into that same chamber. They coat the sensor and the plates. The sensor slowly loses sensitivity, no matter how often you test it. That's why the code says ten years. The study behind it expected about three in ten to fail by then. And that matters. Almost three in five home fire deaths happen with no smoke alarm, or one that didn't work. So pull yours down and read the date. Over ten years? Replace the whole alarm. When did you last check the date on yours? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
