@@ -1,0 +1,34 @@
+# dryer-vent-fire-3d (3d-46a) — claim -> source. Checked 25 Nov 2026 (cloud). WebFetch to usfa.fema.gov / cpsc.gov / nps.gov is blocked from the
+# sandbox (DNS), so claims are locked from search-result excerpts quoting those pages. Re-open the links on the laptop if in doubt.
+
+"Lint left in your dryer is the number one reason dryers catch fire."
+  - USFA, Clothes Dryer Fires in Residential Buildings (2008-2010), Topical Fire Report Series Vol. 13 Issue 7 (Aug 2012): "Failure to clean (34 percent) was the leading factor contributing to the ignition of clothes dryer fires in residential buildings." https://www.usfa.fema.gov/statistics/reports/fire-causes  (report PDF archived: https://webarchive.library.unt.edu/web/20120913075423/http://www.usfa.fema.gov/statistics/reports/electrical_and_appliances.shtm)
+  - USFA newer page: failure to clean (31%) was the leading factor in home dryer fires 2018-2020. https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/appliance-and-electrical
+  - NFPA (2010-2014 data): leading cause of home dryer/washer fires = failure to clean (31%); dust, fiber or lint = leading item first ignited in dryer fires (27%). https://www.energy.gov/sites/default/files/2016/06/f32/NFPA_DryerFactSheet.pdf
+  - Wording note: "number one reason" = "leading factor contributing to ignition" (USFA). We do NOT say "most fires" or give a % on screen.
+"And the worst of it hides inside your wall" / "The rest ride the hot air into the duct, the pipe that runs through your wall to the outside." / "Lint sticks to the sides"
+  - CPSC consumer tips (Overheated clothes dryers can cause fires, pub. 5022): fires can occur when lint builds up in the dryer or in the exhaust duct. https://www.cpsc.gov/s3fs-public/5022.pdf
+  - CPSC staff evaluation (2003, electric dryers / lint ignition): lint may still accumulate inside a dryer even with properly vented ducting and the lint screen cleaned before each load. https://webarchive.library.unt.edu/eot2008/20080925080307/https:/www.cpsc.gov/library/foia/foia03/os/dryer.pdf
+"The screen catches a lot of them, but not all." -> same CPSC 2003 evaluation (lint still accumulates past a cleaned screen).
+"especially in floppy foil ducts that sag and kink"
+  - CPSC 5022: most manufacturers specify rigid or corrugated semi-rigid metal duct (maximum airflow); flexible plastic or foil ducts more easily trap lint and can be kinked or crushed, sharply cutting airflow. https://www.cpsc.gov/s3fs-public/5022.pdf
+"Load after load, the pipe gets narrower. Now the hot air can't get out. Heat builds up around the heater."
+  - CPSC 5022 (buildup restricts airflow, overheats the dryer); CPSC 2003 tests: with the exhaust vent 75 or 100 percent blocked, temperatures inside the dryer rose significantly. URLs above.
+"A safety thermostat should cut the power. But if it fails, and the vent is blocked, the lint near the heater can catch fire."
+  - CPSC report on dryer heater housings: "Lint that accumulates on the heater housing can easily ignite under conditions of a failed high-limit thermostat and a blocked exhaust vent." https://webharvest.gov/congress115th/20190109020243/https://www.cpsc.gov/s3fs-public/ClothesDryersHeaterHousings.pdf
+  - High-limit thermostat near/within the heater housing cycles the element off when airflow stops (same CPSC material).
+"And that fire has a pipe full of fuel, running right through your wall."
+  - Lint is the fuel: NFPA (dust, fiber, lint = leading item first ignited) + CPSC (lint builds up in the exhaust duct), duct runs through the wall (CPSC 5022 installation guidance). The spread along the duct is shown as illustration; no speed/temperature claimed.
+"In one federal study, fire departments faced about two thousand nine hundred home dryer fires a year, and they peak in January."
+  - USFA 2012 report (2008-2010 data): "An estimated 2,900 clothes dryer fires in residential buildings are reported to U.S. fire departments each year and cause an estimated 5 deaths, 100 injuries, and $35 million in property loss." "Clothes dryer fire incidence in residential buildings was higher in the fall and winter months, peaking in January at 11 percent." https://www.usfa.fema.gov/statistics/reports/fire-causes ; press release https://webarchive.library.unt.edu/web/20120913075508/http://www.usfa.fema.gov/media/press/2012releases/080712.shtm
+  - Note: other estimates are higher (CPSC ~15,500/yr; USFA 2002-2004 ~12,700/yr) because they count differently, so the VO says "in one federal study" and "about".
+"So clean the screen every single load."
+  - CPSC 5022: clean the lint screen/filter before or after each use; Montgomery County MD Fire & Rescue: clean before or after drying each load. https://montgomerycountymd.gov/mcfrs-info/tips/citizens/dryer.html
+"Use a rigid metal duct, not plastic or foil." -> CPSC 5022 (above).
+"Go outside while it runs, and check that the flap opens."
+  - CPSC 5022: check the outside vent while the dryer is operating; if exhaust air isn't escaping, the vent or duct may be blocked. URL above.
+"If your clothes take longer to dry, the duct might be blocked."
+  - Fire-service dryer tips (CPSC-derived): clothes still damp after a normal cycle or taking longer than normal to dry = lint screen or exhaust duct may be blocked. https://montgomerycountymd.gov/mcfrs-info/tips/citizens/dryer.html
+Dropped (not verified well enough): lint ignition temperature (~400°F claim found only on a secondary site); the 35 ft duct length limit (varies by code edition + manufacturer).
+
+Cover images: fal.ai openai/gpt-image-2 (medium), prompts in make_covers.sh. No stock photos in the video.

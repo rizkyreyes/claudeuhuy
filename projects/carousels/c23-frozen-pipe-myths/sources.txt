@@ -1,0 +1,19 @@
+# c23-frozen-pipe-myths — fact -> source. Checked 25 Nov 2026 (cloud) from search-result excerpts (WebFetch blocked in the sandbox).
+1 Pipes burst where the ice isn't: the ice blockage traps water against the closed faucet, pressure between the two ruptures the pipe where little/no ice formed.
+  https://www.livescience.com/43408-why-do-freezing-pipes-burst.html
+  https://www.thisoldhouse.com/plumbing/how-a-frozen-pipe-bursts
+  https://www.jlconline.com/how-to/plumbing/understanding-how-water-pipes-freeze_o
+2 Not only a northern problem: in Texas and other southern states pipes often run through exterior walls/attics; northern builders avoid unheated spaces.
+  https://texashelp.tamu.edu/wp-content/uploads/2016/02/winter-storms-frozen-pipes.pdf
+  https://www.thig.com/learning-center/your-home/loss-prevention-how-to-avoid-frozen-pipes
+  (IBHS "~20°F attic" figure found only second-hand: NOT used.)
+3 Let cold water drip: running water through the pipe, even at a trickle, helps prevent freezing (American Red Cross, as quoted by several outlets).
+  https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm.html
+  https://www.daytondailynews.com/news/local/cold-blast-expected-next-week-here-what-some-people-are-doing-prevent-frozen-pipes/zrn1EXftH5zeddJ5CmbdzM/
+4 Away from home: leave the heat on, set no lower than 55°F (American Red Cross).
+  https://www.redcross.org/about-us/news-and-events/news/2021/winter-weather-can-be-dangerous-how-to-stay-safe.html
+5 Thawing: keep the faucet open; electric heating pad / hair dryer / space heater / hot towels; never a blowtorch, kerosene or propane heater, charcoal stove or other open flame (American Red Cross).
+  https://www.redcross.org/about-us/news-and-events/news/2021/winter-weather-can-be-dangerous-how-to-stay-safe.html
+  https://www.outagamie.gov/files/assets/county/v/1/hhs-ph/documents/preventing-and-thawing-frozen-pipes.pdf
+No upcoming 3D video is about frozen pipes (state/queue-3d.md checked 25 Nov).
+Photos (Pexels, no faces, no readable brands): cover 36346416 (Hobi Photography), burst 36006772, south 10987688, drip 36215888, heat 27638181, torch 6610069, end 35566488.

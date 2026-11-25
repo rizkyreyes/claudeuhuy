@@ -1,0 +1,13 @@
+{
+ "slug": "dryer-vent-fire-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Lint left in your dryer is the number one reason dryers catch fire. And the worst of it hides inside your wall, where you never look. Here's how it happens. A heater warms the air, and a fan pulls it through your tumbling clothes. Every load sheds tiny fibers. The screen catches a lot of them, but not all. The rest ride the hot air into the duct, the pipe that runs through your wall to the outside. Lint sticks to the sides, especially in floppy foil ducts that sag and kink. Load after load, the pipe gets narrower. Now the hot air can't get out. Heat builds up around the heater. A safety thermostat should cut the power. But if it fails, and the vent is blocked, the lint near the heater can catch fire. And that fire has a pipe full of fuel, running right through your wall. In one federal study, fire departments faced about two thousand nine hundred home dryer fires a year, and they peak in January. So clean the screen every single load. Use a rigid metal duct, not plastic or foil. Go outside while it runs, and check that the flap opens. If your clothes take longer to dry, the duct might be blocked. When did you last clean out your dryer duct? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

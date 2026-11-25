@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 frozen pipe myths to drop before the first hard freeze", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/burst.jpg", "myth": "A pipe bursts right where the ice is.",
+      "fact": "It usually splits somewhere else. The ice plug traps water against a closed faucet, pressure builds there, and the pipe gives way where there's little or no ice.",
+      "source": "Live Science, This Old House, JLC" },
+    { "type": "myth", "bg": "bg/south.jpg", "myth": "Frozen pipes are only a problem up north.",
+      "fact": "Southern homes can be more at risk. Pipes there often run through exterior walls and attics, because houses are built for heat, not hard freezes.",
+      "source": "Texas A&M AgriLife Extension" },
+    { "type": "myth", "bg": "bg/drip.jpg", "myth": "Letting a faucet drip just wastes water.",
+      "fact": "On frigid nights, even a trickle of cold water through the pipe helps keep it from freezing.",
+      "source": "American Red Cross" },
+    { "type": "myth", "bg": "bg/heat.jpg", "myth": "Turn the heat off while you're away for the holidays.",
+      "fact": "Leave it on, set no lower than 55°F, so the pipes inside your walls stay above freezing.",
+      "source": "American Red Cross" },
+    { "type": "myth", "bg": "bg/torch.jpg", "myth": "A torch is the fastest way to thaw a frozen pipe.",
+      "fact": "Never use an open flame. Keep the faucet open and use a hair dryer, a space heater or warm towels instead.",
+      "source": "American Red Cross" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one surprised you?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["Live Science + This Old House: why frozen pipes burst", "Texas A&M AgriLife: winter storms and frozen pipes", "American Red Cross: frozen pipes"] }
+  ]
+}
