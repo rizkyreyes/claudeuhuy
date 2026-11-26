@@ -1,0 +1,46 @@
+# Sources: iron-button-groove-3d (3d-40), verified 26 Nov 2026 (cloud)
+WebFetch to hunker.com and ifixit.com is DNS-blocked in the cloud session: claims are locked from concordant search-result excerpts of several
+independent pages (manufacturers, patents, laundry guides), as in the Oct b-roll version (projects/iron-button-groove/publish/sources.txt).
+
+1. The notch near the tip of the soleplate is a button groove; buttons settle into the gap between the plate and the rest of the iron, so you can
+   press the fabric around them without melting/flattening them. LOCKED
+   - Hunker, "Your Iron May Have A Little-Known Feature..." https://www.hunker.com/2085860/what-is-button-groove-on-iron-for/ (excerpt: "the notch creates some separation between the plate and the rest of the machine. Buttons can settle into that gap")
+   - Philips GC160/22 product page ("Button groove speeds up ironing along buttons and seams") https://www.philips.com.sg/shop/SG_myphilipspromo/household-products/ironing/GC160-22/p/GC160_22
+   - Panasonic NI-U600 (button groove) https://panasonic.com/ca/consumer/home-appliances/irons/steam/ni-u600.html
+   - Patent US8166682B2, soleplate unit: shallow groove on the underside of the front edge, "convenient for ironing the face fabric near the button" https://patents.google.com/patent/US8166682B2/en
+   Script: "a shallow groove cut along the front edge, between the hot plate and the body of the iron" / "the button slips into that gap" / "sits out of the heat, while the plate presses the fabric right up to its edge".
+2. Plastic buttons can melt under a hot iron; iron around buttons, not over them (melt / crack / burn marks). LOCKED
+   - House Digest https://www.housedigest.com/1968368/how-to-iron-clothes-with-buttons-laundry ("plastic buttons can melt under high heat"; "may cause them to crack or develop burn marks")
+   - Consumer Reports https://www.consumerreports.org/steam-irons/how-to-iron-a-dress-shirt ; Hunker (above)
+   Script: "it can melt, crack, or scorch" (scorch = burn marks).
+3. In most irons the heating element is cast into an aluminum soleplate. LOCKED ("In most irons" hedge)
+4. Thermostat = a bimetallic element on the soleplate that bends with heat and periodically cuts the current to the heater, then reconnects. LOCKED
+   Both from one patent search (26 Nov); the excerpts quoted: "Soleplate 10 can conveniently be cast aluminum with electric heating element 18
+   cast in position for uniform heat distribution"; "a bimetallic element 23 secured to the soleplate in cantilever fashion, which periodically
+   cuts current to the heater"; "sheathed heater element 33 cast in the soleplate 11". Results of that search (which quote is in which patent
+   not confirmed, page reads blocked): https://patents.google.com/patent/US3711972A/en , https://patents.google.com/patent/US3368294A/en ,
+   https://patents.google.com/patent/US4285145 , https://patents.google.com/patent/US5367799
+   Also: search summary "an electric resistance element is cast into or welded to an aluminum soleplate" (patent results incl. US3599357A).
+5. Water tank above the soleplate; a valve meters water in drips into a steam chamber in the hot soleplate, where it flashes into steam and leaves
+   through the holes in the sole. LOCKED
+   - US2483816A, flash type steam iron https://patents.google.com/patent/US2483816 ; US6209239B1 steam chamber https://patents.google.com/patent/US6209239
+   - iFixit "Steam Iron - Step 2: How does it work?" https://www.ifixit.com/Guide/Steam+Iron+-+Step+2:+How+does+it+work-/132636 (excerpt: heat "turns the water to steam which escapes through the holes in the sole")
+6. If the plate is too cold (below the steam setting), the water doesn't turn into steam and leaks/drips from the soleplate. LOCKED
+   - Philips support "My Philips steam iron is leaking from its soleplate" https://www.philips.com.au/c-f/XC000013154/my-philips-steam-iron-is-leaking-from-its-soleplate
+   - Coolblue "6 tips if your iron leaks" https://www.coolblue.nl/en/advice/tips-if-your-iron-leaks-or-drips-brown-water.html
+7. Many irons have an anti-drip valve that stays closed until the soleplate is hot enough. LOCKED ("many irons")
+   - Rowenta (Lowe's listing: anti-drip "prevents leakage when the iron has not reached its optimal temperature") https://www.lowes.com/pd/Rowenta-Iron-with-Auto-Shut-Off/1000212875
+   - Patents US7644525B2 (valve closed while the soleplate is cold) https://patents.google.com/patent/US7644525 ; US5924224A https://patents.google.com/patent/US5924224
+8. Hard water leaves limescale that clogs the steam holes. LOCKED
+   - Which? "Why you need to clean your iron regularly" https://www.which.co.uk/news/article/why-you-need-to-clean-your-iron-regularly-yes-really-ab6GJ7u3Ms1o
+   - Philips "Descale steam irons" https://www.philips.co.uk/c-e/ho/ironing/descale-steam-irons ; Coolblue https://www.coolblue.nl/en/advice/keep-steam-iron-scale-free.html
+9. Many irons switch off by themselves when left flat on the soleplate (or on the side), often after about 30 seconds; upright ~8-15 min. LOCKED ("many", "often", "about")
+   - Braun FAQ (8 min vertical / 30 s horizontal) https://www.braunhousehold.com/en-ca/faqs/How-does-the-auto-off-function-work/a/25472
+   - Hamilton Beach (15 min upright / 30 s on soleplate or side) https://www.hamiltonbeach.com/auto-shut-off-irons
+   - Tefal FV1610 manual (about 30 s laid flat or on its side) https://www.manualslib.com/manual/1562941/Tefal-Fv1610.html?page=12
+   - Panasonic NI-E665S is 60 s -> on screen "TIMES VARY BY MODEL" https://www.panasonic.com/ca/consumer/home-appliances/irons/steam/ni-e665s.html
+
+Cut / not claimed: any history or patent date of the groove, brand names, soleplate temperatures (130-160 °C appears only in a hobby guide),
+"every iron has a groove", steam pump vs gravity (varies by model), self-clean intervals.
+Illustration notes: generic unbranded iron; groove drawn deeper and the soleplate thicker than real for readability; the melted button + scorch
+are illustrative of "melt, crack, scorch".

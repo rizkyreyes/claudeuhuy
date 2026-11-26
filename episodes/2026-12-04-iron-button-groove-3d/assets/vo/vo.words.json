@@ -1,0 +1,1418 @@
+[
+ {
+  "id": "w0",
+  "text": "That",
+  "start": 0,
+  "end": 0.21
+ },
+ {
+  "id": "w1",
+  "text": "little",
+  "start": 0.24,
+  "end": 0.46
+ },
+ {
+  "id": "w2",
+  "text": "notch",
+  "start": 0.48,
+  "end": 0.88
+ },
+ {
+  "id": "w3",
+  "text": "at",
+  "start": 0.92,
+  "end": 0.96
+ },
+ {
+  "id": "w4",
+  "text": "the",
+  "start": 1.04,
+  "end": 1.12
+ },
+ {
+  "id": "w5",
+  "text": "tip",
+  "start": 1.2,
+  "end": 1.28
+ },
+ {
+  "id": "w6",
+  "text": "of",
+  "start": 1.32,
+  "end": 1.36
+ },
+ {
+  "id": "w7",
+  "text": "your",
+  "start": 1.44,
+  "end": 1.52
+ },
+ {
+  "id": "w8",
+  "text": "iron",
+  "start": 1.6,
+  "end": 2
+ },
+ {
+  "id": "w9",
+  "text": "is",
+  "start": 2.08,
+  "end": 2.16
+ },
+ {
+  "id": "w10",
+  "text": "a",
+  "start": 2.24,
+  "end": 2.32
+ },
+ {
+  "id": "w11",
+  "text": "parking",
+  "start": 2.44,
+  "end": 2.72
+ },
+ {
+  "id": "w12",
+  "text": "spot",
+  "start": 2.88,
+  "end": 3.04
+ },
+ {
+  "id": "w13",
+  "text": "for",
+  "start": 3.16,
+  "end": 3.28
+ },
+ {
+  "id": "w14",
+  "text": "buttons.",
+  "start": 3.52,
+  "end": 4.24
+ },
+ {
+  "id": "w15",
+  "text": "Run",
+  "start": 4.32,
+  "end": 4.4
+ },
+ {
+  "id": "w16",
+  "text": "a",
+  "start": 4.48,
+  "end": 4.56
+ },
+ {
+  "id": "w17",
+  "text": "hot",
+  "start": 4.64,
+  "end": 4.72
+ },
+ {
+  "id": "w18",
+  "text": "plate",
+  "start": 4.8,
+  "end": 5.12
+ },
+ {
+  "id": "w19",
+  "text": "straight",
+  "start": 5.32,
+  "end": 5.52
+ },
+ {
+  "id": "w20",
+  "text": "over",
+  "start": 5.6,
+  "end": 5.68
+ },
+ {
+  "id": "w21",
+  "text": "a",
+  "start": 5.76,
+  "end": 5.84
+ },
+ {
+  "id": "w22",
+  "text": "plastic",
+  "start": 5.88,
+  "end": 6.24
+ },
+ {
+  "id": "w23",
+  "text": "button,",
+  "start": 6.32,
+  "end": 6.68
+ },
+ {
+  "id": "w24",
+  "text": "and",
+  "start": 6.72,
+  "end": 6.8
+ },
+ {
+  "id": "w25",
+  "text": "it",
+  "start": 6.84,
+  "end": 6.88
+ },
+ {
+  "id": "w26",
+  "text": "can",
+  "start": 6.96,
+  "end": 7.12
+ },
+ {
+  "id": "w27",
+  "text": "melt,",
+  "start": 7.2,
+  "end": 7.68
+ },
+ {
+  "id": "w28",
+  "text": "crack,",
+  "start": 7.76,
+  "end": 8.107
+ },
+ {
+  "id": "w29",
+  "text": "or",
+  "start": 8.133,
+  "end": 8.16
+ },
+ {
+  "id": "w30",
+  "text": "scorch.",
+  "start": 8.32,
+  "end": 9.44
+ },
+ {
+  "id": "w31",
+  "text": "Here's",
+  "start": 9.52,
+  "end": 9.68
+ },
+ {
+  "id": "w32",
+  "text": "how",
+  "start": 9.76,
+  "end": 9.84
+ },
+ {
+  "id": "w33",
+  "text": "the",
+  "start": 9.88,
+  "end": 9.92
+ },
+ {
+  "id": "w34",
+  "text": "notch",
+  "start": 10,
+  "end": 10.24
+ },
+ {
+  "id": "w35",
+  "text": "works.",
+  "start": 10.32,
+  "end": 11.12
+ },
+ {
+  "id": "w36",
+  "text": "It's",
+  "start": 11.16,
+  "end": 11.24
+ },
+ {
+  "id": "w37",
+  "text": "a",
+  "start": 11.28,
+  "end": 11.44
+ },
+ {
+  "id": "w38",
+  "text": "shallow",
+  "start": 11.52,
+  "end": 11.84
+ },
+ {
+  "id": "w39",
+  "text": "groove",
+  "start": 11.96,
+  "end": 12.32
+ },
+ {
+  "id": "w40",
+  "text": "cut",
+  "start": 12.4,
+  "end": 12.48
+ },
+ {
+  "id": "w41",
+  "text": "along",
+  "start": 12.56,
+  "end": 12.8
+ },
+ {
+  "id": "w42",
+  "text": "the",
+  "start": 12.88,
+  "end": 12.96
+ },
+ {
+  "id": "w43",
+  "text": "front",
+  "start": 13.08,
+  "end": 13.2
+ },
+ {
+  "id": "w44",
+  "text": "edge,",
+  "start": 13.28,
+  "end": 13.68
+ },
+ {
+  "id": "w45",
+  "text": "between",
+  "start": 13.84,
+  "end": 14
+ },
+ {
+  "id": "w46",
+  "text": "the",
+  "start": 14.08,
+  "end": 14.16
+ },
+ {
+  "id": "w47",
+  "text": "hot",
+  "start": 14.28,
+  "end": 14.4
+ },
+ {
+  "id": "w48",
+  "text": "plate",
+  "start": 14.56,
+  "end": 14.72
+ },
+ {
+  "id": "w49",
+  "text": "and",
+  "start": 14.76,
+  "end": 14.8
+ },
+ {
+  "id": "w50",
+  "text": "the",
+  "start": 14.88,
+  "end": 14.96
+ },
+ {
+  "id": "w51",
+  "text": "body",
+  "start": 15.08,
+  "end": 15.2
+ },
+ {
+  "id": "w52",
+  "text": "of",
+  "start": 15.24,
+  "end": 15.28
+ },
+ {
+  "id": "w53",
+  "text": "the",
+  "start": 15.36,
+  "end": 15.44
+ },
+ {
+  "id": "w54",
+  "text": "iron.",
+  "start": 15.52,
+  "end": 16.32
+ },
+ {
+  "id": "w55",
+  "text": "Slide",
+  "start": 16.4,
+  "end": 16.64
+ },
+ {
+  "id": "w56",
+  "text": "the",
+  "start": 16.72,
+  "end": 16.8
+ },
+ {
+  "id": "w57",
+  "text": "tip",
+  "start": 16.92,
+  "end": 17.04
+ },
+ {
+  "id": "w58",
+  "text": "in",
+  "start": 17.12,
+  "end": 17.2
+ },
+ {
+  "id": "w59",
+  "text": "beside",
+  "start": 17.32,
+  "end": 17.52
+ },
+ {
+  "id": "w60",
+  "text": "a",
+  "start": 17.6,
+  "end": 17.68
+ },
+ {
+  "id": "w61",
+  "text": "button,",
+  "start": 17.92,
+  "end": 18.187
+ },
+ {
+  "id": "w62",
+  "text": "and",
+  "start": 18.213,
+  "end": 18.24
+ },
+ {
+  "id": "w63",
+  "text": "the",
+  "start": 18.32,
+  "end": 18.4
+ },
+ {
+  "id": "w64",
+  "text": "button",
+  "start": 18.6,
+  "end": 18.8
+ },
+ {
+  "id": "w65",
+  "text": "slips",
+  "start": 18.88,
+  "end": 19.2
+ },
+ {
+  "id": "w66",
+  "text": "into",
+  "start": 19.32,
+  "end": 19.44
+ },
+ {
+  "id": "w67",
+  "text": "that",
+  "start": 19.52,
+  "end": 19.6
+ },
+ {
+  "id": "w68",
+  "text": "gap.",
+  "start": 19.68,
+  "end": 20.4
+ },
+ {
+  "id": "w69",
+  "text": "It",
+  "start": 20.52,
+  "end": 20.64
+ },
+ {
+  "id": "w70",
+  "text": "sits",
+  "start": 20.72,
+  "end": 20.88
+ },
+ {
+  "id": "w71",
+  "text": "out",
+  "start": 20.96,
+  "end": 21.12
+ },
+ {
+  "id": "w72",
+  "text": "of",
+  "start": 21.16,
+  "end": 21.2
+ },
+ {
+  "id": "w73",
+  "text": "the",
+  "start": 21.28,
+  "end": 21.36
+ },
+ {
+  "id": "w74",
+  "text": "heat,",
+  "start": 21.52,
+  "end": 21.76
+ },
+ {
+  "id": "w75",
+  "text": "while",
+  "start": 21.84,
+  "end": 21.92
+ },
+ {
+  "id": "w76",
+  "text": "the",
+  "start": 22,
+  "end": 22.08
+ },
+ {
+  "id": "w77",
+  "text": "plate",
+  "start": 22.24,
+  "end": 22.4
+ },
+ {
+  "id": "w78",
+  "text": "presses",
+  "start": 22.48,
+  "end": 22.8
+ },
+ {
+  "id": "w79",
+  "text": "the",
+  "start": 22.88,
+  "end": 22.96
+ },
+ {
+  "id": "w80",
+  "text": "fabric",
+  "start": 23.2,
+  "end": 23.44
+ },
+ {
+  "id": "w81",
+  "text": "right",
+  "start": 23.52,
+  "end": 23.68
+ },
+ {
+  "id": "w82",
+  "text": "up",
+  "start": 23.76,
+  "end": 23.84
+ },
+ {
+  "id": "w83",
+  "text": "to",
+  "start": 23.88,
+  "end": 23.92
+ },
+ {
+  "id": "w84",
+  "text": "its",
+  "start": 24,
+  "end": 24.08
+ },
+ {
+  "id": "w85",
+  "text": "edge.",
+  "start": 24.16,
+  "end": 25.04
+ },
+ {
+  "id": "w86",
+  "text": "Now",
+  "start": 25.12,
+  "end": 25.36
+ },
+ {
+  "id": "w87",
+  "text": "cut",
+  "start": 25.44,
+  "end": 25.6
+ },
+ {
+  "id": "w88",
+  "text": "the",
+  "start": 25.68,
+  "end": 25.76
+ },
+ {
+  "id": "w89",
+  "text": "iron",
+  "start": 25.92,
+  "end": 26.08
+ },
+ {
+  "id": "w90",
+  "text": "open.",
+  "start": 26.16,
+  "end": 26.933
+ },
+ {
+  "id": "w91",
+  "text": "In",
+  "start": 26.987,
+  "end": 27.04
+ },
+ {
+  "id": "w92",
+  "text": "most",
+  "start": 27.16,
+  "end": 27.28
+ },
+ {
+  "id": "w93",
+  "text": "irons,",
+  "start": 27.36,
+  "end": 27.8
+ },
+ {
+  "id": "w94",
+  "text": "the",
+  "start": 27.84,
+  "end": 27.92
+ },
+ {
+  "id": "w95",
+  "text": "heating",
+  "start": 28,
+  "end": 28.24
+ },
+ {
+  "id": "w96",
+  "text": "element",
+  "start": 28.32,
+  "end": 28.56
+ },
+ {
+  "id": "w97",
+  "text": "is",
+  "start": 28.64,
+  "end": 28.8
+ },
+ {
+  "id": "w98",
+  "text": "cast",
+  "start": 29,
+  "end": 29.2
+ },
+ {
+  "id": "w99",
+  "text": "right",
+  "start": 29.28,
+  "end": 29.52
+ },
+ {
+  "id": "w100",
+  "text": "into",
+  "start": 29.64,
+  "end": 29.76
+ },
+ {
+  "id": "w101",
+  "text": "the",
+  "start": 29.8,
+  "end": 29.84
+ },
+ {
+  "id": "w102",
+  "text": "aluminum",
+  "start": 29.92,
+  "end": 30.32
+ },
+ {
+  "id": "w103",
+  "text": "plate.",
+  "start": 30.68,
+  "end": 31.08
+ },
+ {
+  "id": "w104",
+  "text": "On",
+  "start": 31.12,
+  "end": 31.28
+ },
+ {
+  "id": "w105",
+  "text": "top",
+  "start": 31.36,
+  "end": 31.68
+ },
+ {
+  "id": "w106",
+  "text": "sits",
+  "start": 31.76,
+  "end": 31.92
+ },
+ {
+  "id": "w107",
+  "text": "a",
+  "start": 32,
+  "end": 32.08
+ },
+ {
+  "id": "w108",
+  "text": "strip",
+  "start": 32.16,
+  "end": 32.48
+ },
+ {
+  "id": "w109",
+  "text": "made",
+  "start": 32.56,
+  "end": 32.64
+ },
+ {
+  "id": "w110",
+  "text": "of",
+  "start": 32.72,
+  "end": 32.8
+ },
+ {
+  "id": "w111",
+  "text": "two",
+  "start": 32.88,
+  "end": 33.04
+ },
+ {
+  "id": "w112",
+  "text": "metals.",
+  "start": 33.12,
+  "end": 33.88
+ },
+ {
+  "id": "w113",
+  "text": "As",
+  "start": 33.92,
+  "end": 34
+ },
+ {
+  "id": "w114",
+  "text": "it",
+  "start": 34.08,
+  "end": 34.16
+ },
+ {
+  "id": "w115",
+  "text": "heats",
+  "start": 34.2,
+  "end": 34.4
+ },
+ {
+  "id": "w116",
+  "text": "up,",
+  "start": 34.48,
+  "end": 34.88
+ },
+ {
+  "id": "w117",
+  "text": "it",
+  "start": 34.96,
+  "end": 35.04
+ },
+ {
+  "id": "w118",
+  "text": "bends,",
+  "start": 35.08,
+  "end": 35.72
+ },
+ {
+  "id": "w119",
+  "text": "clicks",
+  "start": 35.76,
+  "end": 35.96
+ },
+ {
+  "id": "w120",
+  "text": "the",
+  "start": 36,
+  "end": 36.08
+ },
+ {
+  "id": "w121",
+  "text": "power",
+  "start": 36.24,
+  "end": 36.4
+ },
+ {
+  "id": "w122",
+  "text": "off,",
+  "start": 36.48,
+  "end": 36.96
+ },
+ {
+  "id": "w123",
+  "text": "then",
+  "start": 37.04,
+  "end": 37.12
+ },
+ {
+  "id": "w124",
+  "text": "cools",
+  "start": 37.2,
+  "end": 37.6
+ },
+ {
+  "id": "w125",
+  "text": "and",
+  "start": 37.68,
+  "end": 37.76
+ },
+ {
+  "id": "w126",
+  "text": "clicks",
+  "start": 37.84,
+  "end": 37.96
+ },
+ {
+  "id": "w127",
+  "text": "it",
+  "start": 38,
+  "end": 38.08
+ },
+ {
+  "id": "w128",
+  "text": "back",
+  "start": 38.2,
+  "end": 38.32
+ },
+ {
+  "id": "w129",
+  "text": "on.",
+  "start": 38.4,
+  "end": 39.08
+ },
+ {
+  "id": "w130",
+  "text": "Above",
+  "start": 39.12,
+  "end": 39.28
+ },
+ {
+  "id": "w131",
+  "text": "it",
+  "start": 39.36,
+  "end": 39.44
+ },
+ {
+  "id": "w132",
+  "text": "all",
+  "start": 39.52,
+  "end": 39.68
+ },
+ {
+  "id": "w133",
+  "text": "is",
+  "start": 39.76,
+  "end": 39.84
+ },
+ {
+  "id": "w134",
+  "text": "the",
+  "start": 39.92,
+  "end": 40
+ },
+ {
+  "id": "w135",
+  "text": "water",
+  "start": 40.08,
+  "end": 40.32
+ },
+ {
+  "id": "w136",
+  "text": "tank.",
+  "start": 40.4,
+  "end": 41.08
+ },
+ {
+  "id": "w137",
+  "text": "A",
+  "start": 41.12,
+  "end": 41.2
+ },
+ {
+  "id": "w138",
+  "text": "valve",
+  "start": 41.28,
+  "end": 41.6
+ },
+ {
+  "id": "w139",
+  "text": "lets",
+  "start": 41.68,
+  "end": 41.92
+ },
+ {
+  "id": "w140",
+  "text": "water",
+  "start": 42.08,
+  "end": 42.24
+ },
+ {
+  "id": "w141",
+  "text": "drip",
+  "start": 42.28,
+  "end": 42.48
+ },
+ {
+  "id": "w142",
+  "text": "down",
+  "start": 42.6,
+  "end": 42.72
+ },
+ {
+  "id": "w143",
+  "text": "into",
+  "start": 42.8,
+  "end": 42.96
+ },
+ {
+  "id": "w144",
+  "text": "a",
+  "start": 43.12,
+  "end": 43.173
+ },
+ {
+  "id": "w145",
+  "text": "chamber",
+  "start": 43.227,
+  "end": 43.6
+ },
+ {
+  "id": "w146",
+  "text": "inside",
+  "start": 43.68,
+  "end": 44.08
+ },
+ {
+  "id": "w147",
+  "text": "the",
+  "start": 44.12,
+  "end": 44.16
+ },
+ {
+  "id": "w148",
+  "text": "hot",
+  "start": 44.28,
+  "end": 44.4
+ },
+ {
+  "id": "w149",
+  "text": "plate.",
+  "start": 44.76,
+  "end": 45.16
+ },
+ {
+  "id": "w150",
+  "text": "Each",
+  "start": 45.2,
+  "end": 45.44
+ },
+ {
+  "id": "w151",
+  "text": "drop",
+  "start": 45.64,
+  "end": 45.84
+ },
+ {
+  "id": "w152",
+  "text": "flashes",
+  "start": 45.92,
+  "end": 46.24
+ },
+ {
+  "id": "w153",
+  "text": "into",
+  "start": 46.32,
+  "end": 46.56
+ },
+ {
+  "id": "w154",
+  "text": "steam",
+  "start": 46.64,
+  "end": 46.88
+ },
+ {
+  "id": "w155",
+  "text": "and",
+  "start": 46.96,
+  "end": 47.12
+ },
+ {
+  "id": "w156",
+  "text": "blasts",
+  "start": 47.2,
+  "end": 47.6
+ },
+ {
+  "id": "w157",
+  "text": "out",
+  "start": 47.68,
+  "end": 47.84
+ },
+ {
+  "id": "w158",
+  "text": "through",
+  "start": 47.92,
+  "end": 48
+ },
+ {
+  "id": "w159",
+  "text": "the",
+  "start": 48.04,
+  "end": 48.08
+ },
+ {
+  "id": "w160",
+  "text": "holes",
+  "start": 48.16,
+  "end": 48.4
+ },
+ {
+  "id": "w161",
+  "text": "in",
+  "start": 48.48,
+  "end": 48.52
+ },
+ {
+  "id": "w162",
+  "text": "the",
+  "start": 48.56,
+  "end": 48.64
+ },
+ {
+  "id": "w163",
+  "text": "bottom.",
+  "start": 49.04,
+  "end": 49.48
+ },
+ {
+  "id": "w164",
+  "text": "If",
+  "start": 49.52,
+  "end": 49.6
+ },
+ {
+  "id": "w165",
+  "text": "the",
+  "start": 49.64,
+  "end": 49.68
+ },
+ {
+  "id": "w166",
+  "text": "plate",
+  "start": 49.76,
+  "end": 49.84
+ },
+ {
+  "id": "w167",
+  "text": "is",
+  "start": 49.92,
+  "end": 50
+ },
+ {
+  "id": "w168",
+  "text": "too",
+  "start": 50.08,
+  "end": 50.24
+ },
+ {
+  "id": "w169",
+  "text": "cold,",
+  "start": 50.32,
+  "end": 50.853
+ },
+ {
+  "id": "w170",
+  "text": "the",
+  "start": 50.907,
+  "end": 50.96
+ },
+ {
+  "id": "w171",
+  "text": "water",
+  "start": 51.08,
+  "end": 51.2
+ },
+ {
+  "id": "w172",
+  "text": "can't",
+  "start": 51.28,
+  "end": 51.52
+ },
+ {
+  "id": "w173",
+  "text": "boil,",
+  "start": 51.6,
+  "end": 52.04
+ },
+ {
+  "id": "w174",
+  "text": "so",
+  "start": 52.08,
+  "end": 52.32
+ },
+ {
+  "id": "w175",
+  "text": "it",
+  "start": 52.4,
+  "end": 52.48
+ },
+ {
+  "id": "w176",
+  "text": "leaks",
+  "start": 52.56,
+  "end": 52.8
+ },
+ {
+  "id": "w177",
+  "text": "out",
+  "start": 52.88,
+  "end": 52.96
+ },
+ {
+  "id": "w178",
+  "text": "instead.",
+  "start": 53.4,
+  "end": 53.88
+ },
+ {
+  "id": "w179",
+  "text": "That's",
+  "start": 53.92,
+  "end": 54.08
+ },
+ {
+  "id": "w180",
+  "text": "why",
+  "start": 54.2,
+  "end": 54.32
+ },
+ {
+  "id": "w181",
+  "text": "many",
+  "start": 54.4,
+  "end": 54.64
+ },
+ {
+  "id": "w182",
+  "text": "irons",
+  "start": 54.72,
+  "end": 55.04
+ },
+ {
+  "id": "w183",
+  "text": "keep",
+  "start": 55.12,
+  "end": 55.2
+ },
+ {
+  "id": "w184",
+  "text": "that",
+  "start": 55.28,
+  "end": 55.44
+ },
+ {
+  "id": "w185",
+  "text": "valve",
+  "start": 55.52,
+  "end": 55.84
+ },
+ {
+  "id": "w186",
+  "text": "shut",
+  "start": 55.92,
+  "end": 56.16
+ },
+ {
+  "id": "w187",
+  "text": "until",
+  "start": 56.28,
+  "end": 56.4
+ },
+ {
+  "id": "w188",
+  "text": "the",
+  "start": 56.48,
+  "end": 56.56
+ },
+ {
+  "id": "w189",
+  "text": "plate",
+  "start": 56.64,
+  "end": 56.72
+ },
+ {
+  "id": "w190",
+  "text": "is",
+  "start": 56.8,
+  "end": 56.96
+ },
+ {
+  "id": "w191",
+  "text": "hot",
+  "start": 57.04,
+  "end": 57.12
+ },
+ {
+  "id": "w192",
+  "text": "enough.",
+  "start": 57.2,
+  "end": 58
+ },
+ {
+  "id": "w193",
+  "text": "Hard",
+  "start": 58.08,
+  "end": 58.16
+ },
+ {
+  "id": "w194",
+  "text": "water",
+  "start": 58.24,
+  "end": 58.56
+ },
+ {
+  "id": "w195",
+  "text": "leaves",
+  "start": 58.6,
+  "end": 58.8
+ },
+ {
+  "id": "w196",
+  "text": "limescale",
+  "start": 58.88,
+  "end": 59.44
+ },
+ {
+  "id": "w197",
+  "text": "behind,",
+  "start": 59.52,
+  "end": 59.96
+ },
+ {
+  "id": "w198",
+  "text": "and",
+  "start": 60,
+  "end": 60.24
+ },
+ {
+  "id": "w199",
+  "text": "over",
+  "start": 60.36,
+  "end": 60.48
+ },
+ {
+  "id": "w200",
+  "text": "time",
+  "start": 60.68,
+  "end": 60.88
+ },
+ {
+  "id": "w201",
+  "text": "it",
+  "start": 60.96,
+  "end": 61.04
+ },
+ {
+  "id": "w202",
+  "text": "clogs",
+  "start": 61.12,
+  "end": 61.44
+ },
+ {
+  "id": "w203",
+  "text": "those",
+  "start": 61.52,
+  "end": 61.68
+ },
+ {
+  "id": "w204",
+  "text": "holes.",
+  "start": 62.08,
+  "end": 62.56
+ },
+ {
+  "id": "w205",
+  "text": "And",
+  "start": 62.64,
+  "end": 62.72
+ },
+ {
+  "id": "w206",
+  "text": "many",
+  "start": 62.84,
+  "end": 62.96
+ },
+ {
+  "id": "w207",
+  "text": "irons",
+  "start": 63.04,
+  "end": 63.36
+ },
+ {
+  "id": "w208",
+  "text": "switch",
+  "start": 63.48,
+  "end": 63.6
+ },
+ {
+  "id": "w209",
+  "text": "themselves",
+  "start": 63.64,
+  "end": 64.08
+ },
+ {
+  "id": "w210",
+  "text": "off",
+  "start": 64.24,
+  "end": 64.4
+ },
+ {
+  "id": "w211",
+  "text": "if",
+  "start": 64.48,
+  "end": 64.56
+ },
+ {
+  "id": "w212",
+  "text": "you",
+  "start": 64.6,
+  "end": 64.64
+ },
+ {
+  "id": "w213",
+  "text": "leave",
+  "start": 64.72,
+  "end": 64.8
+ },
+ {
+  "id": "w214",
+  "text": "them",
+  "start": 64.88,
+  "end": 65.04
+ },
+ {
+  "id": "w215",
+  "text": "face",
+  "start": 65.16,
+  "end": 65.28
+ },
+ {
+  "id": "w216",
+  "text": "down,",
+  "start": 65.36,
+  "end": 65.88
+ },
+ {
+  "id": "w217",
+  "text": "often",
+  "start": 65.92,
+  "end": 66.16
+ },
+ {
+  "id": "w218",
+  "text": "in",
+  "start": 66.2,
+  "end": 66.24
+ },
+ {
+  "id": "w219",
+  "text": "about",
+  "start": 66.32,
+  "end": 66.56
+ },
+ {
+  "id": "w220",
+  "text": "thirty",
+  "start": 66.64,
+  "end": 66.88
+ },
+ {
+  "id": "w221",
+  "text": "seconds.",
+  "start": 67.32,
+  "end": 67.8
+ },
+ {
+  "id": "w222",
+  "text": "Have",
+  "start": 67.84,
+  "end": 67.92
+ },
+ {
+  "id": "w223",
+  "text": "you",
+  "start": 67.96,
+  "end": 68
+ },
+ {
+  "id": "w224",
+  "text": "ever",
+  "start": 68.12,
+  "end": 68.24
+ },
+ {
+  "id": "w225",
+  "text": "used",
+  "start": 68.4,
+  "end": 68.56
+ },
+ {
+  "id": "w226",
+  "text": "the",
+  "start": 68.6,
+  "end": 68.64
+ },
+ {
+  "id": "w227",
+  "text": "notch",
+  "start": 68.72,
+  "end": 68.96
+ },
+ {
+  "id": "w228",
+  "text": "on",
+  "start": 69,
+  "end": 69.04
+ },
+ {
+  "id": "w229",
+  "text": "your",
+  "start": 69.12,
+  "end": 69.2
+ },
+ {
+  "id": "w230",
+  "text": "iron?",
+  "start": 69.28,
+  "end": 69.8
+ },
+ {
+  "id": "w231",
+  "text": "Tell",
+  "start": 69.84,
+  "end": 69.92
+ },
+ {
+  "id": "w232",
+  "text": "me",
+  "start": 70,
+  "end": 70.04
+ },
+ {
+  "id": "w233",
+  "text": "in",
+  "start": 70.08,
+  "end": 70.12
+ },
+ {
+  "id": "w234",
+  "text": "the",
+  "start": 70.16,
+  "end": 70.2
+ },
+ {
+  "id": "w235",
+  "text": "comments.",
+  "start": 70.24,
+  "end": 70.96
+ }
+]

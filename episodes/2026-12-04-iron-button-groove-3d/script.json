@@ -1,0 +1,13 @@
+{
+ "slug": "iron-button-groove-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "That little notch at the tip of your iron is a parking spot for buttons. Run a hot plate straight over a plastic button, and it can melt, crack, or scorch. Here's how the notch works. It's a shallow groove cut along the front edge, between the hot plate and the body of the iron. Slide the tip in beside a button, and the button slips into that gap. It sits out of the heat, while the plate presses the fabric right up to its edge. Now cut the iron open. In most irons, the heating element is cast right into the aluminum plate. On top sits a strip made of two metals. As it heats up, it bends, clicks the power off, then cools and clicks it back on. Above it all is the water tank. A valve lets water drip down into a chamber inside the hot plate. Each drop flashes into steam and blasts out through the holes in the bottom. If the plate is too cold, the water can't boil, so it leaks out instead. That's why many irons keep that valve shut until the plate is hot enough. Hard water leaves limescale behind, and over time it clogs those holes. And many irons switch themselves off if you leave them face down, often in about thirty seconds. Have you ever used the notch on your iron? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
