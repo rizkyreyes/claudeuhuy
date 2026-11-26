@@ -1,0 +1,13 @@
+{
+ "slug": "septic-drain-field-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "If your home is on septic, the water you flush ends up under your lawn, leaking out of pipes full of holes on purpose. If they clog, sewage comes back up, into your yard or house. More than one in five American homes run on this. Liquid leaves the tank and runs downhill into a small concrete box. One outlet per trench, all dead level, so each trench gets an equal share. Then it flows into pipes about four inches wide, laid flat in trenches of gravel, with the holes pointing down. It drips out through the gravel into the soil, where the real cleaning happens. The soil is packed with bacteria that feed on what's left. Within a few feet, most germs are gone before it reaches groundwater. But those bacteria need air. That's why the trenches are shallow, and why only grass belongs on top. Park a car on it, and crushed soil chokes them. Over the years, a black, slimy layer of bacteria grows along the bottom of each trench. It slows the water down. Skip pumping the tank, and solids wash out and clog it even faster. The water has nowhere to go but up. The grass turns bright green and spongy, even in dry weather, and sewage can surface in the yard. Do you know where your drain field is? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

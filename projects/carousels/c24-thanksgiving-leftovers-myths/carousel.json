@@ -1,0 +1,23 @@
+{
+  "slides": [
+    { "type": "cover", "bg": "bg/cover.jpg", "title": "5 Thanksgiving leftover myths to drop before you eat them", "sub": "Swipe" },
+    { "type": "myth", "bg": "bg/cool.jpg", "myth": "Let leftovers cool on the counter before the fridge.",
+      "fact": "Hot food can go straight into the fridge. Split big batches into shallow containers and get them in within 2 hours.",
+      "source": "USDA Food Safety and Inspection Service" },
+    { "type": "myth", "bg": "bg/week.jpg", "myth": "Leftover turkey is good for a week.",
+      "fact": "Eat cooked leftovers within 3 to 4 days, or freeze them. After that, toss them.",
+      "source": "USDA Food Safety and Inspection Service" },
+    { "type": "myth", "bg": "bg/smell2.jpg", "myth": "If it smells fine, it's safe to eat.",
+      "fact": "The bacteria that make people sick usually can't be seen, smelled or tasted. Go by the days, not your nose.",
+      "source": "USDA Kitchen Companion" },
+    { "type": "myth", "bg": "bg/freeze2.jpg", "myth": "Freezing kills the bacteria.",
+      "fact": "It only puts them to sleep. Freezing keeps food safe, but once it thaws, the bacteria can become active again.",
+      "source": "USDA Food Safety and Inspection Service" },
+    { "type": "myth", "bg": "bg/reheat.jpg", "myth": "Hot to the touch means it's reheated enough.",
+      "fact": "Reheat leftovers to 165°F on a food thermometer. Bring gravy and soups to a rolling boil.",
+      "source": "USDA Food Safety and Inspection Service" },
+    { "type": "end", "bg": "bg/end.jpg", "title": "Which one surprised you?",
+      "cta": "Follow for the real reason behind everyday stuff",
+      "sources": ["USDA FSIS: Leftovers and Food Safety", "USDA FSIS: Freezing and Food Safety", "USDA Kitchen Companion"] }
+  ]
+}

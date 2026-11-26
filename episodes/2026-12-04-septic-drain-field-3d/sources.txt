@@ -1,0 +1,54 @@
+# septic-drain-field-3d (3d-47a) — claim -> source. Checked 26 Nov 2026 (cloud). WebFetch to epa.gov / wikipedia.org is DNS-blocked from the
+# sandbox, so claims are locked from search-result excerpts quoting those pages. Re-open the links on the laptop if in doubt.
+
+"If your home is on septic, the water you flush ends up under your lawn, leaking out of pipes full of holes on purpose."
+  - EPA, How Your Septic System Works: a typical system = septic tank + drainfield (soil absorption field); the liquid (effluent) leaves the
+    tank into the drainfield, where it is treated and filtered as it drains through the soil. https://www.epa.gov/septic/how-your-septic-system-works
+  - WVU / LSU AgCenter / Deschutes County drainfield guides: perforated pipe (typically 4-inch PVC, holes pointing down) in gravel trenches.
+    https://actat.wvu.edu/files/d/570a5193-1b32-494b-b12e-ec6ea6002a90/soilabsorption.pdf
+    https://faculty.lsu.edu/hayes/files/septic_series/absoprtiontrench.pdf
+    https://www.deschutes.org/sites/default/files/fileattachments/community_development/page/775/es-standard_drainfield.pdf
+"If they clog, sewage comes back up, into your yard or house."
+  - Washington State Dept. of Health: a failure can cause sewage to come to the surface around the tank or drainfield or to back up in pipes
+    in the building. https://www.doh.wa.gov/Portals/1/Documents/Pubs/337-153.pdf
+  - EPA, What to do if your septic system fails: solids reaching the drainfield clog the pores in the gravel and soil; signs include
+    standing water / damp spots, odors, slow drains, backups. https://epa.gov/septic/what-do-if-your-septic-system-fails
+"More than one in five American homes run on this."
+  - EPA SepticSmart (2026 release + septic overview page): more than one in five U.S. homes/households rely on septic (onsite) systems.
+    https://www.epa.gov/septic/learn-about-septic-systems
+    https://www.epa.gov/newsreleases/epas-14th-septicsmart-week-practical-and-proactive-septic-system-maintenance-protects
+"Liquid leaves the tank and runs downhill into a small concrete box. One outlet per trench, all dead level, so each trench gets an equal share."
+  - Missouri DHSS Onsite Wastewater Owner's Manual: the distribution box has one inlet and one outlet per trench; outlets must be level,
+    otherwise the flow splits unequally (gravity system). https://health.mo.gov/book/export/html/5021
+  - VDH, How Systems Work: pipe from the distribution box carries effluent into the trench.
+    https://www.vdh.virginia.gov/environmental-health/onsite-sewage-water-services-updated/how-systems-work/
+  - "Small concrete box": D-boxes are commonly precast concrete (generic illustration; some are plastic, not said).
+"Then it flows into pipes about four inches wide, laid flat in trenches of gravel, with the holes pointing down."
+  - WVU: perforated pipe typically 4-inch PVC with holes pointing down, covered with gravel.
+  - Deschutes County: perforated pipe must be laid level (only the effluent sewer upstream of the box slopes).
+  - LSU AgCenter: clean gravel bedding at least 6 in below and 2 in above the pipe.
+"It drips out through the gravel into the soil, where the real cleaning happens. The soil is packed with bacteria that feed on what's left."
+  - EPA: soil full of bacteria digests most contaminants before the wastewater reaches groundwater; microbes on or near the soil treat the effluent.
+  - This Old House (site evaluator): the soil is the real engine of the leach field. https://www.thisoldhouse.com/plumbing/understanding-septic-systems
+"Within a few feet, most germs are gone before it reaches the groundwater."
+  - USEPA (1980) design manual, cited in onsite pathogen reviews: under unsaturated flow, bacteria can be removed within 0.9-1.2 m (3-4 ft)
+    of soil; states require 1.5-4 ft or more of separation to the water table. https://vernonjames.ces.ncsu.edu/microbial-pathogens-and-on-site-soil-treatment-systems
+  - EPA: partially treated water filters down through the soil and enters the groundwater. (VO says "most germs", never "all".)
+"But those bacteria need air. That's why the trenches are shallow, and why only grass belongs on top. Park a car on it, and crushed soil chokes them."
+  - UF/IFAS + extension drainfield guides: oxygen is required by the beneficial bacteria; trenches deep enough to filter but shallow enough to
+    let oxygen reach the soil; turfgrass (shallow fibrous roots) is the usual cover; compaction from driving/parking reduces bacterial
+    effectiveness and percolation. https://edis.ifas.ufl.edu/publication/SS687/pdf  https://shorestewards.cw.wsu.edu/faq/protecting-your-drainfield/
+  - Univ. of Nebraska extension: avoid driving or parking vehicles over the drainfield. https://extensionpubs.unl.edu/publication/g1479/2008/pdf/view/g1479-2008.pdf
+"Over the years, a black, slimy layer of bacteria grows along the bottom of each trench. It slows the water down."
+  - InspectAPedia / WVU soil-absorption guide: the biomat is a black, jelly-like bacterial layer that forms first along the trench bottom near
+    the perforations; as it thickens the soil becomes less permeable. https://inspectapedia.com/septic/Septic_Biomat_Formation.php
+"Skip pumping the tank, and solids wash out and clog it even faster."
+  - EPA: failure to perform routine maintenance (pumping) lets solids migrate from the tank into the drainfield and clog the system.
+  - Biomat sources: tank maintenance and effluent filters slow biomat growth (proper organic loading).
+"The water has nowhere to go but up. The grass turns bright green and spongy, even in dry weather, and sewage can surface in the yard."
+  - WA DOH: bright green, spongy grass over the drainfield, even in dry weather; sewage surfacing.
+  - Cornell CWMI: lush grass over the drainfield during dry spells is a symptom. https://www.css.cornell.edu/cwmi/waterquality/septic/CCEWQ-YourSepticSystem-Failure.pdf
+"Do you know where your drain field is? Tell me in the comments." (question, no claim)
+
+Not said (dropped): exact trench depths/widths (vary by state code), how many years a field lasts (sources vary widely), any brand.
+Illustration notes: pipe drawn ~1.5x thicker so it reads on a phone; three trenches only (real fields vary); the car is generic.

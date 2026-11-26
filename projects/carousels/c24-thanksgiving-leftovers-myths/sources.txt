@@ -1,0 +1,16 @@
+# c24-thanksgiving-leftovers-myths: fact -> source (checked 26 Nov 2026, cloud; fsis.usda.gov fetch is DNS-blocked, locked from search excerpts quoting the pages)
+1. Hot food can go straight into the fridge; shallow containers; refrigerate within 2 hours.
+   USDA FSIS "Leftovers and Food Safety": "Hot food can be placed directly in the refrigerator or be rapidly chilled in an ice or cold water bath before refrigerating"; place food into shallow containers and immediately put in the refrigerator or freezer for rapid cooling; 2-hour rule.
+   https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety
+   (quoted via Virginia Tech Food Science: https://fst.vt.edu/news-and-events/stories/stories/king5-coolfood.html ; archive PDF https://webarchive.library.unt.edu/web/20120915114427/http:/www.fsis.usda.gov/PDF/Leftovers_and_Food_Safety.pdf)
+2. Cooked leftovers: 3 to 4 days in the fridge, or freeze.
+   USDA FSIS: "Use cooked leftovers within 4 days"; leftovers can be kept in the refrigerator for 3 to 4 days. Same pages; Mayo Clinic agrees https://www.mayoclinic.org/health/food-safety/AN01095
+3. Pathogens can't be seen, smelled or tasted.
+   USDA Kitchen Companion: "You can't see, smell, or taste these pathogens" (spoilage bacteria change smell/look but usually don't cause illness).
+   https://www.fsis.usda.gov/sites/default/files/media_file/2020-12/Kitchen-Companion.pdf
+4. Freezing inactivates microbes; they can become active again after thawing.
+   USDA FSIS "Freezing and Food Safety": "Freezing to 0 °F inactivates any microbes -- bacteria, yeasts and molds -- present in food. Once thawed, however, these microbes can again become active"; freezing keeps food safe indefinitely (storage times are for quality).
+   https://webarchive.library.unt.edu/web/20130216165457/http:/www.fsis.usda.gov/PDF/Freezing_and_Food_Safety.pdf
+5. Reheat to 165°F on a food thermometer; bring sauces, soups and gravy to a boil.
+   USDA FSIS: "When reheating leftovers, be sure they reach 165 °F as measured with a food thermometer. Bring sauces, soups and gravy to a rolling boil." (same leftovers page)
+Photos (Pexels, free license, no faces, no readable brands): cover 5718067, cool 5848017, week 5418583, smell2 5418581, freeze2 16247814, reheat 6035322, end 5791485.
