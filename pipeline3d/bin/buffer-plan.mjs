@@ -35,7 +35,7 @@ const at = h => `${date}T${String(h).padStart(2, "0")}:00:00${off}`;
 const plan = [
   { channel: "tiktok", channelId: "6ab28e9cea19ca0bdeb5efbd", dueAt: at(SLOTS.tiktok), metadata: { tiktok: { isAiGenerated: true } } },
   { channel: "youtube", channelId: "6ab290a4ea19ca0bdeb603a4", dueAt: at(SLOTS.youtube),
-    metadata: { youtube: { title, categoryId: "27", privacy: "public", madeForKids: false, isAiGenerated: true, notifySubscribers: true } } },
+    metadata: { youtube: { type: "short", title, categoryId: "27", privacy: "public", madeForKids: false, isAiGenerated: true, notifySubscribers: true } } },
   // Instagram dropped 24 Nov 2026: Rizky uploads IG by hand from the app (shares to the Facebook Page); fb-page-push task sends him the file.
 ].map(p => ({ ...p, schedulingType: "automatic", mode: "customScheduled", text: cap, assets }));
 console.log(`target ${dow} ${date} (ET ${off}); one video per ET day: check list_posts for ${date} before creating`);
