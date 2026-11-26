@@ -1,0 +1,34 @@
+# smoke-alarm-date-3d (3d-39) — claim -> source. Checked 25 Nov 2026 (cloud). WebFetch to cpsc.gov / nrc.gov / maine.gov / firstalertstore.com is
+# DNS-blocked from the sandbox, so claims are locked from search-result excerpts quoting those pages. Re-open the links on the laptop if in doubt.
+
+"Every smoke alarm in your house has an expiration date." / "Ten years from that date, it's done." / "That's why the code says ten years."
+  - NFPA 72 (one- and two-family dwellings): smoke alarms "shall not remain in service longer than 10 years from the date of manufacture"; replace 10 years from the date of manufacture, not the purchase or installation date.
+    https://dps.mn.gov/divisions/sfm/for-families/Documents/Home%20Fire%20Safety%20Information/smokedetectorreplacement.pdf
+    https://www.arnold.af.mil/News/Article-Display/Article/961967/every-smoke-alarm-has-an-expiration-date-whats-yours/
+    https://www.cepro.com/news/nfpa_smoke_alarms_need_replacement_every_10_years/1836/
+  - Combination smoke/CO alarms: end-of-life signal or 10 years, whichever comes first (same sources). Not said in the VO.
+"Twist yours down and flip it over. The date on the back is when it was made, not when it went up."
+  - Same NFPA-based sources: the date of manufacture is printed on the back (or side) of the alarm; remove it from the ceiling/wall to read it. Ceiling alarms twist off their mounting plate (generic; illustrated, no brand).
+"And past it, there's a real chance it stays quiet in a fire." / "The study behind it expected about three in ten to fail by then."
+  - CPSC smoke alarm paper: "To balance safety and cost, the 10-year replacement for smoke alarms was established, which is roughly a 30 percent probability of failure before replacement" (technical committee study; ~73 % still operational at 10 years). https://www.cpsc.gov/s3fs-public/smokealarm_0.pdf
+"Inside is a small dark chamber that lets air in, but not light." / "In a photoelectric alarm, a tiny light shines across it, aimed away from a sensor. Clean air, the sensor sees nothing. Smoke drifts in, the particles bounce light onto the sensor, and the horn goes off."
+  - EPA (archived) "Photoelectric Technology": a light source and a light sensor in a chamber, arranged so the light does not hit the sensor; smoke scatters light onto the sensor, which triggers the alarm. https://webarchive.library.unt.edu/eot2008/20090508081916/http:/epa.gov/radiation/sources/smoke_photo.html
+  - Photoelectric detector patents: LED + photodiode at an angle so no direct light reaches the photodiode; chamber designed to block outside light; photocurrent over a threshold sounds the alarm. https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/5719557
+"Ionization alarms use a tiny speck of radioactive americium. It charges the air between two metal plates, so a weak current flows. Smoke grabs those charged particles, the current drops, and it screams."
+  - U.S. NRC fact sheet "Smoke Detectors": americium-241 emits alpha particles that ionize the air in a chamber; two charged plates (electrodes) attract the ions, creating a small, steady current; smoke entering the chamber interrupts the current and triggers the alarm; most use one microcurie or less. https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/smoke-detectors.html
+  - American Nuclear Society: smoke particles attach to the ions; when the current drops below a threshold the alarm sounds. https://wx1.ans.org/pi/np/smoke
+  - EPA RadTown: the americium is sealed in foil and ceramic; never tamper with it. https://19january2025snapshot.epa.gov/radtown/americium-ionization-smoke-detectors
+"But for years, dust, bugs, grease and damp air drift into that same chamber. They coat the sensor and the plates. The sensor slowly loses sensitivity, no matter how often you test it."
+  - Kidde, Smoke Detector Maintenance: the sensor gradually loses sensitivity, no matter how faithfully you clean and test it. https://www.kidde.com/safety-hub/smoke-and-co-detection/smoke-detector-maintenance-how-to-clean-test-and-care-for-your-alarms
+  - Aico (AS 3786 rationale): accumulated dust, insects, airborne contaminants and corrosion over the life of the alarm. https://aico.co.uk/homeowner/?p=108219
+  - EngineerFix: household pollutants such as dust, cooking grease and humidity coat the sensing components over time. https://engineerfix.com/why-do-smoke-detectors-expire/
+  - Wording note: we do NOT say the test button only checks the horn/battery (sources disagree: Kidde/First Alert yes, Aico says it tests the sensor). The video shows the button still beeping while the sensor is dim = illustration of "no matter how often you test it" (Kidde).
+"Almost three in five home fire deaths happen with no smoke alarm, or one that didn't work."
+  - NFPA, Smoke Alarms in U.S. Home Fires (2021, 2014-2018 data): 41 % of home fire deaths in homes with no smoke alarms + 16 % where alarms were present but did not operate = almost three of every five. Earlier editions agree (2012-2016: 40 % + 17 %).
+    https://www.safetyandhealthmagazine.com/articles/18122-nearly-60-percent-of-home-fire-deaths-involve-missing-malfunctioning-smoke-alarms-report
+    https://portal.ct.gov/cfpc/_old/state-fire-administrator/general/smoke-alarms-in-us-home-fires
+"So pull yours down and read the date. Over ten years? Replace the whole alarm."
+  - NFPA rule above (replace the alarm 10 years after manufacture, i.e. the unit, not the battery); Massachusetts fire marshal on expired alarms: replace with new UL 217 alarms. https://www.mass.gov/news/state-fire-marshal-fire-chiefs-raise-awareness-of-expired-smoke-alarms
+Dropped (not verified well enough or not needed): "no date on the back = over 10 years old"; the test-button-only-checks-the-horn claim; the 54-55 % lower death rate; the microcurie amount (said nowhere in the VO).
+
+Cover images: fal.ai openai/gpt-image-2 (medium), prompts in make_covers.sh. No stock photos in the video.
