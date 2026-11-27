@@ -1,0 +1,13 @@
+{
+ "slug": "sump-pump-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "Many basements have a hole in the floor on purpose. It's there to catch the water the ground is pushing in. If the pump inside it stops during a storm, the basement floods, and a standard home policy usually won't cover it. After heavy rain or snowmelt, the soil around the house fills up with water. That water presses on the walls and the floor, and it finds every crack. So builders lay a pipe full of holes along the bottom of the walls, around the footing. Water seeps in, and the pipe carries it to the lowest spot in the basement: the sump pit. As the pit fills, a float rides up on the water. Near the top, it flips a switch, and the pump kicks on. An impeller spins fast and throws the water up a pipe, out of the house, and away from the walls. When the level drops, the float falls and the pump shuts off. But that pipe is still full of water. Without a one-way flap called a check valve, it would all fall back into the pit, and the pump would move the same water again and again, wearing itself out. And the worst part: the storm that fills the pit can also knock out the power. That's why many homes add a battery backup pump. Floats can get stuck on the pit wall, and in winter the pipe outside can freeze solid. Most pumps only last about seven to ten years. Is there a pump pit in your basement? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

@@ -1,0 +1,52 @@
+# sump-pump-3d (3d-48a) — claim -> source. Checked 27 Nov 2026 (cloud). WebFetch to a2gov.org / howstuffworks.com is DNS-blocked from the
+# sandbox, so claims are locked from search-result excerpts quoting the pages below. Re-open the links on the laptop if in doubt.
+
+"Many basements have a hole in the floor on purpose. It's there to catch the water the ground is pushing in."
+  - Sump pit = a hole in the floor of the basement or crawl space where the sump pump sits; it collects groundwater/excess water and the
+    pump turns on as water collects (HowStuffWorks, Pentair sump pump FAQ, American Family Insurance).
+    https://home.howstuffworks.com/sump-pump.htm  https://www.pentair.com/en-us/education-support/frequently-asked-questions/sump-pump-info-faq.html
+    https://amfam.com/resources/articles/at-home/sump-pump-basics
+"If the pump inside it stops during a storm, the basement floods, and a standard home policy usually won't cover it."
+  - Progressive: water back-ups and sump pump overflows aren't usually covered unless you add optional water back-up / sump pump overflow
+    coverage. NerdWallet / Westfield: standard homeowners policies often exclude sump pump overflow without an endorsement.
+    https://www.progressive.com/answers/home-insurance-water-backup-coverage  https://westfieldinsurance.com/about-us/articles/sump-pump-failure-insurance-coverage
+    https://www.nerdwallet.com/article/insurance/water-backup-coverage
+"After heavy rain or snowmelt, the soil around the house fills up with water. That water presses on the walls and the floor, and it finds every crack."
+  - Oak Ridge National Laboratory Foundation Handbook: saturated soil / water under hydrostatic pressure against the foundation; dampproofing
+    does not stop water under hydrostatic pressure. https://foundationhandbook.ornl.gov/handbook/section2-1-drainage.shtml
+  - Heavy rain and snowmelt as the times the pit fills (AOL/Fox6 winter sump coverage, Roto-Rooter checkup guide).
+    https://www.fox6now.com/news/heavy-rain-can-cause-issues-for-your-sump-pump-and-so-can-sub-zero-temperatures
+"So builders lay a pipe full of holes along the bottom of the walls, around the footing. Water seeps in, and the pipe carries it to the lowest spot in the basement: the sump pit."
+  - PNNL Building America Solution Center: perforated footing drain pipe; connect the sump pit to the perimeter drain or sub-slab gravel
+    (perforated liner / through-footing pipes); gasketed lid; check valve. https://basc.pnnl.gov/resource-guides/footing-drain-pipe
+    https://basc.pnnl.gov/resource-guides/drain-or-sump-pump-installed-basements-or-crawlspaces
+  - JLC Foundation Drainage: drain tile at the footing can discharge to daylight or to a sump pit. https://www.jlconline.com/how-to/foundations/foundation-drainage_o/
+  - Pit at the lowest point of the basement (Angi sump pump diagram, HomeServe). https://angi.com/articles/sump-pump-diagram.htm
+"As the pit fills, a float rides up on the water. Near the top, it flips a switch, and the pump kicks on."
+  - Float rides the water, switch turns the pump on as it rises, off as it drops (HowStuffWorks, HomeServe, Pentair FAQ).
+    https://www.homeserve.com/blog/home-improvement/how-does-a-sump-pump-work
+"An impeller spins fast and throws the water up a pipe, out of the house, and away from the walls."
+  - Motor drives the impeller; it spins rapidly and pushes water up the discharge line to a storm drain / dry well / away from the house
+    (HowStuffWorks, HomeServe). Discharge well away from the foundation (HomeServe discharge-line guide; City of Fargo: storm sewer or 20+ ft).
+    https://www.homeserve.com/blog/home-improvement/sump-pump-discharge-line  https://fargond.gov/live/property-ownership/sump-pumps/sump-pump-discharge
+"When the level drops, the float falls and the pump shuts off. But that pipe is still full of water. Without a one-way flap called a check valve, it would all fall back into the pit, and the pump would move the same water again and again, wearing itself out."
+  - HomeServe check-valve guide, Boshart, EngineerFix, inspectandtest.net: one-way valve in the discharge line keeps the water column from
+    draining back after the pump stops; without it the pump re-pumps the same water, short-cycles, extra heat/wear shortens motor life;
+    "thunk" / water hammer when the column falls back. https://www.homeserve.com/blog/home-improvement/sump-pump-check-valve
+    https://blog.boshart.com/why-are-sump-pump-check-valves-important  https://inspectandtest.net/guides/sump-pump-check-valve/
+"And the worst part: the storm that fills the pit can also knock out the power. That's why many homes add a battery backup pump."
+  - Power outage = one of the most common reasons sump pumps fail; the storm that floods can take down power lines; battery backup runs
+    when the main power fails (Angi troubleshooting, Lowe's backup sump pump buying guide, Pentair troubleshooting FAQ).
+    https://angi.com/articles/troubleshooting-frequent-sump-pump-failure.htm  https://www.lowes.com/n/buying-guide/backup-sump-pump-bg
+"Floats can get stuck on the pit wall, and in winter the pipe outside can freeze solid."
+  - Float switch = most common mechanical failure point; sticks, tangles, catches on the pit wall (Angi, inspectandtest.net, Pentair).
+  - Frozen discharge line in winter: water can't exit, pit fills, pump cycles/burns out (AOL "6 signs your sump pump discharge line is
+    frozen solid", Fox6, HomeServe winter guide, Mr. Rooter). https://www.homeserve.com/blog/how-to/prepare-sump-pump-for-winter
+"Most pumps only last about seven to ten years."
+  - Typical service life about 7 to 10 years (Angi, Bob Vila, American Family Insurance, Mr. Rooter). https://www.angi.com/articles/when-to-replace-sump-pump.htm
+    https://www.bobvila.com/articles/how-long-do-sump-pumps-last/
+
+Dropped / not used: exact pit size and gallons-per-hour (sources did not give numbers), "98 % of basements get wet" type stats (no reputable
+source), discharge distance in feet (sources differ: 10 ft vs 20 ft), sanitary-sewer ban (city-specific, Fargo only), insurance prices.
+Simplifications in the animation: pit, pump, pipes drawn ~1.3-2x; drain tile shown on the outside of the footing (interior systems exist too);
+vertical-rod float switch (tethered and pressure switches also exist); generic house, pole, tree, battery box; no brands.
