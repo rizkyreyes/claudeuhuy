@@ -1,0 +1,13 @@
+{
+ "slug": "wine-bottle-punt-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The dent in the bottom of a wine bottle has nothing to do with how good the wine is. But in a bottle of bubbly, it helps keep the glass from bursting. It's called a punt. Back when every bottle was blown by hand, the base came out with a rough seam, or a sharp point of glass, right in the middle. A bottle like that wobbles. So glassblowers pushed that spot up, into the bottle. Now it stands on a smooth ring around the edge, and the rough part sits out of the way. The dome may have made the base stronger, too. Today, machines make the bottles, and the glass is tougher, so for most still wine, the punt is mostly tradition. Some bottles don't even have one. Sparkling wine is different. Inside a sealed bottle of champagne, the gas pushes out with around five to six atmospheres. That's about three times the pressure in a car tire. Under that kind of push, a flat bottom is a weak spot. The dome helps spread that pressure out. That's also why champagne bottles are made of much thicker, heavier glass. So does a deeper dent mean better wine? Wine Spectator says no. It can even be a bit of a gimmick. And the idea that it catches sediment? Nobody has proven that. Have you ever noticed the dent in your wine bottle? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}
