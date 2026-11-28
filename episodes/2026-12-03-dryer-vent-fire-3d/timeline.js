@@ -113,7 +113,7 @@ function counter(n0, n1, t0, t1, fmt, x, y, w, h, size, color, sfxEvery = 2, ste
 // ambience per set: room tone + hum indoors, wind outdoors, line buzz near the wires
 const bed = (name, a, b, vol, step = 2.9) => { for (let t = a; t < b - 0.4; t += step) sound(name, t, vol); };
 const H = TOP_Y + 20;
-const small = (str, t0, t1, color = WHITE) => { const l = text(str, 540, 1240, 880, 70, 40, color, BODY, { stroke: 8, tracking: 20, name: "Note - " + str });
+const small = (str, t0, t1, color = WHITE, y = 1240) => { const l = text(str, 540, y, 880, 70, 40, color, BODY, { stroke: 8, tracking: 20, name: "Note - " + str });
   l.activeRange = R(ms(t0), ms(t1 - t0)); kf(l.id, "opacity", [[0, 0], [150, 100], [Math.max(160, ms(t1 - t0) - 150), 100], [ms(t1 - t0), 0]]); layers.push(l); TITLES.push({ t0, t1, text: str }); };
 // ambience: laundry-room tone everywhere, drum + fan while it runs, air in the duct while it flows, wind outside, fire while it burns
 bed("room", 0, TL.duration - 0.8, 0.2);
@@ -168,10 +168,10 @@ show(text("LINT CATCHES\nFIRE", 540, H, 980, 300, 120, RED), C.catch - 0.05, C.a
 show(text("A PIPE\nFULL OF FUEL", 540, H, 980, 300, 116, RED), C.pipe2 - 0.05, C.running - 0.1, "slam", "impact");
 show(text("RIGHT THROUGH\nYOUR WALL", 540, H, 980, 300, 110, WHITE), C.running - 0.05, C.in - 0.1, "pop", null);
 // B10 the stat: ~2,900 home dryer fires a year, peak in January
-small("ONE FEDERAL STUDY (U.S. FIRE ADMINISTRATION)", C.in - 0.05, C.year + 0.2, WHITE);
+small("SOURCE: U.S. FIRE ADMINISTRATION", C.in - 0.05, C.year + 0.2, WHITE);
 counter(0, 2900, C.two - 0.05, C.year - 0.1, n => n.toLocaleString("en-US"), 540, TOP_Y, 980, 200, 150, RED, 2, 290);
 show(text("HOME DRYER\nFIRES A YEAR", 540, H + 210, 980, 260, 84, WHITE), C.home - 0.05, C.peak - 0.1, "rise", null);
-small("ABOUT", C.two - 0.05, C.year - 0.1, GOLD);
+small("ABOUT", C.two - 0.05, C.year - 0.1, GOLD, 236);
 show(text("PEAK: JANUARY", 540, TOP_Y, 980, 200, 116, CYAN), C.peak - 0.05, C.so - 0.1, "slam", "impact");
 // B11 fixes
 show(text("CLEAN THE SCREEN\nEVERY LOAD", 540, H, 980, 300, 96, GOLD), C.clean - 0.05, C.use - 0.1, "pop", "ping");
