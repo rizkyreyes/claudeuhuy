@@ -1,0 +1,53 @@
+# circuit-breaker-trip-3d (3d-49a) — claim -> source. Checked 28 Nov 2026 (cloud). WebFetch to familyhandyman.com / forum.digikey.com is
+# DNS-blocked from the sandbox, so claims are locked from search-result excerpts quoting the pages below. Re-open the links on the laptop if in doubt.
+
+"A circuit breaker isn't there to protect your TV. It's there to keep the wires in your walls from catching fire."
+  - Branch breaker size is chosen to protect the conductor: 14 AWG copper max 15 A, 12 AWG max 20 A (NEC 240.4(D) small-conductor rule, as
+    quoted by the guides below); a breaker too big for the wire lets the wire overheat before it trips.
+    https://viox.com/uk/how-do-i-know-if-i-need-a-15-or-20-amp-breaker  https://engineerfix.com/can-i-replace-a-15-amp-breaker-with-a-20-amp/
+    https://www.hunker.com/13414086/can-you-switch-a-15-amp-circuit-breaker-to-a-20-amp
+  (Framing "not your TV": a breaker trips on the circuit's current, not on any one device; it is the wire's protection. Kept as framing.)
+"In the US, wiring, cords and lights start about thirty-two thousand home fires a year."
+  - NFPA (Home Electrical Fires, 2015-2019 annual averages, quoted in NFPA Journal summaries): electrical distribution and lighting equipment
+    caused about 32,620 home fires a year, 430 civilian deaths, 1,070 injuries, $1.5 billion damage. That NFPA category = wiring and related
+    equipment (68 %), cords and plugs, lamps and light fixtures, etc.
+    https://www.nxtbook.com/nxtbooks/nfpa/journal_2022winter/index.php?startid=81  https://inspectapedia.com/electric/Electrical-Fires-Fact-Sheet-NFPA.pdf
+"Every breaker watches for two kinds of trouble." / "Inside, the current runs through a strip of two metals bonded together."
+  - Standard (thermal-magnetic) breakers: a thermal element (bimetal strip heated by the load current) for overloads and a magnetic element
+    (solenoid/electromagnet) for short circuits. Schneider PowerPacT thermal-magnetic protection guide; ecampusontario Electrotechnology text.
+    https://www.productinfo.schneider-electric.com/powerpactb/  https://ecampusontario.pressbooks.pub/electrotechnology/?p=502
+    https://forum.digikey.com/t/what-s-inside-a-circuit-breaker-an-introduction-to-the-thermal-and-magnetic-trip/52200
+"Plug a space heater and a hair dryer into one circuit, and the current climbs."
+  - Example of an overload: both are typically ~1,500 W class appliances (~12.5 A each at 120 V) on a 15 A / 20 A circuit. No number spoken.
+"The strip heats up, just like the wire. The two metals expand at different speeds, so the strip bends. Once it bends far enough, it pushes a latch, a spring snaps the contacts apart, and the power is cut."
+  - Bimetal: two metals expand at different rates, the strip bends and unlatches the mechanism (thermal trip); contacts are opened by stored
+    spring energy once the fault is detected (Wikipedia "Circuit breaker" operation section; Schneider guide; DigiKey article).
+    https://en.wikipedia.org/wiki/Circuit_breaker
+  - Small overloads take longer (inverse time); Square D example: ~30 s at 200 % (not spoken, only "a small overload can take a while" was cut).
+"The second kind of trouble is a short circuit, when the hot wire touches neutral or ground. Thousands of amps can rush in."
+  - Residential breakers are rated to interrupt 10,000 A (10 kAIC) or more (Eaton BR 10k/22k/42k AIC, ABB 10/22 kAIC, Leviton/Siemens ratings
+    charts); available fault current at a home panel can reach several thousand amps (up to ~10,000 A).
+    https://www.eaton.com/content/dam/eaton/products/electrical-circuit-protection/fuses/solution-center/bus-ele-tech-lib-interrupting-capacity-vs-interrupting-rating.pdf
+    https://www.ecmag.com/magazine/articles/article-detail/residential-pardon-interruption-replacing-circuit-breakers-or-fuses-existing-homes
+"That turns a little coil into a magnet, and it yanks a plunger that trips the latch instantly."
+  - Magnetic element = solenoid that pulls/extends a plunger on high surge current, instantaneous (no intentional delay) (Schneider FAQ
+    FA90910; Wikipedia). https://www.se.com/us/en/faqs/FA90910
+"Pulling the contacts apart makes an arc. It's pushed into a stack of metal plates that split it and kill it."
+  - Arc chute = stack of metal splitter plates; magnetic force of the current path pushes the arc in; splitting cools it and raises arc voltage
+    until it goes out (Wikipedia "Circuit breaker" arc interruption / arc chute). https://en.wikipedia.org/wiki/Arc_chute
+"On most breakers, the handle stops in the middle. Push it to off, then back on."
+  - Schneider QO FAQ: tripped handle sits about midway between ON and OFF; reset = move to OFF, then ON (Schneider FA353467, FA360715;
+    Inspectapedia; Angi). Some DIN-rail types trip to OFF -> "on most breakers". https://www.se.com/us/en/faqs/FA353467/
+    https://inspectapedia.com/electric/How-to-Reset-a-Circuit-Breaker.php
+"And you can't cheat: hold the handle on, and it still trips."
+  - UL 489 requires breakers to be trip-free: it trips even when the handle is held ON (cited in Schneider FAQ FA298536).
+    https://www.se.com/us/en/faqs/FA298536
+"If one keeps tripping, never swap in a bigger breaker. The wire stays the same, and it can cook before the breaker reacts."
+  - "Never replace a 15 amp breaker with a 20 amp breaker just to stop nuisance tripping ... a 20A breaker can allow the wire to overheat
+    before the breaker trips" (VIOX); upgrade only if the whole circuit is rated for it (EngineerFix, Hunker). Tripping = signal to investigate.
+
+Dropped / not used: trip time in milliseconds / "within one cycle" (no reputable source found tonight), the 30 s at 200 % example, AFCI/GFCI
+(different devices), brand-specific handle colors, fault-current numbers beyond "thousands".
+Simplifications in the animation: one generic thermal-magnetic breaker drawn ~2x, parts rearranged for a clear side view (real layouts vary
+by maker), the latch/cradle linkage simplified to one latch lever, arc chute shown with 8 plates; generic wall, panel, TV, heater, hair dryer;
+no brands, no text on parts.

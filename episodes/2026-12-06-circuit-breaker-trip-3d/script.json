@@ -1,0 +1,13 @@
+{
+ "slug": "circuit-breaker-trip-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "A circuit breaker isn't there to protect your TV. It's there to keep the wires in your walls from catching fire. In the US, wiring, cords and lights start about thirty-two thousand home fires a year. Every breaker watches for two kinds of trouble. Inside, the current runs through a strip of two metals bonded together. Plug a space heater and a hair dryer into one circuit, and the current climbs. The strip heats up, just like the wire. The two metals expand at different speeds, so the strip bends. Once it bends far enough, it pushes a latch, a spring snaps the contacts apart, and the power is cut. The second kind of trouble is a short circuit, when the hot wire touches neutral or ground. Thousands of amps can rush in. That turns a little coil into a magnet, and it yanks a plunger that trips the latch instantly. Pulling the contacts apart makes an arc. It's pushed into a stack of metal plates that split it and kill it. On most breakers, the handle stops in the middle. Push it to off, then back on. And you can't cheat: hold the handle on, and it still trips. If one keeps tripping, never swap in a bigger breaker. The wire stays the same, and it can cook before the breaker reacts. Which breaker in your panel trips the most? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

@@ -863,3 +863,15 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - On push the other run's commit 609704d was already on main: kept that as the active episode, nothing overwritten. This run's version is in `drafts/alt-2026-11-28-wine-bottle-punt-3d/` (README there) for comparison: stake "up to ~90 psi, ~3x a car tire", pointy bottle rocking on a board (rigid body) instead of the flat-bottom burst, title "Why Wine Bottles Have a Dent" (vidIQ 93).
 - Open issue: two scheduled cloud runs fired at the same time and both spent ElevenLabs/fal credits on the same topic. Check the routine schedule for a duplicate trigger.
 - Step 9: c25 (Tue 1 Dec 9 AM ET) ~77 h away, not due tonight.
+
+## 2026-11-28 (cloud, scheduled run, ~18:00 UTC) circuit-breaker-trip-3d (3d-49a, Sun 6 Dec AM)
+- Picked 3d-49a: next video after 3d-41 wine bottle (which teases "INSIDE A TRIPPED BREAKER"). The scheduled prompt asked for exactly ONE episode, so 3d-42 (Sun 6 Dec PM) stays `todo` for the next run.
+- VO: 2 takes (take 1 250 words = 79.3 s, too long; take 2 236 words = 75.20 s, longest pause 0.32 s). ElevenLabs: 26,997 characters left before, 26,712 after per /v1/user/subscription (the counter may lag).
+- vidIQ: 119 -> ~94 credits (outliers, IG/TikTok outliers, keyword research, 2 title scores). fal.ai: 3 cover images (MEDIUM), all first try.
+- Blender 5.2.3 installed; it aborted silently at first (missing libEGL.so.1: installed libegl1 + libs). 3 rounds of CPU stills (25 %, 8 samples, ~3 s each):
+  round 1 found the house set blown out (key light 1.6e5 -> 3.5e4, darker paint, dark cavity back), a horizontal arc (arm pivot moved so the contact lifts into the chute),
+  a blinding short-circuit flash and oversized coil field rings; round 2 fixed them; round 3 reframed the overload shot (heater/dryer labels were off the bottom).
+  8 stills in checks/. Engine Cycles. fx: hdri interior, glare, particles x5, rigid body (old breaker falls), Mantaflow (melt drip, laptop --bake-fluid, hidden without cache), scatter x2. No "[fx] skipped" lines.
+- timeline.js: all C./EV./anchor names exist in timeline.json (node check); 0 text layers outside the safe box. synth_sfx.js: 18 WAVs in sfx/.
+- Step 9: c25 (Tue 1 Dec 9 AM ET) ~67 h away, not due tonight (60 h rule).
+- Open: laptop must bake the fluid (--bake-fluid) before the final render; check the rigid-body fall at ~67 s in the filmstrip.
