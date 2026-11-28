@@ -857,3 +857,9 @@ Newest at the bottom. One entry per run: date (Asia/Jakarta), scheduled, produce
 - YouTube title: "Why Wine Bottles Have a Dent" (28 chars, vidIQ 93), backup "The Dent in Your Wine Bottle" (88); 5 tags, 5 caption hashtags. How It's Built #47.
 - Open issues for the laptop: on GPU check the hook reads as a dent at phone size (0-5 s, 69.8 s-end), the hot-glass glow (10.5-27 s) isn't blown out, the rod push + shape-key morph (20.6-21.8 s), bubbles visible in the champagne (5-9 s, 38.7-49 s; particle size 0.2 cm), the burst + shards (51.6-52.8 s) and the Mantaflow gush (needs `--bake-fluid`; if it looks bad leave it hidden, the drops + shards tell it), the sediment specks (66-70 s).
 - Step 9: c25 slot Tue 1 Dec 9 AM ET (14:00 UTC) is ~77 h away (> 60 h): not made tonight; c25 theme still to research.
+
+## 2026-11-28 (cloud, second parallel scheduled run, ~09:25 UTC) wine-bottle-punt-3d, duplicate
+- This run started at the same time as the 09:20 run above and also picked 3d-41 (the other run's commit was not on main yet at `git pull`). It made a full second prep (3 VO takes, ~3,850 ElevenLabs characters, 27,132 left; vidIQ 154 -> 129 credits; 3 fal.ai covers; 4 rounds of CPU stills).
+- On push the other run's commit 609704d was already on main: kept that as the active episode, nothing overwritten. This run's version is in `drafts/alt-2026-11-28-wine-bottle-punt-3d/` (README there) for comparison: stake "up to ~90 psi, ~3x a car tire", pointy bottle rocking on a board (rigid body) instead of the flat-bottom burst, title "Why Wine Bottles Have a Dent" (vidIQ 93).
+- Open issue: two scheduled cloud runs fired at the same time and both spent ElevenLabs/fal credits on the same topic. Check the routine schedule for a duplicate trigger.
+- Step 9: c25 (Tue 1 Dec 9 AM ET) ~77 h away, not due tonight.

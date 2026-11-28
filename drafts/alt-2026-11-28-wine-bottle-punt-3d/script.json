@@ -1,0 +1,13 @@
+{
+ "slug": "wine-bottle-punt-3d",
+ "mode": "explainer",
+ "scenes": [
+  {
+   "id": "vo",
+   "text": "The dent in the bottom of a wine bottle has nothing to do with how good the wine is. But in a bottle of champagne, that dent sits under up to about ninety pounds per square inch. That's about three times your car tire. It's called a punt, and it started as a glassblower's fix. Back when every bottle was blown by hand, the bottom came out with a rough seam in the middle. Stand that on a table and it wobbles, with a sharp point of glass underneath. So the glassblower pushed that seam up, into the bottle. Now it stands level on a smooth ring, with the sharp bit tucked inside. It may have made the glass stronger, too. Today, machines do it. A glob of glass at around two thousand degrees drops into a mold, and air blows it into shape, dent and all. Those bottles are tough, so for still wine, it's mostly tradition. Sparkling wine is different. In champagne, a second fermentation fills the sealed bottle with gas that pushes on every inch of glass. The curved punt helps spread that push more evenly around the base. The sediment story? Nobody has proven it. A deeper dent doesn't mean a better wine, either. Mostly, it means more glass. Have you ever checked the bottom of a bottle before buying it? Tell me in the comments."
+  }
+ ],
+ "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+ "language": "en",
+ "modelId": "eleven_v4_turbo"
+}

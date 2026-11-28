@@ -1,0 +1,29 @@
+Sources: wine-bottle-punt-3d (3d-41), checked 28 Nov 2026 (cloud).
+Note: WebFetch to winespectator.com and sha.org is DNS-blocked in this environment. Claims are locked from concordant search excerpts
+(same publisher pages as the Oct b-roll version, projects/wine-bottle-punt/publish/sources.txt). Nothing is quoted word for word.
+
+- "The dent has nothing to do with how good the wine is" / "A deeper dent doesn't mean a better wine" / "Mostly, it means more glass":
+  Wine Spectator, Dr. Vinny: a deep punt says nothing about quality. https://www.winespectator.com/articles/why-is-there-an-indentation-in-the-bottom-of-a-wine-bottle-46387
+  Decanter: most critics agree quality can't be judged by the punt; a punt needs more glass, so higher production cost. https://www.decanter.com/learn/advice/wine-bottle-punt-ask-decanter-330517/
+  Gear Patrol: no real relation between punt depth and quality. https://www.gearpatrol.com/home/a720199/further-details-wine-bottle-indent/
+- "In champagne... up to about ninety pounds per square inch, about three times your car tire":
+  Sources put champagne at roughly 70-90 psi (about 5-6 atmospheres), "about three times a car tire" (~30-35 psi).
+  The Physics Hypertextbook, Pressure in a Champagne Bottle: https://hypertextbook.com/facts/2003/PeterHui.shtml
+  Wine Spectator, Does the size of a Champagne bottle make a difference in the pressure inside?: https://www.winespectator.com/articles/does-the-size-of-a-champagne-bottle-make-a-difference-in-the-pressure-inside-47211
+  Beachcombing Magazine (bottle punts): champagne CO2 pressure up to 70-90 psi. https://www.beachcombingmagazine.com/blogs/news/bottle-punts-kick-up-your-heels
+  -> script says "up to about ninety" and "about three times" (range top + approximate ratio). No exact number for a specific bottle.
+- "It's called a punt": Wine Spectator, Decanter, VinePair (https://vinepair.com/wine-blog/why-wine-bottles-have-punts-bottom/), Mental Floss (https://www.mentalfloss.com/food/alcohol/reason-why-wine-bottles-have-dents-bottom).
+- "Hand-blown bottles came out with a rough seam in the middle; it wobbles, sharp point; glassblowers pushed the seam up -> stands level":
+  Wine Spectator (seam pushed up so the bottle stands upright, no sharp point of glass on the bottom); Society for Historical Archaeology
+  bottle bases page (push-up / kick-up helps the bottle stand; keeps the rough pontil scar from scratching surfaces): https://sha.org/bottle/bases.htm and https://sha.org/bottle/pontil_scars.htm
+- "It may have made the glass stronger, too": Wine Spectator ("may have" added strength); Jones 1971, Historical Archaeology (push-up produced a stronger bottle) via SHA. Hedged in the VO ("may have").
+- "Today, machines... a glob of glass at around two thousand degrees drops into a mold, and air blows it into shape":
+  Glass production (Wikipedia, container glass): the gob is cut from molten glass at its plastic temperature 1,050-1,200 C (1,920-2,190 F); IS machine; blank mold -> parison -> blow mold, "blow and blow" uses compressed air. https://en.wikipedia.org/wiki/Glass_production
+  -> "around two thousand degrees" (Fahrenheit, US audience; on screen "~2,000 F").
+- "Those bottles are tough, so for still wine, it's mostly tradition": Wine Spectator (machine-made bottles are stronger; today the punt is mostly tradition except in sparkling wine). Decanter: today mostly design/branding.
+- "In champagne, a second fermentation fills the sealed bottle with gas": the pressure comes from CO2 of the second fermentation in the sealed bottle (Physics Hypertextbook, Wine Spectator pressure article). Applies to traditional-method sparkling wine; VO says "In champagne".
+- "The curved punt helps spread that push more evenly around the base": Wine Spectator: in sparkling wine bottles, which hold constant pressure, the punt allows more even distribution of pressure. Decanter: the indent strengthens the structure, especially for sparkling wines.
+- "The sediment story? Nobody has proven it": Wine Spectator (sediment-trap idea unproven); VinePair: little scientific testing; Culinary Lore: sediment explanation makes little sense (https://culinarylore.com/beverage-science:why-do-wine-bottles-have-a-concave-bottom/).
+Cut / not used: pontil-rod detail as THE reason (sources differ), "looks fuller" volume claim, any bottle weight, a flat bottom "would explode" (no source).
+Visuals: illustrative 3D (Blender), generic unbranded bottles; tire drawn to a small scale as a comparison icon; the pressure arrows are a diagram, not a measured field.
+Covers: fal.ai openai/gpt-image-2 (AI generated, illustrative), prompts in make_covers.sh.
